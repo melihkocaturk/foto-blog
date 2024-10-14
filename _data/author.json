@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Zaman Yolcusu",
+  "bio": "Fotoğrafçılık üzerine bilgi ve deneyimlerini paylaşıyor, fotoğraf sanatının tarihine ve güncel gelişmelerine dair içerikler üretiyor. Fotoğrafçılığın hem sanatsal hem de teknik yönlerini ele alarak okuyucularına ilham vermeyi ve bu alanda bilgilerini geliştirmeyi amaçlıyor.",
+  "url": "",
+  "location": "İstanbul, Türkiye",
+  "image": "images/yazar.jpg"
 }

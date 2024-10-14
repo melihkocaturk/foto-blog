@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: tr-TR
 
 # Site title
-title: "Scriptor"
+title: "SiyahBeyaz"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "siyahbeyaz.blog, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -28,26 +28,24 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Anasayfa
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Hakkında
+    url: /hakkinda/
+  - text: Etiketler
+    url: /etiketler/
+  - text: İletişim
+    url: "mailto:info@siyahbeyaz.blog"
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: siyahbeyazblog
 
 # Colors
 accent_color: '#000'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; siyahbeyaz.blog, tüm hakları saklıdır."
   has_social: true
 
 # Plugins
@@ -56,8 +54,7 @@ plugins:
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 3
-paginate_path: '/page:num/'
-
+paginate_path: '/sayfa:num/'
 
 # Permalinks
 permalink: /:title
