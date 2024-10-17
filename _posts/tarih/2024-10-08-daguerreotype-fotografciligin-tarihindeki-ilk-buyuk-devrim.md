@@ -29,7 +29,7 @@ Daguerreotype, ticari anlamda kullanılan ilk başarılı fotoğraf tekniğidir.
 
 Daguerreotype’ın uzun pozlama süreleri, fotoğraflarda insanların ciddi ve hareketsiz görünmesine neden oluyordu. Pozlama süresi genellikle birkaç dakika sürdüğü için, çekilen kişilerin sabit durmaları gerekiyordu. Bu da portrelerde sert ve durağan ifadelerin yaygınlaşmasına neden oldu. Ancak bu yöntem, ilk kez sıradan insanların da kalıcı bir portreye sahip olmasını sağladı. Özellikle orta sınıf insanlar için ekonomik bir seçenek olması, Daguerreotype’ın hızla yayılmasına katkı sağladı.
 
-{% include image_caption.html imageurl="/images/2024/10/daguerreotype-portre.jpg" title="Daguerreotype ile Portre Çekimi" caption="Daguerreotype ile Portre Çekimi" %}
+{% include image_caption.html imageurl="/images/2024/10/daguerreotype-portre.jpg" title="Daguerreotype portre" caption="Daguerreotype ile portre çekimi" %}
 
 ## Daguerreotype’ın Avantajları ve Zorlukları
 

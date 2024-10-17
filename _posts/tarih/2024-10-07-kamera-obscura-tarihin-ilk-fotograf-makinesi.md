@@ -22,7 +22,7 @@ Rönesans döneminde ise Kamera Obscura, sanatçılar tarafından sıkça kullan
 
 17 ve 18. yüzyıllarda ise Kamera Obscura'nın taşınabilir versiyonları geliştirilmeye başlandı. Cihazın küçük modelleri, sanatçılar ve bilim insanları tarafından daha rahat kullanılabilir hale getirildi. Bu dönemde, özellikle doğa gözlemleri ve şehir manzaralarının daha hassas ve doğru bir şekilde kopyalanabilmesi için taşınabilir Kamera Obscura modelleri popüler hale geldi.
 
-{% include image_caption.html imageurl="/images/2024/10/tasinabilir-ahsap-kutu-kamera-obscura.jpeg" title="Kamera Obscura" caption="Taşınabilir Ahşap Kutu Kamera Obscura" %}
+{% include image_caption.html imageurl="/images/2024/10/tasinabilir-ahsap-kutu-kamera-obscura.jpeg" title="Kamera Obscura" caption="Taşınabilir ahşap kutu Kamera Obscura" %}
 
 Fotoğrafçılık alanındaki ilerlemelerle birlikte Kamera Obscura'nın ilkeleri, modern kameraların gelişimine ilham kaynağı olmuştur. 19. yüzyılda, kimyasal fotoğrafçılığın doğuşuyla birlikte görüntüler artık sadece geçici olarak değil, kalıcı olarak kaydedilebilmiştir. Louis Daguerre ve Joseph Nicéphore Niépce gibi isimler, kimyasal plakalar üzerine kalıcı görüntüler yakalamak için Kamera Obscura'nın prensiplerinden yararlanmışlardır.
 

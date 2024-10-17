@@ -4,7 +4,7 @@ title: "Fotoğrafta Diyaframın Sırrı: Işığı ve Alan Derinliğini Nasıl K
 description: "Bu yazıda, diyaframın nasıl çalıştığını, fotoğraflarınıza nasıl etki ettiğini ve alan derinliği ile ışık dengesini nasıl optimize edebileceğinizi öğreneceksiniz."
 date: 2024-10-14
 feature_image: images/2024/10/diyafram.jpg
-tags: [diyafram, alan derinliği]
+tags: [diyafram, alan derinliği, pozlama üçgeni]
 ---
 
 Fotoğrafçılıkta başarılı olmanın yolu, teknik detayları öğrenmekten geçer. Bu detayların başında ise diyafram gelir. Diyafram, sadece ışık miktarını kontrol etmekle kalmaz, aynı zamanda fotoğrafınızın netlik ve derinlik gibi unsurlarını da doğrudan etkiler. Bu yazıda, diyaframın nasıl çalıştığını, fotoğraflarınıza nasıl etki ettiğini ve alan derinliği ile ışık dengesini nasıl optimize edebileceğinizi öğreneceksiniz.
