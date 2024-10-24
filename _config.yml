@@ -12,7 +12,7 @@ lang: tr-TR
 title: "SiyahBeyaz"
 
 # A description of your site for meta tag, search engine results.
-description: "siyahbeyaz.blog, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar."
+description: "siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""

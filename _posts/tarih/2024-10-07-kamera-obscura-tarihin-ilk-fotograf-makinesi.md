@@ -33,13 +33,9 @@ Modern fotoğraf makineleri, Kamera Obscura'nın temel prensiplerine dayansa da,
 Kamera Obscura oldukça basit ama etkileyici bir çalışma prensibine sahiptir. Temel olarak, karanlık bir kutu ya da oda içinde çok küçük bir delik (pin-hole) bulunmaktadır. Bu delikten içeri giren ışık, dışarıdaki görüntünün ters çevrilmiş şekilde karşı duvara yansımasına neden olur. Kamera Obscura’nın çalışma prensibi bu şekilde açıklanabilir:
 
 1. **Işığın Girişi:** Dışarıdan gelen ışık, karanlık kutu ya da odanın dışına yerleştirilen bir nesneden ya da manzaradan gelir. Delikten geçen ışık, görüntünün bir parçası olur.
-
 2. **Delik ve Işığın Kırılması:** Işık, delikten geçerken dağılmadan ve düz bir hat üzerinde ilerler. Ancak, ışığın geçtiği yer çok dar olduğu için görüntü ters döner. Bu, görüntünün üst kısmının altta, alt kısmının ise üstte oluşmasına neden olur.
-
 3. **Görüntünün Yansıması:** Delikten geçen ışık, kutunun ya da odanın karşı tarafında bulunan bir yüzeye yansır. Bu yüzey, görüntünün projeksiyonunu oluşturur. Görüntü genellikle ters (aşağı yukarı, sağ sola) olur, çünkü ışık düz bir çizgide hareket eder ve bu dar geçiş alanında kırılma meydana gelir.
-
 4. **Odaklanma:** Eğer delik çok büyük olursa, görüntü bulanık olur çünkü çok fazla ışık girer ve ışık ışınları farklı açılardan yüzeye yansır. Ancak, delik küçükse, ışık daha az girer ve görüntü daha net olur. Modern kameralar, bu prensip doğrultusunda lensler kullanarak ışığı daha iyi odaklayarak daha net görüntüler elde eder.
-
 5. **Yansımanın İyileştirilmesi:** Bazı Kamera Obscura sistemlerinde, yansıyan görüntü daha belirgin hale getirilmek için yüzey olarak cam veya beyaz bir ekran kullanılabilir. Böylece dışarıdaki manzaranın detayları daha iyi görülebilir.
 
 Bugün hala Kamera Obscura, eğitim ve sanat alanında kullanılmaktadır. Birçok sanat müzesi ve bilim merkezinde, bu eski cihazın modern versiyonları sergilenmekte ve ziyaretçilere görsel illüzyonların nasıl çalıştığını anlatmak için kullanılmaktadır. Bu sayede insanlar, fotoğrafçılığın tarihsel gelişimini daha yakından inceleyebilme fırsatı bulmaktadır.
