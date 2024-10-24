@@ -253,10 +253,10 @@ video {
 @media only screen and (min-width: 851px) {
   .width-full img,
   .width-wide img {
-    margin-left: calc(425px - 50vw);
-    margin-right: calc(425px - 50vw);
-    max-width: 800px;
-    width: calc(100vw - 90px);
+    margin-left: calc(440px - 50vw);
+    margin-right: calc(440px - 50vw);
+    max-width: none;
+    width: calc(100vw - 120px);
   }
 }
 
