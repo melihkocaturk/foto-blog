@@ -35,7 +35,7 @@ navigation:
   - text: Etiketler
     url: /etiketler/
   - text: İletişim
-    url: "mailto:info@siyahbeyaz.blog"
+    url: "mailto:info@siyahbeyaz.net.tr"
 
 # The shortname for your Disqus site to enable comments.
 disqus: siyahbeyazblog
@@ -45,7 +45,7 @@ accent_color: '#000'
 
 # Site footer
 footer:
-  content: "&copy; siyahbeyaz.blog, tüm hakları saklıdır."
+  content: "&copy; siyahbeyaz.net.tr, tüm hakları saklıdır."
   has_social: true
 
 # Plugins
