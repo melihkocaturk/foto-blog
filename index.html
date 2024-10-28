@@ -40,7 +40,7 @@ layout: default
       {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">&larr; Yeni yazılar</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page-number">Sayfa {{ paginator.page }} - {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">Önceki yazılar &rarr;</a>
       {% endif %}
