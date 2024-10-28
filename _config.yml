@@ -31,9 +31,9 @@ navigation:
   - text: Anasayfa
     url: /
   - text: Hakkında
-    url: /hakkinda/
+    url: /hakkinda
   - text: Etiketler
-    url: /etiketler/
+    url: /etiketler
   - text: İletişim
     url: "mailto:info@siyahbeyaz.net.tr"
 
