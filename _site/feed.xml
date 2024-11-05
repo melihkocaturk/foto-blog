@@ -3,11 +3,109 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 Nov 2024 17:53:47 +0300</pubDate>
-        <lastBuildDate>Sun, 03 Nov 2024 17:53:47 +0300</lastBuildDate>
+        <link>http://www.siyahbeyaz.net.tr/</link>
+        <atom:link href="http://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 06 Nov 2024 00:47:11 +0300</pubDate>
+        <lastBuildDate>Wed, 06 Nov 2024 00:47:11 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Fotoğraf Makinesi Lensleri: Hangi Lens Hangi Çekim İçin Uygundur?</title>
+                <description>&lt;p&gt;Fotoğrafçılığın büyüleyici dünyasında, doğru lens seçimi çekimlerin kalitesini ve ruhunu belirleyen en önemli faktörlerden biridir. Özellikle hangi lensin hangi çekim türü için en ideal olduğunu anlamak, fotoğrafçılık yeteneklerinizi bir üst seviyeye taşıyabilir. Bu yazıda, farklı lens türlerini ve hangi durumlarda en iyi sonucu verdiğini inceleyeceğiz.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;standart-lensler-50mm&quot;&gt;Standart Lensler (50mm)&lt;/h2&gt;
+
+&lt;p&gt;Standart lensler, özellikle 50mm olanları, insan gözünün görüş açısına en yakın perspektifi sunar. Bu nedenle portre ve günlük çekim için idealdir. Farklı odak uzaklıklarına kıyasla daha hafif ve kompakt yapıda olmaları, taşınabilirliği arttırır. Ayrıca düşük ışık koşullarında başarılı performans gösterir ve oldukça keskin sonuçlar sunar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Portre, sokak fotoğrafçılığı, günlük kullanım&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Kompakt, ışık hassasiyeti yüksek, düşük ışık performansı iyi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;/images/2024/11/standart-lens.jpeg&quot; alt=&quot;Standart Lens&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 50mm f/1.2L USM&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;geniş-açı-lensler-10-35mm&quot;&gt;Geniş Açı Lensler (10-35mm)&lt;/h2&gt;
+
+&lt;p&gt;Geniş açı lensler, özellikle manzara ve mimari çekimlerde tercih edilir. Bu lensler daha geniş bir alanı çerçeveye sığdırarak, çevredeki tüm detayları etkileyici bir şekilde yakalamanızı sağlar. 24mm ve 35mm gibi odak uzaklıkları ise hem geniş açı hem de hafif bokeh etkisi yaratmak isteyenler için popüler seçeneklerdir.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Manzara, mimari, iç mekan çekimleri&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Geniş perspektif, güçlü alan derinliği kontrolü&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;/images/2024/11/genis-aci-lens.jpeg&quot; alt=&quot;Geniş Açı Lens&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF-S 10-18mm f/4.5-5.6 IS STM&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;telefoto-lensler-70-200mm-ve-üzeri&quot;&gt;Telefoto Lensler (70-200mm ve Üzeri)&lt;/h2&gt;
+
+&lt;p&gt;Telefoto lensler, uzak mesafelerdeki nesneleri yakınlaştırmak için tasarlanmıştır ve spor, vahşi yaşam veya doğa fotoğrafçılığı gibi çekim türlerinde sıkça tercih edilir. 70-200mm lensler, hem portre hem de uzaktan çekim için mükemmeldir. Ancak odak uzaklığı arttıkça, tripodsuz kullanımda netlik sağlamak zorlaşabilir.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Vahşi yaşam, spor, etkinlik çekimleri&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Uzaktaki nesneleri yakalama yeteneği, derin bokeh etkisi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;/images/2024/11/telefoto-lens.jpeg&quot; alt=&quot;Telefoto Lens&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 70-200mm f/2.8L IS III USM&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;makro-lensler-100mm-ve-üzeri&quot;&gt;Makro Lensler (100mm ve Üzeri)&lt;/h2&gt;
+
+&lt;p&gt;Makro lensler, küçük nesneleri çok yakından çekmek için kullanılır ve özellikle böcek, çiçek ve detaylı obje çekimleri için tercih edilir. Bu lensler yüksek büyütme oranlarıyla en küçük detayları bile görünür hale getirir. Odak uzaklığı 100mm ve üzeri olan makro lensler, objeye çok yakın olmadan çekim yapmanızı sağlar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Makro fotoğrafçılık, küçük objeler, doğa detayları&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Yüksek büyütme oranı, en ince detayları yakalayabilme&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
+  &lt;img src=&quot;/images/2024/11/makro-lens.jpeg&quot; alt=&quot;Makro Lens&quot; /&gt;
+  
+  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 100mm f/2.8L Macro IS USM&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;prime-ve-zoom-lensler&quot;&gt;Prime ve Zoom Lensler&lt;/h2&gt;
+
+&lt;p&gt;Prime lensler, sabit bir odak uzaklığına sahipken, zoom lensler esnek bir aralığa sahiptir ve farklı odak uzaklıklarına geçiş yapabilir. Prime lensler genellikle daha keskin ve hafifken, zoom lensler çok yönlülük açısından avantaj sağlar. Eğer fotoğrafçılık tarzınız daha statikse prime lens, farklı kadrajlar arıyorsanız zoom lens tercih edebilirsiniz.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Prime Lens&lt;/strong&gt;: Daha keskin görüntü, yüksek diyafram açıklığı, portre veya sanatsal çekimler için ideal&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zoom Lens&lt;/strong&gt;: Farklı odak uzaklıklarında çekim, seyahat ve belgesel fotoğrafçılığı için uygun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lens-seçiminde-dikkat-edilmesi-gerekenler&quot;&gt;Lens Seçiminde Dikkat Edilmesi Gerekenler&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Çekim Amacınız&lt;/strong&gt;: Hangi tür çekimlerde uzmanlaşmak istiyorsanız, o alana uygun bir lens seçmek işinizi kolaylaştırır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diyafram Açıklığı&lt;/strong&gt;: Geniş diyafram açıklığı düşük ışık performansını artırır ve bokeh efekti sağlar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Taşınabilirlik&lt;/strong&gt;: Ağır ve büyük lensler uzun süreli çekimlerde yorucu olabilir; seyahatlerde veya günlük çekimlerde daha kompakt lensler tercih edilmelidir.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
+
+&lt;p&gt;Fotoğraf makinesi lensleri, görsel anlatım dilinizi zenginleştirmenin anahtarıdır. Farklı lens türlerini ve özelliklerini tanımak, size hem teknik hem de estetik açıdan büyük avantajlar sağlar. İhtiyacınıza ve stilinize en uygun lensi seçerek fotoğrafçılığınızı bir sonraki seviyeye taşıyabilirsiniz. Unutmayın, en iyi lens ihtiyaçlarınıza en iyi cevap veren lenstir!&lt;/p&gt;
+</description>
+                <pubDate>Mon, 04 Nov 2024 00:00:00 +0300</pubDate>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Panoramik Fotoğrafçılık: Geniş Açıyla Hikaye Anlatımı Sanatı</title>
@@ -66,8 +164,8 @@
 &lt;p&gt;Panoramik fotoğrafçılık, geniş açılı sahneleri bir araya getirme sanatıyla fotoğrafa yeni bir soluk kazandırıyor. Üstelik biraz pratikle ve uygun ekipmanlarla siz de kolayca panoramik fotoğraflar çekebilir, anılarınızı geniş bir perspektifte ölümsüzleştirebilirsiniz. Şimdi kamera ve tripodunuzu hazırlayın, doğanın ya da şehrin nefes kesici manzaralarını tek bir karede toplamaya başlayın!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 03 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/panoramik-fotografcilik</link>
-                <guid isPermaLink="true">http://localhost:4000/panoramik-fotografcilik</guid>
+                <link>http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</guid>
                 
                 
             </item>
@@ -122,8 +220,8 @@
 &lt;p&gt;Bu adımları izleyerek, sensörünüzü ilk günkü gibi temiz ve sağlıklı tutabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 02 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</link>
-                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
                 
                 
             </item>
@@ -170,8 +268,8 @@
 &lt;p&gt;Fotoğraf makinesindeki sensör, dijital görüntünün temelini oluşturan en önemli bileşenlerden biridir. Sensör kalitesi, boyutu ve türü, çektiğiniz fotoğrafın sonucunu belirler. İyi bir sensör, yüksek çözünürlüklü, canlı ve net fotoğraflar sunarken; uygun sensör bakımı da kameranızın performansını uzun süre korumanıza yardımcı olur. Fotoğrafçılıkla ilgileniyorsanız, sensörlerin nasıl çalıştığını ve doğru seçimlerin çekim kalitesine nasıl katkıda bulunduğunu anlamak önemlidir.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 31 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
-                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
                 
                 
             </item>
@@ -236,8 +334,8 @@
 &lt;p&gt;Sonuç olarak, EXIF verileri, fotoğrafçılığın ince detaylarını anlamamıza ve daha iyi çekimler yapmamıza yardımcı olan bir pusula gibidir. İster yeni başlayan ister profesyonel olun, EXIF bilgilerini analiz etmek, fotoğrafçılıkta sürekli gelişim için vazgeçilmez bir adımdır.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 30 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</link>
-                <guid isPermaLink="true">http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
+                <link>http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
                 
                 <category>exif</category>
                 
@@ -332,8 +430,8 @@
 &lt;p&gt;Beyaz ayarı, fotoğrafçılıkta ince bir detay gibi görünse de renk doğruluğunu sağlamak için oldukça önemlidir. Özellikle dijital fotoğrafçılıkla ilgilenenler için beyaz ayarı, başarılı ve doğal sonuçlar için temel tekniklerden biridir.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 29 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografcilikta-beyaz-ayari</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografcilikta-beyaz-ayari</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</guid>
                 
                 <category>beyaz ayarı</category>
                 
@@ -413,8 +511,8 @@
 &lt;p&gt;Yeşil renk, doğanın bir parçası olmanın ötesinde, fotoğrafçılıkta hem teknik hem de duygusal anlamda güçlü bir araçtır. Bu renk, izleyicilere huzur ve yenilenme duygusu verirken, aynı zamanda güçlü kontrastlar ve kompozisyonlar oluşturmanıza olanak tanır. Yeşilin farklı tonlarını ve dokularını keşfederek, fotoğraflarınıza derinlik, anlam ve estetik katabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 26 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-yesil-renk</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-yesil-renk</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</guid>
                 
                 <category>renk</category>
                 
@@ -492,8 +590,8 @@
 &lt;p&gt;Bu yazıda mavi rengin fotoğraflardaki önemini ve etkili kullanım yöntemlerini ele aldık. Siz de fotoğraflarınıza mavi tonları ekleyerek, kendi hikayenizi anlatmayı deneyebilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 24 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-mavi-renk</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-mavi-renk</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-mavi-renk</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-mavi-renk</guid>
                 
                 <category>renk</category>
                 
@@ -564,8 +662,8 @@
 &lt;p&gt;Kırmızı, fotoğrafçılıkta sadece bir renk değil, bir ifade aracıdır. Onu doğru şekilde kullanarak fotoğraflarınıza tutku, güç ve anlam katabilirsiniz. İster sokak fotoğrafçılığında bir tabelanın parlak kırmızısını, ister bir portrede modelin kıyafetindeki kırmızı detayları yakalayın, bu renk izleyiciler üzerinde unutulmaz bir etki bırakacaktır. Unutmayın, kırmızı her zaman dikkat çeker—ama neyi vurguladığı tamamen sizin elinizde!&lt;/p&gt;
 </description>
                 <pubDate>Wed, 23 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-kirmizi-renk</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-kirmizi-renk</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-kirmizi-renk</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-kirmizi-renk</guid>
                 
                 <category>renk</category>
                 
@@ -623,133 +721,10 @@
 &lt;p&gt;Her fotoğrafın bir hikayesi vardır; neden bu hikayeyi sarının parlak ve neşeli tonlarıyla anlatmayasınız?&lt;/p&gt;
 </description>
                 <pubDate>Tue, 22 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-sari-renk</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-sari-renk</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-sari-renk</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-sari-renk</guid>
                 
                 <category>renk</category>
-                
-                <category>kompozisyon</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Fotoğrafçılıkta Işığın Gücü: Mükemmel Kareyi Yaratmanın Anahtarı</title>
-                <description>&lt;p&gt;Fotoğrafçılık, sadece bir düğmeye basmaktan ibaret değildir; bu, ışığın resim oluşturmadaki büyülü rolünü anlamak ve kullanmaktan geçer. Bir fotoğrafı etkileyici kılan en önemli unsurlardan biri ışıktır. Doğru ışığı yakalamak, bir fotoğrafı sıradanlıktan çıkararak sanata dönüştürür. Peki, ışık neden bu kadar önemli ve nasıl etkili kullanılabilir?&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;işığın-karakteri-sert-ve-yumuşak-işık&quot;&gt;Işığın Karakteri: Sert ve Yumuşak Işık&lt;/h2&gt;
-
-&lt;p&gt;Işık, fotoğraflarımıza verdiği gölgeler ve tonlarla kareye derinlik katar. Burada iki ana ışık türü öne çıkar: sert ışık ve yumuşak ışık.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sert Işık&lt;/strong&gt;: Genellikle doğrudan güneş ışığında ya da güçlü bir yapay ışık kaynağından elde edilir. Sert ışık, net ve keskin gölgeler yaratır. Dramatik sahneler veya yüksek kontrastlı portreler için ideal olabilir. Ancak sert ışık, bazen detayları gizleyebilir ya da istenmeyen parlaklıklar oluşturabilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/sert-isik.jpg&quot; alt=&quot;Sert ışık&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Yumuşak Işık&lt;/strong&gt;: Bulutlu bir günde dışarı çıktığınızda ya da güneş doğarken veya batarken oluşan ışık yumuşaktır. Bu tür ışık, daha az belirgin gölgeler oluşturur ve yüzeyler üzerinde pürüzsüz bir geçiş sağlar. Portre ve doğa fotoğraflarında tercih edilir çünkü objeleri daha doğal ve estetik gösterir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;altın-saat-ve-mavi-saat-doğru-anı-yakalayın&quot;&gt;Altın Saat ve Mavi Saat: Doğru Anı Yakalayın&lt;/h2&gt;
-
-&lt;p&gt;Doğal ışık fotoğrafçılığı için, günün iki özel zamanı öne çıkar: Altın Saat ve Mavi Saat.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Altın Saat&lt;/strong&gt;: Güneşin doğumundan hemen sonra ve batımından hemen önceki zaman dilimi olan &lt;a href=&quot;/fotografcilikta-altin-saat-nedir&quot;&gt;altın saat&lt;/a&gt;, sıcak tonlu ve yumuşak ışık sunar. Manzara ve portre çekimlerinde mükemmel sonuçlar elde edebilirsiniz. Bu saatlerdeki ışık, dramatik gölgeler yaratmadan objeleri sıcak bir parıltıyla sarar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/dubai-de-altin-saat.jpg&quot; alt=&quot;Dubai'de altın saat&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Dubai'de altın saat.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Mavi Saat&lt;/strong&gt;: Güneşin batmasından veya doğmasından önceki anlarda, gökyüzü mavi tonlara bürünür. Bu dönem, gizemli ve sakin sahneler yaratmak için idealdir. Şehir manzaraları, düşük ışıkta çekimler veya gece çekimlerinde etkileyici kareler yakalamanın yolu bu saatlerden geçer.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/cinque-terre-italya.jpg&quot; alt=&quot;Cinque Terre&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Cinque Terre, İtalya&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;işık-açısını-doğru-belirlemek&quot;&gt;Işık Açısını Doğru Belirlemek&lt;/h2&gt;
-
-&lt;p&gt;Işığın nereden geldiği, fotoğrafın kompozisyonunu ve hissini belirler. İster doğal, ister yapay ışık kullanın, ışığın açılarıyla oynamak yaratıcı sonuçlar doğurabilir.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Önden Aydınlatma (Frontal Işık)&lt;/strong&gt;: Işık doğrudan konunun önünden gelir ve gölgeleri en aza indirir. Genellikle eşit bir aydınlatma sağlar, ancak derinlik eksikliği yaratabilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/onden-aydinlatma.jpg&quot; alt=&quot;Önden aydınlatma&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Yandan Aydınlatma (Yanal Işık)&lt;/strong&gt;: Işık, konunun bir tarafından gelir ve güçlü gölgelerle derinlik yaratır. Portre ve manzara fotoğraflarında dramatik bir etki bırakmak için sıkça tercih edilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/yandan-aydinlatma.jpg&quot; alt=&quot;Yandan aydınlatma&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Arkadan Aydınlatma (Kontra Işık)&lt;/strong&gt;: Işık, konunun arkasından gelir ve siluetler oluşturur. Özellikle güneşin doğuşu veya batışı sırasında arka planın aydınlatılmasıyla yaratıcı ve büyüleyici fotoğraflar elde edilebilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/arkadan-aydinlatma.jpg&quot; alt=&quot;Arkadan aydınlatma&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;yapay-işığın-kullanımı&quot;&gt;Yapay Işığın Kullanımı&lt;/h2&gt;
-
-&lt;p&gt;Doğal ışık her zaman istediğimiz gibi olmayabilir. Böyle durumlarda yapay ışık kaynaklarıyla çalışmak büyük avantaj sağlar. Flaşlar, stüdyo ışıkları veya LED paneller gibi yapay ışık kaynakları, ışığı kontrol etmenize ve istediğiniz atmosferi yaratmanıza olanak tanır.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Düşük Işıkta Flaş Kullanımı&lt;/strong&gt;: Düşük ışık koşullarında flaş, sahneyi aydınlatmada kullanılır. Ancak, doğrudan flaş kullanımı sert gölgeler ve aşırı parlaklık yaratabilir. Bunun yerine, flaşı yansıtmak veya difüzörlerle yumuşatmak daha doğal bir sonuç verebilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/dusuk-isikta-flas-kullanimi.jpg&quot; alt=&quot;Düşük ışıkta flaş kullanımı&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Renkli Işık Kullanımı&lt;/strong&gt;: Renkli ışıklar, yaratıcı fotoğrafçılık için mükemmel bir fırsat sunar. Farklı renklerdeki ışıklar, çekimlere farklı duygular katarak atmosferi değiştirebilir. Örneğin, kırmızı bir ışık sıcaklık ve tutku hissi uyandırırken, mavi bir ışık sakinlik ve dinginlik verir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/renkli-isik-kullanimi.jpg&quot; alt=&quot;Renkli ışık kullanımı&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;fotoğrafçılıkta-işıkla-oynamak&quot;&gt;Fotoğrafçılıkta Işıkla Oynamak&lt;/h2&gt;
-
-&lt;p&gt;Işığı doğru kullanmak, fotoğrafçının ustalığını gösteren en önemli becerilerden biridir. Işığın gücünü anlamak ve bunu yaratıcı bir şekilde kullanmak, sıradan bir anı bile unutulmaz kılabilir.&lt;/p&gt;
-
-&lt;p&gt;Her ışık, farklı bir hikaye anlatır. Siz de bir sonraki fotoğraf çekiminizde ışığı anlamak için zaman ayırın. Kullandığınız ışığın kaynağını, açısını ve karakterini değerlendirin. Unutmayın, ışığı ustaca kontrol etmek, her karede fotoğrafçılığın büyüsünü açığa çıkaracaktır.&lt;/p&gt;
-</description>
-                <pubDate>Sun, 20 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografcilikta-isik</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografcilikta-isik</guid>
-                
-                <category>ışık</category>
-                
-                <category>altın saat</category>
-                
-                <category>mavi saat</category>
                 
                 <category>kompozisyon</category>
                 
