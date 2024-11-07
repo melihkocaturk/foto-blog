@@ -3,11 +3,80 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>http://www.siyahbeyaz.net.tr/</link>
-        <atom:link href="http://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Nov 2024 00:47:11 +0300</pubDate>
-        <lastBuildDate>Wed, 06 Nov 2024 00:47:11 +0300</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 08 Nov 2024 00:19:31 +0300</pubDate>
+        <lastBuildDate>Fri, 08 Nov 2024 00:19:31 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Fotomaraton: Fotoğraf Tutkunlarına Heyecanlı Bir Deneyim</title>
+                <description>&lt;p&gt;Fotoğrafçılıkla ilgilenenler için hem eğlenceli hem de öğretici bir etkinlik olan &lt;em&gt;fotomaraton&lt;/em&gt;, dünya genelinde giderek daha popüler hale geliyor. Adından da anlaşılacağı gibi, bu etkinlik maratonun zorluklarıyla fotoğrafçılığı bir araya getiriyor. Peki, nedir bu fotomaraton, nasıl düzenlenir ve katılımcılar için neler sunar?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;fotomaraton-nedir&quot;&gt;Fotomaraton Nedir?&lt;/h2&gt;
+
+&lt;p&gt;Fotomaraton, belirli bir süre içinde verilen temalara uygun fotoğraflar çekilerek yarışılan bir etkinliktir. Genellikle şehir merkezlerinde düzenlenir ve birkaç saatten birkaç güne kadar sürebilir. Katılımcılar, etkinlik sırasında kendilerine verilen temalara yaratıcı bir şekilde yanıt verecek kareler yakalamaya çalışırlar. Örneğin, temalardan biri “hareket” ise, şehrin dinamizmini yakalayacak bir kompozisyon oluşturmak gerekir.&lt;/p&gt;
+
+&lt;h2 id=&quot;fotomaratonun-amacı&quot;&gt;Fotomaratonun Amacı&lt;/h2&gt;
+
+&lt;p&gt;Fotomaratonların en büyük amacı, fotoğrafçılara günlük yaşamda yaratıcılıklarını keşfetme fırsatı sunmaktır. Aynı zamanda hızlı düşünme, kompozisyon oluşturma ve teknik becerileri geliştirmeye yönelik eğitici bir yönü vardır. Ayrıca, farklı katılımcıların aynı temaya nasıl farklı açılardan yaklaştığını görmek, fotoğrafçılara ilham verir ve yeni bakış açıları kazandırır.&lt;/p&gt;
+
+&lt;h2 id=&quot;fotomaraton-nasıl-düzenlenir&quot;&gt;Fotomaraton Nasıl Düzenlenir?&lt;/h2&gt;
+
+&lt;p&gt;Fotomaraton düzenlemek isteyenler için birkaç önemli adım:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Tema ve Süre Belirleme&lt;/strong&gt;: Etkinlik için temalar önceden belirlenir. Temalar, katılımcıların yaratıcılıklarını zorlayacak nitelikte olmalıdır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kayıt ve Bilgilendirme&lt;/strong&gt;: Katılımcılar etkinlik başlamadan önce kaydolurlar. Belirli bir başlangıç noktasından hareket edilerek her katılımcıya temasını içeren bir liste verilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jüri ve Ödüller&lt;/strong&gt;: Yarışma sonunda, jüri tarafından değerlendirilmek üzere fotoğraflar toplanır ve kazananlar belirlenir. Çoğu etkinlikte en iyi fotoğraflara ödüller verilir.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;fotomaratonlara-kimler-katılmalı&quot;&gt;Fotomaratonlara Kimler Katılmalı?&lt;/h2&gt;
+
+&lt;p&gt;Fotomaratonlara herkes katılabilir; profesyonel ya da amatör fark etmez. Fotoğrafçılıkla ilgilenen herkes, bu etkinlikten farklı şeyler öğrenebilir. Özellikle yeni başlayanlar için fotomaraton, fotoğrafçılık dünyasına hızlı bir giriş yapma fırsatıdır. Profesyoneller ise yaratıcılıklarını sınırlı bir süre ve tema içinde test etme imkanı bulur.&lt;/p&gt;
+
+&lt;h2 id=&quot;fotomaratonlardan-alınacak-dersler&quot;&gt;Fotomaratonlardan Alınacak Dersler&lt;/h2&gt;
+&lt;p&gt;Bir fotomaraton deneyimi, fotoğrafçılara çok şey kazandırır:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Zaman Yönetimi&lt;/strong&gt;: Sınırlı sürede, istenen temaya uygun fotoğraflar çekmek katılımcılara hızlı düşünme becerisi kazandırır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yaratıcılığı Keşfetme&lt;/strong&gt;: Temalara yaratıcı yaklaşımlar geliştirmek, fotoğrafçının kendini ifade etme gücünü artırır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sabır ve Dikkat&lt;/strong&gt;: En iyi kareyi yakalamak, bazen beklemeyi ve gözlem yapmayı gerektirir. Bu süreç, fotoğrafçının doğaya ve çevresine daha dikkatli bakmasını sağlar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;türkiyede-fotomaratonlar&quot;&gt;Türkiye’de Fotomaratonlar&lt;/h2&gt;
+
+&lt;p&gt;Türkiye’de fotomaratonlar, özellikle büyük şehirlerdeki fotoğraf dernekleri, belediyeler ve sanat kurumları tarafından düzenlenen renkli etkinlikler olarak dikkat çekiyor. Fotomaratonlar, şehirlere ve kültürel mirasa farklı açılardan bakma fırsatı sunarak hem yerel halkın hem de ziyaretçilerin ilgisini çekiyor. Türkiye’de en popüler fotomaraton etkinliklerinden bazıları İstanbul, Ankara, İzmir, Bursa ve Antalya gibi şehirlerde gerçekleşiyor.&lt;/p&gt;
+
+&lt;p&gt;Örneğin, &lt;strong&gt;İstanbul Fotomaratonu&lt;/strong&gt;, tarihi yarımada, Galata Köprüsü, Balat gibi kültürel ve tarihi açıdan zengin bölgelerde yapılır. Katılımcılar, genellikle şehir yaşamının, mimarinin ve doğal güzelliklerin harmanlandığı çok sayıda tema ile şehri keşfeder. İstanbul’un büyülü atmosferi, fotomaraton temaları için eşsiz bir zemin sağlar; “Gece ve Gündüz İstanbul” ya da “Modern ve Tarihi İstanbul” gibi temalar, katılımcıları bu iki yüzü bir arada yakalamaya teşvik eder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ankara’da düzenlenen fotomaratonlar&lt;/strong&gt; ise, başkentin resmi yapısı ve tarihi mekanlarını keşfetmeye yöneliktir. Anıtkabir, Ankara Kalesi ve Kurtuluş Savaşı Müzesi gibi ikonik alanlar sıkça tema olarak belirlenir. “Cumhuriyetin İzleri” veya “Başkent Manzaraları” gibi konularla, katılımcılar şehrin kültürel ve tarihî dokusunu farklı perspektiflerden fotoğraflamaya davet edilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;İzmir Fotomaratonları&lt;/strong&gt;, sahil boyunca uzanan güzelliklerin yanı sıra Kemeraltı Çarşısı, Alsancak ve tarihi Agora gibi hem turistik hem de yerel yaşamın gözlemlenebileceği alanları içerir. İzmir’in eşsiz Ege kültürü ve denizle iç içe geçmiş günlük yaşamı, fotomaraton temalarında sıkça yer bulur. “Ege’nin Renkleri” ya da “İzmir’in Yüzleri” gibi temalar, katılımcılara hem sokakları hem de insanları tanıma fırsatı sunar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bursa Fotomaratonları&lt;/strong&gt;, tarihî İpek Yolu üzerinde bulunmasından dolayı, Osmanlı mirasını gözler önüne seren eşsiz mekanlarda yapılır. Bursa Ulu Camii, Cumalıkızık köyü ve Yeşil Türbe gibi mekânlarda düzenlenen fotomaratonlarda, “Osmanlı’nın İzleri” gibi temalar öne çıkar. Katılımcılar, tarihî dokuyu yakalama konusunda zorlayıcı ancak bir o kadar ilham verici bir deneyim yaşar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antalya’da ise fotomaratonlar&lt;/strong&gt;, genellikle şehrin turistik bölgeleri olan Kaleiçi, Yivli Minare, antik kentler ve sahil bölgelerinde yapılır. “Antalya’da Tarih ve Deniz” ya da “Antik Kentlerin İzinde” gibi temalar, katılımcıları bu tarihî ve doğal güzellikleri keşfetmeye iter. Antalya’nın dört mevsim ziyaretçiye açık olması, fotomaratonların hem yaz hem de kış aylarında farklı temalarla düzenlenmesini sağlar.&lt;/p&gt;
+
+&lt;p&gt;Bu fotomaratonlar, Türkiye’nin kültürel zenginliğini ve çeşitliliğini fotoğraf karelerine taşırken, katılımcıların şehirlere olan bakış açısını da değiştirmelerine olanak tanır. Hem yerli hem de yabancı fotoğrafçılar için düzenlenen bu etkinlikler, Türkiye’nin farklı şehirlerinde benzersiz kareler yakalamak isteyenler için harika fırsatlar sunmaktadır.&lt;/p&gt;
+
+&lt;h2 id=&quot;fotomaraton-deneyimi-i̇çin-i̇puçları&quot;&gt;Fotomaraton Deneyimi İçin İpuçları&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ön Hazırlık Yapın&lt;/strong&gt;: Ekipmanlarınızı etkinlikten önce kontrol edin. Yedek pil ve hafıza kartı bulundurmak işinizi kolaylaştırır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Temaya Yaratıcı Yönlerden Yaklaşın&lt;/strong&gt;: Tek bir tema, farklı açılardan ele alınabilir. O an gördüğünüz bir manzara ya da detay, özgün bir bakış açısıyla temaya uygun hale getirilebilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zamanı İyi Kullanın&lt;/strong&gt;: Her tema için bir öncelik belirleyin ve gereğinden fazla vakit kaybetmemeye çalışın.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fotomaratonlar, fotoğrafçılara kendilerini keşfetme ve geliştirme şansı sunan, bir o kadar da keyifli etkinliklerdir. Kendinizi denemek, fotoğrafçılığa dair yeni şeyler öğrenmek ve yaratıcı sınırlarınızı zorlamak için bir fotomaratona katılmaya ne dersiniz?&lt;/p&gt;
+</description>
+                <pubDate>Fri, 08 Nov 2024 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/fotomaraton</link>
+                <guid isPermaLink="true">http://localhost:4000/fotomaraton</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Fotoğraf Makinesi Lensleri: Hangi Lens Hangi Çekim İçin Uygundur?</title>
@@ -101,8 +170,8 @@
 &lt;p&gt;Fotoğraf makinesi lensleri, görsel anlatım dilinizi zenginleştirmenin anahtarıdır. Farklı lens türlerini ve özelliklerini tanımak, size hem teknik hem de estetik açıdan büyük avantajlar sağlar. İhtiyacınıza ve stilinize en uygun lensi seçerek fotoğrafçılığınızı bir sonraki seviyeye taşıyabilirsiniz. Unutmayın, en iyi lens ihtiyaçlarınıza en iyi cevap veren lenstir!&lt;/p&gt;
 </description>
                 <pubDate>Mon, 04 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
+                <link>http://localhost:4000/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
                 
                 
             </item>
@@ -164,8 +233,8 @@
 &lt;p&gt;Panoramik fotoğrafçılık, geniş açılı sahneleri bir araya getirme sanatıyla fotoğrafa yeni bir soluk kazandırıyor. Üstelik biraz pratikle ve uygun ekipmanlarla siz de kolayca panoramik fotoğraflar çekebilir, anılarınızı geniş bir perspektifte ölümsüzleştirebilirsiniz. Şimdi kamera ve tripodunuzu hazırlayın, doğanın ya da şehrin nefes kesici manzaralarını tek bir karede toplamaya başlayın!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 03 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</guid>
+                <link>http://localhost:4000/panoramik-fotografcilik</link>
+                <guid isPermaLink="true">http://localhost:4000/panoramik-fotografcilik</guid>
                 
                 
             </item>
@@ -220,8 +289,8 @@
 &lt;p&gt;Bu adımları izleyerek, sensörünüzü ilk günkü gibi temiz ve sağlıklı tutabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 02 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
+                <link>http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
                 
                 
             </item>
@@ -268,8 +337,8 @@
 &lt;p&gt;Fotoğraf makinesindeki sensör, dijital görüntünün temelini oluşturan en önemli bileşenlerden biridir. Sensör kalitesi, boyutu ve türü, çektiğiniz fotoğrafın sonucunu belirler. İyi bir sensör, yüksek çözünürlüklü, canlı ve net fotoğraflar sunarken; uygun sensör bakımı da kameranızın performansını uzun süre korumanıza yardımcı olur. Fotoğrafçılıkla ilgileniyorsanız, sensörlerin nasıl çalıştığını ve doğru seçimlerin çekim kalitesine nasıl katkıda bulunduğunu anlamak önemlidir.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 31 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
+                <link>http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
                 
                 
             </item>
@@ -334,8 +403,8 @@
 &lt;p&gt;Sonuç olarak, EXIF verileri, fotoğrafçılığın ince detaylarını anlamamıza ve daha iyi çekimler yapmamıza yardımcı olan bir pusula gibidir. İster yeni başlayan ister profesyonel olun, EXIF bilgilerini analiz etmek, fotoğrafçılıkta sürekli gelişim için vazgeçilmez bir adımdır.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 30 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
+                <link>http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</link>
+                <guid isPermaLink="true">http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
                 
                 <category>exif</category>
                 
@@ -430,8 +499,8 @@
 &lt;p&gt;Beyaz ayarı, fotoğrafçılıkta ince bir detay gibi görünse de renk doğruluğunu sağlamak için oldukça önemlidir. Özellikle dijital fotoğrafçılıkla ilgilenenler için beyaz ayarı, başarılı ve doğal sonuçlar için temel tekniklerden biridir.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 29 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</guid>
+                <link>http://localhost:4000/fotografcilikta-beyaz-ayari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografcilikta-beyaz-ayari</guid>
                 
                 <category>beyaz ayarı</category>
                 
@@ -511,8 +580,8 @@
 &lt;p&gt;Yeşil renk, doğanın bir parçası olmanın ötesinde, fotoğrafçılıkta hem teknik hem de duygusal anlamda güçlü bir araçtır. Bu renk, izleyicilere huzur ve yenilenme duygusu verirken, aynı zamanda güçlü kontrastlar ve kompozisyonlar oluşturmanıza olanak tanır. Yeşilin farklı tonlarını ve dokularını keşfederek, fotoğraflarınıza derinlik, anlam ve estetik katabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 26 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</guid>
+                <link>http://localhost:4000/fotografta-yesil-renk</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-yesil-renk</guid>
                 
                 <category>renk</category>
                 
@@ -590,8 +659,8 @@
 &lt;p&gt;Bu yazıda mavi rengin fotoğraflardaki önemini ve etkili kullanım yöntemlerini ele aldık. Siz de fotoğraflarınıza mavi tonları ekleyerek, kendi hikayenizi anlatmayı deneyebilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 24 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografta-mavi-renk</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-mavi-renk</guid>
+                <link>http://localhost:4000/fotografta-mavi-renk</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-mavi-renk</guid>
                 
                 <category>renk</category>
                 
@@ -662,67 +731,8 @@
 &lt;p&gt;Kırmızı, fotoğrafçılıkta sadece bir renk değil, bir ifade aracıdır. Onu doğru şekilde kullanarak fotoğraflarınıza tutku, güç ve anlam katabilirsiniz. İster sokak fotoğrafçılığında bir tabelanın parlak kırmızısını, ister bir portrede modelin kıyafetindeki kırmızı detayları yakalayın, bu renk izleyiciler üzerinde unutulmaz bir etki bırakacaktır. Unutmayın, kırmızı her zaman dikkat çeker—ama neyi vurguladığı tamamen sizin elinizde!&lt;/p&gt;
 </description>
                 <pubDate>Wed, 23 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografta-kirmizi-renk</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-kirmizi-renk</guid>
-                
-                <category>renk</category>
-                
-                <category>kompozisyon</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Fotoğrafta Sarı Renk: Canlılığın ve Enerjinin Temsilcisi</title>
-                <description>&lt;p&gt;Renkler, bir fotoğrafın duygusal etkisini ve kompozisyonunu şekillendiren en önemli unsurlardan biridir. Her renk, izleyiciye farklı bir mesaj iletir; bazıları huzur verirken bazıları enerji ve hareket katar. Sarı renk, fotoğrafçılıkta canlılık, neşe, enerji ve sıcaklığın en güçlü temsilcilerinden biridir. Doğru kullanıldığında izleyicinin ilgisini anında çeker ve görüntüye derinlik katar. Gelin, sarı rengi fotoğrafçılıkta nasıl etkili bir şekilde kullanabileceğimize yakından bakalım.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;sarının-psikolojik-etkileri&quot;&gt;Sarının Psikolojik Etkileri&lt;/h2&gt;
-
-&lt;p&gt;Sarı renk, insan psikolojisi üzerinde güçlü etkiler yaratır. Güneşin rengi olması nedeniyle, sıcaklık ve mutluluk hissi uyandırır. Aynı zamanda dikkat çekici bir renk olması sebebiyle, sarı unsurlar bir fotoğrafta doğal olarak gözün ilk fark ettiği detaylardır. Bu nedenle fotoğraflarda sarı, bir odak noktası yaratmak için ideal bir renktir.&lt;/p&gt;
-
-&lt;h2 id=&quot;doğada-sarı&quot;&gt;Doğada Sarı&lt;/h2&gt;
-
-&lt;p&gt;Doğal dünyada sarı renk çok yaygındır; özellikle ilkbahar ve yaz aylarında doğanın bize sunduğu bir renk paletinin en önemli parçasıdır. Çiçekler, yapraklar, meyveler ve hatta güneş ışığı bile sarının farklı tonlarını sunar. Bir çiçek tarlası ya da gün batımı sırasında, sarı tonlar fotoğrafa hem derinlik hem de duygusal bir sıcaklık katar.&lt;/p&gt;
-
-&lt;p&gt;Doğa fotoğrafçılığında sarı renk, özellikle dikkatli bir kompozisyonla birleştiğinde, görsel bir ziyafet sunabilir. Örneğin, sarı bir çiçek tarlası ya da güneşin sarı ışıkları altında parıldayan bir su birikintisi, izleyiciye huzur ve neşe verir.&lt;/p&gt;
-
-&lt;h2 id=&quot;sarının-mimari-ve-sokak-fotoğrafçılığındaki-yeri&quot;&gt;Sarının Mimari ve Sokak Fotoğrafçılığındaki Yeri&lt;/h2&gt;
-
-&lt;p&gt;Sarı, sadece doğada değil, şehir manzaralarında da sıkça karşımıza çıkar. Özellikle sokak fotoğrafçılığında sarı detaylar, bir bina, bir araba ya da bir tabelada kullanılabilir. Sarı bir duvar ya da parlak sarı bir taksi, fotoğrafta odak noktası yaratırken, şehir yaşamına enerji katar.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/mimari-ve-sokak-fotografciliginda-sari-detaylar.jpg&quot; alt=&quot;Mimari ve sokak fotoğrafçılığında sarı detaylar&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Bir şehirde, sarı rengi vurgulamak istiyorsanız, bu unsurları izole ederek ya da kontrast yaratarak öne çıkarabilirsiniz. Gri binaların arasında parıldayan sarı bir detay, monotonluğa karşı hoş bir kırılma yaratır.&lt;/p&gt;
-
-&lt;h2 id=&quot;sarı-rengin-kontrastı-ve-denge-kullanımı&quot;&gt;Sarı Rengin Kontrastı ve Denge Kullanımı&lt;/h2&gt;
-
-&lt;p&gt;Sarı, sıcak renk ailesine ait olduğundan, genellikle fotoğraflarda soğuk renklerle (örneğin mavi ya da yeşil) güçlü bir kontrast oluşturur. Bu kontrast, görsel dengeyi sağlar ve gözün fotoğrafın belirli bölümlerine yönelmesine yardımcı olur. Sarı ve mavi kombinasyonu, özellikle manzara ve doğa fotoğrafçılığında sıkça tercih edilen bir tekniktir.&lt;/p&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/10/sari-ve-mavi-kombinasyonu.jpg&quot; alt=&quot;sari-ve-mavi-kombinasyonu&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Sarıyı dengeli kullanmak önemlidir; çünkü aşırı sarı kullanımı, izleyiciyi yorabilir ve fotoğrafın anlamını kaybettirebilir. Minimal bir sarı vurgusu ise fotoğrafın bütünlüğünü bozmadan enerji katmanın harika bir yoludur.&lt;/p&gt;
-
-&lt;h2 id=&quot;işık-kaynağı-olarak-sarı&quot;&gt;Işık Kaynağı Olarak Sarı&lt;/h2&gt;
-
-&lt;p&gt;Güneş ışığının sarı tonları, fotoğrafçılıkta doğal bir ışık kaynağı olarak da değerlendirilir. &lt;a href=&quot;/fotografcilikta-altin-saat-nedir&quot;&gt;Altın saat&lt;/a&gt; olarak bilinen gün doğumu ve gün batımı arasındaki zaman diliminde, sarı ve turuncu tonlar fotoğrafa sıcak bir hava katar. Bu saatlerde çekilen fotoğraflar, yumuşak gölgeler ve sıcak renk paletleri ile etkileyici sonuçlar verir. Sarı ışığın yarattığı dramatik etkiyi kullanarak hem portrelerde hem de manzara çekimlerinde büyüleyici kareler yakalayabilirsiniz.&lt;/p&gt;
-
-&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
-
-&lt;p&gt;Fotoğrafta sarı renk, doğru kullanıldığında enerji ve neşe dolu kareler yaratır. Bu rengi vurgularken, kompozisyonunuzu dikkatli bir şekilde oluşturarak sarının gücünü dengelemek önemlidir. Doğada, mimaride ya da sokaklarda sarı renk, fotoğraflarınıza hayat verir ve izleyiciye sıcak bir his sunar. Sarı, tıpkı güneş gibi fotoğrafınıza ışık ve canlılık katmaya her zaman hazır.&lt;/p&gt;
-
-&lt;p&gt;Her fotoğrafın bir hikayesi vardır; neden bu hikayeyi sarının parlak ve neşeli tonlarıyla anlatmayasınız?&lt;/p&gt;
-</description>
-                <pubDate>Tue, 22 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografta-sari-renk</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-sari-renk</guid>
+                <link>http://localhost:4000/fotografta-kirmizi-renk</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-kirmizi-renk</guid>
                 
                 <category>renk</category>
                 
