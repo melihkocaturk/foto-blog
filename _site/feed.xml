@@ -3,10 +3,10 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Nov 2024 12:48:56 +0300</pubDate>
-        <lastBuildDate>Thu, 21 Nov 2024 12:48:56 +0300</lastBuildDate>
+        <link>http://www.siyahbeyaz.net.tr/</link>
+        <atom:link href="http://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 21 Nov 2024 13:03:56 +0300</pubDate>
+        <lastBuildDate>Thu, 21 Nov 2024 13:03:56 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
@@ -113,8 +113,8 @@
 &lt;p&gt;Fotoğraf makinelerinin sunduğu farklı odaklama teknolojilerini anlamak ve bunları yaratıcı bir şekilde kullanmak, daha etkileyici ve anlamlı kareler oluşturmanıza yardımcı olacaktır.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 20 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/odak-nedir</link>
-                <guid isPermaLink="true">http://localhost:4000/odak-nedir</guid>
+                <link>http://www.siyahbeyaz.net.tr/odak-nedir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/odak-nedir</guid>
                 
                 <category>alan derinliği</category>
                 
@@ -173,8 +173,8 @@
 &lt;p&gt;Fotoğrafta piksel, dijital görüntülerin en temel birimi olarak fotoğraf kalitesini doğrudan etkiler. Çözünürlük ve piksel sayısı fotoğraflarda daha fazla ayrıntı yakalamanızı sağlarken, ekran ve baskı ortamına göre DPI veya PPI değerini doğru ayarlamak görüntü kalitesini artırır. Dijital fotoğrafçılık dünyasında piksel kavramını anlamak, fotoğraflarınızda daha bilinçli tercihler yapmanıza ve çekimlerde en iyi sonuçları elde etmenize yardımcı olacaktır. Fotoğraflarınızı bu bilgilerle en iyi şekilde değerlendirip sergilemeye başlayabilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 17 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-piksel-nedir</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-piksel-nedir</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-piksel-nedir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-piksel-nedir</guid>
                 
                 
             </item>
@@ -242,8 +242,8 @@
 &lt;p&gt;Fotomaratonlar, fotoğrafçılara kendilerini keşfetme ve geliştirme şansı sunan, bir o kadar da keyifli etkinliklerdir. Kendinizi denemek, fotoğrafçılığa dair yeni şeyler öğrenmek ve yaratıcı sınırlarınızı zorlamak için bir fotomaratona katılmaya ne dersiniz?&lt;/p&gt;
 </description>
                 <pubDate>Fri, 08 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotomaraton</link>
-                <guid isPermaLink="true">http://localhost:4000/fotomaraton</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotomaraton</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotomaraton</guid>
                 
                 
             </item>
@@ -340,8 +340,8 @@
 &lt;p&gt;Fotoğraf makinesi lensleri, görsel anlatım dilinizi zenginleştirmenin anahtarıdır. Farklı lens türlerini ve özelliklerini tanımak, size hem teknik hem de estetik açıdan büyük avantajlar sağlar. İhtiyacınıza ve stilinize en uygun lensi seçerek fotoğrafçılığınızı bir sonraki seviyeye taşıyabilirsiniz. Unutmayın, en iyi lens ihtiyaçlarınıza en iyi cevap veren lenstir!&lt;/p&gt;
 </description>
                 <pubDate>Mon, 04 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
-                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
                 
                 
             </item>
@@ -403,8 +403,8 @@
 &lt;p&gt;Panoramik fotoğrafçılık, geniş açılı sahneleri bir araya getirme sanatıyla fotoğrafa yeni bir soluk kazandırıyor. Üstelik biraz pratikle ve uygun ekipmanlarla siz de kolayca panoramik fotoğraflar çekebilir, anılarınızı geniş bir perspektifte ölümsüzleştirebilirsiniz. Şimdi kamera ve tripodunuzu hazırlayın, doğanın ya da şehrin nefes kesici manzaralarını tek bir karede toplamaya başlayın!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 03 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/panoramik-fotografcilik</link>
-                <guid isPermaLink="true">http://localhost:4000/panoramik-fotografcilik</guid>
+                <link>http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/panoramik-fotografcilik</guid>
                 
                 
             </item>
@@ -459,8 +459,8 @@
 &lt;p&gt;Bu adımları izleyerek, sensörünüzü ilk günkü gibi temiz ve sağlıklı tutabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 02 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</link>
-                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-sensoru-nasil-temizlenir</guid>
                 
                 
             </item>
@@ -507,8 +507,8 @@
 &lt;p&gt;Fotoğraf makinesindeki sensör, dijital görüntünün temelini oluşturan en önemli bileşenlerden biridir. Sensör kalitesi, boyutu ve türü, çektiğiniz fotoğrafın sonucunu belirler. İyi bir sensör, yüksek çözünürlüklü, canlı ve net fotoğraflar sunarken; uygun sensör bakımı da kameranızın performansını uzun süre korumanıza yardımcı olur. Fotoğrafçılıkla ilgileniyorsanız, sensörlerin nasıl çalıştığını ve doğru seçimlerin çekim kalitesine nasıl katkıda bulunduğunu anlamak önemlidir.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 31 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
-                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesinde-sensor-nedir-ve-nasil-calisir</guid>
                 
                 
             </item>
@@ -573,8 +573,8 @@
 &lt;p&gt;Sonuç olarak, EXIF verileri, fotoğrafçılığın ince detaylarını anlamamıza ve daha iyi çekimler yapmamıza yardımcı olan bir pusula gibidir. İster yeni başlayan ister profesyonel olun, EXIF bilgilerini analiz etmek, fotoğrafçılıkta sürekli gelişim için vazgeçilmez bir adımdır.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 30 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</link>
-                <guid isPermaLink="true">http://localhost:4000/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
+                <link>http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/exif-verileri-ile-cekimlerinizi-gelistirin</guid>
                 
                 <category>exif</category>
                 
@@ -669,8 +669,8 @@
 &lt;p&gt;Beyaz ayarı, fotoğrafçılıkta ince bir detay gibi görünse de renk doğruluğunu sağlamak için oldukça önemlidir. Özellikle dijital fotoğrafçılıkla ilgilenenler için beyaz ayarı, başarılı ve doğal sonuçlar için temel tekniklerden biridir.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 29 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografcilikta-beyaz-ayari</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografcilikta-beyaz-ayari</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografcilikta-beyaz-ayari</guid>
                 
                 <category>beyaz ayarı</category>
                 
@@ -750,8 +750,8 @@
 &lt;p&gt;Yeşil renk, doğanın bir parçası olmanın ötesinde, fotoğrafçılıkta hem teknik hem de duygusal anlamda güçlü bir araçtır. Bu renk, izleyicilere huzur ve yenilenme duygusu verirken, aynı zamanda güçlü kontrastlar ve kompozisyonlar oluşturmanıza olanak tanır. Yeşilin farklı tonlarını ve dokularını keşfederek, fotoğraflarınıza derinlik, anlam ve estetik katabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sat, 26 Oct 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-yesil-renk</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-yesil-renk</guid>
+                <link>http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</link>
+                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-yesil-renk</guid>
                 
                 <category>renk</category>
                 
