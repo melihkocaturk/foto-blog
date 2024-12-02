@@ -36,7 +36,7 @@ Daha küçük sensörlü kameralar ise kompakt yapıları sayesinde taşınabili
 
 ## Sensörün Bakımı ve Temizliği
 
-Birçok fotoğrafçı için [sensör temizliği]({% post_url ekipmanlar/2024-11-02-fotograf-makinesi-sensoru-nasil-temizlenir %}) göz ardı edilse de, toz ve kirin zamanla sensör üzerinde birikmesi görüntü kalitesini doğrudan etkileyebilir. Sensör temizliği, düzenli aralıklarla yapılmalı ve özel temizleme araçları kullanılmalıdır. Özellikle DSLR veya aynasız makinelerde lens değiştirirken içeri toz girmesini önlemek için dikkat edilmelidir.
+Birçok fotoğrafçı için [sensör temizliği]({% post_url 2024/2024-11-02-fotograf-makinesi-sensoru-nasil-temizlenir %}) göz ardı edilse de, toz ve kirin zamanla sensör üzerinde birikmesi görüntü kalitesini doğrudan etkileyebilir. Sensör temizliği, düzenli aralıklarla yapılmalı ve özel temizleme araçları kullanılmalıdır. Özellikle DSLR veya aynasız makinelerde lens değiştirirken içeri toz girmesini önlemek için dikkat edilmelidir.
 
 ## Sonuç
 

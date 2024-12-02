@@ -20,7 +20,7 @@ Mavi, genellikle huzur, dinginlik, güven ve sadakati temsil eder. Denizin derin
 ### Doğada Mavi
 Mavi, doğada en yaygın bulunan renklerden biridir. Özellikle peyzaj fotoğrafçılığında mavi gökyüzü, derin mavilikteki denizler veya göller fotoğrafların odak noktası olabilir. Bu renk doğadaki geniş alanları temsil ettiğinden, fotoğraflarınıza sonsuzluk hissi katar. Gökyüzü ve suyun farklı tonlarındaki maviler, ışığın ve hava koşullarının etkisiyle dramatik bir şekilde değişir, bu da fotoğrafçılara çeşitli yaratıcı imkanlar sunar.
 
-**Altın Saat ve Mavi Saat**: Fotoğrafçılıkta altın saat kadar önemli bir başka zaman dilimi de “[mavi saat]({% post_url teknik/2024-10-17-mavi-saat %})”tir. Güneşin batmasından hemen sonra veya doğmasından hemen önce gerçekleşen bu kısa süre, gökyüzünün derin ve zengin mavi tonlarına büründüğü anlardır. Bu zaman diliminde çekilen fotoğraflar, büyüleyici bir atmosfer sunar.
+**Altın Saat ve Mavi Saat**: Fotoğrafçılıkta altın saat kadar önemli bir başka zaman dilimi de “[mavi saat]({% post_url 2024/2024-10-17-mavi-saat %})”tir. Güneşin batmasından hemen sonra veya doğmasından hemen önce gerçekleşen bu kısa süre, gökyüzünün derin ve zengin mavi tonlarına büründüğü anlardır. Bu zaman diliminde çekilen fotoğraflar, büyüleyici bir atmosfer sunar.
 
 {% include image_caption.html imageurl="/images/2024/10/cinque-terre-italya.jpg" title="Cinque Terre" caption="Cinque Terre, İtalya" %}
 

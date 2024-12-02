@@ -55,7 +55,7 @@ Enstantane hızını etkili bir şekilde kullanmak için doğru ekipmana sahip o
 
 ## Enstantane ve Pozlama Üçgeni
 
-Fotoğrafçılıkta [pozlama üçgeni]({% post_url teknik/2024-10-12-fotografcilikta-pozlama-ucgeni %}) terimi, enstantane, diyafram ve ISO’nun bir arada nasıl çalıştığını açıklayan bir kavramdır. Enstantane hızını ayarlarken, bu üç öğe arasında denge kurmak gerekir. Yavaş enstantane kullanırken, daha fazla ışık almak için diyaframı açmak veya ISO’yu artırmak gerekebilir. Bu nedenle, doğru pozlamayı elde etmek için enstantane hızını diğer ayarlarla dengelemek şarttır.
+Fotoğrafçılıkta [pozlama üçgeni]({% post_url 2024/2024-10-12-fotografcilikta-pozlama-ucgeni %}) terimi, enstantane, diyafram ve ISO’nun bir arada nasıl çalıştığını açıklayan bir kavramdır. Enstantane hızını ayarlarken, bu üç öğe arasında denge kurmak gerekir. Yavaş enstantane kullanırken, daha fazla ışık almak için diyaframı açmak veya ISO’yu artırmak gerekebilir. Bu nedenle, doğru pozlamayı elde etmek için enstantane hızını diğer ayarlarla dengelemek şarttır.
 
 ## Enstantane İle Yaratıcılığınızı Keşfedin
 

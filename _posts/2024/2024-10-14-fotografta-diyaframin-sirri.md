@@ -39,7 +39,7 @@ Dar diyafram (f/11, f/16 gibi) kullanmak, sahnedeki her şeyin net olmasını sa
 
 ## Diyafram ve Işık Kontrolü
 
-Diyafram, fotoğrafa giren ışık miktarını doğrudan kontrol eder. Geniş diyafram daha fazla ışık alarak parlak bir görüntü sağlar, dar diyafram ise ışığı sınırlayarak daha karanlık bir görüntü sunar. Bu noktada, fotoğrafın pozlama dengesini ayarlamak için diyafram ile birlikte enstantane hızı ve ISO değerleri de dikkate alınmalıdır. Bu üçlü, [pozlama üçgeni]({% post_url teknik/2024-10-12-fotografcilikta-pozlama-ucgeni %}) olarak bilinen temel ışık kontrolünü oluşturur.
+Diyafram, fotoğrafa giren ışık miktarını doğrudan kontrol eder. Geniş diyafram daha fazla ışık alarak parlak bir görüntü sağlar, dar diyafram ise ışığı sınırlayarak daha karanlık bir görüntü sunar. Bu noktada, fotoğrafın pozlama dengesini ayarlamak için diyafram ile birlikte enstantane hızı ve ISO değerleri de dikkate alınmalıdır. Bu üçlü, [pozlama üçgeni]({% post_url 2024/2024-10-12-fotografcilikta-pozlama-ucgeni %}) olarak bilinen temel ışık kontrolünü oluşturur.
 
 ## Alan Derinliğini Nasıl Kontrol Edebilirsiniz?
 
