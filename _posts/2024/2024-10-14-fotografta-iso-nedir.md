@@ -55,7 +55,7 @@ Fotoğraf makineniz genellikle otomatik ISO ayarına sahip olacaktır. Bu modda 
 
 - **ISO 100-200**: Gün ışığında dış mekanda çekim yaparken.
 - **ISO 400-800**: Bulutlu havalarda ya da iç mekanlarda.
-- **ISO 1600 ve üzeri**: Gece fotoğrafçılığı veya çok düşük ışık koşullarında.
+- **ISO 1600 ve üzeri**: [Gece fotoğrafçılığı]({% post_url 2024/2024-12-15-gece-fotografciligi %}) veya çok düşük ışık koşullarında.
 
 ## ISO'yu Doğru Kullanarak Daha İyi Fotoğraflar Çekin
 

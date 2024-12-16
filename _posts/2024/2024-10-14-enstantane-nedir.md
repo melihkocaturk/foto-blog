@@ -19,7 +19,7 @@ Enstantane, fotoğraf makinesinin obtüratörünün açık kaldığı süreyi if
 
 ## Enstantane Nasıl Ayarlanır?
 
-Fotoğraf makinenizde manuel mod veya yarı otomatik mod kullanarak enstantane hızını ayarlayabilirsiniz. Eğer hızlı hareket eden bir nesneyi net bir şekilde yakalamak istiyorsanız, yüksek enstantane hızı tercih edilmelidir. Örneğin, spor müsabakalarını çekerken 1/1000 saniye ya da daha hızlı bir enstantane kullanmak gerekir. Öte yandan, su akıntısı veya ışıkla boyama gibi uzun pozlama gerektiren çekimlerde daha yavaş enstantane hızları, 1 saniye veya daha uzun süreler kullanılabilir.
+Fotoğraf makinenizde manuel mod veya yarı otomatik mod kullanarak enstantane hızını ayarlayabilirsiniz. Eğer hızlı hareket eden bir nesneyi net bir şekilde yakalamak istiyorsanız, yüksek enstantane hızı tercih edilmelidir. Örneğin, spor müsabakalarını çekerken 1/1000 saniye ya da daha hızlı bir enstantane kullanmak gerekir. Öte yandan, su akıntısı veya [ışıkla boyama]({% post_url 2024/2024-12-16-isikla-boyama %}) gibi uzun pozlama gerektiren çekimlerde daha yavaş enstantane hızları, 1 saniye veya daha uzun süreler kullanılabilir.
 
 {% include image_caption.html imageurl="/images/2024/10/isikla-boyama.jpg" title="Işıkla boyama" %}
 
