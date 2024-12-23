@@ -3,11 +3,148 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>http://www.siyahbeyaz.net.tr/</link>
-        <atom:link href="http://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Dec 2024 02:13:38 +0300</pubDate>
-        <lastBuildDate>Sun, 22 Dec 2024 02:13:38 +0300</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 24 Dec 2024 00:57:57 +0300</pubDate>
+        <lastBuildDate>Tue, 24 Dec 2024 00:57:57 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Fotoğrafta Sanat Akımları: Geçmişten Günümüze Yolculuk</title>
+                <description>&lt;p&gt;Fotoğraflar sadece birer görsel bellek aracı değil, aynı zamanda sanatın dinamik bir yansımasıdır. Sanat akımları, fotoğrafların hem çekim tekniklerinde hem de ifade şekillerinde kendini göstermiş, zaman içinde bu disipline benzersiz bir karakter kazandırmıştır. Gelin, fotoğrafta sanat akımlarının tarihine kısa bir yolculuk yapalım ve bu akımların içeriklerini daha detaylı bir şekilde inceleyelim.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;piktoryalizm-fotoğrafa-resimsel-bir-dokunuş&quot;&gt;Piktoryalizm: Fotoğrafa Resimsel Bir Dokunuş&lt;/h2&gt;
+
+&lt;p&gt;18. yüzyılın sonlarında ortaya çıkan Piktoryalizm, fotoğrafa bir sanat dalı olarak değer kazandırmayı amaçladı. Bu akımda, fotoğrafların resimlere benzeyen estetik bir tarza sahip olması önemsendi. Yumuşatılmış detaylar, özel banyo teknikleri ve el yapımı negatifler, piktoryalistlerin sıklıkla kullandığı yöntemlerdendi.&lt;/p&gt;
+
+&lt;p&gt;Fotoğrafçılar bu tekniklerle, bir çekimin sadece bir mekanik süreç olmadığını, sanatsal bir yaratıcılık barındırdığını savundular. Piktoryalist eserler genelde pastoral sahneler, romantik temalar ve şairane bir atmosferle dikkat çekerdi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Alfred Stieglitz, Edward Steichen&lt;/p&gt;
+
+&lt;h2 id=&quot;empresyonizm-işığın-ve-anın-yansıması&quot;&gt;Empresyonizm: Işığın ve Anın Yansıması&lt;/h2&gt;
+
+&lt;p&gt;Empresyonizm, 19. yüzyılın sonlarında Fransa’da ortaya çıkan ve izlenimlerin öne çıkarıldığı bir sanat akımıdır. Resimde Claude Monet’nin “Impression, Sunrise” adlı eseriyle adını alan bu akım, fotoğrafçılıkta da ışık ve renk oyunlarının sanatçılar tarafından yeniden keşfedilmesine öncülük etti. Fotoğrafçılar, empresyonist ressamların fırça darbelerini ve ışığın değişken etkilerini kendi eserlerinde taklit etmeye çalıştı.&lt;/p&gt;
+
+&lt;p&gt;Empresyonist fotoğrafçılık, özellikle açık hava çekimlerinde ve doğal ışıkla çalışmayı benimseyen sanatçılar arasında popüler oldu. Fotoğrafçılar, gün ışığının farklı saatlerindeki değişimlerini, atmosferin geçici etkilerini ve doğanın güzelliklerini yakalamaya odaklandılar. Bu yaklaşım, yumuşak geçişlerle dolu romantik ve pastoral sahnelerin ortaya çıkmasına olanak tanıdı. Sisli sabahlar, günbatımları ve su yüzeyindeki ışık yansımaları gibi unsurlar, empresyonist fotoğrafların temel temalarından biriydi.&lt;/p&gt;
+
+&lt;p&gt;Ayrıca, bu dönemde kullanılan teknikler arasında, uzun pozlamalar ve düşük kontrastlı baskılar da bulunuyordu. Böylece, sahneler bir tablo hissi yaratacak şekilde bulanıklaştırılarak ya da ışıkla dramatik bir şekilde vurgulanarak izleyiciye sunuldu. Empresyonizm, fotoğrafçılığın sadece bir gerçeklik kaydı değil, aynı zamanda bir sanat formu olarak algılanmasını güçlendirdi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Alvin Langdon Coburn, Heinrich Kühn, Robert Demachy&lt;/p&gt;
+
+&lt;h2 id=&quot;romantizm-duyguların-fotoğrafı&quot;&gt;Romantizm: Duyguların Fotoğrafı&lt;/h2&gt;
+
+&lt;p&gt;Romantizm, 18. yüzyılın sonları ile 19. yüzyılın başlarında Avrupa’da ortaya çıkan ve duyguların, hayal gücünün ve doğanın yüceltilmesine odaklanan bir sanat akımıdır. Bu akım, sanatta bireysel duyguların ifade edilmesini, doğaya duyulan hayranlığı ve dramatik unsurların öne çıkarılmasını savunur. Fotoğrafçılar da romantizmden büyük ölçüde etkilenmiş ve bu estetiği eserlerine yansıtmaya çalışmıştır. Melankolik sahneler, sisli manzaralar, dramatik ışıklandırmalar ve yoğun bir duygusal atmosfer, romantik fotoğrafçılığın karakteristik unsurları olmuştur.&lt;/p&gt;
+
+&lt;p&gt;Romantik fotoğrafçılar, genellikle doğal ışığı ve gölge oyunlarını kullanarak, izleyiciyi doğanın yüceliği ve insanın içsel dünyası üzerine düşünmeye davet eden eserler yaratmışlardır. Manzara fotoğraflarında dağlar, ormanlar, şelaleler gibi doğal unsurlar sıkça kullanılırken, portrelerde ise bireyin duygusal durumunu yansıtan ifadeler ve dramatik kompozisyonlar ön plandaydı. Bu eserler, sadece görsel bir güzellik sunmakla kalmamış, aynı zamanda izleyicinin hislerine ve hayal gücüne hitap eden bir derinlik sunmuştur.&lt;/p&gt;
+
+&lt;p&gt;Romantizm, fotoğrafçılıkta yalnızca estetik bir etki yaratmakla kalmamış, aynı zamanda sanatçının doğaya ve insana bakış açısını da dönüştürmüştür. Bu dönemde fotoğrafçılar, birer “hikâye anlatıcı” olarak konumlanmış ve eserleriyle duygusal bir bağ kurmayı hedeflemişlerdir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Julia Margaret Cameron, Gustave Le Gray&lt;/p&gt;
+
+&lt;h2 id=&quot;modernizm-ve-fotoğrafa-yeni-bir-bakış&quot;&gt;Modernizm ve Fotoğrafa Yeni Bir Bakış&lt;/h2&gt;
+
+&lt;p&gt;19. yüzyılın başlarında modernizm akımı, fotoğrafların teknik mükemmelliğine ve kompozisyonuna odaklandı. Bu dönemde, fotoğrafçılar şehir hayatı, endüstriyel yapılar ve geometrik çizgiler üzerinde yoğunlaştı.&lt;/p&gt;
+
+&lt;p&gt;Fütürizm, Konstrüktivizm ve Bauhaus gibi alt akımlar, teknik ilerlemenin ve modern dünyanın enerjisini yansıtan fotoğraflar üretti. Çarpıcı çizgiler, soyut desenler ve ilginç perspektifler, bu eserlerin temel özelliklerindendi. Özellikle Bauhaus okulu, fotoğrafa grafik tasarım ve mimari bakış açıları ekleyerek bu akımı ön plana taşıdı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: László Moholy-Nagy, Aleksandr Rodçenko&lt;/p&gt;
+
+&lt;h2 id=&quot;sürrealizm-hayal-ile-gerçeğin-buluşması&quot;&gt;Sürrealizm: Hayal ile Gerçeğin Buluşması&lt;/h2&gt;
+
+&lt;p&gt;1920’lerde sürrealist hareket, sanatın diğer alanları gibi fotoğrafa da etki etti ve bu sanat dalına çok katmanlı bir anlam kazandırdı. Sürrealizm, bilinçaltının dünyasını ve hayal gücünü gerçekle buluşturdu.&lt;/p&gt;
+
+&lt;p&gt;Fotoğrafçılar, gerçeküstü kompozisyonlar oluşturmak için karanlık oda tekniklerini ve manipülasyon yöntemlerini yoğun bir şekilde kullandı. Beklenmedik objeler ve soyut anlatılar, sürrealist fotoğrafçılığın temel ögeleriydi. Bu eserler, izleyiciyi sorgulamaya ve görülenin arkasındaki anlamı keşfetmeye davet etti.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Man Ray, Dora Maar&lt;/p&gt;
+
+&lt;h2 id=&quot;sembolizm-gizemli-ve-ruhsal-yansımalar&quot;&gt;Sembolizm: Gizemli ve Ruhsal Yansımalar&lt;/h2&gt;
+
+&lt;p&gt;Sembolizm, 19. yüzyılın sonlarında ortaya çıkan ve sanatın mistik, ruhsal ve metafiziksel yönlerini öne çıkaran bir akımdır. Bu akım, doğrudan bir anlatım yerine, derin anlamlar taşıyan semboller ve metaforlar aracılığıyla duygusal bir atmosfer yaratmayı amaçladı. Fotoğrafçılıkta sembolizm, soyut kavramları ifade etmek ve izleyicide derin düşünceler uyandırmak için kullanılan yenilikçi bir yol oldu.&lt;/p&gt;
+
+&lt;p&gt;Fotoğrafçılar, sembolist akımı benimseyerek, ruhsal derinliği ve insanın bilinçaltını yansıtan imgeler yaratmaya odaklandılar. Işık ve gölge oyunları, sembolist fotoğrafların vazgeçilmez unsurlarından biri haline geldi. Özellikle düşük ışıkta yapılan çekimler ve dramatik kontrastlar, fotoğrafların gizemli ve etkileyici bir hale gelmesini sağladı. Ayrıca, sembolist fotoğrafçılar sıklıkla doğa unsurlarını ve mitolojik temaları, insanın iç dünyasına dair sembollerle harmanlayarak eserlerinde derin bir anlam katmanı yarattılar.&lt;/p&gt;
+
+&lt;p&gt;Bu akım, sadece teknik bir yaklaşım değil, aynı zamanda bir felsefi duruş olarak da görüldü. Sembolizm, fotoğrafçılığın bir ruh hali veya his ifade etme aracı olarak kullanılabileceğini gösterdi ve bu sayede modern fotoğrafçılığın gelişimine önemli bir katkıda bulundu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Clarence H. White, Gertrude Käsebier&lt;/p&gt;
+
+&lt;h2 id=&quot;kubizm-çoklu-perspektifler&quot;&gt;Kubizm: Çoklu Perspektifler&lt;/h2&gt;
+
+&lt;p&gt;Kubizm, 20. yüzyılın başlarında Georges Braque ve Pablo Picasso tarafından resim sanatında başlatılmış bir devrim olarak bilinse de, fotoğrafçılıkta da derin etkiler bırakmıştır. Bu akım, bir objeyi farklı açılardan aynı anda göstererek üç boyutlu bir etki yaratmayı ve görsel algıyı yeniden tanımlamayı hedefler. Fotoğrafçılar, kolaj teknikleri, çoklu pozlama ve deneysel kompozisyonlarla bu yaklaşımı benimseyerek algıyı zorlayan eserler ürettiler. Bu eserlerde, bir nesnenin tüm yüzeylerini aynı anda göstermek ve zamanı tek bir karede sıkıştırmak gibi yaratıcı hedefler güdüldü.&lt;/p&gt;
+
+&lt;p&gt;Kubizm akımında soyut ve deneysel çalışmalar ön planda olup, modern yaşamın karmaşıklığını ve çok katmanlı doğasını ifade etmek için yeni yöntemler denendi. Fotoğrafçılar, geometrik şekiller, keskin açılar ve sıra dışı perspektifler kullanarak izleyicilerin görsel algısını genişletmeyi amaçladılar. Bu çabalar, fotoğrafın bir sanat dalı olarak değerini artırırken, hem estetik hem de teknik anlamda yeni ufuklar açtı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Paul Strand, Alvin Langdon Coburn, László Moholy-Nagy&lt;/p&gt;
+
+&lt;h2 id=&quot;soyutlama-form-ve-rengin-dansı&quot;&gt;Soyutlama: Form ve Rengin Dansı&lt;/h2&gt;
+
+&lt;p&gt;Soyutlama, objelerin fiziksel gerçeklikten koparılarak sadece şekil, renk ve formun vurgulandığı bir yaklaşımı temsil eder. Bu akım, sanatçılara çevrelerindeki dünyayı tamamen farklı bir bakış açısıyla keşfetme olanağı sundu. Fotoğrafçılar, gündelik objelerin detaylarına odaklanarak, onları sıradan birer nesne olmaktan çıkarıp sanatsal birer yapıta dönüştürdüler.&lt;/p&gt;
+
+&lt;p&gt;Soyut fotoğrafçılık, genellikle detayların büyütülmesi, dokuların vurgulanması ve alışılmadık kompozisyonların oluşturulması yoluyla gerçekleştirilir. Bu süreçte ışık ve gölge oyunları, renk kontrastları ve geometrik şekiller ön planda yer alır. Fotoğrafçılar, sıklıkla odak bulanıklığı, çoklu pozlama ve dijital manipülasyon gibi teknikleri kullanarak hayal gücünün sınırlarını zorladılar.&lt;/p&gt;
+
+&lt;p&gt;Bu yaklaşımla üretilen eserler, izleyicilere tamamen yeni bir estetik deneyim sunar. Günlük yaşamda göz ardı edilen veya fark edilmeyen detaylar, soyutlama yoluyla görsel bir şölen haline gelir. Ayrıca soyut fotoğrafçılık, izleyiciyi fotoğrafın anlamını keşfetmeye ve kendi yorumunu yapmaya davet eden bir özgürlük sağlar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Aaron Siskind, Minor White&lt;/p&gt;
+
+&lt;h2 id=&quot;dinamizm-ve-fütürizm-hızın-estetiği&quot;&gt;Dinamizm ve Fütürizm: Hızın Estetiği&lt;/h2&gt;
+
+&lt;p&gt;Fütürizm, 20. yüzyılın başlarında İtalya’da ortaya çıkan ve hareket, hız, enerji gibi modern dünyanın dinamiklerini yüceltmeyi amaçlayan bir sanat akımıdır. Fotoğrafçılıkta bu akım, hem estetik hem de teknik anlamda yenilikçi yaklaşımları teşvik etti. Fotoğrafçılar, uzun pozlama, çarpıcı açılar ve çoklu pozlama tekniklerini kullanarak hareketin görselleştirilmesine odaklandılar. Bu eserler, endüstriyel çağın temposunu, makinelerin gücünü ve şehir yaşamının canlılığını çarpıcı bir şekilde yansıtmayı hedefledi.&lt;/p&gt;
+
+&lt;p&gt;Fütürist fotoğraflar, sıkça akışkan hatlar, ritmik desenler ve soyutlamalar içerirken, modern yaşamın dinamiklerini izleyiciye güçlü bir şekilde hissettirdi. Özellikle fabrikalar, trenler, otomobiller gibi teknolojik ilerlemeyi simgeleyen unsurlar bu eserlerde belirgin bir şekilde yer aldı. Fotoğrafçılar, bu unsurları kullanarak hız ve hareket hissini dramatik bir şekilde yakaladı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Anton Giulio Bragaglia, Gjon Mili&lt;/p&gt;
+
+&lt;h2 id=&quot;pop-art-günlük-yaşamın-renkli-dünyası&quot;&gt;Pop-Art: Günlük Yaşamın Renkli Dünyası&lt;/h2&gt;
+
+&lt;p&gt;Pop-art, 1950’ler ve 60’larda ortaya çıkan ve popüler kültürün ögelerinden ilham alan bir sanat akımıdır. Sanatçılar, gündelik yaşamın sıradan nesnelerini ve kitlesel tüketim kültürünü sanatın merkezine yerleştirerek, hem eleştirel hem de mizahi bir yaklaşım benimsediler. Fotoğrafçılar bu akımın etkisiyle renkli, dikkat çekici ve sıradışı kompozisyonlar yarattılar. Reklam afişleri, gazete kupürleri, çizgi romanlar, tüketim ürünleri ve ünlü figürler, pop-art estetiğinde sıkça kullanılan temalar arasındaydı.&lt;/p&gt;
+
+&lt;p&gt;Pop-art fotoğrafçılığında kullanılan canlı renkler, çarpıcı kontrastlar ve grafiksel düzenlemeler, görsellerin göz alıcı ve dinamik bir yapıya kavuşmasını sağladı. Ayrıca, bu akımda sanatçıların sıklıkla toplumsal eleştiriyi ironik bir dille ifade etmeleri, eserlerin alt metinlerini zenginleştirdi. Popüler ikonların ve ürünlerin estetikle buluştuğu bu yaklaşım, tüketim toplumunun yüzeyselliğini sorgularken, aynı zamanda görselliğin gücünü kutlayan eserler ortaya çıkardı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Andy Warhol, David Hockney, Richard Hamilton&lt;/p&gt;
+
+&lt;h2 id=&quot;naturalizm-gerçeğin-yansıtılması&quot;&gt;Naturalizm: Gerçeğin Yansıtılması&lt;/h2&gt;
+
+&lt;p&gt;Naturalizm, 19. yüzyılın sonlarında, gerçekliği estetik bir yüceltme olmadan doğrudan yansıtma amacıyla ortaya çıkan bir sanat akımıdır. Bu akım, fotoğrafta özellikle doğal ışığın kullanımı ve sahnelerin olduğu gibi, müdahale edilmeden yakalanması üzerine yoğunlaştı. Fotoğrafçılar, günlük hayatın sıradan anlarını belgelemenin yanı sıra, doğanın özgün güzelliğini de vurgulamak için minimal bir estetik anlayışı benimsediler. Naturalist fotoğraflar, genellikle pastoral sahneler, köy yaşamı ve sıradan insan portreleri gibi konuları işlerken, gerçekçi detaylarıyla dikkat çekerdi. Fotoğrafçılar, bu akımı takip ederken kompozisyonda doğallığa ve spontane anların yakalanmasına büyük önem verdiler. Bunun sonucunda, eserler hem belgesel bir değere sahip oldu hem de sanat dünyasında yeni bir ifade biçimi olarak kabul gördü.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Peter Henry Emerson, Adolphe Braun&lt;/p&gt;
+
+&lt;h2 id=&quot;belgesel-fotoğrafa-toplumsal-bir-boyut&quot;&gt;Belgesel Fotoğrafa Toplumsal Bir Boyut&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/belgesel-fotografciligi&quot;&gt;Belgesel fotoğrafçılık&lt;/a&gt;, sanatın toplumsal sorumlulukla buluştuğu bir alan oldu. Gerçekleri sade bir dille aktarma amacıyla yola çıkan bu akım, savaşlar, ekonomik krizler ve göç gibi büyük olayları gözler önüne serdi.&lt;/p&gt;
+
+&lt;p&gt;Bu dönemde fotoğrafçılar, kameralarını birer tanıklık aracı olarak kullandı. Belgesel fotoğrafçılığın etkisi, halkın sosyal meseleler konusunda bilinçlenmesine katkı sağladı. Aynı zamanda bu eserler, tarihsel birer belge niteliği de taşıyordu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Dorothea Lange (“The Migrant Mother”), Sebastião Salgado&lt;/p&gt;
+
+&lt;h2 id=&quot;minimalizm-ve-modern-fotoğrafçılık&quot;&gt;Minimalizm ve Modern Fotoğrafçılık&lt;/h2&gt;
+
+&lt;p&gt;Minimalizm, 20. yüzyılın ikinci yarısında fotoğrafçılıkta sadeliği öne çıkardı. “Az ama etkili” sloganıyla hareket eden minimalist fotoğrafçılar, az sayıda objeyle yoğun anlamlar taşıyan eserler yaratmayı hedefledi.&lt;/p&gt;
+
+&lt;p&gt;Bu akımda kompozisyonlar genelde temiz hatlar, belirgin kontrastlar ve boşluk hissiyle karakterize edildi. Minimalist fotoğraflar, görsel sadeliğin ardında derin bir duygusal etki yaratmayı amaçladı.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Hiroshi Sugimoto, Michael Kenna&lt;/p&gt;
+
+&lt;h2 id=&quot;dijital-dönem-ve-postmodernizm&quot;&gt;Dijital Dönem ve Postmodernizm&lt;/h2&gt;
+
+&lt;p&gt;Dijital teknoloji, fotoğrafa yepyeni bir yaratıcılık alanı açtı. Postmodernist yaklaşımlar, geleneksel sınırların dışına çıkarak çok katmanlı anlatılar ve manipülasyon tekniklerini benimsedi. Fotoğrafçılar, dijital düzenleme yazılımlarını kullanarak gerçeğe meydan okuyan kompozisyonlar oluşturdu.&lt;/p&gt;
+
+&lt;p&gt;Bu dönemde, kavramsal çalışmalar öne çıktı ve fotoğraf sadece bir görünüm kaydından çok, bir düşünce ifade aracı haline geldi. Postmodernist eserler, hem teknik hem de anlatımsal açıdan son derece çeşitliydi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öne Çıkan Sanatçılar&lt;/strong&gt;: Cindy Sherman, Andreas Gursky&lt;/p&gt;
+
+&lt;h2 id=&quot;son-söz&quot;&gt;Son Söz&lt;/h2&gt;
+
+&lt;p&gt;Fotoğrafta sanat akımları, her dönemin ruhunu ve teknolojiyle olan ilişkisini ortaya koyar. Her bir akım, toplumsal, kültürel ve teknolojik değişimlerin birer aynasıdır.&lt;/p&gt;
+
+&lt;p&gt;Gelecekte hangi yeniliklerle karşılaşacağımız bilinmez, ancak fotoğrafçılık her zaman bir sanat formu olarak yaşamaya ve çağın hikâyesini anlatmaya devam edecektir. Siz hangi akımdan etkileniyorsunuz? Yorumlarda bizimle paylaşın!&lt;/p&gt;
+</description>
+                <pubDate>Tue, 24 Dec 2024 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/fotografta-sanat-akimlari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-sanat-akimlari</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Belgesel Fotoğrafçılığı: Gerçeğin Kadrajdaki Hikayesi</title>
@@ -74,8 +211,8 @@
 &lt;p&gt;Belgesel fotoğrafçılığı, sadece bir fotoğrafçılık dalı değil, aynı zamanda bir toplumsal sorumluluk şeklidir. Görünmeyeni göstermek, duyulmayanı duyurmak ve unutulmaya yüz tutan hikayeleri ölümsüzleştirmek, bu sanatın temel amacıdır. Doğru bir etik anlayış ve teknik bilgiyle, her fotoğrafçı kendi belgesel hikayesini oluşturabilir.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 22 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/belgesel-fotografciligi</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/belgesel-fotografciligi</guid>
+                <link>http://localhost:4000/belgesel-fotografciligi</link>
+                <guid isPermaLink="true">http://localhost:4000/belgesel-fotografciligi</guid>
                 
                 <category>belgesel fotoğrafçılığı</category>
                 
@@ -167,8 +304,8 @@
 &lt;p&gt;Işıkla boyama, yaratıcılığınızı serbest bırakabileceğiniz bir alan sunar. Düzenli pratik yaparak ve farklı teknikler deneyerek kendinize özgü bir stil geliştirebilirsiniz. Hayal gücünüz kullanın ve bu etkileyici tekniği fotoğraflarınıza dahil ederek sanatınıza yeni bir boyut kazandırın…&lt;/p&gt;
 </description>
                 <pubDate>Mon, 16 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/isikla-boyama</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/isikla-boyama</guid>
+                <link>http://localhost:4000/isikla-boyama</link>
+                <guid isPermaLink="true">http://localhost:4000/isikla-boyama</guid>
                 
                 <category>gece fotoğrafçılığı</category>
                 
@@ -238,8 +375,8 @@
 &lt;p&gt;Gece fotoğrafçılığı, sabır ve pratik gerektiren bir türdür. Yukarıdaki ipuçları ve tekniklerle hem yeni başlayanlar hem de deneyimli fotoğrafçılar için ilham verici kareler yakalamak mümkündür. Unutmayın, gece çekimleri her zaman beklenmedik sonuçlar sunabilir. Denemekten ve yaratıcılığınızı konuşturmaktan çekinmeyin!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 15 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/gece-fotografciligi</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/gece-fotografciligi</guid>
+                <link>http://localhost:4000/gece-fotografciligi</link>
+                <guid isPermaLink="true">http://localhost:4000/gece-fotografciligi</guid>
                 
                 <category>gece fotoğrafçılığı</category>
                 
@@ -334,8 +471,8 @@
 &lt;p&gt;UV ve polarize filtreler, fotoğrafçılığınızı bir üst seviyeye taşıyabilecek güçlü araçlardır. Doğru filtreyi seçmek, çekim yaptığınız ortamın koşullarını ve yaratıcı hedeflerinizi anlamayı gerektirir. Her iki filtreyi de çantanızda bulundurmak, hem lensinizi korumanıza hem de etkileyici kareler yakalamanıza yardımcı olacaktır.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 10 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografcilikta-uv-ve-polarize-filtreler</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografcilikta-uv-ve-polarize-filtreler</guid>
+                <link>http://localhost:4000/fotografcilikta-uv-ve-polarize-filtreler</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografcilikta-uv-ve-polarize-filtreler</guid>
                 
                 
             </item>
@@ -458,8 +595,8 @@
 &lt;p&gt;Doğru dosya formatını seçmek, sadece fotoğrafçılığınızın teknik kalitesini artırmaz; aynı zamanda iş akışınızı da optimize eder. Fotoğraf makinenizin desteklediği formatları tanımak ve bu formatları amacınıza göre bilinçli bir şekilde kullanmak, sizi hem amatör hem de profesyonel fotoğrafçılıkta bir adım öne taşıyacaktır.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 02 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-dosya-formatlari</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-dosya-formatlari</guid>
+                <link>http://localhost:4000/fotograf-makinesi-dosya-formatlari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesi-dosya-formatlari</guid>
                 
                 
             </item>
@@ -522,8 +659,8 @@
 &lt;p&gt;Sonuç olarak, hafıza kartı seçimi, fotoğrafçılık ekipmanınızın verimliliği ve çekim kalitesini doğrudan etkileyen bir faktördür. Makinenizin gereksinimlerini ve kendi ihtiyaçlarınızı göz önünde bulundurarak doğru kartı seçmek, hem işinizi kolaylaştırır hem de çekimlerinizi daha keyifli hale getirir.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 02 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makineleri-icin-hafiza-kartlari</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makineleri-icin-hafiza-kartlari</guid>
+                <link>http://localhost:4000/fotograf-makineleri-icin-hafiza-kartlari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makineleri-icin-hafiza-kartlari</guid>
                 
                 
             </item>
@@ -632,8 +769,8 @@
 &lt;p&gt;Fotoğraf makinelerinin sunduğu farklı odaklama teknolojilerini anlamak ve bunları yaratıcı bir şekilde kullanmak, daha etkileyici ve anlamlı kareler oluşturmanıza yardımcı olacaktır.&lt;/p&gt;
 </description>
                 <pubDate>Wed, 20 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/odak-nedir</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/odak-nedir</guid>
+                <link>http://localhost:4000/odak-nedir</link>
+                <guid isPermaLink="true">http://localhost:4000/odak-nedir</guid>
                 
                 <category>alan derinliği</category>
                 
@@ -692,8 +829,8 @@
 &lt;p&gt;Fotoğrafta piksel, dijital görüntülerin en temel birimi olarak fotoğraf kalitesini doğrudan etkiler. Çözünürlük ve piksel sayısı fotoğraflarda daha fazla ayrıntı yakalamanızı sağlarken, ekran ve baskı ortamına göre DPI veya PPI değerini doğru ayarlamak görüntü kalitesini artırır. Dijital fotoğrafçılık dünyasında piksel kavramını anlamak, fotoğraflarınızda daha bilinçli tercihler yapmanıza ve çekimlerde en iyi sonuçları elde etmenize yardımcı olacaktır. Fotoğraflarınızı bu bilgilerle en iyi şekilde değerlendirip sergilemeye başlayabilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 17 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotografta-piksel-nedir</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotografta-piksel-nedir</guid>
+                <link>http://localhost:4000/fotografta-piksel-nedir</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-piksel-nedir</guid>
                 
                 
             </item>
@@ -761,106 +898,8 @@
 &lt;p&gt;Fotomaratonlar, fotoğrafçılara kendilerini keşfetme ve geliştirme şansı sunan, bir o kadar da keyifli etkinliklerdir. Kendinizi denemek, fotoğrafçılığa dair yeni şeyler öğrenmek ve yaratıcı sınırlarınızı zorlamak için bir fotomaratona katılmaya ne dersiniz?&lt;/p&gt;
 </description>
                 <pubDate>Fri, 08 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotomaraton</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotomaraton</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Fotoğraf Makinesi Lensleri: Hangi Lens Hangi Çekim İçin Uygundur?</title>
-                <description>&lt;p&gt;Fotoğrafçılığın büyüleyici dünyasında, doğru lens seçimi çekimlerin kalitesini ve ruhunu belirleyen en önemli faktörlerden biridir. Özellikle hangi lensin hangi çekim türü için en ideal olduğunu anlamak, fotoğrafçılık yeteneklerinizi bir üst seviyeye taşıyabilir. Bu yazıda, farklı lens türlerini ve hangi durumlarda en iyi sonucu verdiğini inceleyeceğiz.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;standart-lensler-50mm&quot;&gt;Standart Lensler (50mm)&lt;/h2&gt;
-
-&lt;p&gt;Standart lensler, özellikle 50mm olanları, insan gözünün görüş açısına en yakın perspektifi sunar. Bu nedenle portre ve günlük çekim için idealdir. Farklı odak uzaklıklarına kıyasla daha hafif ve kompakt yapıda olmaları, taşınabilirliği arttırır. Ayrıca düşük ışık koşullarında başarılı performans gösterir ve oldukça keskin sonuçlar sunar.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Portre, sokak fotoğrafçılığı, günlük kullanım&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Kompakt, ışık hassasiyeti yüksek, düşük ışık performansı iyi&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/11/standart-lens.jpeg&quot; alt=&quot;Standart Lens&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 50mm f/1.2L USM&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;geniş-açı-lensler-10-35mm&quot;&gt;Geniş Açı Lensler (10-35mm)&lt;/h2&gt;
-
-&lt;p&gt;Geniş açı lensler, özellikle manzara ve mimari çekimlerde tercih edilir. Bu lensler daha geniş bir alanı çerçeveye sığdırarak, çevredeki tüm detayları etkileyici bir şekilde yakalamanızı sağlar. 24mm ve 35mm gibi odak uzaklıkları ise hem geniş açı hem de hafif bokeh etkisi yaratmak isteyenler için popüler seçeneklerdir.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Manzara, mimari, iç mekan çekimleri&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Geniş perspektif, güçlü alan derinliği kontrolü&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/11/genis-aci-lens.jpeg&quot; alt=&quot;Geniş Açı Lens&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF-S 10-18mm f/4.5-5.6 IS STM&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;telefoto-lensler-70-200mm-ve-üzeri&quot;&gt;Telefoto Lensler (70-200mm ve Üzeri)&lt;/h2&gt;
-
-&lt;p&gt;Telefoto lensler, uzak mesafelerdeki nesneleri yakınlaştırmak için tasarlanmıştır ve spor, vahşi yaşam veya doğa fotoğrafçılığı gibi çekim türlerinde sıkça tercih edilir. 70-200mm lensler, hem portre hem de uzaktan çekim için mükemmeldir. Ancak odak uzaklığı arttıkça, tripodsuz kullanımda netlik sağlamak zorlaşabilir.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Vahşi yaşam, spor, etkinlik çekimleri&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Uzaktaki nesneleri yakalama yeteneği, derin bokeh etkisi&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/11/telefoto-lens.jpeg&quot; alt=&quot;Telefoto Lens&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 70-200mm f/2.8L IS III USM&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;makro-lensler-100mm-ve-üzeri&quot;&gt;Makro Lensler (100mm ve Üzeri)&lt;/h2&gt;
-
-&lt;p&gt;Makro lensler, küçük nesneleri çok yakından çekmek için kullanılır ve özellikle böcek, çiçek ve detaylı obje çekimleri için tercih edilir. Bu lensler yüksek büyütme oranlarıyla en küçük detayları bile görünür hale getirir. Odak uzaklığı 100mm ve üzeri olan makro lensler, objeye çok yakın olmadan çekim yapmanızı sağlar.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kullanım Alanları&lt;/strong&gt;: Makro fotoğrafçılık, küçük objeler, doğa detayları&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avantajları&lt;/strong&gt;: Yüksek büyütme oranı, en ince detayları yakalayabilme&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2024/11/makro-lens.jpeg&quot; alt=&quot;Makro Lens&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Canon EF 100mm f/2.8L Macro IS USM&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;prime-ve-zoom-lensler&quot;&gt;Prime ve Zoom Lensler&lt;/h2&gt;
-
-&lt;p&gt;Prime lensler, sabit bir odak uzaklığına sahipken, zoom lensler esnek bir aralığa sahiptir ve farklı odak uzaklıklarına geçiş yapabilir. Prime lensler genellikle daha keskin ve hafifken, zoom lensler çok yönlülük açısından avantaj sağlar. Eğer fotoğrafçılık tarzınız daha statikse prime lens, farklı kadrajlar arıyorsanız zoom lens tercih edebilirsiniz.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Prime Lens&lt;/strong&gt;: Daha keskin görüntü, yüksek diyafram açıklığı, portre veya sanatsal çekimler için ideal&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Zoom Lens&lt;/strong&gt;: Farklı odak uzaklıklarında çekim, seyahat ve belgesel fotoğrafçılığı için uygun&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lens-seçiminde-dikkat-edilmesi-gerekenler&quot;&gt;Lens Seçiminde Dikkat Edilmesi Gerekenler&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Çekim Amacınız&lt;/strong&gt;: Hangi tür çekimlerde uzmanlaşmak istiyorsanız, o alana uygun bir lens seçmek işinizi kolaylaştırır.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diyafram Açıklığı&lt;/strong&gt;: Geniş diyafram açıklığı düşük ışık performansını artırır ve bokeh efekti sağlar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Taşınabilirlik&lt;/strong&gt;: Ağır ve büyük lensler uzun süreli çekimlerde yorucu olabilir; seyahatlerde veya günlük çekimlerde daha kompakt lensler tercih edilmelidir.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
-
-&lt;p&gt;Fotoğraf makinesi lensleri, görsel anlatım dilinizi zenginleştirmenin anahtarıdır. Farklı lens türlerini ve özelliklerini tanımak, size hem teknik hem de estetik açıdan büyük avantajlar sağlar. İhtiyacınıza ve stilinize en uygun lensi seçerek fotoğrafçılığınızı bir sonraki seviyeye taşıyabilirsiniz. Unutmayın, en iyi lens ihtiyaçlarınıza en iyi cevap veren lenstir!&lt;/p&gt;
-</description>
-                <pubDate>Mon, 04 Nov 2024 00:00:00 +0300</pubDate>
-                <link>http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</link>
-                <guid isPermaLink="true">http://www.siyahbeyaz.net.tr/fotograf-makinesi-lensleri-hangi-lens-hangi-cekim-icin-uygundur</guid>
+                <link>http://localhost:4000/fotomaraton</link>
+                <guid isPermaLink="true">http://localhost:4000/fotomaraton</guid>
                 
                 
             </item>
