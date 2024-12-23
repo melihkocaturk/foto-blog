@@ -18,7 +18,7 @@ description: "siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "http://www.siyahbeyaz.net.tr"
+url: "https://www.siyahbeyaz.net.tr"
 
 # Favicon
 favicon: images/favicon.png
