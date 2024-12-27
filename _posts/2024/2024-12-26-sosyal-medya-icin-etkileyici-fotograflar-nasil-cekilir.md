@@ -2,7 +2,7 @@
 layout: post
 title: "Sosyal Medya İçin Etkileyici Fotoğraflar Nasıl Çekilir?"
 description: "Bu yazıda, sosyal medya için dikkat çekici ve profesyonel görünümde fotoğraflar çekmek için bilmeniz gereken ipuçlarını paylaşacağız."
-date: 2024-12-27
+date: 2024-12-26
 feature_image: images/2024/12/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir.jpg
 tags: []
 ---
