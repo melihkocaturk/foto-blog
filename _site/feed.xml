@@ -3,11 +3,86 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>https://www.siyahbeyaz.net.tr/</link>
-        <atom:link href="https://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jan 2025 13:55:47 +0300</pubDate>
-        <lastBuildDate>Fri, 24 Jan 2025 13:55:47 +0300</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 25 Jan 2025 01:36:49 +0300</pubDate>
+        <lastBuildDate>Sat, 25 Jan 2025 01:36:49 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Gece Fotoğrafçılığı: Yıldızlı Gökyüzünü Nasıl Çekersiniz?</title>
+                <description>&lt;p&gt;Gece fotoğrafçılığı, büyüleyici ve zorlu bir dünyayı keşfetmek isteyen fotoğraf tutkunları için büyük bir ilham kaynağıdır. Yıldızlı bir gökyüzünü kaydetmek, sabır, teknik bilgi ve yaratıcılık gerektirir. Bu yazıda, yıldızlı gece fotoğrafçılığına dair temel ipuçlarını ve dikkat edilmesi gereken noktaları ayrıntılı bir şekilde ele alacağız.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;1-ekipman-seçimi&quot;&gt;1. Ekipman Seçimi&lt;/h2&gt;
+
+&lt;p&gt;Gece fotoğrafçılığında doğru ekipman, başarınızın anahtarıdır.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kamera&lt;/strong&gt;: Mümkünse manuel ayarlar sunan bir DSLR veya aynasız kamera tercih edin. Daha büyük sensöre sahip kameralar, gece çekimlerinde daha az gürültü oluşturur.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lens&lt;/strong&gt;: Geniş açı ve düşük diyafram değerine sahip bir lens (f/2.8 veya daha geniş) yıldız detaylarını yakalamak için idealdir. 14mm veya 24mm gibi geniş açı lensler, daha fazla gökyüzü alanı yakalamanıza yardımcı olur.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tripod&lt;/strong&gt;: Sabit ve dayanıklı bir tripod, uzun pozlama sırasında bulanıklığı önler. Hafif bir rüzgârda bile sallanmayan modelleri tercih edin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Uzaktan Tetikleyici&lt;/strong&gt;: Deklanşöre dokunmadan fotoğraf çekebilmek için kullanılır. Alternatif olarak, kameranızın zamanlayıcı modunu da kullanabilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-lokasyon-ve-zamanlama&quot;&gt;2. Lokasyon ve Zamanlama&lt;/h2&gt;
+
+&lt;p&gt;Gece fotoğrafçılığında lokasyon ve zamanlama, başarılı bir çekim için kritik öneme sahiptir.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Işık Kirliliği&lt;/strong&gt;: Mümkünse şehir ışıklarından uzak, karanlık bir alan seçin. Bunu tespit etmek için Light Pollution Map veya Dark Sky gibi uygulamaları kullanabilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ay Durumu&lt;/strong&gt;: Yeni ay dönemleri, yıldızları daha net bir şekilde görebilmeniz için idealdir. Dolunay ise gökyüzünü fazlasıyla aydınlatıp yıldız detaylarını gizleyebilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hava Koşulları&lt;/strong&gt;: Bulutsuz ve açık bir hava, yıldız fotoğrafçılığı için şarttır. Rüzgârın az olduğu geceler de çekim kalitenizi artırır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saat Dilimi&lt;/strong&gt;: Mümkünse gece yarısından sonraki saatleri tercih edin. Bu saatlerde atmosferdeki ışık kirliliği daha az olur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-kamera-ayarları&quot;&gt;3. Kamera Ayarları&lt;/h2&gt;
+
+&lt;p&gt;Gece fotoğrafçılığında, manuel ayarlar kullanmak şarttır:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;ISO&lt;/strong&gt;: 1600 ile 3200 arasında bir ISO değeri başlangıç için uygundur. Daha az gürültü elde etmek için düşük ISO değerleri deneyin, ancak bu durumda pozlama sürenizi artırmanız gerekebilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diyafram&lt;/strong&gt;: Mümkün olan en geniş diyafram (düşük f değeri) kullanılmalıdır. Bu, kameranıza daha fazla ışık girmesini sağlar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pozlama Süresi&lt;/strong&gt;: “500 Kuralı” olarak bilinen formüle başlayabilirsiniz: 500’ü lensinizin odak uzaklığına (mm cinsinden) bölün. Örneğin, 20mm bir lens için pozlama süremiz yaklaşık 25 saniye olur. Daha uzun pozlamalarda yıldızların hareket ederek iz bıraktığını görebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Netleme&lt;/strong&gt;: Otomatik netleme yerine manuel netlemeyi kullanarak lensinizi sonsuzluk (∞) işaretine ayarlayın. Netleme yapmakta zorlanıyorsanız, parlak bir yıldızı referans alabilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;4-kompozisyon-ve-kadraj&quot;&gt;4. Kompozisyon ve Kadraj&lt;/h2&gt;
+
+&lt;p&gt;Kompozisyon, bir gece fotoğrafını etkileyici kılan önemli bir unsurdur.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Öndeki Unsurlar&lt;/strong&gt;: Ağaçlar, dağ silületleri, eski yapılar veya su birikintileri gibi öndeki unsurlar, fotoğraflarınıza derinlik katar. Yansımaları fotoğraflarınıza dahil etmeyi deneyin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Samanyolu&lt;/strong&gt;: Samanyolu’nu fotoğraflamak istiyorsanız, mobil uygulamalardan (Sky Guide, Stellarium gibi) Samanyolu’nun konumunu takip edebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Orantı&lt;/strong&gt;: Gökyüzü ve yeryüzü arasındaki oranı dikkatlice ayarlayarak dengeli bir kadraj oluşturun.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-sonraki-aşama-fotoğraf-düzenleme&quot;&gt;5. Sonraki Aşama: Fotoğraf Düzenleme&lt;/h2&gt;
+
+&lt;p&gt;Gece çekimleri genellikle ham (RAW) formatında çekilir. Bu format, daha fazla düzenleme esnekliği sunar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Programlar&lt;/strong&gt;: Adobe Lightroom, Photoshop veya Capture One gibi yazılımlar, beyaz dengesi, kontrast ve parlaklık gibi detayları iyileştirmek için kullanılabilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Beyaz Dengesi&lt;/strong&gt;: Gece çekimlerinde doğru beyaz dengesini ayarlamak, yıldızların renklerini doğru bir şekilde yansıtmanıza yardımcı olur. Soğuk tonlar genellikle daha dramatik bir etki yaratır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gren Azaltma&lt;/strong&gt;: Yüksek ISO değerleri nedeniyle oluşan grenleri azaltmak için bu programlardan faydalanabilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yıldız Detayları&lt;/strong&gt;: Parlaklık ve kontrast ayarı yaparak yıldızları daha belirgin hale getirebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-sabır-ve-deneme&quot;&gt;6. Sabır ve Deneme&lt;/h2&gt;
+
+&lt;p&gt;Gece fotoğrafçılığı sabır gerektirir. Farklı ayarlar, teknikler ve lokasyonlar deneyerek en iyi sonuca ulaşabilirsiniz. Unutmayın, her çekim bir öğrenme fırsatıdır. Aynı zamanda, çekim yaparken gece doğasının keyfini çıkarmayı unutmayın.&lt;/p&gt;
+
+&lt;p&gt;Yıldızlı gökyüzünü fotoğraflamak, doğanın ihtişamını belgelemek için harika bir yoldur. Yukarıdaki ipuçlarını takip ederek kendi büyüleyici gece fotoğraflarınızı oluşturabilirsiniz. Siz de deneyimlerinizi ve çektiğiniz kareleri bizimle paylaşmayı unutmayın!&lt;/p&gt;
+</description>
+                <pubDate>Sat, 25 Jan 2025 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</link>
+                <guid isPermaLink="true">http://localhost:4000/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</guid>
+                
+                <category>gece fotoğrafçılığı</category>
+                
+                
+            </item>
         
             <item>
                 <title>Mobil Fotoğrafçılık için En İyi İpuçları ve Teknikler</title>
@@ -65,8 +140,8 @@
 &lt;p&gt;Mobil fotoğrafçılık, biraz pratik ve yaratıcılıkla ustalaşabileceğiniz bir alan. Bu detaylı ipuçlarını kullanarak fotoğraflarınızı bir üst seviyeye taşıyabilir, kendi görsel hikayelerinizi yaratabilir ve çevrenizdeki güzellikleri yeniden keşfedebilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 24 Jan 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</guid>
+                <link>http://localhost:4000/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</link>
+                <guid isPermaLink="true">http://localhost:4000/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</guid>
                 
                 <category>mobil fotoğrafçılık</category>
                 
@@ -138,8 +213,8 @@
 &lt;p&gt;Yemek fotoğrafçılığı, hem yaratıcılığınızı konuşturabileceğiniz hem de lezzetli anılar biriktirebileceğiniz bir sanat dalıdır. İster bir blog yazarı olun ister sosyal medya için içerik üretiyor olun, bu ipuçlarıyla daha etkileyici yemek fotoğrafları çekebilirsiniz. Unutmayın, her fotoğraf bir hikâye anlatır ve sizin hikâyeniz, tabağınızdaki yemekle başlar.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 16 Jan 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/yemek-fotografciliginda-ustalasmanin-yollari</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/yemek-fotografciliginda-ustalasmanin-yollari</guid>
+                <link>http://localhost:4000/yemek-fotografciliginda-ustalasmanin-yollari</link>
+                <guid isPermaLink="true">http://localhost:4000/yemek-fotografciliginda-ustalasmanin-yollari</guid>
                 
                 <category>yemek fotoğrafçılığı</category>
                 
@@ -211,8 +286,8 @@
 &lt;p&gt;Evde ürün fotoğrafçılığı yapmak, düşük bir bütçeyle bile mümkün. Doğal ışık, sade arka planlar ve basit düzenleme uygulamaları ile harika fotoğraflar çekebilirsiniz. Yaratıcılığınızı kullanarak hem zamandan hem de paradan tasarruf ederken profesyonel görünüme ulaşabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 29 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</guid>
+                <link>http://localhost:4000/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</link>
+                <guid isPermaLink="true">http://localhost:4000/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</guid>
                 
                 <category>ürün fotoğrafçılığı</category>
                 
@@ -285,8 +360,8 @@
 &lt;p&gt;Eğer siz de YZ destekli araçları kullanıyorsanız, deneyimlerinizi yorumlarda paylaşmayı unutmayın!&lt;/p&gt;
 </description>
                 <pubDate>Sat, 28 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/yapay-zeka-ile-fotograf-duzenleme</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/yapay-zeka-ile-fotograf-duzenleme</guid>
+                <link>http://localhost:4000/yapay-zeka-ile-fotograf-duzenleme</link>
+                <guid isPermaLink="true">http://localhost:4000/yapay-zeka-ile-fotograf-duzenleme</guid>
                 
                 <category>yapay zeka</category>
                 
@@ -367,8 +442,8 @@
 &lt;p&gt;Etkileyici fotoğraflar çekmek, pratik ve dikkat gerektirir. Yukarıda paylaştığımız ipuçlarını takip ederek sosyal medya hesaplarınızı fark edilir hale getirebilirsiniz. Unutmayın, iyi bir fotoğraf sadece teknik bilgiyle değil, aynı zamanda hayal gücünüzle de ilgilidir. İlham alın, denemekten korkmayın ve kendi tarzınızı yaratın!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 26 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</guid>
+                <link>http://localhost:4000/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</link>
+                <guid isPermaLink="true">http://localhost:4000/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</guid>
                 
                 
             </item>
@@ -430,8 +505,8 @@
 &lt;p&gt;Unutmayın, en iyi fotoğraf makinesi elinizdeki makinadır; ama o makineyi nasıl kullandığınız daha önemlidir. Fotoğrafçılık yolculuğunuzda keyifli anlar ve benzersiz kareler dileriz!&lt;/p&gt;
 </description>
                 <pubDate>Wed, 25 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</guid>
+                <link>http://localhost:4000/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</link>
+                <guid isPermaLink="true">http://localhost:4000/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</guid>
                 
                 
             </item>
@@ -567,8 +642,8 @@
 &lt;p&gt;Gelecekte hangi yeniliklerle karşılaşacağımız bilinmez, ancak fotoğrafçılık her zaman bir sanat formu olarak yaşamaya ve çağın hikâyesini anlatmaya devam edecektir. Siz hangi akımdan etkileniyorsunuz? Yorumlarda bizimle paylaşın!&lt;/p&gt;
 </description>
                 <pubDate>Tue, 24 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/fotografta-sanat-akimlari</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotografta-sanat-akimlari</guid>
+                <link>http://localhost:4000/fotografta-sanat-akimlari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-sanat-akimlari</guid>
                 
                 
             </item>
@@ -638,8 +713,8 @@
 &lt;p&gt;Belgesel fotoğrafçılığı, sadece bir fotoğrafçılık dalı değil, aynı zamanda bir toplumsal sorumluluk şeklidir. Görünmeyeni göstermek, duyulmayanı duyurmak ve unutulmaya yüz tutan hikayeleri ölümsüzleştirmek, bu sanatın temel amacıdır. Doğru bir etik anlayış ve teknik bilgiyle, her fotoğrafçı kendi belgesel hikayesini oluşturabilir.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 22 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/belgesel-fotografciligi</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/belgesel-fotografciligi</guid>
+                <link>http://localhost:4000/belgesel-fotografciligi</link>
+                <guid isPermaLink="true">http://localhost:4000/belgesel-fotografciligi</guid>
                 
                 <category>belgesel fotoğrafçılığı</category>
                 
@@ -731,79 +806,8 @@
 &lt;p&gt;Işıkla boyama, yaratıcılığınızı serbest bırakabileceğiniz bir alan sunar. Düzenli pratik yaparak ve farklı teknikler deneyerek kendinize özgü bir stil geliştirebilirsiniz. Hayal gücünüz kullanın ve bu etkileyici tekniği fotoğraflarınıza dahil ederek sanatınıza yeni bir boyut kazandırın…&lt;/p&gt;
 </description>
                 <pubDate>Mon, 16 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/isikla-boyama</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/isikla-boyama</guid>
-                
-                <category>gece fotoğrafçılığı</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Gece Fotoğrafçılığı: Harika Kareler Çekmek İçin İpuçları ve Teknikler</title>
-                <description>&lt;p&gt;Gece fotoğrafçılığı, fotoğrafçıların ışığın az olduğu koşullarda yaratıcılıklarını sergilediği bir sanat dalıdır. Yıldızlı gökyüzünden, şehir ışıklarına kadar birçok ilham verici konu gece çekimlerinde hayat bulur. Bu rehberde, gece fotoğrafçılığı hakkında detaylı bilgiler ve en iyi kareleri yakalamak için ihtiyaç duyacağınız ipuçlarını bulabilirsiniz.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;gece-fotoğrafçılığı-nedir&quot;&gt;Gece Fotoğrafçılığı Nedir?&lt;/h2&gt;
-
-&lt;p&gt;Gece fotoğrafçılığı, gün batımından sonra veya ışığın doğal olarak az olduğu saatlerde yapılan fotoğraf çekimlerini kapsar. Bu tarz fotoğraflarda, düşük ışık koşullarına uygun ekipman ve doğru ayarlarla etkileyici sonuçlar elde edebilirsiniz. Özellikle yıldız fotoğrafçılığı ve ışık izleri gibi özel teknikler, gece fotoğrafçılığını benzersiz kılar.&lt;/p&gt;
-
-&lt;h2 id=&quot;gece-fotoğrafçılığı-i̇çin-gerekli-ekipmanlar&quot;&gt;Gece Fotoğrafçılığı İçin Gerekli Ekipmanlar&lt;/h2&gt;
-
-&lt;p&gt;Gece çekimlerinde başarılı olmak için doğru ekipmanlara sahip olmanız önemlidir. İşte önerilen bazı ekipmanlar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tripod&lt;/strong&gt;: Uzun pozlama gerektiren gece çekimleri için sabit bir platform sağlar. Sağlam ve hafif bir tripod tercih edin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hızlı Lensler&lt;/strong&gt;: Geniş diyafram açıklığına sahip lensler (örneğin, f/1.8 veya f/2.8) daha fazla ışık alarak daha iyi sonuçlar verir. Ayrıca, geniş açı lensler yıldızlı gökyüzü çekimleri için idealdir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Uzaktan Deklanşör&lt;/strong&gt;: Kamerayı elle tetiklemek yerine titreşimsiz çekimler yapmayı sağlar. Alternatif olarak, kamera zamanlayıcısını kullanabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ekstra Batarya ve Hafıza Kartları&lt;/strong&gt;: Gece çekimleri uzun sürebileceği için yedek batarya ve hafıza kartları bulundurmak önemlidir. Soğuk havalarda bataryaların hızlı tükenebileceğini unutmayın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fener veya Baş Lambası&lt;/strong&gt;: Çekim sırasında çevrenizi görmek ve ayar yapmak için kullanışlıdır. Kırmızı ışık moduna sahip bir fener, gece görüşünüzü koruyabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ND Filtreleri&lt;/strong&gt;: Özellikle ışık kirliliğinin yoğun olduğu yerlerde daha uzun pozlamalar için faydalı olabilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gece-fotoğrafçılığı-teknikleri&quot;&gt;Gece Fotoğrafçılığı Teknikleri&lt;/h2&gt;
-
-&lt;p&gt;Başarılı gece fotoğrafları çekmek için bazı teknikleri bilmek önemlidir. İşte en önemli yöntemler:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Manuel Modu Kullanın&lt;/strong&gt;: Gece çekimlerinde kameranızı manuel moda alarak kontrolü elinize alın. ISO, diyafram ve enstantane hızını kendiniz ayarlayarak istediğiniz sonuçları elde edebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ISO Ayarları&lt;/strong&gt;: Gece fotoğrafçılığında ISO genellikle daha yüksek değerlere çıkarılır. Ancak, çok yüksek ISO ayarları görüntüde gürültüye neden olabilir. Dengeli bir ISO seviyesi seçmek önemlidir (örneğin, 800-3200 arası). Gürültüyü azaltmak için gelişmiş düzenleme yazılımlarını kullanabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Uzun Pozlama&lt;/strong&gt;: Uzun pozlama, ışık izleri, yıldız döngüsü veya sakin su yüzeyleri gibi etkileyici görüntüler yaratmanızı sağlar. Tripod kullanarak sabit bir çekim yapabilirsiniz. Pozlama süresi genellikle 15 saniye ile birkaç dakika arasında değişebilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doğru Beyaz Dengesi&lt;/strong&gt;: Gece ışıkları genellikle farklı renk sıcaklıklarına sahiptir. Sokak lambaları genellikle sıcak tonlarda olurken, LED ışıklar daha soğuk bir tona sahiptir. Beyaz dengesini manuel olarak ayarlayarak renklerin doğal görünmesini sağlayabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Odaklama&lt;/strong&gt;: Düşük ışık koşullarında otomatik odaklama zor olabilir. Manuel odaklama yaparak net sonuçlar alabilirsiniz. Lensinizdeki “sonsuz odak” ayarını kullanmayı deneyin ve canlı ön izleme (live view) ile netlik kontrolü yapın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Işık Kirliliğini Yönetme&lt;/strong&gt;: Işık kirliliği gece çekimlerinde büyük bir engel olabilir. Daha karanlık alanlar seçmek veya ışık kirliliği filtreleri kullanmak bu sorunu minimize edebilir.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;gece-fotoğrafçılığı-i̇çin-i̇lham-veren-konular&quot;&gt;Gece Fotoğrafçılığı İçin İlham Veren Konular&lt;/h2&gt;
-
-&lt;p&gt;Gece çekimlerinde üzerinde çalışabileceğiniz birçok ilginç konu vardır. İşte bazı öneriler:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Yıldızlı Gökyüzü ve Samanyolu&lt;/strong&gt;: Samanyolu fotoğrafçılığı için ışık kirliliğinden uzak yerler tercih edin. Astrofotoğraf uygulamaları ile yıldızların konumunu belirleyebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Şehir Manzaraları ve Işıkları&lt;/strong&gt;: Şehirlerin silüetleri ve ışıklandırmaları dramatik kareler sunar. Altın oranı kullanarak kompozisyonunuzu güçlendirin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Havai Fişek Gösterileri&lt;/strong&gt;: Patlama anını yakalamak için düşük ISO, f/8 ve 2-5 saniye pozlama ayarlarını deneyin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Araç Işık İzleri&lt;/strong&gt;: Yoğun trafik olan bir yolda uzun pozlamalarla etkileyici ışık izleri oluşturabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Portre Çekimleri (Gece ışıklandırmalarıyla)&lt;/strong&gt;: Sokak lambaları veya neon tabelalar gibi yapay ışık kaynaklarını yaratıcı bir şekilde kullanabilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gece-fotoğrafçılığı-i̇çin-i̇puçları&quot;&gt;Gece Fotoğrafçılığı İçin İpuçları&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Planlama Yapın&lt;/strong&gt;: Çekim yapacağınız yerin ışık durumunu ve hava tahminlerini kontrol edin. Ayın evresine dikkat ederek yıldız fotoğrafçılığı için uygun zamanları seçin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Altın Saat ve Mavi Saat&lt;/strong&gt;: Gün batımından hemen sonra ya da gün doğumundan hemen önce çekim yaparak atmosferik ışıklardan yararlanın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Deneme Yanılma Yöntemi&lt;/strong&gt;: Ayarlarınızı sürekli olarak deneyerek en iyi sonucu elde edin. Pozlama süresi ve ISO gibi değişkenlerle oynayın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hareketli Işıklarla Deney Yapın&lt;/strong&gt;: Light painting (&lt;a href=&quot;/isikla-boyama&quot;&gt;ışıkla boyama&lt;/a&gt;) gibi yaratıcı tekniklerle farklı sonuçlar elde edebilirsiniz. El feneri veya LED ışıklarla şekiller çizebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;RAW Formatında Çekin&lt;/strong&gt;: RAW formatı daha fazla düzenleme seçeneği sunar. Post prodüksiyon aşamasında renk düzeltmesi ve gürültü azaltma gibi işlemleri kolaylaştırır.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
-
-&lt;p&gt;Gece fotoğrafçılığı, sabır ve pratik gerektiren bir türdür. Yukarıdaki ipuçları ve tekniklerle hem yeni başlayanlar hem de deneyimli fotoğrafçılar için ilham verici kareler yakalamak mümkündür. Unutmayın, gece çekimleri her zaman beklenmedik sonuçlar sunabilir. Denemekten ve yaratıcılığınızı konuşturmaktan çekinmeyin!&lt;/p&gt;
-</description>
-                <pubDate>Sun, 15 Dec 2024 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/gece-fotografciligi</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/gece-fotografciligi</guid>
+                <link>http://localhost:4000/isikla-boyama</link>
+                <guid isPermaLink="true">http://localhost:4000/isikla-boyama</guid>
                 
                 <category>gece fotoğrafçılığı</category>
                 
