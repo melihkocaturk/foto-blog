@@ -2,7 +2,7 @@
 layout: post
 title: "Gece Fotoğrafçılığı: Yıldızlı Gökyüzünü Nasıl Çekersiniz?"
 description: "Bu yazıda, yıldızlı gece fotoğrafçılığına dair ipuçlarını ve dikkat edilmesi gerekenleri ele alacağız."
-date: 2025-01-25
+date: 2025-01-24
 feature_image: images/2025/01/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz.jpg
 tags: [gece fotoğrafçılığı]
 ---
