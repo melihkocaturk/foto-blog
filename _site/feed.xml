@@ -3,10 +3,10 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jan 2025 01:36:49 +0300</pubDate>
-        <lastBuildDate>Sat, 25 Jan 2025 01:36:49 +0300</lastBuildDate>
+        <link>https://www.siyahbeyaz.net.tr/</link>
+        <atom:link href="https://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 25 Jan 2025 01:53:45 +0300</pubDate>
+        <lastBuildDate>Sat, 25 Jan 2025 01:53:45 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
         
             <item>
@@ -76,8 +76,8 @@
 &lt;p&gt;Yıldızlı gökyüzünü fotoğraflamak, doğanın ihtişamını belgelemek için harika bir yoldur. Yukarıdaki ipuçlarını takip ederek kendi büyüleyici gece fotoğraflarınızı oluşturabilirsiniz. Siz de deneyimlerinizi ve çektiğiniz kareleri bizimle paylaşmayı unutmayın!&lt;/p&gt;
 </description>
                 <pubDate>Sat, 25 Jan 2025 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</link>
-                <guid isPermaLink="true">http://localhost:4000/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</guid>
+                <link>https://www.siyahbeyaz.net.tr/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/gece-fotografciligi-yildizli-gokyuzunu-nasil-cekersiniz</guid>
                 
                 <category>gece fotoğrafçılığı</category>
                 
@@ -140,8 +140,8 @@
 &lt;p&gt;Mobil fotoğrafçılık, biraz pratik ve yaratıcılıkla ustalaşabileceğiniz bir alan. Bu detaylı ipuçlarını kullanarak fotoğraflarınızı bir üst seviyeye taşıyabilir, kendi görsel hikayelerinizi yaratabilir ve çevrenizdeki güzellikleri yeniden keşfedebilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 24 Jan 2025 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</link>
-                <guid isPermaLink="true">http://localhost:4000/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</guid>
+                <link>https://www.siyahbeyaz.net.tr/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler</guid>
                 
                 <category>mobil fotoğrafçılık</category>
                 
@@ -213,8 +213,8 @@
 &lt;p&gt;Yemek fotoğrafçılığı, hem yaratıcılığınızı konuşturabileceğiniz hem de lezzetli anılar biriktirebileceğiniz bir sanat dalıdır. İster bir blog yazarı olun ister sosyal medya için içerik üretiyor olun, bu ipuçlarıyla daha etkileyici yemek fotoğrafları çekebilirsiniz. Unutmayın, her fotoğraf bir hikâye anlatır ve sizin hikâyeniz, tabağınızdaki yemekle başlar.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 16 Jan 2025 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/yemek-fotografciliginda-ustalasmanin-yollari</link>
-                <guid isPermaLink="true">http://localhost:4000/yemek-fotografciliginda-ustalasmanin-yollari</guid>
+                <link>https://www.siyahbeyaz.net.tr/yemek-fotografciliginda-ustalasmanin-yollari</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/yemek-fotografciliginda-ustalasmanin-yollari</guid>
                 
                 <category>yemek fotoğrafçılığı</category>
                 
@@ -286,8 +286,8 @@
 &lt;p&gt;Evde ürün fotoğrafçılığı yapmak, düşük bir bütçeyle bile mümkün. Doğal ışık, sade arka planlar ve basit düzenleme uygulamaları ile harika fotoğraflar çekebilirsiniz. Yaratıcılığınızı kullanarak hem zamandan hem de paradan tasarruf ederken profesyonel görünüme ulaşabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 29 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</link>
-                <guid isPermaLink="true">http://localhost:4000/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</guid>
+                <link>https://www.siyahbeyaz.net.tr/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler</guid>
                 
                 <category>ürün fotoğrafçılığı</category>
                 
@@ -360,8 +360,8 @@
 &lt;p&gt;Eğer siz de YZ destekli araçları kullanıyorsanız, deneyimlerinizi yorumlarda paylaşmayı unutmayın!&lt;/p&gt;
 </description>
                 <pubDate>Sat, 28 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/yapay-zeka-ile-fotograf-duzenleme</link>
-                <guid isPermaLink="true">http://localhost:4000/yapay-zeka-ile-fotograf-duzenleme</guid>
+                <link>https://www.siyahbeyaz.net.tr/yapay-zeka-ile-fotograf-duzenleme</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/yapay-zeka-ile-fotograf-duzenleme</guid>
                 
                 <category>yapay zeka</category>
                 
@@ -442,8 +442,8 @@
 &lt;p&gt;Etkileyici fotoğraflar çekmek, pratik ve dikkat gerektirir. Yukarıda paylaştığımız ipuçlarını takip ederek sosyal medya hesaplarınızı fark edilir hale getirebilirsiniz. Unutmayın, iyi bir fotoğraf sadece teknik bilgiyle değil, aynı zamanda hayal gücünüzle de ilgilidir. İlham alın, denemekten korkmayın ve kendi tarzınızı yaratın!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 26 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</link>
-                <guid isPermaLink="true">http://localhost:4000/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</guid>
+                <link>https://www.siyahbeyaz.net.tr/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/sosyal-medya-icin-etkileyici-fotograflar-nasil-cekilir</guid>
                 
                 
             </item>
@@ -505,8 +505,8 @@
 &lt;p&gt;Unutmayın, en iyi fotoğraf makinesi elinizdeki makinadır; ama o makineyi nasıl kullandığınız daha önemlidir. Fotoğrafçılık yolculuğunuzda keyifli anlar ve benzersiz kareler dileriz!&lt;/p&gt;
 </description>
                 <pubDate>Wed, 25 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</link>
-                <guid isPermaLink="true">http://localhost:4000/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</guid>
+                <link>https://www.siyahbeyaz.net.tr/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/dijital-ve-analog-fotografcilik-hangi-secim-size-daha-uygun</guid>
                 
                 
             </item>
@@ -642,8 +642,8 @@
 &lt;p&gt;Gelecekte hangi yeniliklerle karşılaşacağımız bilinmez, ancak fotoğrafçılık her zaman bir sanat formu olarak yaşamaya ve çağın hikâyesini anlatmaya devam edecektir. Siz hangi akımdan etkileniyorsunuz? Yorumlarda bizimle paylaşın!&lt;/p&gt;
 </description>
                 <pubDate>Tue, 24 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/fotografta-sanat-akimlari</link>
-                <guid isPermaLink="true">http://localhost:4000/fotografta-sanat-akimlari</guid>
+                <link>https://www.siyahbeyaz.net.tr/fotografta-sanat-akimlari</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotografta-sanat-akimlari</guid>
                 
                 
             </item>
@@ -713,8 +713,8 @@
 &lt;p&gt;Belgesel fotoğrafçılığı, sadece bir fotoğrafçılık dalı değil, aynı zamanda bir toplumsal sorumluluk şeklidir. Görünmeyeni göstermek, duyulmayanı duyurmak ve unutulmaya yüz tutan hikayeleri ölümsüzleştirmek, bu sanatın temel amacıdır. Doğru bir etik anlayış ve teknik bilgiyle, her fotoğrafçı kendi belgesel hikayesini oluşturabilir.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 22 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/belgesel-fotografciligi</link>
-                <guid isPermaLink="true">http://localhost:4000/belgesel-fotografciligi</guid>
+                <link>https://www.siyahbeyaz.net.tr/belgesel-fotografciligi</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/belgesel-fotografciligi</guid>
                 
                 <category>belgesel fotoğrafçılığı</category>
                 
@@ -806,8 +806,8 @@
 &lt;p&gt;Işıkla boyama, yaratıcılığınızı serbest bırakabileceğiniz bir alan sunar. Düzenli pratik yaparak ve farklı teknikler deneyerek kendinize özgü bir stil geliştirebilirsiniz. Hayal gücünüz kullanın ve bu etkileyici tekniği fotoğraflarınıza dahil ederek sanatınıza yeni bir boyut kazandırın…&lt;/p&gt;
 </description>
                 <pubDate>Mon, 16 Dec 2024 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/isikla-boyama</link>
-                <guid isPermaLink="true">http://localhost:4000/isikla-boyama</guid>
+                <link>https://www.siyahbeyaz.net.tr/isikla-boyama</link>
+                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/isikla-boyama</guid>
                 
                 <category>gece fotoğrafçılığı</category>
                 
