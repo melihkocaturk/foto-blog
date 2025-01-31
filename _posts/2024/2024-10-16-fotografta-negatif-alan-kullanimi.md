@@ -4,7 +4,7 @@ title: "Fotoğrafta Negatif Alan Kullanımı: Minimalist Bir Güç"
 description: "Altın saat, güneşin doğuşundan hemen sonraki ve batışından hemen önceki zaman dilimini tanımlamak için kullanılır."
 date: 2024-10-16
 feature_image: images/2024/10/negatif-alan.jpg
-tags: [negatif alan, kompozisyon]
+tags: [negatif alan, kompozisyon, minimalizm]
 ---
 
 Fotoğrafçılıkta kompozisyonun temel öğelerinden biri, nesnelerin nasıl yerleştirildiğidir. Genellikle gözümüz fotoğraftaki ana nesneye odaklansa da, çevresindeki boşluk - yani **negatif alan** - sanatın sessiz ama etkili bir oyuncusudur. Bu yazıda, fotoğrafta negatif alanın nasıl kullanıldığını ve bu minimalist gücün nasıl etkili bir şekilde kullanılabileceğini inceleyeceğiz.
