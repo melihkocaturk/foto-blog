@@ -3,11 +3,217 @@
     <channel>
         <title>SiyahBeyaz</title>
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
-        <link>https://www.siyahbeyaz.net.tr/</link>
-        <atom:link href="https://www.siyahbeyaz.net.tr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Feb 2025 01:02:38 +0300</pubDate>
-        <lastBuildDate>Mon, 17 Feb 2025 01:02:38 +0300</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 19 Feb 2025 22:35:23 +0300</pubDate>
+        <lastBuildDate>Wed, 19 Feb 2025 22:35:23 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Vintage Analog Kameralar: Tarihi Modeller ve Kullanım Önerileri</title>
+                <description>&lt;p&gt;Analog fotoğrafçılık, dijital dünyada bile popülerliğini koruyan özel bir sanat formu. Filmli kameraların sunduğu nostaljik his, mekanik yapıların dayanıklılığı ve analog çekim teknikleri, günümüzde birçok fotoğrafçıyı kendine çekiyor. Bu yazımızda, tarihe damga vurmuş bazı analog kamera modellerini inceleyerek, ikinci el alımında dikkat edilmesi gerekenleri ve eski lenslerin dijital makinelerde nasıl kullanılabileceğini ele alacağız.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;tarihi-modeller-leica-nikon-canon-pentax-ve-daha-fazlası&quot;&gt;Tarihi Modeller: Leica, Nikon, Canon, Pentax ve Daha Fazlası&lt;/h2&gt;
+
+&lt;h3 id=&quot;leica-m3-1954&quot;&gt;Leica M3 (1954)&lt;/h3&gt;
+
+&lt;p&gt;Leica M3, dünyanın en iyi rangefinder kameralarından biri olarak kabul edilir. 1954’te piyasaya sürülen bu model, üstün optik kalitesi, mekanik hassasiyeti ve kompakt yapısıyla döneminin en prestijli kameralarından biri olmuştur. Günümüzde koleksiyoncular ve analog fotoğrafçılar tarafından hâlâ büyük ilgi görmektedir.&lt;/p&gt;
+
+&lt;h3 id=&quot;nikon-f-1959&quot;&gt;Nikon F (1959)&lt;/h3&gt;
+
+&lt;p&gt;Nikon F, SLR (Single-Lens Reflex) kameraların standartlarını belirleyen modellerden biridir. Değiştirilebilir lens ve prizma sistemi ile modüler bir yapıya sahip olan bu kamera, profesyonel fotoğrafçılar için uzun yıllar vazgeçilmez bir seçenek olmuştur.&lt;/p&gt;
+
+&lt;h3 id=&quot;canon-ae-1-1976&quot;&gt;Canon AE-1 (1976)&lt;/h3&gt;
+
+&lt;p&gt;Canon AE-1, ilk elektronik kontrollü SLR modellerinden biri olup, amatör ve profesyonel fotoğrafçılar için kullanım kolaylığı sağlamıştır. Otomatik pozlama özelliğiyle filmli fotoğrafçılığı herkes için erişilebilir hale getirmiştir.&lt;/p&gt;
+
+&lt;h3 id=&quot;pentax-k1000-1976&quot;&gt;Pentax K1000 (1976)&lt;/h3&gt;
+
+&lt;p&gt;Pentax K1000, dayanıklılığı ve sadeliği ile efsaneleşmiş bir modeldir. Manuel kontrolleri sayesinde yeni başlayanlar için harika bir eğitim kamerası olmuştur. Günümüzde hâlâ uygun fiyatlı ve güvenilir bir seçenek olarak bulunabilir.&lt;/p&gt;
+
+&lt;h2 id=&quot;i̇kinci-el-kamera-alırken-dikkat-edilmesi-gerekenler&quot;&gt;İkinci El Kamera Alırken Dikkat Edilmesi Gerekenler&lt;/h2&gt;
+
+&lt;p&gt;Analog bir kamera almayı düşünüyorsanız, özellikle ikinci el piyasasında dikkatli olmanız gerekir. İşte alım yaparken göz önünde bulundurmanız gereken bazı önemli noktalar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Deklanşör ve Perde Mekanizması&lt;/strong&gt;: Deklanşörün düzgün çalıştığını ve perdede yırtık veya yapışma olmadığını kontrol edin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lens Durumu&lt;/strong&gt;: Küf, mantar veya çizik olup olmadığını inceleyin. Eski lenslerde mantar sorunu sıkça görülür ve görüntü kalitesini ciddi şekilde etkileyebilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Işık Sızdırmazlığı&lt;/strong&gt;: Kameranın film haznesindeki keçe ve contaların sağlam olup olmadığını test edin. Işık sızması, çektiğiniz fotoğraflarda istenmeyen hatalara yol açabilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pil ve Elektronik Sistemler&lt;/strong&gt;: Eğer elektronik bir model alıyorsanız, pil yuvasını kontrol edin ve devrelerin çalıştığından emin olun.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deneme Çekimi Yapın&lt;/strong&gt;: Mümkünse, almayı düşündüğünüz kamerayla bir test filmi çekerek performansını değerlendirin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;eski-lenslerin-dijital-makinelerde-kullanımı&quot;&gt;Eski Lenslerin Dijital Makinelerde Kullanımı&lt;/h2&gt;
+
+&lt;p&gt;Analog kameralar için üretilmiş eski lensler, adaptörler sayesinde modern dijital makinelerde de kullanılabiliyor. Bu adaptörler, eski lenslerin yeni aynasız veya DSLR makinelerle uyumlu olmasını sağlıyor. Ancak, aşağıdaki noktaları göz önünde bulundurmalısınız:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Uyumluluk&lt;/strong&gt;: Lensinize uygun adaptörün olup olmadığını araştırın. Örneğin, M42 vida yuvalı lensler için M42-Nikon veya M42-Sony adaptörleri bulunabilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Manuel Netleme&lt;/strong&gt;: Eski lenslerin çoğunda otomatik netleme özelliği bulunmaz, bu nedenle manuel netlemeye alışmanız gerekir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diyafram Kontrolü&lt;/strong&gt;: Bazı adaptörlerde diyafram halkasını manuel olarak ayarlamanız gerekir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Optik Kalite&lt;/strong&gt;: Vintage lenslerin sunduğu özel bokeh ve renk karakteristiği, dijital makinelerde benzersiz bir estetik yaratabilir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
+
+&lt;p&gt;Analog fotoğraf makineleri, hem koleksiyon değeri hem de fotoğrafçılık deneyimi açısından büyük bir ilgi görüyor. Leica, Nikon, Canon ve Pentax gibi markaların ikonik modelleri, hâlâ yüksek performans sunuyor ve fotoğrafçılığa nostaljik bir yaklaşım kazandırıyor. İkinci el bir analog kamera satın alırken dikkat edilmesi gerekenleri göz önünde bulundurmak ve eski lensleri dijital makinelerde kullanmanın avantajlarını bilmek, bu alana ilgi duyan herkes için büyük bir fayda sağlayacaktır.&lt;/p&gt;
+
+&lt;p&gt;Siz de bir analog kameraya sahip misiniz? Favori modeliniz hangisi? Görüşlerinizi yorumlarda paylaşabilirsiniz!&lt;/p&gt;
+</description>
+                <pubDate>Wed, 19 Feb 2025 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/vintage-analog-kameralar</link>
+                <guid isPermaLink="true">http://localhost:4000/vintage-analog-kameralar</guid>
+                
+                <category>analog fotoğrafçılık</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Düşük Işıkta Fotoğraf Çekme Teknikleri: Net ve Parazitsiz Görseller</title>
+                <description>&lt;p&gt;Düşük Işık fotoğrafçılığı, gece veya az ışıklı ortamlarda fotoğraf çekmeyi sevenler için büyük bir zorluk olabilir. Ancak doğru teknikler ve ekipman kullanımıyla net ve parazitsiz görseller elde etmek mümkün.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;1-iso-ayarlarını-doğru-kullanımı&quot;&gt;1. ISO Ayarlarını Doğru Kullanımı&lt;/h2&gt;
+
+&lt;p&gt;ISO, fotoğraf makinenizin algılayıcısının ışığa duyarlılığını belirler. Düşük ışık koşullarında:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mümkün olduğu kadar düşük ISO değeri (100-400) kullanarak gürültüyü (parazit) minimize edin.&lt;/li&gt;
+  &lt;li&gt;Daha yüksek ISO (800 ve üzeri) gerekirse, makinenizin gürültü azaltma özelliklerini etkinleştirin.&lt;/li&gt;
+  &lt;li&gt;Gelişmiş fotoğraf makinelerinde ISO-invariant sensörler kullanılabilir, bu sensörler düşük ISO’da bile pozlamayı düzenlemenize yardımcı olur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-tripod-kullanın&quot;&gt;2. Tripod Kullanın&lt;/h2&gt;
+
+&lt;p&gt;Daha uzun pozlama süresi düşük Işıkta daha fazla detay yakalamanıza yardımcı olur, ancak elde çekim yaparken titremeye neden olabilir.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sabit bir tripod kullanarak makine titremesini engelleyin.&lt;/li&gt;
+  &lt;li&gt;Uzaktan kumanda veya zamanlayıcı kullanarak dokunmadan çekim yapın.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ağır bir tripod&lt;/strong&gt; tercih ederek rüzgar gibi dış etkenlerin titremeye sebep olmasını önleyebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-pozlama-sürelerini-ayarlayın&quot;&gt;3. Pozlama Sürelerini Ayarlayın&lt;/h2&gt;
+
+&lt;p&gt;Düşük Işıkta yeterli ışığı almak için perde hızını (shutter speed) yavaşlatabilirsiniz.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Daha uzun pozlama, daha fazla ışık demektir; ancak hareketli nesnelerde bulanıklığa neden olabilir.&lt;/li&gt;
+  &lt;li&gt;Statik sahnelerde 1/10 saniye veya daha uzun perde hızları deneyin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bulb modu&lt;/strong&gt; kullanarak uzun pozlama sürelerini manuel olarak ayarlayabilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;4-diyaframı-açın-f-değeri&quot;&gt;4. Diyaframı Açın (f/ Değeri)&lt;/h2&gt;
+
+&lt;p&gt;Geniş diyafram (örneğin f/1.8 veya f/2.8) daha fazla ışık almanıza yardımcı olur.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prime lensler (sabit odak uzaklıklı) genellikle düşük f/ değerlerine sahiptir ve düşük Işık Koşullarında idealdir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;50mm f/1.8&lt;/strong&gt; gibi lensler hem ekonomik hem de etkili bir seçenektir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-gürültü-azaltma-tekniklerini-kullanın&quot;&gt;5. Gürültü Azaltma Tekniklerini Kullanın&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;RAW formatında çekin&lt;/strong&gt;: Daha fazla detay ve düşük gürültü kontrolü sağlar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Post prodüksiyonda gürültü azaltma&lt;/strong&gt;: Lightroom veya Photoshop gibi yazılımlarla gürültüyü minimuma indirin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yazılımsal NR (Noise Reduction) kullanın&lt;/strong&gt;: Ancak fazla kullanırsanız detay kaybı yaşanabilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yıldız pozlama tekniği&lt;/strong&gt; kullanarak, gece fotoğrafçılığında daha net gökyüzü fotoğrafı elde edebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;6-ek-işık-kaynaklarından-yararlanın&quot;&gt;6. Ek Işık Kaynaklarından Yararlanın&lt;/h2&gt;
+
+&lt;p&gt;Doğal ışığın yetersiz olduğu durumlarda ek ışık kaynakları kullanabilirsiniz.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;LED ışıklar&lt;/strong&gt;, portre ve nesne fotoğrafçılığında dengeli aydınlatma sağlar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reflektörler&lt;/strong&gt;, mevcut ışığı yönlendirmek için idealdir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;El feneri veya cep telefonu ışığı&lt;/strong&gt;, doğa fotoğrafçılığı gibi alanlarda yaratıcı efektler elde etmek için kullanılabilir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Düşük Işıkta fotoğraf çekmek, doğru tekniklerle harika sonuçlar verir. Yukarıdaki ipuçlarını uygulayarak gece ve az ışıklı ortamlarda dahi profesyonel görünümlü fotoğraflar çekebilirsiniz!&lt;/p&gt;
+</description>
+                <pubDate>Wed, 19 Feb 2025 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/dusuk-isikta-fotograf-cekme-teknikleri</link>
+                <guid isPermaLink="true">http://localhost:4000/dusuk-isikta-fotograf-cekme-teknikleri</guid>
+                
+                <category>gece fotoğrafçılığı</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Pan Tekniği: Hareketi Kadrajınıza Taşıyın</title>
+                <description>&lt;p&gt;Fotoğrafçılıkta hareketi ve hızı en etkileyici şekilde yakalamanın yollarından biri de “pan tekniği”dir. Peki, pan tekniği nedir ve nasıl uygulanır? Gelin, bu tekniği detaylıca inceleyelim.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;pan-tekniği-nedir&quot;&gt;Pan Tekniği Nedir?&lt;/h2&gt;
+
+&lt;p&gt;Pan tekniği, hareket eden bir nesneyi takip ederek arka planı hareketli ve bulanık, ancak konuyu net bir şekilde gösteren bir fotoğraf çekme yöntemidir. Bu teknik, özellikle yarış arabaları, bisikletçiler, koşucular, vahşi hayvanlar ve diğer hızlı hareket eden objeleri çekerken kullanılır. Sonuç olarak, fotoğrafınıza hız ve hareket hissi kazandırabilirsiniz.&lt;/p&gt;
+
+&lt;h2 id=&quot;pan-tekniği-nasıl-uygulanır&quot;&gt;Pan Tekniği Nasıl Uygulanır?&lt;/h2&gt;
+
+&lt;h3 id=&quot;doğru-deklanşör-hızını-seçin&quot;&gt;Doğru Deklanşör Hızını Seçin&lt;/h3&gt;
+
+&lt;p&gt;Pan tekniğinde deklanşör hızınız ne kadar düşükse, arka planın hareketi o kadar belirgin olur. Genellikle 1/30 ile 1/125 saniye arasındaki deklanşör hızları tercih edilir. Konunun hızına ve mesafesine göre bu değeri ayarlamanız gerekir. Çok hızlı hareket eden nesneler için 1/60 veya 1/125 saniye uygundur, ancak daha yavaş hareket eden nesneler için 1/30 veya 1/50 gibi değerler tercih edilebilir.&lt;/p&gt;
+
+&lt;h3 id=&quot;konuyu-takip-edin&quot;&gt;Konuyu Takip Edin&lt;/h3&gt;
+
+&lt;p&gt;Çekim yaparken, hareket eden nesneyi düzgün bir şekilde takip etmelisiniz. Kameranızı konu ile aynı hızda hareket ettirerek, nesneyi çerçevenizde sabit tutmaya çalışmalısınız. Takip sürecini akıcı hale getirmek için konunun hareket yönüne odaklanmalı ve kamerayı ona uyumlu şekilde hareket ettirmelisiniz.&lt;/p&gt;
+
+&lt;h3 id=&quot;sabit-ve-dengeli-durun&quot;&gt;Sabit ve Dengeli Durun&lt;/h3&gt;
+
+&lt;p&gt;Pan tekniği, istikrarlı ve akıcı bir hareket gerektirir. Tripod veya monopod kullanarak daha sabit bir çekim yapabilirsiniz. Ancak elinizde çekim yapıyorsanız, ayaklarınızı omuz genişliğinde açarak vücudunuzu stabil hale getirin ve üst gövdenizle döner hareket yaparak kamerayı hareket ettirin.&lt;/p&gt;
+
+&lt;h3 id=&quot;sürekli-otomatik-netleme-af-c-kullanın&quot;&gt;Sürekli Otomatik Netleme (AF-C) Kullanın&lt;/h3&gt;
+
+&lt;p&gt;Konunun hareketini takip ederken netleme sürekli olarak değişeceğinden, otomatik netleme (AF-C veya AI Servo) modunu kullanmak daha iyi sonuçlar verebilir. Böylece kamera, konuyu sürekli takip ederek netleme kaybı yaşamanızı önler.&lt;/p&gt;
+
+&lt;h3 id=&quot;zamanlama-ve-pratik-yapın&quot;&gt;Zamanlama ve Pratik Yapın&lt;/h3&gt;
+
+&lt;p&gt;Pan tekniğini ustalaşmak için bol bol pratik yapmalısınız. Hareket eden nesneyi takip ederken, deklanşöre doğru anda basmak çok önemlidir. Çekim yaparken sürekli hareket halinde olacağınız için, deneme yanılma yöntemiyle en iyi sonuçları alabileceğiniz açı ve hız kombinasyonlarını belirleyebilirsiniz.&lt;/p&gt;
+
+&lt;h3 id=&quot;uygun-lens-seçimi&quot;&gt;Uygun Lens Seçimi&lt;/h3&gt;
+
+&lt;p&gt;Pan çekimlerinde genellikle 50mm ila 200mm arasındaki lensler tercih edilir. Geniş açılı lensler de kullanılabilir ancak nesnenin arka plandan ayrılmasını sağlamak için orta telefoto lensler daha etkili olabilir. Ayrıca, titreşimi önlemek için görüntü sabitleyici (IS/VR) özellikli lensler kullanabilirsiniz.&lt;/p&gt;
+
+&lt;h2 id=&quot;pan-tekniği-kullanım-alanları&quot;&gt;Pan Tekniği Kullanım Alanları&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Motor sporları ve yarış fotoğrafları&lt;/strong&gt;: Hızlı hareket eden arabaları, motosikletleri ve bisikletleri çekerken sıkça kullanılır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sokak fotoğrafçılığı&lt;/strong&gt;: Hareketli unsurları, özellikle bisikletli veya koşan insanları dinamik bir şekilde kadraja almak için idealdir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vahşi doğa fotoğrafçılığı&lt;/strong&gt;: Hayvanların doğal hareketlerini yansıtmak için pan tekniği oldukça etkilidir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bisiklet ve koşu yarışları&lt;/strong&gt;: Atletlerin hızlarını vurgulamak ve enerji dolu kareler yakalamak için uygundur.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hava gösterileri ve uçuş fotoğrafçılığı&lt;/strong&gt;: Uçakların gökyüzündeki hareketlerini vurgulamak için kullanılır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kaykay ve ekstrem sporlar&lt;/strong&gt;: Sporcuların dinamik hareketlerini yakalamak için pan tekniği mükemmel sonuçlar verebilir.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pan-tekniğinde-yaygın-hatalar-ve-çözümleri&quot;&gt;Pan Tekniğinde Yaygın Hatalar ve Çözümleri&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Arka plan çok fazla bulanık veya konu da bulanık&lt;/strong&gt;: Deklanşör hızınızı doğru ayarlamadan çekim yapıyorsanız, hem arka plan hem de konu bulanık çıkabilir. Bunun için deklanşör hızını deneme yaparak optimize edin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Konunun net olmaması&lt;/strong&gt;: Takip hareketi yeterince düzgün yapılmazsa, konu da hareketli ve bulanık çıkabilir. Daha stabil hareket etmeye özen gösterin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kamera titremesi&lt;/strong&gt;: El titremesi nedeniyle istenmeyen bulanıklıklar oluşabilir. Daha sabit durarak veya monopod/tripod kullanarak bu sorunu giderebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yanlış netleme modu seçimi&lt;/strong&gt;: Tekli netleme modu yerine, sürekli otomatik netleme (AF-C veya AI Servo) kullanarak konuyu net tutun.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
+
+&lt;p&gt;Pan tekniği, hareketi etkileyici bir şekilde yansıtmanın harika bir yoludur. Doğru deklanşör hızını ve takip tekniğini kullanarak, fotoğraflarınıza dinamizm katabilirsiniz. İlk başta zor gibi görünse de pratik yaptıkça daha iyi sonuçlar elde edebilirsiniz. Unutmayın, fotoğrafçılık sabır ve deneyim gerektiren bir sanattır.&lt;/p&gt;
+
+&lt;p&gt;Bu tekniği hiç denediniz mi? Deneyimlerinizi yorumlarda paylaşabilirsiniz!&lt;/p&gt;
+</description>
+                <pubDate>Tue, 18 Feb 2025 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/pan-teknigi-hareketi-kadrajiniza-tasiyin</link>
+                <guid isPermaLink="true">http://localhost:4000/pan-teknigi-hareketi-kadrajiniza-tasiyin</guid>
+                
+                
+            </item>
         
             <item>
                 <title>Evde Film Banyo Etme: Adım Adım Kendi Karanlık Odanızı Kurun</title>
@@ -81,8 +287,8 @@
 &lt;p&gt;Evde film banyosu yapmak, sınırsız yaratıcılık sunan bir süreçtir. Kimyasalların sıcaklığı ve süreleri doğru ayarlandığında, profesyonel kalitede sonuçlar elde edebilirsiniz. Kendi karanlık odanızı kurarak, fotoğrafçılığınıza yeni bir boyut kazandırabilirsiniz! Her yeni film banyosunda deneyim kazanarak tekniklerinizi geliştirebilir ve kendi imzanızı taşıyan analog fotoğraflar yaratabilirsiniz.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 16 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/evde-film-banyo-etme</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/evde-film-banyo-etme</guid>
+                <link>http://localhost:4000/evde-film-banyo-etme</link>
+                <guid isPermaLink="true">http://localhost:4000/evde-film-banyo-etme</guid>
                 
                 <category>analog fotoğrafçılık</category>
                 
@@ -143,8 +349,8 @@
 &lt;p&gt;Analog fotoğrafları dijital ortama aktarmak ve paylaşmak, doğru teknikler kullanıldığında oldukça keyifli bir deneyim olabilir. Siz de kendi tarama ve düzenleme tekniklerinizi geliştirerek analog fotoğrafçılığın dijital dünyadaki yerini daha da güclendirebilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 16 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/analog-fotografciligin-dijital-dunyadaki-yeri</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/analog-fotografciligin-dijital-dunyadaki-yeri</guid>
+                <link>http://localhost:4000/analog-fotografciligin-dijital-dunyadaki-yeri</link>
+                <guid isPermaLink="true">http://localhost:4000/analog-fotografciligin-dijital-dunyadaki-yeri</guid>
                 
                 <category>analog fotoğrafçılık</category>
                 
@@ -200,8 +406,8 @@
 &lt;p&gt;Siz de hareketi dondurarak çektiğiniz fotoğrafları paylaşmak ister misiniz? Deneyimlerinizi yorumlarda bizimle paylaşın!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 09 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/hareketi-dondurmak</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/hareketi-dondurmak</guid>
+                <link>http://localhost:4000/hareketi-dondurmak</link>
+                <guid isPermaLink="true">http://localhost:4000/hareketi-dondurmak</guid>
                 
                 <category>enstantane</category>
                 
@@ -307,8 +513,8 @@
 &lt;p&gt;Keyifli çekimler dileriz!&lt;/p&gt;
 </description>
                 <pubDate>Sun, 09 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/en-populer-analog-film-turleri</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/en-populer-analog-film-turleri</guid>
+                <link>http://localhost:4000/en-populer-analog-film-turleri</link>
+                <guid isPermaLink="true">http://localhost:4000/en-populer-analog-film-turleri</guid>
                 
                 <category>analog fotoğrafçılık</category>
                 
@@ -393,8 +599,8 @@
 &lt;p&gt;Fotoğrafta hikaye anlatımı, sadece teknik değil, aynı zamanda duygusal bir süreçtir. İzleyiciyi içine çeken, düşündüren ve duygulandıran fotoğraflar yaratmak için bu ipuçlarını uygulayabilirsiniz. Unutmayın, güçlü bir fotoğraf yalnızca bir görüntü değil, aynı zamanda bir duygu ve anlam taşıyandır!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 06 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/fotografta-hikaye-anlatimi</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotografta-hikaye-anlatimi</guid>
+                <link>http://localhost:4000/fotografta-hikaye-anlatimi</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografta-hikaye-anlatimi</guid>
                 
                 
             </item>
@@ -567,8 +773,8 @@
 &lt;p&gt;Siz hangi programları kullanıyorsunuz? Yorumlarda paylaşabilirsiniz!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 06 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/fotografcilar-icin-en-iyi-ucretsiz-ve-ucretli-duzenleme-programlari</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotografcilar-icin-en-iyi-ucretsiz-ve-ucretli-duzenleme-programlari</guid>
+                <link>http://localhost:4000/fotografcilar-icin-en-iyi-ucretsiz-ve-ucretli-duzenleme-programlari</link>
+                <guid isPermaLink="true">http://localhost:4000/fotografcilar-icin-en-iyi-ucretsiz-ve-ucretli-duzenleme-programlari</guid>
                 
                 
             </item>
@@ -652,202 +858,8 @@
 &lt;p&gt;Bu yöntemleri uygulayarak daha net ve profesyonel fotoğraflar çekebilirsiniz. Siz de kendi deneyimlerinizi paylaşmak isterseniz, yorumlarda bize yazın!&lt;/p&gt;
 </description>
                 <pubDate>Thu, 06 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/fotograf-makinesinin-titremesini-onlemek-icin-10-etkili-yontem</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotograf-makinesinin-titremesini-onlemek-icin-10-etkili-yontem</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Analog Fotoğrafçılığa Yeni Başlayanlar İçin Kapsamlı Rehber</title>
-                <description>&lt;p&gt;Dijital fotoğrafçılığın yaygın olduğu günümüzde, analog fotoğrafçılık nostaljik bir sanat formu olarak geri dönüyor. Eğer siz de analog fotoğrafçılığa adım atmak istiyorsanız, bu rehber size temel bilgileri sunacak ve başlangıçta karşılaşabileceğiniz zorlukları aşmanıza yardımcı olacaktır.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;film-seçimi-35mm-mi-orta-format-mı&quot;&gt;Film Seçimi: 35mm mi, Orta Format mı?&lt;/h2&gt;
-
-&lt;p&gt;Analog fotoğrafçılığa başlamadan önce doğru film formatını seçmek önemlidir. İki temel format öne çıkar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;35mm Film&lt;/strong&gt;: Yeni başlayanlar için en yaygın ve erişilebilir film formatıdır. Uygun fiyatlı olması, geniş kamera seçenekleri ve kolay işlenebilirliği nedeniyle tercih edilir. Ayrıca, birçok fotoğraf laboratuvarında kolaylıkla banyo ettirilebilir ve taranabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Orta Format Film&lt;/strong&gt;: Daha büyük negatifler sayesinde daha fazla detay ve dinamik aralık sunar. Ancak, filmler ve kameralar genellikle daha pahalıdır ve taşınabilirlik açısından daha ağır olabilir. Orta format filmler genellikle 120 veya 220 tipi olup, daha büyük kare oranları sayesinde daha profesyonel sonuçlar elde etmeyi mümkün kılar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Büyük Format Film&lt;/strong&gt;: 4x5, 8x10 gibi boyutlara sahip olan büyük format filmler, en yüksek görüntü kalitesini sunar ancak ekipman taşınabilirliği açısından zorluk yaratır. Bu tür filmler daha çok profesyoneller veya sanat fotoğrafçıları tarafından tercih edilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;kamera-türleri&quot;&gt;Kamera Türleri&lt;/h2&gt;
-
-&lt;p&gt;Analog kameralar farklı kullanım amaçlarına göre çeşitli türlere ayrılır. İşte en popüler analog kamera türleri:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;SLR (Single Lens Reflex)&lt;/strong&gt;: Değiştirilebilir lenslere sahip olup, vizörden gördüğünüz görüntüyü birebir yakalamanızı sağlar. Aynalı bir mekanizma ile çalışır. Bu sayede, farklı lens seçenekleriyle esneklik sunar. Örnek: Canon AE-1, Nikon FM2.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rangefinder&lt;/strong&gt;: Daha kompakt ve sessizdir. Manuel odaklamayı gerektirir, ancak netlik konusunda hassasiyet sağlar. Özellikle sokak fotoğrafçılığı için tercih edilir. Örnek: Leica M serisi.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Point-and-Shoot&lt;/strong&gt;: Otomatik odaklama ve pozlama özellikleri sayesinde kullanımı oldukça kolaydır. Yeni başlayanlar için idealdir ve taşıması rahattır. Örnek: Olympus Mju-II, Yashica T4.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Twin-Lens Reflex (TLR)&lt;/strong&gt;: Üstten bakarak çekim yapmayı sağlayan çift lensli bir sistem kullanır. Orta format fotoğrafçılığında sıkça görülür. Örnek: Rolleiflex, Yashica Mat 124G.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tek Kullanımlık Kameralar&lt;/strong&gt;: İçinde sabit bir film bulunan, genellikle suya dayanıklı ve basit yapıya sahip kameralar. Örnek: Kodak FunSaver.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;temel-ayarlar-ve-manuel-kontroller&quot;&gt;Temel Ayarlar ve Manuel Kontroller&lt;/h2&gt;
-
-&lt;p&gt;Analog fotoğraf makineleri genellikle manuel kontroller gerektirir. Aşağıdaki temel ayarları anlamak, daha bilinçli çekimler yapmanızı sağlar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;ISO&lt;/strong&gt;: Filmin ışığa duyarlılığını belirler. Düşük ISO (100-200) daha keskin görüntüler sunarken, yüksek ISO (800 ve üstü) düşük ışıkta daha iyi sonuç verir. Ancak yüksek ISO, daha fazla gren (noise) üretebilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enstantane Hızı&lt;/strong&gt;: Hareketi dondurmak veya hareket izi oluşturmak için belirlenir. 1/500s gibi hızlı enstantane hareketi dondururken, 1/30s gibi daha düşük değerler bulanık efektler yaratabilir. Gece çekimlerinde tripod kullanımı, uzun pozlamalar için gereklidir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diyafram (Aperture)&lt;/strong&gt;: Alan derinliğini kontrol eder. Düşük f/ değerleri (f/1.8 gibi) arka planı bulanıklaştırırken, yüksek f/ değerleri (f/11 ve üzeri) daha geniş bir alanı net gösterir. Portre çekimlerinde açık diyaframlar, manzara fotoğraflarında ise kısık diyaframlar tercih edilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pozlama Üçgeni&lt;/strong&gt;: ISO, enstantane ve diyafram ayarlarının birlikte çalışmasını anlamak, başarılı fotoğraflar çekmek için önemlidir. Bu üç ayar dengeli bir şekilde kullanıldığında en iyi sonucu verir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;i̇lk-çekimlerde-dikkat-edilmesi-gerekenler&quot;&gt;İlk Çekimlerde Dikkat Edilmesi Gerekenler&lt;/h2&gt;
-
-&lt;p&gt;Analog fotoğrafçılıkta her kare önemli olduğu için planlı hareket etmek gerekir. İşte başlangıçta dikkat edilmesi gereken bazı ipuçları:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Işığı iyi analiz edin&lt;/strong&gt;: Analog makinelerde anlık önizleme olmadığı için ışık koşullarına dikkat edin. Gerekirse harici bir pozometre kullanabilirsiniz. Güneşli havalarda gölge alanlara dikkat edin ve altın saatlerde (gün doğumu ve gün batımı) çekimler yapmayı deneyin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Filmi doğru yüklediğinizden emin olun&lt;/strong&gt;: Filmi yanlış yüklemek, tüm kareleri kaybetmenize neden olabilir. Filmin dişlilere doğru oturduğunu ve makaranın düzgün şekilde döndüğünü kontrol edin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Kompozisyon ve kadrajı iyi ayarlayın&lt;/strong&gt;: Çekim yapmadan önce çerçeveyi dikkatlice oluşturun. Dijitalde olduğu gibi yüzlerce deneme şansınız olmayacak, bu yüzden her kareyi dikkatlice planlayın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Her kareyi not alın&lt;/strong&gt;: Pozlama ayarlarını not etmek, gelişiminizi takip etmenize yardımcı olur. Çekim yaptığınız film türü, kullanılan kamera ve lens ayarlarını kaydederek ilerleyen süreçlerde hangi ayarların hangi koşullarda daha iyi çalıştığını anlayabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Film banyosu ve tarama sürecini öğrenin&lt;/strong&gt;: Çekimlerinizi tamamladıktan sonra filmin banyosunu kendiniz yapmak veya bir laboratuvara göndermek arasında seçim yapabilirsiniz. Kendi banyonuzu yapmak, süreci daha iyi anlamanızı sağlar ve maliyetleri düşürebilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Analog fotoğrafçılığa başlamak, sabır ve deneyim gerektirir. Ancak sürecin kendisi oldukça keyiflidir ve sizi yavaş çekim sanatının tadını çıkarmaya teşvik eder. Film rulonuzu takın, deklanşöre basın ve bu eşsiz dünyaya adım atın!&lt;/p&gt;
-</description>
-                <pubDate>Thu, 06 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/film-fotograf-makineleri-ile-analog-fotografciliga-giris</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/film-fotograf-makineleri-ile-analog-fotografciliga-giris</guid>
-                
-                <category>analog fotoğrafçılık</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Makro Fotoğrafçılık: Küçük Dünyaları Büyük Gösterme Sanatı</title>
-                <description>&lt;p&gt;Fotoğrafçılık, dünyayı farklı perspektiflerden görmemizi sağlayan büyüleyici bir sanat dalıdır. Bu perspektiflerden biri de makro fotoğrafçılıktır. Çıplak gözle fark edemediğimiz detayları gözler önüne seren bu teknik, doğanın en küçük güzelliklerini keşfetmemize olanak tanır. Makro fotoğrafçılık, sabır ve dikkat gerektiren bir uğraş olup, fotoğrafçının bakış açısını ve teknik becerilerini geliştirmesine yardımcı olur.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;makro-fotoğrafçılık-nedir&quot;&gt;Makro Fotoğrafçılık Nedir?&lt;/h2&gt;
-
-&lt;p&gt;Makro fotoğrafçılık, küçük nesneleri, detaylarını vurgulayarak büyük ölçekte görüntülemeyi sağlayan bir tekniktir. Genellikle 1:1 veya daha büyük büyütme oranlarıyla çekilen fotoğraflar, objelerin mikro dünyasına pencere açar. Böcekler, çiçekler, su damlaları ve hatta dokular, makro çekimlerin başlıca konularıdır. Bu çekimler, doğadaki detayları ortaya çıkararak, insan gözünün algılayamayacağı kadar küçük olan öğeleri görünür kılar.&lt;/p&gt;
-
-&lt;h2 id=&quot;makro-fotoğrafçılığın-temel-ekipmanları&quot;&gt;Makro Fotoğrafçılığın Temel Ekipmanları&lt;/h2&gt;
-
-&lt;p&gt;Başarılı makro fotoğraflar çekebilmek için özel ekipmanlara ihtiyaç duyulabilir. İşte bazı temel gereçler:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Makro Lensler&lt;/strong&gt;: 1:1 büyütme oranı sağlayan lensler, en iyi sonuçları verir. 50mm, 100mm veya 180mm gibi odak uzaklıklarına sahip makro lensler farklı kullanım alanlarına sahiptir. Daha uzun odak uzaklıkları, konunun daha uzaktan çekilmesine olanak tanıyarak, özellikle böcek gibi ürkek canlıları fotoğraflarken avantaj sağlar.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;50mm makro lensler&lt;/em&gt;: Genel olarak sabit nesneleri ve stüdyo ortamında kullanılmak için uygundur.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;100mm makro lensler&lt;/em&gt;: Daha fazla çekim mesafesi sunarak hareketli nesneleri rahatsız etmeden çekim yapmanıza imkan tanır.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;180mm makro lensler&lt;/em&gt;: Uzak mesafeden detaylı çekimler yapabilmek için idealdir, özellikle böcek gibi hassas nesneler için tercih edilir.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ters Bağlantı Halkaları&lt;/strong&gt;: Standart lensleri ters çevirerek makro çekim yapmayı sağlar. Bu yöntem, bütçesi sınırlı olanlar için uygun bir alternatiftir ve yaratıcı sonuçlar elde edilmesine yardımcı olabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Uzatma Tüpleri&lt;/strong&gt;: Lens ile sensör arasındaki mesafeyi artırarak büyütme sağlar. Farklı uzunluklardaki uzatma tüpleri kullanılarak büyütme oranı değiştirilebilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tripod&lt;/strong&gt;: Makro çekimlerde netliği artırmak için titremeyi önleyen bir ekipmandır. Makro çekimlerde en ufak bir hareket bile bulanıklığa neden olabileceği için sağlam ve stabil bir tripod kullanılması önerilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Harici Işık Kaynakları&lt;/strong&gt;: Daha iyi ışık kontrolü için flaş veya LED ışıklar kullanılabilir. Özellikle halka flaşlar, doğrudan konunun üzerine eşit ışık düşürerek gölgeleri minimize edebilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;makro-fotoğraf-çekim-teknikleri&quot;&gt;Makro Fotoğraf Çekim Teknikleri&lt;/h2&gt;
-
-&lt;p&gt;Makro fotoğrafçılığa başlarken dikkat edilmesi gereken bazı önemli teknikler vardır:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Düşük ISO Kullanımı&lt;/strong&gt;: Gürültüyü (noise) en aza indirmek için mümkün olduğunca düşük ISO tercih edilmelidir. ISO 100 veya 200 gibi düşük değerler kullanılmalıdır.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diyafram Kontrolü&lt;/strong&gt;: f/8 – f/16 gibi dar diyafram açıklıkları kullanılarak daha fazla alan derinliği elde edilebilir. Bu, konunun daha fazla kısmının net olmasını sağlar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Manuel Odaklama&lt;/strong&gt;: Netliği en iyi şekilde sağlamak için manuel odak tercih edilmelidir. Otomatik odaklama, makro çekimlerde hassasiyet konusunda yetersiz kalabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Stabilizasyon&lt;/strong&gt;: Küçük hareketler bile bulanıklığa yol açabileceğinden, tripod ve uzaktan deklanşör kullanılmalıdır. Ayrıca, makine içi titreşim azaltma sistemleri de yardımcı olabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Yumuşak Işık Kullanımı&lt;/strong&gt;: Direkt güneş ışığı sert gölgeler oluşturabileceğinden, bulutlu günlerde veya yumuşatıcı difüzörler kullanılarak çekim yapılması önerilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Odak İstifleme (Focus Stacking)&lt;/strong&gt;: Makro çekimlerde alan derinliği çok sığ olduğu için birden fazla farklı odak noktasında çekilmiş fotoğrafların yazılımla birleştirilmesi, daha geniş bir alanın net görünmesini sağlar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;i̇lham-veren-makro-konuları&quot;&gt;İlham Veren Makro Konuları&lt;/h2&gt;
-
-&lt;p&gt;Makro fotoğrafçılığa yeni başlıyorsanız aşağıdaki konular ilginizi çekebilir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Böcekler ve Kelebekler&lt;/strong&gt;: Doğanın en detaylı canlıları makro lensle harika görseller sunar. Örneğin, kelebeklerin kanatlarındaki ince desenler veya karıncaların yüz hatları oldukça etkileyici olabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Çiçekler ve Bitkiler&lt;/strong&gt;: Petallerin dokusu, polenlerin detayları büyüleyicidir. Özellikle çiçeklerin merkez kısımlarındaki simetrik desenler estetik bir görüntü sunar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Su Damlaları&lt;/strong&gt;: Yansıma ve kırılmalarla estetik görüntüler elde edilebilir. Su damlaları içinde çevrenin yansıması, ilginç kompozisyonlar yaratabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Günlük Objeler&lt;/strong&gt;: Madeni paralar, kumaş dokuları veya gözler gibi nesneler yeni bir bakış açısı kazandırabilir. Örneğin, bir kalemin ucundaki aşınmalar veya bir kahve tanesinin yüzey dokusu sıradan nesneleri büyüleyici hale getirebilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gıda Fotoğrafçılığı&lt;/strong&gt;: Meyve ve sebzelerin yüzey detayları, makro çekimlerle olağanüstü görseller yaratabilir. Özellikle çilek, nar veya turunçgillerin iç yapıları oldukça ilgi çekicidir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;kompozisyon-önerileri&quot;&gt;Kompozisyon Önerileri&lt;/h2&gt;
-
-&lt;p&gt;Makro fotoğrafçılıkta dikkat edilmesi gereken bir diğer unsur da kompozisyondur. İyi bir kompozisyon oluşturmak için şu ipuçlarını takip edebilirsiniz:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Alan derinliğini kontrol edin&lt;/strong&gt;: Makro çekimlerde alan derinliği çok sınırlı olabilir. Diyafram değerlerini dikkatli kullanarak ana konunun net, arka planın ise yumuşak olmasını sağlayabilirsiniz. F/2.8 veya F/5.6 gibi değerlerle denemeler yapabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Altın oran ve 1/3 kuralını kullanın&lt;/strong&gt;: Fotoğrafınızda dikkat çeken nesneyi kadrajın merkezine almak yerine, 1/3 kuralına göre yerleştirerek daha dengeli ve estetik bir görünüm elde edebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Arka planı sade tutun&lt;/strong&gt;: Dikkat dağıtıcı unsurları en aza indirerek fotoğrafın ana konusunu öne çıkarabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Açılarla oynayın&lt;/strong&gt;: Nesneyi farklı açılardan çekerek ilginç ve etkileyici sonuçlar elde edebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Renk kontrastlarını kullanın&lt;/strong&gt;: Arka plan ile ana nesnenin renklerini kontrast oluşturacak şekilde seçerek dikkat çekici kompozisyonlar yaratabilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
-
-&lt;p&gt;Makro fotoğrafçılık, detaylara odaklanarak dünyayı daha yakından keşfetme fırsatı sunar. Sabır ve pratikle, günlük yaşamda fark edemediğimiz harikaları ortaya çıkarabilirsiniz. Kameranızı alın ve mikroskobik dünyaya adım atın! Küçük detayları keşfettikçe, fotoğrafçılık yeteneklerinizin geliştiğini fark edeceksiniz. Unutmayın, doğa içinde keşfedilecek sayısız minyatür güzellik saklıyor!&lt;/p&gt;
-</description>
-                <pubDate>Sun, 02 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/makro-fotografcilik</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/makro-fotografcilik</guid>
-                
-                <category>makro fotoğrafçılık</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Fotoğraf Çekiminde Renk Teorisi: Doğru Renkleri Nasıl Kullanmalısınız?</title>
-                <description>&lt;p&gt;Fotoğrafçılıkta renk teorisi, görsel kompozisyonu güçlendirmek, izleyicinin duygularını yönlendirmek ve belirli bir atmosfer yaratmak için kritik bir rol oynar. Doğru renkleri seçerek ve bilinçli bir şekilde kullanarak çekimlerinizde etkileyici bir görsel dil yaratabilirsiniz. Renkleri anlamak ve bilinçli kullanmak, bir fotoğrafçının en önemli becerilerinden biridir.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;renk-çarkı-ve-temel-renk-kombinasyonları&quot;&gt;Renk Çarkı ve Temel Renk Kombinasyonları&lt;/h2&gt;
-
-&lt;p&gt;Renk uyumunu anlamanın en iyi yollarından biri renk çarkını kullanmaktır. Renk çarkı, ana renkleri ve bunların kombinasyonlarını anlamanıza yardımcı olur. Temel renk kombinasyonları şunlardır:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tamamlayıcı Renkler&lt;/strong&gt;: Renk çarkında birbirinin karşısında bulunan renklerdir. Örneğin, mavi ve turuncu veya kırmızı ve yeşil gibi kombinasyonlar kontrast ve dinamizm yaratır. Bu renk uyumu, konunun öne çıkmasını sağlayarak izleyicinin dikkatini çeker.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Analog Renkler&lt;/strong&gt;: Birbirine yakın olan renklerdir, örneğin sarı, turuncu ve kırmızı. Bu renkler daha yumuşak ve uyumlu bir görünüm sağlar ve sakinleştirici bir etki yaratır.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Triadik Renkler&lt;/strong&gt;: Renk çarkında eşit mesafelerde bulunan üç rengi kapsar. Örneğin, kırmızı, mavi ve sarı gibi renk kombinasyonları, çok yönlü ve canlı kompozisyonlar oluşturmanıza yardımcı olur.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Monokromatik Renkler&lt;/strong&gt;: Tek bir rengin farklı tonlarından oluşur. Minimalist ve sanatsal bir atmosfer yaratmak için kullanılabilir. Genellikle sade ve zarif bir kompozisyon oluşturur.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;image-card width-wide caption&quot;&gt;
-  &lt;img src=&quot;/images/2025/02/renk-carki.jpg&quot; alt=&quot;Renk Çarkı&quot; /&gt;
-  
-  &lt;figcaption class=&quot;caption-text&quot;&gt;Renk Çarkı ve Kombinasyonlar&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;fotoğraflarda-renklerle-duygu-yaratma&quot;&gt;Fotoğraflarda Renklerle Duygu Yaratma&lt;/h2&gt;
-
-&lt;p&gt;Renkler, izleyicinin fotoğrafa verdiği tepkileri önemli ölçüde etkileyebilir. Farklı renklerin farklı psikolojik etkileri vardır:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sıcak Renkler (Kırmızı, Turuncu, Sarı)&lt;/strong&gt;: Hareket, enerji ve tutkuyu ifade eder. Kırmızı genellikle güçlü duygular, sevgi ve heyecan ile ilişkili iken, turuncu ve sarı canlılık ve iyimserlik hissi yaratır.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Soğuk Renkler (Mavi, Yeşil, Mor)&lt;/strong&gt;: Huzur, sakinlik ve dinginlik hissi yaratır. Mavi, sakinlik ve güven hissi uyandırır, yeşil doğa ile bağlantılı olup tazelik ve dengenin simgesidir, mor ise gizemli ve yaratıcı bir atmosfer yaratabilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nötr Renkler (Siyah, Beyaz, Gri, Kahverengi)&lt;/strong&gt;: Denge ve çok yönlülülük sağlar. Siyah dramatik ve sofistike bir hava katarken, beyaz sadelik ve masumiyet duygusunu iletebilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;renkleri-fotoğrafçılıkta-etkili-kullanmaya-dair-i̇puçları&quot;&gt;Renkleri Fotoğrafçılıkta Etkili Kullanmaya Dair İpuçları&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Arka plan ve obje arasındaki kontrasta dikkat edin&lt;/strong&gt;. Ana konunun belirgin olması için renk kontrastını iyi kullanın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doğal ışığın etkisini göz önünde bulundurun&lt;/strong&gt;. Güneşin konumu ve saatine göre renklerin tonları değişebilir. Altın saat olarak bilinen sabah ve akşam saatlerinde daha yumuşak ve sıcak renkler elde edilir.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Renkleri bilinçli olarak hikaye anlatımında kullanın&lt;/strong&gt;. Bir sahnenin ruh halini belirlemek için renkleri amaca uygun seçin. Örneğin, hüzünlü veya nostaljik bir atmosfer için soğuk renkleri tercih edebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Renk düzenleme ve post prodüksiyon kullanın&lt;/strong&gt;. Fotoğraflarınızda renk düzenleme yaparak vurgulamak istediğiniz tonları daha belirgin hale getirebilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fotoğrafçılıkta renk teorisini etkili bir şekilde kullanarak görsellerinize derinlik ve anlam katabilirsiniz. Renkleri bilinçli bir şekilde seçmek ve uyumlu kombinasyonlar yaratmak, izleyiciniz üzerinde büyüleyici bir etki yaratmanıza yardımcı olacaktır. Renklerin dilini öğrenmek ve uygulamak, fotoğraf sanatınızın seviyesini yükseltecektir.&lt;/p&gt;
-</description>
-                <pubDate>Sun, 02 Feb 2025 00:00:00 +0300</pubDate>
-                <link>https://www.siyahbeyaz.net.tr/fotograf-cekiminde-renk-teorisi</link>
-                <guid isPermaLink="true">https://www.siyahbeyaz.net.tr/fotograf-cekiminde-renk-teorisi</guid>
-                
-                <category>renk</category>
+                <link>http://localhost:4000/fotograf-makinesinin-titremesini-onlemek-icin-10-etkili-yontem</link>
+                <guid isPermaLink="true">http://localhost:4000/fotograf-makinesinin-titremesini-onlemek-icin-10-etkili-yontem</guid>
                 
                 
             </item>
