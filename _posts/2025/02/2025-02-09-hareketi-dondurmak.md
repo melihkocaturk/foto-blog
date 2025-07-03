@@ -13,7 +13,7 @@ Fotoğrafçılıkta hareketi dondurmak, hızlı anları net ve keskin bir şekil
 
 ## 1. Enstantane Hızını Artırın
 
-Hareketi net bir şekilde yakalamanın en etkili yolu, [enstantane]({% post_url 2024/2024-10-14-enstantane-nedir %}) hızını yükseltmektir. Hareketin hızına bağlı olarak 1/500, 1/1000 veya 1/2000 gibi yüksek enstantane değerleri kullanabilirsiniz. Özellikle spor veya kuş fotoğrafçılığı gibi hızlı hareketleri çekiyorsanız, enstantane hızınızı olabildiğince artırmanız gerekir. Daha hızlı objeler için 1/4000 veya daha üstü hızlar bile gerekebilir.
+Hareketi net bir şekilde yakalamanın en etkili yolu, [enstantane]({% post_url 2024/10/2024-10-14-enstantane-nedir %}) hızını yükseltmektir. Hareketin hızına bağlı olarak 1/500, 1/1000 veya 1/2000 gibi yüksek enstantane değerleri kullanabilirsiniz. Özellikle spor veya kuş fotoğrafçılığı gibi hızlı hareketleri çekiyorsanız, enstantane hızınızı olabildiğince artırmanız gerekir. Daha hızlı objeler için 1/4000 veya daha üstü hızlar bile gerekebilir.
 
 ## 2. ISO Değerini Dengeli Kullanmak
 

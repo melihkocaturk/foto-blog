@@ -13,7 +13,7 @@ Akıllı telefonlar, artık yalnızca iletişim aracı değil; aynı zamanda yar
 
 ## 1. Doğru Işığı Bulun
 
-Fotoğrafçılıkta ışık her şeydir. Doğal ışık, genellikle en iyi sonuçları verir. [Altın saat]({% post_url 2024/2024-10-16-fotografcilikta-altin-saat-nedir %}) (gün doğumundan hemen sonra ve gün batımından hemen önce) yumuşak ve sıcak bir ışık sağlayarak harika fotoğraflar elde etmenizi sağlar. Bulutlu havalarda ise ışık daha yumuşak olduğu için gölgeler daha az belirgin olur ve bu da portreler için idealdir. Eğer yapay ışık kullanmanız gerekiyorsa, gölgeleri ve parlamaları minimize etmek için ışık kaynağınızı dikkatle yerleştirin.
+Fotoğrafçılıkta ışık her şeydir. Doğal ışık, genellikle en iyi sonuçları verir. [Altın saat]({% post_url 2024/10/2024-10-16-fotografcilikta-altin-saat-nedir %}) (gün doğumundan hemen sonra ve gün batımından hemen önce) yumuşak ve sıcak bir ışık sağlayarak harika fotoğraflar elde etmenizi sağlar. Bulutlu havalarda ise ışık daha yumuşak olduğu için gölgeler daha az belirgin olur ve bu da portreler için idealdir. Eğer yapay ışık kullanmanız gerekiyorsa, gölgeleri ve parlamaları minimize etmek için ışık kaynağınızı dikkatle yerleştirin.
 
 ## 2. Kompozisyon Kurallarını Kullanın
 

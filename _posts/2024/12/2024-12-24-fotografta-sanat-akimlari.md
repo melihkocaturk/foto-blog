@@ -107,7 +107,7 @@ Naturalizm, 19. yüzyılın sonlarında, gerçekliği estetik bir yüceltme olma
 
 ## Belgesel Fotoğrafa Toplumsal Bir Boyut
 
-[Belgesel fotoğrafçılık]({% post_url 2024/2024-12-22-belgesel-fotografciligi %}), sanatın toplumsal sorumlulukla buluştuğu bir alan oldu. Gerçekleri sade bir dille aktarma amacıyla yola çıkan bu akım, savaşlar, ekonomik krizler ve göç gibi büyük olayları gözler önüne serdi.
+[Belgesel fotoğrafçılık]({% post_url 2024/12/2024-12-22-belgesel-fotografciligi %}), sanatın toplumsal sorumlulukla buluştuğu bir alan oldu. Gerçekleri sade bir dille aktarma amacıyla yola çıkan bu akım, savaşlar, ekonomik krizler ve göç gibi büyük olayları gözler önüne serdi.
 
 Bu dönemde fotoğrafçılar, kameralarını birer tanıklık aracı olarak kullandı. Belgesel fotoğrafçılığın etkisi, halkın sosyal meseleler konusunda bilinçlenmesine katkı sağladı. Aynı zamanda bu eserler, tarihsel birer belge niteliği de taşıyordu.
 

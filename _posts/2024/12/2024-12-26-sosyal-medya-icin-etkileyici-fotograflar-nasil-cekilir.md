@@ -32,7 +32,7 @@ Etkileyici bir fotoğrafa ulaşmanın en önemli adımlarından biri, kompozisyo
 
 Işık, fotoğraflarınızın kalitesini belirleyen en önemli faktördür. Doğru ışık kullanımıyla profesyonel görünümler elde edebilirsiniz.
 
-- **Doğal Işık**: Gün doğumu ve batımı gibi "[altın saat]({% post_url 2024/2024-10-16-fotografcilikta-altin-saat-nedir %})" dilimlerinde çekim yapın. Bu saatlerdeki yumuşatılmış gün ışığı, fotoğraflarınıza sıcak bir atmosfer katar.
+- **Doğal Işık**: Gün doğumu ve batımı gibi "[altın saat]({% post_url 2024/10/2024-10-16-fotografcilikta-altin-saat-nedir %})" dilimlerinde çekim yapın. Bu saatlerdeki yumuşatılmış gün ışığı, fotoğraflarınıza sıcak bir atmosfer katar.
 - **Yapay Işık**: Kapalı mekanlarda LED aydınlatmalar veya softbox kullanarak homojen bir ışık oluşturun.
 - **Gölge Kontrolü**: Aşırı sert gölgelerden kaçının ve yumuşatılmış bir ışık kaynağı tercih edin. Bunun için difüzör kullanabilirsiniz.
 

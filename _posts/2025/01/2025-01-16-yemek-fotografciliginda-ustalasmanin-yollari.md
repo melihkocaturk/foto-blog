@@ -23,7 +23,7 @@ Işık, fotoğrafçılığın temelidir ve yemek fotoğrafçılığında da en k
 
 Bir yemeği etkileyici göstermek için kompozisyon oldukça önemlidir.
 
-- **Kuralları öğrenin**: 1/3 kuralı, simetri veya [negatif alan]({% post_url 2024/2024-10-16-fotografta-negatif-alan-kullanimi %}) kullanımı gibi kompozisyon tekniklerini deneyebilirsiniz.
+- **Kuralları öğrenin**: 1/3 kuralı, simetri veya [negatif alan]({% post_url 2024/10/2024-10-16-fotografta-negatif-alan-kullanimi %}) kullanımı gibi kompozisyon tekniklerini deneyebilirsiniz.
 - **Minimalist bir yaklaşım benimseyin**: Gereksiz detaylardan kaçının ve yemeğin kendisini ön plana çıkarın.
 - **Öykü anlatın**: Fotoğrafa bir hikâye katmak için yemekle uyumlu aksesuarlar (çatal, bıçak, peçete vb.) ekleyebilirsiniz.
 

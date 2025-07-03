@@ -25,7 +25,7 @@ Işık, fotoğraflarımıza verdiği gölgeler ve tonlarla kareye derinlik katar
 
 Doğal ışık fotoğrafçılığı için, günün iki özel zamanı öne çıkar: Altın Saat ve Mavi Saat.
 
-- **Altın Saat**: Güneşin doğumundan hemen sonra ve batımından hemen önceki zaman dilimi olan [altın saat]({% post_url 2024/2024-10-16-fotografcilikta-altin-saat-nedir %}), sıcak tonlu ve yumuşak ışık sunar. Manzara ve portre çekimlerinde mükemmel sonuçlar elde edebilirsiniz. Bu saatlerdeki ışık, dramatik gölgeler yaratmadan objeleri sıcak bir parıltıyla sarar.
+- **Altın Saat**: Güneşin doğumundan hemen sonra ve batımından hemen önceki zaman dilimi olan [altın saat]({% post_url 2024/10/2024-10-16-fotografcilikta-altin-saat-nedir %}), sıcak tonlu ve yumuşak ışık sunar. Manzara ve portre çekimlerinde mükemmel sonuçlar elde edebilirsiniz. Bu saatlerdeki ışık, dramatik gölgeler yaratmadan objeleri sıcak bir parıltıyla sarar.
 
 {% include image_caption.html imageurl="/images/2024/10/dubai-de-altin-saat.jpg" title="Dubai'de altın saat" caption="Dubai'de altın saat." %}
 

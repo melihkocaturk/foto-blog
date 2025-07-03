@@ -39,7 +39,7 @@ Sarıyı dengeli kullanmak önemlidir; çünkü aşırı sarı kullanımı, izle
 
 ## Işık Kaynağı Olarak Sarı
 
-Güneş ışığının sarı tonları, fotoğrafçılıkta doğal bir ışık kaynağı olarak da değerlendirilir. [Altın saat]({% post_url 2024/2024-10-16-fotografcilikta-altin-saat-nedir %}) olarak bilinen gün doğumu ve gün batımı arasındaki zaman diliminde, sarı ve turuncu tonlar fotoğrafa sıcak bir hava katar. Bu saatlerde çekilen fotoğraflar, yumuşak gölgeler ve sıcak renk paletleri ile etkileyici sonuçlar verir. Sarı ışığın yarattığı dramatik etkiyi kullanarak hem portrelerde hem de manzara çekimlerinde büyüleyici kareler yakalayabilirsiniz.
+Güneş ışığının sarı tonları, fotoğrafçılıkta doğal bir ışık kaynağı olarak da değerlendirilir. [Altın saat]({% post_url 2024/10/2024-10-16-fotografcilikta-altin-saat-nedir %}) olarak bilinen gün doğumu ve gün batımı arasındaki zaman diliminde, sarı ve turuncu tonlar fotoğrafa sıcak bir hava katar. Bu saatlerde çekilen fotoğraflar, yumuşak gölgeler ve sıcak renk paletleri ile etkileyici sonuçlar verir. Sarı ışığın yarattığı dramatik etkiyi kullanarak hem portrelerde hem de manzara çekimlerinde büyüleyici kareler yakalayabilirsiniz.
 
 ## Sonuç
 

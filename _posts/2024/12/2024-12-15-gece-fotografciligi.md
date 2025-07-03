@@ -52,7 +52,7 @@ Gece çekimlerinde üzerinde çalışabileceğiniz birçok ilginç konu vardır.
 - **Planlama Yapın**: Çekim yapacağınız yerin ışık durumunu ve hava tahminlerini kontrol edin. Ayın evresine dikkat ederek yıldız fotoğrafçılığı için uygun zamanları seçin.
 - **Altın Saat ve Mavi Saat**: Gün batımından hemen sonra ya da gün doğumundan hemen önce çekim yaparak atmosferik ışıklardan yararlanın.
 - **Deneme Yanılma Yöntemi**: Ayarlarınızı sürekli olarak deneyerek en iyi sonucu elde edin. Pozlama süresi ve ISO gibi değişkenlerle oynayın.
-- **Hareketli Işıklarla Deney Yapın**: Light painting ([ışıkla boyama]({% post_url 2024/2024-12-16-isikla-boyama %})) gibi yaratıcı tekniklerle farklı sonuçlar elde edebilirsiniz. El feneri veya LED ışıklarla şekiller çizebilirsiniz.
+- **Hareketli Işıklarla Deney Yapın**: Light painting ([ışıkla boyama]({% post_url 2024/12/2024-12-16-isikla-boyama %})) gibi yaratıcı tekniklerle farklı sonuçlar elde edebilirsiniz. El feneri veya LED ışıklarla şekiller çizebilirsiniz.
 - **RAW Formatında Çekin**: RAW formatı daha fazla düzenleme seçeneği sunar. Post prodüksiyon aşamasında renk düzeltmesi ve gürültü azaltma gibi işlemleri kolaylaştırır.
 
 ## Sonuç

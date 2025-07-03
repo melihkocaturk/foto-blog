@@ -13,12 +13,12 @@ Fotoğraf, insanlığın anıları ölümsüzleştirme ve gerçekliği yakalama 
 
 ## Fotoğrafçılığın İlk Adımları: Kamera Obscura
 
-Fotoğrafçılığın temelleri, Antik Yunan ve Çin medeniyetlerine kadar uzanır. Işığın bir delikten geçerek ters bir görüntü oluşturduğu [Kamera Obscura]({% post_url 2024/2024-10-07-kamera-obscura-tarihin-ilk-fotograf-makinesi %}), ilk basit fotoğraf makinelerinin öncüsüydü. Orta Çağ'da bu prensip, özellikle sanatçılar tarafından perspektifi doğru yakalamak amacıyla kullanıldı. Ancak bu görüntüler kalıcı değildi ve yalnızca geçici yansımalar olarak kaldı.
+Fotoğrafçılığın temelleri, Antik Yunan ve Çin medeniyetlerine kadar uzanır. Işığın bir delikten geçerek ters bir görüntü oluşturduğu [Kamera Obscura]({% post_url 2024/10/2024-10-07-kamera-obscura-tarihin-ilk-fotograf-makinesi %}), ilk basit fotoğraf makinelerinin öncüsüydü. Orta Çağ'da bu prensip, özellikle sanatçılar tarafından perspektifi doğru yakalamak amacıyla kullanıldı. Ancak bu görüntüler kalıcı değildi ve yalnızca geçici yansımalar olarak kaldı.
 
 {% include image_caption.html imageurl="/images/2024/10/kamera-obscura.jpeg" title="Kamera Obscura" caption="Kamera Obscura, ilk basit fotoğraf makinelerinin öncüsüdür." %}
 
 ## Kimyasal Fotoğrafçılığın Doğuşu: Niepce ve Daguerre
-Fotoğrafçılık alanında ilk gerçek devrim 19. yüzyılda gerçekleşti. Fransız mucit Joseph Nicéphore Niépce, 1826 yılında tarihin bilinen ilk kalıcı fotoğrafını çekti. Bu görüntü, sekiz saat boyunca ışığa maruz kalan bir kalay levhaya kimyasal işlemlerle kaydedildi. Ancak, bu yöntem pratik değildi. Niepce’in ardından Louis Daguerre, 1839'da daha kısa pozlama süreleri ve daha net görüntüler sunan [Daguerreotype]({% post_url 2024/2024-10-08-daguerreotype-fotografciligin-tarihindeki-ilk-buyuk-devrim %}) yöntemini icat etti. Bu teknik, fotoğrafçılığın kitlesel yayılmasının önünü açtı.
+Fotoğrafçılık alanında ilk gerçek devrim 19. yüzyılda gerçekleşti. Fransız mucit Joseph Nicéphore Niépce, 1826 yılında tarihin bilinen ilk kalıcı fotoğrafını çekti. Bu görüntü, sekiz saat boyunca ışığa maruz kalan bir kalay levhaya kimyasal işlemlerle kaydedildi. Ancak, bu yöntem pratik değildi. Niepce’in ardından Louis Daguerre, 1839'da daha kısa pozlama süreleri ve daha net görüntüler sunan [Daguerreotype]({% post_url 2024/10/2024-10-08-daguerreotype-fotografciligin-tarihindeki-ilk-buyuk-devrim %}) yöntemini icat etti. Bu teknik, fotoğrafçılığın kitlesel yayılmasının önünü açtı.
 
 {% include image_caption.html imageurl="/images/2024/10/joseph-niepce-tarihte-ilk-fotograf.jpg" title="Tarihte ilk fotoğraf" caption="Joseph Nicéphore Niépce, tarihte ilk fotoğraf." %}
 

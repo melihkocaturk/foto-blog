@@ -43,7 +43,7 @@ Fotoğrafçılık yalnızca bir görsel sanat değil, aynı zamanda duygusal bir
 
 ## Yeşil ve Işık İlişkisi
 
-Fotoğrafçılıkta ışık, tüm renklerin temelidir ve yeşil de buna dahil. Doğal ışık altında yeşilin farklı tonları ortaya çıkar. Güneş ışığı, bulutlu havalar, hatta [altın saat]({% post_url 2024/2024-10-16-fotografcilikta-altin-saat-nedir %}) dediğimiz sabah ve akşamüstü ışığı, yeşilin farklı katmanlarını vurgular. Bu nedenle, yeşil renkli fotoğraflar çekerken ışıkla nasıl oynadığınız büyük fark yaratır.
+Fotoğrafçılıkta ışık, tüm renklerin temelidir ve yeşil de buna dahil. Doğal ışık altında yeşilin farklı tonları ortaya çıkar. Güneş ışığı, bulutlu havalar, hatta [altın saat]({% post_url 2024/10/2024-10-16-fotografcilikta-altin-saat-nedir %}) dediğimiz sabah ve akşamüstü ışığı, yeşilin farklı katmanlarını vurgular. Bu nedenle, yeşil renkli fotoğraflar çekerken ışıkla nasıl oynadığınız büyük fark yaratır.
 
 - **Sert Işıkta Yeşil**: Öğlen saatlerinde güneşin en tepede olduğu zamanlarda çekim yaparken, sert ışık bitkilerin üzerindeki gölgeleri belirginleştirir. Bu, yeşilin kontrastını artırır, ancak fazla sertleşen ışık bitkinin doğal tonlarını yitirmesine neden olabilir.
 - **Yumuşak Işıkta Yeşil**: Bulutlu havalar ve gün doğumu ya da gün batımı gibi zamanlarda yeşil daha yumuşak ve pürüzsüz görünür. Bu ışık koşulları, özellikle geniş manzaralar çekiminde yeşilin zenginliğini ve detaylarını en iyi şekilde yakalamanızı sağlar.

@@ -29,7 +29,7 @@ ISO değerleri genellikle 100, 200, 400, 800, 1600, 3200 gibi sayılarla ifade e
 
 ## ISO, Diyafram ve Enstantane Üçlüsü: Pozlama Üçgeni
 
-ISO, fotoğraf makinenizdeki üç temel pozlama ayarından biridir. Diğer iki ayar ise diyafram (Aperture) ve enstantane hızı (Shutter Speed)’dir. Bu üçlü, [pozlama üçgeni]({% post_url 2024/2024-10-12-fotografcilikta-pozlama-ucgeni %}) olarak bilinir ve bir fotoğrafın parlaklığını ve netliğini ayarlamak için birbiriyle dengelenir.
+ISO, fotoğraf makinenizdeki üç temel pozlama ayarından biridir. Diğer iki ayar ise diyafram (Aperture) ve enstantane hızı (Shutter Speed)’dir. Bu üçlü, [pozlama üçgeni]({% post_url 2024/10/2024-10-12-fotografcilikta-pozlama-ucgeni %}) olarak bilinir ve bir fotoğrafın parlaklığını ve netliğini ayarlamak için birbiriyle dengelenir.
 
 - **Diyafram (Aperture)**: Lensin ışığı ne kadar içeri aldığıyla ilgilidir. F-stop değerleriyle ifade edilir (örneğin f/2.8, f/5.6). Düşük f-stop değerleri, daha fazla ışık alırken yüksek değerler daha az ışık alır.
 - **Enstantane Hızı (Shutter Speed)**: Sensörün ışığa ne kadar süreyle maruz kaldığını belirler. Hızlı enstantane değerleri hareketli nesneleri dondurur, yavaş enstantane değerleri ise hareketi bulanıklaştırır.
@@ -55,7 +55,7 @@ Fotoğraf makineniz genellikle otomatik ISO ayarına sahip olacaktır. Bu modda 
 
 - **ISO 100-200**: Gün ışığında dış mekanda çekim yaparken.
 - **ISO 400-800**: Bulutlu havalarda ya da iç mekanlarda.
-- **ISO 1600 ve üzeri**: [Gece fotoğrafçılığı]({% post_url 2024/2024-12-15-gece-fotografciligi %}) veya çok düşük ışık koşullarında.
+- **ISO 1600 ve üzeri**: [Gece fotoğrafçılığı]({% post_url 2024/12/2024-12-15-gece-fotografciligi %}) veya çok düşük ışık koşullarında.
 
 ## ISO'yu Doğru Kullanarak Daha İyi Fotoğraflar Çekin
 
