@@ -5,9 +5,95 @@
         <description>siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Jul 2025 01:49:55 +0300</pubDate>
-        <lastBuildDate>Mon, 07 Jul 2025 01:49:55 +0300</lastBuildDate>
+        <pubDate>Wed, 09 Jul 2025 05:19:50 +0300</pubDate>
+        <lastBuildDate>Wed, 09 Jul 2025 05:19:50 +0300</lastBuildDate>
         <generator>Jekyll v4.0.1</generator>
+        
+            <item>
+                <title>Işıksız Ortamlarda Harici Flaş Kullanımı</title>
+                <description>&lt;p&gt;Fotoğrafçılıkta en büyük zorluklardan biri &lt;em&gt;düşük ışıklı ortamlarda doğru pozlamayı sağlamak&lt;/em&gt; ve detayları kaybetmeden kaliteli kareler yakalamaktır. Bu noktada &lt;em&gt;harici flaşlar&lt;/em&gt;, iç ve dış mekân çekimlerinde fotoğrafçının en önemli yardımcılarından biri olur. Peki, harici flaşı etkili şekilde kullanmak için neleri bilmek gerekir?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız.&lt;/p&gt;
+
+&lt;h2 id=&quot;harici-flaş-nedir-ve-neden-kullanılır&quot;&gt;Harici Flaş Nedir ve Neden Kullanılır?&lt;/h2&gt;
+
+&lt;p&gt;Harici flaş, kameranın dahili flaşına göre çok daha güçlü ve yönlendirilebilir bir ışık kaynağıdır. Özellikle ışığın kontrolünün zor olduğu iç mekânlarda, gece çekimlerinde ve düğün, portre ya da ürün fotoğrafçılığı gibi profesyonel işlerde büyük avantaj sağlar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Harici Flaşın Avantajları&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Yönlendirilebilir başlık ile ışığı yansıtma imkânı&lt;/li&gt;
+  &lt;li&gt;Daha güçlü ve dengeli ışık&lt;/li&gt;
+  &lt;li&gt;Daha hızlı şarj süresi&lt;/li&gt;
+  &lt;li&gt;Genişletilebilirlik (softbox, diffuser, renk filtresi vs.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;işıksız-ortamlarda-flaş-kullanımı-i̇çin-temel-ayarlar&quot;&gt;Işıksız Ortamlarda Flaş Kullanımı İçin Temel Ayarlar&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Manuel Modda Çekim Yapın&lt;/strong&gt;: Karanlık ortamlarda otomatik ayarlar genellikle yetersiz kalır. Manuel modda:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Diyafram (f/)&lt;/strong&gt;: f/2.8 veya daha açık (f/1.8, f/1.4)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Enstantane (shutter speed)&lt;/strong&gt;: 1/60 – 1/200 arası (flaş senkron hızına dikkat!)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;ISO&lt;/strong&gt;: 100 – 800 arası, gerektiğinde artırılabilir&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flaş Gücünü Ayarlayın&lt;/strong&gt;: Flaşınızın güç seviyesi genellikle 1/1 (tam güç) ile 1/128 arasında değişir. Deneyerek ideal seviyeyi bulun. Örneğin bir portre için 1/8 ya da 1/16 idealdir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Beyaz Dengesi (White Balance)&lt;/strong&gt;: “Flaş” veya “Kelvin” modunu kullanarak daha doğru renkler elde edebilirsiniz. Özellikle flaşta renk filtresi kullanıyorsanız, WB ayarı çok önemlidir.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;flaş-işığını-yönlendirme-teknikleri&quot;&gt;Flaş Işığını Yönlendirme Teknikleri&lt;/h2&gt;
+
+&lt;p&gt;Doğrudan flaş ışığı, sert gölgeler ve patlayan yüzeylere neden olabilir. Bunun yerine:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Yansıtmalı Işık (Bounce Flash)&lt;/strong&gt;: Tavan veya duvar gibi açık renkli yüzeylere flaşı çevirerek daha doğal ve yumuşak ışık elde edebilirsiniz.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Difüzör Kullanımı&lt;/strong&gt;: Flaşın önüne yerleştirilen plastik difüzör ya da softbox, ışığı yayarak yumuşatır.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Işık Şekillendiriciler&lt;/strong&gt;: Bounce kartı, grid (ızgara), snoot gibi aksesuarlar ile ışığın yönünü ve şiddetini daha hassas kontrol edebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;harici-flaş-ile-portre-çekiminde-dikkat-edilmesi-gerekenler&quot;&gt;Harici Flaş ile Portre Çekiminde Dikkat Edilmesi Gerekenler&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Işığın Yönü Önemlidir&lt;/strong&gt;: Yandan gelen flaş ışığı (45° üstten) yüz hatlarını belirginleştirir ve daha derinlikli görüntüler oluşturur.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gözlerde Catchlight (Parlaklık)&lt;/strong&gt;: Gözlerdeki yansıma, portrelere canlılık katar. Flaş konumunu buna göre ayarlayın.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Arka Planı Unutmayın&lt;/strong&gt;: Flaşla sadece öndeki objeyi değil, arka planı da göz önünde bulundurarak ışık dengesi kurmaya çalışın. Gerekirse ikinci bir flaş kullanabilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pratik-i̇puçları-ve-sık-yapılan-hatalar&quot;&gt;Pratik İpuçları ve Sık Yapılan Hatalar&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ön test çekimi yapın&lt;/strong&gt;: Pozlamayı test etmeden seri çekime geçmeyin.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yüzey seçimine dikkat edin&lt;/strong&gt;: Yansıma yapacak metalik, parlak yüzeylerden kaçının.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Modelleri rahatsız etmeyin&lt;/strong&gt;: Flaş çok sık çakarsa göz alabilir, doğal pozlar zorlaşabilir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pillerinizi kontrol edin&lt;/strong&gt;: Harici flaşların güç tüketimi yüksektir, ekstra pil taşımayı unutmayın.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;TTL modunu deneyin&lt;/strong&gt;: Başlangıç seviyesi kullanıcılar için otomatik ölçüm yapan TTL modu büyük kolaylık sağlar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;alternatif-aydınlatma-stratejileri&quot;&gt;Alternatif Aydınlatma Stratejileri&lt;/h2&gt;
+
+&lt;p&gt;Flaş kullanımı dışında ışık kaynaklarını çoğaltmak veya kombinlemek de mümkün:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LED panel + flaş kombinasyonu&lt;/li&gt;
+  &lt;li&gt;Işık yansıtıcılar (reflektör)&lt;/li&gt;
+  &lt;li&gt;Ortam ışığına katkı sağlamak için perde, mum veya loş lambalarla kompozisyon yaratmak&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h2&gt;
+
+&lt;p&gt;Işıksız ortamlarda harici flaş, teknik açıdan ustalık isteyen ama doğru kullanıldığında etkileyici sonuçlar doğuran güçlü bir araçtır. Farklı ayarlar, yönler ve aksesuarlarla oynayarak zamanla en iyi ışığı nasıl yaratacağınızı öğreneceksiniz. Unutmayın: her çekim, yeni bir öğrenme fırsatıdır.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 08 Jul 2025 00:00:00 +0300</pubDate>
+                <link>http://localhost:4000/isiksiz-ortamlarda-harici-flas-kullanimi</link>
+                <guid isPermaLink="true">http://localhost:4000/isiksiz-ortamlarda-harici-flas-kullanimi</guid>
+                
+                <category>ışık</category>
+                
+                
+            </item>
         
             <item>
                 <title>Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi</title>
@@ -738,80 +824,6 @@ Yorumlarda kendi film tercihlerinizi ve nedenlerinizi paylaşmayı unutmayın!&l
                 <pubDate>Mon, 31 Mar 2025 00:00:00 +0300</pubDate>
                 <link>http://localhost:4000/rim-light-teknigi-ile-konularinizi-vurgulayin</link>
                 <guid isPermaLink="true">http://localhost:4000/rim-light-teknigi-ile-konularinizi-vurgulayin</guid>
-                
-                
-            </item>
-        
-            <item>
-                <title>Seyahat Fotoğraflarınıza Ruh Katacak İpuçları</title>
-                <description>&lt;p&gt;Seyahat fotoğrafçılığı, gezip gördüklerinizi ölümsüzleştirmenin ve anılarınızı canlı tutmanın en güzel yollarından biridir. Ancak, bir fotoğrafı unutulmaz kılan unsurları bilmek, karelerinize fark katmanızı sağlayabilir. İşte tatilde fotoğraf çekerken işinize yarayacak bazı tüyolar:&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;1-işığı-doğru-kullanmaya-özen-gösterin&quot;&gt;1. Işığı Doğru Kullanmaya Özen Gösterin&lt;/h2&gt;
-
-&lt;p&gt;Işık, fotoğrafçılığın en temel unsurlarından biridir. Seyahat fotoğrafçılığında en iyi sonucu almak için altın saatleri (güneşin doğduğu ve battığı saatler) tercih edin. Bu saatlerde oluşan yumuşak ve sıcak tonlar, fotoğrafınıza derinlik ve duygu katacaktır.&lt;/p&gt;
-
-&lt;p&gt;Öğle saatlerinde sert güneş ışığından kaçınmak için gölgeleri ve reflektörleri kullanabilirsiniz. Özellikle su yüzeyleri, camlar veya parlak yüzeyler ışığı yansıtarak fotoğraflarınıza ilginç efektler ekleyebilir.&lt;/p&gt;
-
-&lt;p&gt;Bulutlu havalar da dramatik etkiler yaratabilir. Gökyüzündeki bulutların hareketini uzun pozlama teknikleriyle yakalayarak farklı bir atmosfer oluşturabilirsiniz. Gece çekimleri içinse yapay ışık kaynaklarını doğru şekilde kullanarak etkileyici kareler oluşturabilirsiniz.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-kompozisyona-dikkat-edin&quot;&gt;2. Kompozisyona Dikkat Edin&lt;/h2&gt;
-
-&lt;p&gt;Fotoğraf kompozisyonu, karelerinizin güzelliğini ve etkisini artırır.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;1/3 Kuralı&lt;/strong&gt;: Çerçeveyi yatay ve dikey olarak üçe bölüp ana nesnenizi bu çizgilerin kesiştiği noktalara yerleştirin.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ön Plan Kullanımı&lt;/strong&gt;: Fotoğrafa derinlik katmak için ön planda ilgiyi çekecek objeler kullanabilirsiniz. Örneğin, sahil fotoğraflarında bir kayık veya ayakkabılarınız gibi detaylar ekleyerek karelerinize daha fazla hikaye katabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doğal Çerçeveler&lt;/strong&gt;: Kapılar, pencereler veya ağaç dalları gibi doğal unsurları kullanarak etkileyici bir kompozisyon yaratabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Denge ve Simetri&lt;/strong&gt;: Aynalar, su birikintileri ve yansımalar kullanarak simetrik kompozisyonlar oluşturabilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;3-yerel-halkla-i̇letişim-kurun&quot;&gt;3. Yerel Halkla İletişim Kurun&lt;/h2&gt;
-
-&lt;p&gt;Bir yerin ruhunu yansıtmanın en iyi yollarından biri, orada yaşayan insanlarla iletişime geçmek ve onların hikayelerini görselleştirmektir. Samimi bir gülücük veya kısa bir sohbet, portre fotoğraflarınıza daha derin anlam katabilir. Fotoğraf çekmeden önce izin istemek, hem saygılı bir yaklaşım olacaktır hem de doğal ve rahat pozlar yakalamanıza yardımcı olacaktır.&lt;/p&gt;
-
-&lt;p&gt;Portre çekimlerinde doğal ışık kaynaklarını kullanarak daha yumuşak gölgeler ve daha etkileyici yüz ifadeleri elde edebilirsiniz. İnsanların günlük yaşantılarını çekerken, onların farkında olmadan doğal hallerini yakalamaya çalışmak daha samimi görüntüler oluşturabilir.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-en-i̇yi-saatlerde-çekim-yapın&quot;&gt;4. En İyi Saatlerde Çekim Yapın&lt;/h2&gt;
-
-&lt;p&gt;Altın saatlerin haricinde, gece ve mavi saat (güneşin batımından hemen sonra) de büyüleyici kareler yakalamanıza olanak tanır.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Uzun pozlama teknikleri&lt;/strong&gt; kullanarak gece hareket eden insanları ve araçları flu hale getirebilir, dramatik bir atmosfer yaratabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gece fotoğrafçılığı için tripod&lt;/strong&gt; kullanarak daha net ve titreşimsiz görüntüler elde edebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Yapay ışık kaynaklarını değerlendirin&lt;/strong&gt;: Şehir ışıkları, neon tabelalar veya mum ışıkları gibi unsurları kullanarak farklı ışık oyunları yaratabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Yıldız pozlamaları deneyin&lt;/strong&gt;: Eğer karanlık bir bölgede bulunuyorsanız, yıldızların hareketini uzun pozlama tekniğiyle yakalayabilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;5-hikaye-anlatımına-odaklanın&quot;&gt;5. Hikaye Anlatımına Odaklanın&lt;/h2&gt;
-
-&lt;p&gt;Seyahat fotoğrafçılığı sadece güzel kareler yakalamaktan ibaret değildir; aynı zamanda bir hikaye anlatma sanatıdır.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Çektiğiniz her fotoğrafın bir anlamı olmasına özen gösterin.&lt;/li&gt;
-  &lt;li&gt;Aynı mekanda farklı açılardan ve detaylardan kareler yakalayarak o ortamın atmosferini daha iyi yansıtabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Seri fotoğraflar çekin&lt;/strong&gt;: Bir olayın başından sonuna kadar farklı aşamalarını yakalayarak hikaye anlatımınızı güçlendirebilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Duyguları yansıtın&lt;/strong&gt;: İnsanların jest ve mimiklerini, sokaktaki spontane anları yakalayarak daha duygusal kareler oluşturabilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;6-doğal-ve-spontane-anları-yakalayın&quot;&gt;6. Doğal ve Spontane Anları Yakalayın&lt;/h2&gt;
-
-&lt;p&gt;Planlanmış fotoğraf kareleri her zaman en etkileyici olanlar değildir. Seyahat sırasında karşılaştığınız beklenmedik anlar genellikle en unutulmaz fotoğrafları sunar.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Gözlem yeteneğinizi geliştirin&lt;/strong&gt;: İnsanların günlük hayatına dikkat edin ve doğal anları kaçırmamaya çalışın.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hareketli anları dondurun&lt;/strong&gt;: Şehirde bir bisikletli, bir pazarda çalışan bir satıcı veya dalgalara atlayan bir çocuk gibi anları yakalamak için yüksek enstantane hızlarını kullanabilirsiniz.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Çocukları ve hayvanları fotoğraflayın&lt;/strong&gt;: Onların enerjisi ve doğal halleri, fotoğraflara eğlenceli ve samimi bir hava katabilir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Seyahat fotoğrafçılığında başarılı olmak için teknik bilgilere sahip olmak kadar, gözlem yeteneğinizi geliştirmek de önemlidir. Her yeni seyahat, farklı bir hikaye ve deneyim sunar. Bu nedenle, fotoğraf makinenizi veya telefonunuzu hazır tutarak, seyahat anılarınızı unutulmaz karelerle ölümsüzleştirin!&lt;/p&gt;
-</description>
-                <pubDate>Sat, 08 Mar 2025 00:00:00 +0300</pubDate>
-                <link>http://localhost:4000/seyahat-fotograflariniza-ruh-katacak-ipuclari</link>
-                <guid isPermaLink="true">http://localhost:4000/seyahat-fotograflariniza-ruh-katacak-ipuclari</guid>
-                
-                <category>seyahat fotoğrafçılığı</category>
                 
                 
             </item>
