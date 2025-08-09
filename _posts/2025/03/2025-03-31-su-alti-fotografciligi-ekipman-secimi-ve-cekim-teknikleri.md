@@ -2,7 +2,6 @@
 layout: post
 title: "Su Altı Fotoğrafçılığı: Ekipman Seçimi ve Çekim Teknikleri"
 description: "Bu yazıda, su altı fotoğrafçılığında ekipman seçimi ve etkili çekim teknikleri hakkında detaylı bir rehber sunuyoruz."
-date: 2025-03-31
 feature_image: images/2025/03/su-alti-fotografciligi-ekipman-secimi-ve-cekim-teknikleri.jpg
 tags: [su altı fotoğrafçılığı]
 ---

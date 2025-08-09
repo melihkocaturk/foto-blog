@@ -2,7 +2,6 @@
 layout: post
 title: "Sokak Fotoğrafları İçin En İyi 10 İpucu"
 description: "Bu yazıda, sokak fotoğrafçılığınızı geliştirmenize yardımcı olacak 10 ipucunu paylaşıyoruz."
-date: 2025-01-31
 feature_image: images/2025/01/sokak-fotograflari-icin-en-iyi-10-ipucu.jpg
 tags: [sokak foroğrafçılığı]
 ---

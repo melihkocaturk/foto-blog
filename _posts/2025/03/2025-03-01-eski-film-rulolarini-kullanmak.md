@@ -2,7 +2,6 @@
 layout: post
 title: "Eski Film Rulolarını Kullanmak: Son Kullanma Tarihi Geçmiş Filmlerle Deneyler"
 description: "Son kullanma tarihi geçmiş filmlerle nasıl çekim yapılır ve ortaya çıkan etkiler nelerdir?"
-date: 2025-03-01
 feature_image: images/2025/03/eski-film-rulolarini-kullanmak.jpg
 tags: [analog fotoğrafçılık]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Seyahat Fotoğraflarınıza Ruh Katacak İpuçları"
 description: "Bu yazıda, tatilde fotoğraf çekerken işinize yarayacak bazı ipuçlarını paylaşıyoruz."
-date: 2025-03-08
 feature_image: images/2025/03/seyahat-fotograflariniza-ruh-katacak-ipuclari.jpg
 tags: [seyahat fotoğrafçılığı]
 ---

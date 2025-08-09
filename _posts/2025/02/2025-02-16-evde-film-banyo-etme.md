@@ -2,7 +2,6 @@
 layout: post
 title: "Evde Film Banyo Etme: Adım Adım Kendi Karanlık Odanızı Kurun"
 description: "Bu yazıda, evde film banyo etmek için gerekli malzemelerden, sürecin her adımından ve dikkat edilmesi gereken püf noktalarından bahsedeceğiz."
-date: 2025-02-16
 feature_image: images/2025/02/evde-film-banyo-etme.jpg
 tags: [analog fotoğrafçılık]
 ---

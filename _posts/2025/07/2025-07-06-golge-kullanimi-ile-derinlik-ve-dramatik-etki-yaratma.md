@@ -2,7 +2,6 @@
 layout: post
 title: "Gölge Kullanımı ile Derinlik ve Dramatik Etki Yaratma"
 description: "Bu yazıda, gölgelerin doğru ve bilinçli kullanımıyla nasıl dramatik etkiler yaratabileceğinizi ve fotoğraflarınıza nasıl derinlik katabileceğinizi detaylı bir şekilde ele alacağız."
-date: 2025-07-06
 feature_image: images/2025/07/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma.jpg
 tags: [gölge]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Manzara Fotoğrafçılığında Kompozisyonu Mükemmelleştirme İpuçları"
 description: "Bu yazıda, manzara fotoğrafçılığında kompozisyonu mükemmelleştirmek için bazı ipuçları veriyoruz."
-date: 2025-01-25
 feature_image: images/2025/01/manzara-fotografciliginda-kompozisyonu-mukemmellestirme-ipuclari.jpg
 tags: [manzara fotoğrafçılığı, kompozisyon]
 ---

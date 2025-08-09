@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Pozlama Modları: Hangi Modu Ne Zaman Kullanmalısınız?"
 description: "Bu yazıda, pozlama modlarını ve hangi durumlarda tercih edilmesi gerektiğini ele alacağız."
-date: 2025-01-30
 feature_image: images/2025/01/fotografcilikta-pozlama-modlari.jpg
 tags: [pozlama]
 ---

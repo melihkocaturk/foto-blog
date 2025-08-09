@@ -2,7 +2,6 @@
 layout: post
 title: "Yansımaları Kullanarak Yaratıcı Fotoğraflar Çekin"
 description: "Bu yazıda, yansıma fotoğrafçılığına dair ipuçlarını ve ilham verici fikirleri keşfedeceğiz."
-date: 2025-04-05
 feature_image: images/2025/04/yansimalari-kullanarak-yaratici-fotograflar-cekin.jpg
 tags: [yansıma fotoğrafçılığı]
 ---

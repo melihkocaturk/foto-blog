@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğraf Makinesinde Poz Ölçümü Nasıl Yapılır?"
 description: "Poz ölçümü nasıl yapılır ve hangi modlar kullanılır?"
-date: 2025-01-30
 feature_image: images/2025/01/fotograf-makinesinde-poz-olcumu-nasil-yapilir.jpg
 tags: [pozlama]
 ---

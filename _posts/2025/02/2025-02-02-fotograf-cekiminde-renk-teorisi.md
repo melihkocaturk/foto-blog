@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğraf Çekiminde Renk Teorisi: Doğru Renkleri Nasıl Kullanmalısınız?"
 description: "Doğru renkleri seçerek ve bilinçli bir şekilde kullanarak çekimlerinizde etkileyici bir görsel dil yaratabilirsiniz."
-date: 2025-02-02
 feature_image: images/2025/02/fotograf-cekiminde-renk-teorisi.jpg
 tags: [renk]
 ---

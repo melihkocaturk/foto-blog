@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Dijital Efektler: Sanatsal Dokunuşlar ve Teknikler"
 description: "Fotoğrafçılıkta dijital efektler nasıl kullanılır ve hangi teknikler öne çıkar?"
-date: 2025-02-01
 feature_image: images/2025/02/fotografcilikta-dijital-efektler.jpg
 tags: []
 ---

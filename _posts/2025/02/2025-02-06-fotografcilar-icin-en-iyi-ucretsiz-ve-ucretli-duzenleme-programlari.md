@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılar İçin En İyi Ücretsiz ve Ücretli Düzenleme Programları"
 description: "Bu yazıda, en popüler ücretsiz ve ücretli fotoğraf editörlerini detaylı bir şekilde ele alacağız."
-date: 2025-02-06
 feature_image: images/2025/02/fotografcilar-icin-en-iyi-ucretsiz-ve-ucretli-duzenleme-programlari.jpg
 tags: []
 ---

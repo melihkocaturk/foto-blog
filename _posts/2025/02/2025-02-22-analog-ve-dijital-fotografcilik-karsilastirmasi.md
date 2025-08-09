@@ -2,7 +2,6 @@
 layout: post
 title: "Analog ve Dijital Fotoğrafçılık Karşılaştırması: Hangisi Sizin İçin Daha Uygun?"
 description: "Bu yazıda, iki sistemin görüntü kalitesi, çekim süreci ve maliyet analizi gibi temel farklarını detaylı bir şekilde ele alacağız."
-date: 2025-02-22
 feature_image: images/2025/02/analog-ve-dijital-fotografcilik-karsilastirmasi.jpg
 tags: [analog fotoğrafçılık, dijital fotoğrafçılık]
 ---

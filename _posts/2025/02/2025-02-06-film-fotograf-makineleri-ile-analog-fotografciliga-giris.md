@@ -2,7 +2,6 @@
 layout: post
 title: "Analog Fotoğrafçılığa Yeni Başlayanlar İçin Kapsamlı Rehber"
 description: "Analog fotoğrafçılığa adım atmak istiyorsanız, bu rehber size temel bilgileri sunacaktır."
-date: 2025-02-06
 feature_image: images/2025/02/analog-fotografciliga-yeni-baslayanlar-icin-kapsamli-rehber.jpg
 tags: [analog fotoğrafçılık]
 ---

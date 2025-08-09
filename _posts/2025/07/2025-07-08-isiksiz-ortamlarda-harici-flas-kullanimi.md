@@ -2,7 +2,6 @@
 layout: post
 title: "Işıksız Ortamlarda Harici Flaş Kullanımı"
 description: "Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız."
-date: 2025-07-08
 feature_image: images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg
 tags: [ışık]
 ---

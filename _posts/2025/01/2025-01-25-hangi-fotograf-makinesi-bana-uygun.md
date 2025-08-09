@@ -2,7 +2,6 @@
 layout: post
 title: "Hangi Fotoğraf Makinesi Bana Uygun? Başlangıç ve Orta Seviye Karşılaştırması"
 description: "Bu yazıda, başlangıç ve orta seviyeye uygun fotoğraf makinelerini karşılaştırarak, ihtiyacınıza en uygun seçimi yapmanıza yardımcı olacağız."
-date: 2025-01-25
 feature_image: images/2025/01/hangi-fotograf-makinesi-bana-uygun.jpg
 tags: []
 ---

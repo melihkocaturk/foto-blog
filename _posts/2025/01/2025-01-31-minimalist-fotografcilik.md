@@ -2,7 +2,6 @@
 layout: post
 title: "Minimalist Fotoğrafçılık: Daha Azla Daha Fazla Anlatın"
 description: "Bu yazıda, minimalist fotoğrafçılığın temel prensiplerini, minimal kompozisyon tekniklerini ve örnek çekim önerilerini detaylı bir şekilde ele alacağız."
-date: 2025-01-31
 feature_image: images/2025/01/minimalist-fotografcilik.jpg
 tags: [minimalizm]
 ---

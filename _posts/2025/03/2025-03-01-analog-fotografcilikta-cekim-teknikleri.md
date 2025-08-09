@@ -2,7 +2,6 @@
 layout: post
 title: "Analog Fotoğrafçılıkta Çekim Teknikleri: Harika Kompozisyonlar İçin İpuçları"
 description: "Bu yazıda, analog fotoğrafçılığın temellerinden başlayarak, kural dışı deneysel tekniklere kadar uzanan geniş bir perspektif sunacağız."
-date: 2025-03-01
 feature_image: images/2025/03/analog-fotografcilikta-cekim-teknikleri.jpg
 tags: [analog fotoğrafçılık]
 ---

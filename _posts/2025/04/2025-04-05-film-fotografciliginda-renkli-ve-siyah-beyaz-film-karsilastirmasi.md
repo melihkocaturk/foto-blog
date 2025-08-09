@@ -2,7 +2,6 @@
 layout: post
 title: "Film Fotoğrafçılığında Renkli ve Siyah-Beyaz Film Karşılaştırması"
 description: "Bu yazıda, renkli vs siyah-beyaz film kıyaslamasını yapacak, her iki formatın avantajlarını, dezavantajlarını ve hangi durumlarda tercih edilmesi gerektiğini detaylıca inceleyeceğiz."
-date: 2025-04-05
 feature_image: images/2025/04/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi.jpg
 tags: [analog fotoğrafçılık]
 ---

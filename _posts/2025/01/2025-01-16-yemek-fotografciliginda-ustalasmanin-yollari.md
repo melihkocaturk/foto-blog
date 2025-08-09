@@ -2,7 +2,6 @@
 layout: post
 title: "Lezzet Sanatı: Yemek Fotoğrafçılığında Ustalaşmanın Yolları"
 description: "Bu yazıda, yemek fotoğrafçılığına dair ipuçlarını ve püf noktalarını paylaşıyoruz."
-date: 2025-01-16
 feature_image: images/2025/01/yemek-fotografciliginda-ustalasmanin-yollari.jpg
 tags: [yemek fotoğrafçılığı]
 ---

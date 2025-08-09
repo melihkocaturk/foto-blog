@@ -2,7 +2,6 @@
 layout: post
 title: "Rim Light Tekniği ile Konularınızı Vurgulayın"
 description: "Fotoğrafta dramatik bir etki yaratmak ve nesnenizi arka planından ayrıştırmak istiyorsanız, Rim Light tekniği tam size göre!"
-date: 2025-03-31
 feature_image: images/2025/03/rim-light-teknigi-ile-konularinizi-vurgulayin.jpg
 tags: []
 ---

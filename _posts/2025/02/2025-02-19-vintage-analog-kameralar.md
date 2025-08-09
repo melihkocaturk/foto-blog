@@ -2,7 +2,6 @@
 layout: post
 title: "Vintage Analog Kameralar: Tarihi Modeller ve Kullanım Önerileri"
 description: "Bu yazıda, tarihe damga vurmuş bazı analog kamera modellerini inceleyeceğiz."
-date: 2025-02-19
 feature_image: images/2025/02/vintage-analog-kameralar.jpg
 tags: [analog fotoğrafçılık]
 ---

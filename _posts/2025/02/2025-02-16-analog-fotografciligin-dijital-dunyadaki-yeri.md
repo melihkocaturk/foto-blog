@@ -2,7 +2,6 @@
 layout: post
 title: "Analog Fotoğrafcılığın Dijital Dünyadaki Yeri: Tarama ve Paylaşım Teknikleri"
 description: "Bu yazıda, negatif tarama yöntemlerinden, en iyi tarayıcılara, film fotoğraflarını dijital ortama aktarırken kullanabileceğiniz düzenleme ipuçlarından ve sosyal medyada paylaşım yaparken dikkat etmeniz gerekenlerden bahsedeceğiz."
-date: 2025-02-16
 feature_image: images/2025/02/analog-fotografciligin-dijital-dunyadaki-yeri.jpg
 tags: [analog fotoğrafçılık]
 ---

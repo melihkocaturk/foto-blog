@@ -2,7 +2,6 @@
 layout: post
 title: "Siyah Beyaz Fotoğrafçılığın Büyüsü: Kontrast ve Doku Kullanımı"
 description: "Bu yazıda, siyah beyaz fotoğrafçılıkta ışık, gölge, kontrast ve doku kullanımına dair bazı önemli teknikleri inceliyoruz."
-date: 2025-02-01
 feature_image: images/2025/02/siyah-beyaz-fotografciligin-buyusu-kontrast-ve-doku-kullanimi.jpg
 tags: [siyah beyaz fotoğrafçılık]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Drone Fotoğrafçılığına Giriş: Havadan Muhteşem Kareler Çekin"
 description: "Bu yazıda, drone fotoğrafçılığına yeni başlayanlar için temel ipuçlarını paylaşacağız."
-date: 2025-02-24
 feature_image: images/2025/02/drone-fotografciligina-giris.jpg
 tags: []
 ---

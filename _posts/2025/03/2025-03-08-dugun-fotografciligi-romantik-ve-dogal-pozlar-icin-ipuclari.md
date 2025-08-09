@@ -2,7 +2,6 @@
 layout: post
 title: "Düğün Fotoğrafçılığı: Romantik ve Doğal Pozlar İçin İpuçları"
 description: "Bu yazıda, gelin ve damadın en güzel şekilde poz vermesini sağlayacak tekniklerden, doğru ışık kullanımından ve düğün günü stresini azaltmaya yönelik stratejilerden bahsedeceğiz."
-date: 2025-03-08
 feature_image: images/2025/03/dugun-fotografciligi-romantik-ve-dogal-pozlar-icin-ipuclari.jpg
 tags: [düğün fotoğrafçılığı]
 ---

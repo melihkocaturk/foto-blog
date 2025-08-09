@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Hikaye Anlatımı: Görsellerle Duygu ve Anlam Yaratmak"
 description: "Bu yazıda, fotoğrafta hikaye anlatımını güçlendirmenin yollarını paylaşıyoruz."
-date: 2025-02-06
 feature_image: images/2025/02/fotografta-hikaye-anlatimi.jpg
 tags: []
 ---

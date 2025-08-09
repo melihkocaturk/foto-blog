@@ -2,7 +2,6 @@
 layout: post
 title: "Hareketi Dondurmak: Fotoğrafçılıkta Anı Yakalayın"
 description: "Bu yazıda, fotoğrafta hareketi dondurmak için bilmeniz gerekenleri paylaşıyoruz."
-date: 2025-02-09
 feature_image: images/2025/02/hareketi-dondurmak.jpg
 tags: [enstantane]
 ---

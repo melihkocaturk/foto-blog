@@ -2,7 +2,6 @@
 layout: post
 title: "Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi"
 description: "Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız."
-date: 2025-07-06
 feature_image: images/2025/07/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi.jpg
 tags: []
 ---

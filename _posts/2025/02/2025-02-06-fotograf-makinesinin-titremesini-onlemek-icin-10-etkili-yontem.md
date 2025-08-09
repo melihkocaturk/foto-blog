@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğraf Makinesinin Titremesini Önlemek İçin 10 Etkili Yöntem"
 description: "Bu yazıda, fotoğraf makinesinin titremesini önlemek için neler yapabileceğinizi paylaşıyoruz."
-date: 2025-02-06
 feature_image: images/2025/02/fotograf-makinesinin-titremesini-onlemek.jpg
 tags: []
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "En Popüler Analog Film Türleri ve Karakteristikleri"
 description: "Bu yazıda, en popüler analog film türlerini ve özelliklerini ele alacağız."
-date: 2025-02-09
 feature_image: images/2025/02/en-populer-analog-film-turleri.jpg
 tags: [analog fotoğrafçılık]
 ---

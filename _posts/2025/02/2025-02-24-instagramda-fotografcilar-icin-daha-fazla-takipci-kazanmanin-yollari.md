@@ -2,7 +2,6 @@
 layout: post
 title: "Instagram’da Fotoğrafçılar İçin Daha Fazla Takipçi Kazanmanın Yolları"
 description: "Bu yazıda, Instagram'da büyümek isteyen fotoğrafçılar için ipuçlarını paylaşacağız."
-date: 2025-02-24
 feature_image: images/2025/02/instagramda-fotografcilar-icin-daha-fazla-takipci-kazanmanin-yollari.jpg
 tags: [sosyal medya]
 ---

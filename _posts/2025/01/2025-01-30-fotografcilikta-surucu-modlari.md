@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Sürücü Modları: Çekim Deneyiminizi Geliştirin"
 description: "Bu yazıda, sürücü modlarının ne olduğunu, farklı çekim senaryolarında nasıl kullanılması gerektiğini ve en iyi sonuçları almak için ipuçlarını inceleyeceğiz."
-date: 2025-01-30
 feature_image: images/2025/01/fotografcilikta-surucu-modlari.jpg
 tags: []
 ---

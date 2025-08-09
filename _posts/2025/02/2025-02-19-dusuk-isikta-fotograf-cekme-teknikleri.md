@@ -2,7 +2,6 @@
 layout: post
 title: "Düşük Işıkta Fotoğraf Çekme Teknikleri: Net ve Parazitsiz Görseller"
 description: "Bu yazıda, gece veya az ışıklı ortamlarda fotoğraf çekme tekniklerini inceleyeceğiz."
-date: 2025-02-19
 feature_image: images/2025/02/dusuk-isikta-fotograf-cekme-teknikleri.jpg
 tags: [gece fotoğrafçılığı]
 ---

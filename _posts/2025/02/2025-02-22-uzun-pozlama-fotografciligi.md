@@ -2,7 +2,6 @@
 layout: post
 title: "Uzun Pozlama Fotoğrafçılığı: Detaylı Rehber"
 description: "Bu yazıda, uzun pozlamanın ne olduğunu ve nasıl uygulanacağını detaylı bir şekilde inceleyeceğiz."
-date: 2025-02-22
 feature_image: images/2025/02/uzun-pozlama-fotografciligi.jpg
 tags: [pozlama]
 ---

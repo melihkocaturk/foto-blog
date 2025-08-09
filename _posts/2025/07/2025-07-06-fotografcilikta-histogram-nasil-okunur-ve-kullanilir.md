@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Histogram Nasıl Okunur ve Kullanılır?"
 description: "Bu yazıda, histogram nedir, nasıl okunur ve fotoğraflarınızı iyileştirmek için nasıl kullanılır adım adım öğreneceksiniz."
-date: 2025-07-06
 feature_image: images/2025/07/fotografcilikta-histogram-nasil-okunur-ve-kullanilir.jpg
 tags: []
 ---

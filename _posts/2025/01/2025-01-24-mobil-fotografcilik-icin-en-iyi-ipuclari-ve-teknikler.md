@@ -2,7 +2,6 @@
 layout: post
 title: "Mobil Fotoğrafçılık için En İyi İpuçları ve Teknikler"
 description: "Daha iyi fotoğraflar çekmek için detaylı ipuçları ve teknikler."
-date: 2025-01-24
 feature_image: images/2025/01/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler.jpg
 tags: [mobil fotoğrafçılık]
 ---

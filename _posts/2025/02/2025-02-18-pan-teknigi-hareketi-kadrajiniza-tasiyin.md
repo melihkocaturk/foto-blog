@@ -2,7 +2,6 @@
 layout: post
 title: "Pan Tekniği: Hareketi Kadrajınıza Taşıyın"
 description: "Bu yazıda, pan tekniğini detaylıca inceliyoruz."
-date: 2025-02-18
 feature_image: images/2025/02/pan-teknigi.jpg
 tags: []
 ---

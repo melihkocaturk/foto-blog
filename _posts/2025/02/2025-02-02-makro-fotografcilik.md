@@ -2,7 +2,6 @@
 layout: post
 title: "Makro Fotoğrafçılık: Küçük Dünyaları Büyük Gösterme Sanatı"
 description: "Makro fotoğrafçılık, sabır ve dikkat gerektiren bir uğraş olup, fotoğrafçının bakış açısını ve teknik becerilerini geliştirmesine yardımcı olur."
-date: 2025-02-02
 feature_image: images/2025/02/makro-fotografcilik.jpg
 tags: [makro fotoğrafçılık]
 ---

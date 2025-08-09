@@ -2,7 +2,6 @@
 layout: post
 title: "Bokeh Efekti ile Arka Planı Nasıl Flu Yapabilirsiniz?"
 description: "Bu yazıda, mükemmel bokeh efektini elde etmenin yollarını paylaşıyoruz."
-date: 2025-03-08
 feature_image: images/2025/03/bokeh-efekti-ile-arka-plani-nasil-flu-yapabilirsiniz.jpg
 tags: []
 ---

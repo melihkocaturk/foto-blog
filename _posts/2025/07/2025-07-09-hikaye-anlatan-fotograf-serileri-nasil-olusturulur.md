@@ -2,7 +2,6 @@
 layout: post
 title: "Hikaye Anlatan Fotoğraf Serileri Nasıl Oluşturulur?"
 description: "Hikaye anlatan fotoğraf serileri, izleyiciyi görsel bir yolculuğa çıkarır, duygular uyandırır ve anlatmak istediğiniz düşünceyi çok daha etkili şekilde aktarır."
-date: 2025-07-09
 feature_image: images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg
 tags: []
 ---

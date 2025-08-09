@@ -2,7 +2,6 @@
 layout: post
 title: "Resimsel Fotoğraf Nedir?"
 description: "Bu yazımızda tüm detaylarıyla resimsel fotoğrafçılığı ele alıyoruz."
-date: 2025-06-28
 feature_image: images/2025/06/resimsel-fotograf-nedir.jpg
 tags: [resimsel fotoğrafçılık]
 ---
