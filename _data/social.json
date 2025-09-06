@@ -1,14 +1,14 @@
 {
   "links": [
     {
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "title": "RSS",
+      "icon": "fa-rss",
+      "url": "/feed.xml"
     },
     {
-      "title": "Youtube",
-      "icon": "fa-youtube",
-      "url": "https://www.youtube.com/"
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/melih_kocaturk_"
     }
   ]
 }

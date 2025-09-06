@@ -35,7 +35,7 @@ navigation:
   - text: Etiketler
     url: /etiketler
   - text: İletişim
-    url: "mailto:info@siyahbeyaz.net.tr"
+    url: "mailto:melih.kocaturk@icloud.com"
 
 # The shortname for your Disqus site to enable comments.
 disqus: siyahbeyaz-1
@@ -45,7 +45,7 @@ accent_color: '#000'
 
 # Site footer
 footer:
-  content: "&copy; siyahbeyaz.net.tr, tüm hakları saklıdır."
+  content: '&copy; <a href="https://www.melihkocaturk.com">Melih Kocatürk</a>, tüm hakları saklıdır.'
   has_social: true
 
 # Plugins
