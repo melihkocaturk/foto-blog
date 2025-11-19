@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-11-19T22:05:25+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Ayna ile Fotoğrafçılık: Yaratıcı Yansımalar ve Perspektifler</title><link href="http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler" rel="alternate" type="text/html" title="Ayna ile Fotoğrafçılık: Yaratıcı Yansımalar ve Perspektifler" /><published>2025-08-09T00:00:00+03:00</published><updated>2025-08-09T00:00:00+03:00</updated><id>http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler</id><content type="html" xml:base="http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler"><![CDATA[<p>Fotoğrafçılıkta en büyüleyici tekniklerden biri, ayna ile fotoğraf çekmek ve yansımaları yaratıcı şekilde kullanmaktır. Aynalar, sahneye farklı bir boyut kazandırır; gerçeklik ile illüzyon arasında ince bir çizgi yaratır. İster portre ister manzara çekin, ayna sayesinde hem kompozisyonunuzu güçlendirebilir hem de izleyiciye farklı bir bakış açısı sunabilirsiniz.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-11-19T23:57:47+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Fotoğrafta Basamaklama (Bracketing) Nedir? Nasıl Yapılır ve Hangi Durumlarda Kullanılır?</title><link href="http://localhost:4000/fotografta-basamaklama-bracketing-nedir" rel="alternate" type="text/html" title="Fotoğrafta Basamaklama (Bracketing) Nedir? Nasıl Yapılır ve Hangi Durumlarda Kullanılır?" /><published>2025-11-19T00:00:00+03:00</published><updated>2025-11-19T00:00:00+03:00</updated><id>http://localhost:4000/fotografta-basamaklama-bracketing-nedir</id><content type="html" xml:base="http://localhost:4000/fotografta-basamaklama-bracketing-nedir"><![CDATA[<p>Fotoğrafçılıkta doğru pozlamayı bulmak her zaman kolay değildir. Işık koşulları hızla değişebilir, sahne içindeki parlaklık farkları kameranın ölçüm sistemini zorlayabilir veya yaratıcı bir sonuç elde etmek için birden fazla pozlamaya ihtiyaç duyabilirsiniz. İşte bu noktada <strong>basamaklama (bracketing)</strong> tekniği devreye girer.</p>
+
+<p>Basamaklama, çektiğiniz sahnenin birden fazla farklı ayarla fotoğraflanmasıdır. En yaygın kullanımı <em>pozlama basamaklamasıdır</em>, ancak odak, beyaz ayarı ve flaş gücü gibi farklı alanlarda da basamaklama yapılabilir. Özellikle profesyonel fotoğrafçılar ve mimari–manzara fotoğrafçıları için vazgeçilmez bir teknik haline gelmiştir.</p>
+
+<h2 id="basamaklama-bracketing-nedir">Basamaklama (Bracketing) Nedir?</h2>
+
+<p>Basamaklama, aynı sahnenin birkaç farklı ayarla art arda çekilmesi anlamına gelir.</p>
+
+<p>Örneğin pozlama basamaklamasında:</p>
+
+<ul>
+  <li>Bir fotoğraf normal pozlama</li>
+  <li>Bir fotoğraf daha az pozlanmış</li>
+  <li>Bir fotoğraf daha fazla pozlanmış</li>
+</ul>
+
+<p>olarak çekilir.</p>
+
+<p>Bu sayede fotoğrafçı, çekim sonrası en doğru pozlamayı seçebilir veya bu fotoğrafları birleştirerek <em>HDR (High Dynamic Range – Yüksek Dinamik Aralık)</em> görüntüler üretebilir.</p>
+
+<h2 id="basamaklama-türleri">Basamaklama Türleri</h2>
+
+<h3 id="pozlama-basamaklaması-exposure-bracketing">Pozlama Basamaklaması (Exposure Bracketing)</h3>
+
+<p>En yaygın kullanılan basamaklama türüdür. Kameranın pozlama değeri (EV) artırılarak ve azaltılarak birden fazla kare çekilir.</p>
+
+<p><strong>Örneğin</strong>: +1 EV, 0 EV, -1 EV şeklinde.</p>
+
+<figure>
+  <img src="/images/2025/11/pozlama-basamaklamasi.jpg" alt="Pozlama Basamaklaması" />
+  
+</figure>
+
+<p><strong>Kullanım Alanları</strong>:</p>
+
+<ul>
+  <li>Manzara fotoğrafçılığı</li>
+  <li>Gün doğumu/gün batımı sahneleri</li>
+  <li>Pencereden dış mekânın göründüğü iç mekân çekimleri</li>
+  <li>Kontrastın çok yüksek olduğu durumlar</li>
+</ul>
+
+<h3 id="odak-basamaklaması-focus-bracketing">Odak Basamaklaması (Focus Bracketing)</h3>
+
+<p>Her karede farklı bir odak noktası kullanılarak çekim yapılır. Çoğu zaman makro çekimde tercih edilir. Çekilen fotoğraflar daha sonra yazılımla birleştirilerek <em>Focus Stacking</em> yapılır.</p>
+
+<p><strong>Kullanım Alanları</strong>:</p>
+
+<ul>
+  <li>Makro fotoğrafçılık</li>
+  <li>Ürün fotoğrafçılığı</li>
+  <li>Detaylı yakın plan çekimler</li>
+</ul>
+
+<h3 id="beyaz-ayarı-basamaklaması-white-balance-bracketing">Beyaz Ayarı Basamaklaması (White Balance Bracketing)</h3>
+
+<p>Farklı renk sıcaklıklarında birkaç kare alınır. Işığın karmaşık olduğu durumlarda doğru renk tonunu yakalamak için kullanılır.</p>
+
+<p><strong>Kullanım Alanları</strong>:</p>
+
+<ul>
+  <li>İç mekân çekimleri</li>
+  <li>Karma ışıklı sahneler (gün ışığı + tungsten ışık gibi)</li>
+</ul>
+
+<h3 id="iso-basamaklaması">ISO Basamaklaması</h3>
+
+<p>Genelde düşük ışıkta doğru dengeyi yakalamak için farklı ISO değerlerinde çekimler yapılır.</p>
+
+<p><strong>Kullanım Alanları</strong>:</p>
+
+<ul>
+  <li>Gece çekimleri</li>
+  <li>Konser ve etkinlik fotoğrafçılığı</li>
+</ul>
+
+<h2 id="pozlama-basamaklaması-nasıl-yapılır">Pozlama Basamaklaması Nasıl Yapılır?</h2>
+
+<p>Modern fotoğraf makinelerinin çoğunda <em>AEB (Auto Exposure Bracketing)</em> özelliği mevcuttur. Temel adımlar:</p>
+
+<ol>
+  <li>Kamera menüsünden AEB veya Bracketing seçeneğini bulun.</li>
+  <li>Çekmek istediğiniz pozlama aralığını belirleyin.
+    <ul>
+      <li>Örneğin: ±1 EV, ±2 EV.</li>
+    </ul>
+  </li>
+  <li>Çekim modunuzu belirleyin (genelde diyafram öncelikli mod tercih edilir).</li>
+  <li>Tek seferde seri çekim yapın; kamera otomatik olarak tüm basamaklı kareleri oluşturur.</li>
+  <li>Gerekirse tripod kullanın.</li>
+</ol>
+
+<h2 id="basamaklama-ne-zaman-kullanılır">Basamaklama Ne Zaman Kullanılır?</h2>
+
+<ol>
+  <li><strong>Işık Kontrastının Yüksek Olduğu Durumlar</strong>: Gün batımı, güçlü gölgeler içeren manzaralar, pencereden ışık giren mekânlar gibi sahnelerde kamera tek pozlamada yeterli detayı yakalayamaz.</li>
+  <li><strong>HDR Fotoğraf Oluşturmak İçin</strong>: Farklı pozlamalar özel yazılımlarla birleştirilerek hem gölgelerde hem parlak alanlarda detay içeren fotoğraflar elde edilir.</li>
+  <li><strong>Detaylı Makro Çekimlerde</strong>: Focus bracketing sayesinde tüm detayların net olduğu görüntüler oluşturulur.</li>
+  <li><strong>Önemli Kareleri Garantilemek İçin</strong>: Nadir veya zor çekim fırsatlarında doğru pozlamayı kaçırma riskini en aza indirir.</li>
+  <li><strong>Profesyonel Mimari ve Emlak Fotoğrafçılığında</strong>: Parlak pencereler ile gölgeli iç mekânların aynı anda doğru pozlanması için vazgeçilmezdir.</li>
+</ol>
+
+<h2 id="basamaklama-yaparken-dikkat-edilmesi-gerekenler">Basamaklama Yaparken Dikkat Edilmesi Gerekenler</h2>
+
+<ul>
+  <li>Tripod kullanmak fotoğrafların üst üste düzgün oturması açısından önemlidir.</li>
+  <li>Hareketli nesnelerin bulunduğu sahnelerde HDR için kullanılan pozlama basamaklaması hayalet görüntülere neden olabilir.</li>
+  <li>İdeal EV aralığını seçmek, sahnenin ışık yoğunluğuna göre değişir.</li>
+  <li>RAW formatında çekim düzenlemede çok daha fazla esneklik sağlar.</li>
+</ul>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Fotoğrafta basamaklama, doğru pozlamayı yakalamak, yüksek dinamik aralık elde etmek veya daha net ve detaylı fotoğraflar oluşturmak için kullanılan güçlü bir tekniktir. Hem amatörler hem de profesyoneller için kullanımı oldukça kolaydır ve çekim kalitesine doğrudan etki eder.</p>
+
+<p>Işığın zorlayıcı olduğu sahnelerde basamaklama yaparak hem güvenli çekim elde eder hem de post-prodüksiyon aşamasında çok daha esnek bir çalışma alanı kazanırsınız.</p>
+
+<p><strong>Fotoğraf</strong>: <a href="https://1hourphotography.com/index.php/2022/03/07/auto-exposure-bracketing-canon/">https://1hourphotography.com</a></p>]]></content><author><name></name></author><category term="pozlama" /><summary type="html"><![CDATA[Fotoğrafta basamaklama nedir ve nasıl uygulanır? Doğru pozlama ve yüksek dinamik aralık için bracketing tekniklerini kısaca keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/11/fotografta-basamaklama-bracketing-nedir.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/11/fotografta-basamaklama-bracketing-nedir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ayna ile Fotoğrafçılık: Yaratıcı Yansımalar ve Perspektifler</title><link href="http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler" rel="alternate" type="text/html" title="Ayna ile Fotoğrafçılık: Yaratıcı Yansımalar ve Perspektifler" /><published>2025-08-09T00:00:00+03:00</published><updated>2025-08-09T00:00:00+03:00</updated><id>http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler</id><content type="html" xml:base="http://localhost:4000/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler"><![CDATA[<p>Fotoğrafçılıkta en büyüleyici tekniklerden biri, ayna ile fotoğraf çekmek ve yansımaları yaratıcı şekilde kullanmaktır. Aynalar, sahneye farklı bir boyut kazandırır; gerçeklik ile illüzyon arasında ince bir çizgi yaratır. İster portre ister manzara çekin, ayna sayesinde hem kompozisyonunuzu güçlendirebilir hem de izleyiciye farklı bir bakış açısı sunabilirsiniz.</p>
 
 <p>Bu yazıda, <em>yansıma kullanımı</em> ile yaratıcı illüzyonlar oluşturmanın yollarını, simetriyi ön plana çıkarmanın ipuçlarını ve farklı kompozisyon tekniklerini ele alacağız.</p>
 
@@ -559,81 +676,4 @@
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Yansıma fotoğrafçılığı, yaratıcılığınızı konuşturmanın harika yollarından biri. Tek yapmanız gereken, gözünüzü açık tutmak ve çevrenizdeki yansıtıcı yüzeyleri bir fotoğraf çerçevesi gibi değerlendirmek. Siz de kameranızı kapın ve kendi yansıma hikâyelerinizi anlatmaya başlayın!</p>]]></content><author><name></name></author><category term="yansıma fotoğrafçılığı" /><summary type="html"><![CDATA[Bu yazıda, yansıma fotoğrafçılığına dair ipuçlarını ve ilham verici fikirleri keşfedeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/04/yansimalari-kullanarak-yaratici-fotograflar-cekin.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/04/yansimalari-kullanarak-yaratici-fotograflar-cekin.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Film Fotoğrafçılığında Renkli ve Siyah-Beyaz Film Karşılaştırması</title><link href="http://localhost:4000/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi" rel="alternate" type="text/html" title="Film Fotoğrafçılığında Renkli ve Siyah-Beyaz Film Karşılaştırması" /><published>2025-04-05T00:00:00+03:00</published><updated>2025-04-05T00:00:00+03:00</updated><id>http://localhost:4000/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi</id><content type="html" xml:base="http://localhost:4000/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi"><![CDATA[<p>Analog fotoğrafçılık, dijital çağda bile tutkusunu kaybetmeyen bir sanat dalı. Özellikle filmle çekim yapan fotoğrafçılar için en temel tercihlerden biri, renkli mi yoksa siyah-beyaz film mi kullanacaklarına karar vermektir. Bu yazıda, renkli vs siyah-beyaz film kıyaslamasını yapacak, her iki formatın avantajlarını, dezavantajlarını ve hangi durumlarda tercih edilmesi gerektiğini detaylıca inceleyeceğiz.</p>
-
-<h2 id="renkli-film-gerçeğe-yakın-ve-canlı">Renkli Film: Gerçeğe Yakın ve Canlı</h2>
-
-<h3 id="avantajları">Avantajları</h3>
-
-<ul>
-  <li><strong>Gerçekçilik</strong>: Renkli filmler, sahneyi daha gerçekçi şekilde yansıtır. Doğal tonlar, gökyüzü mavisi, yeşilin tonları veya kırmızı bir çiçeğin canlılığı fotoğrafa ayrı bir ruh katar.</li>
-  <li><strong>Duygusal Yoğunluk</strong>: Renklerin psikolojik etkileri, izleyici üzerinde güçlü bir duygu yaratabilir. Örneğin, sıcak tonlar nostalji hissi verirken soğuk tonlar yalnızlık temasını vurgulayabilir.</li>
-  <li><strong>Ticari Kullanım</strong>: Moda, manzara, düğün ya da reklam fotoğrafçılığı gibi alanlarda renk, genellikle aranan bir unsurdur.</li>
-</ul>
-
-<h3 id="dezavantajları">Dezavantajları</h3>
-
-<ul>
-  <li><strong>Renk Kontrolü Zorluğu</strong>: Renkli film, beyaz dengesi ve ışık türü konusunda daha hassastır. Yanlış ışık koşullarında çekim yapmak renk sapmalarına neden olabilir.</li>
-  <li><strong>Daha Pahalı ve Narin</strong>: Renkli filmler genellikle siyah-beyaz filmlere kıyasla daha pahalıdır ve banyo işlemleri daha karmaşıktır.</li>
-</ul>
-
-<h2 id="siyah-beyaz-film-zamanın-ötesinde-bir-estetik">Siyah-Beyaz Film: Zamanın Ötesinde Bir Estetik</h2>
-
-<h3 id="avantajları-1">Avantajları</h3>
-
-<ul>
-  <li><strong>Dramatik Etki</strong>: Siyah-beyaz filmler kontrastı, gölgeyi ve dokuyu öne çıkarır. Bu da özellikle portre ve mimari çekimlerde etkileyici sonuçlar doğurur.</li>
-  <li><strong>Minimalist ve Zamansız</strong>: Renk olmadan sadece ışık, form ve duygu kalır. Bu da fotoğrafların daha zamansız ve sanatsal görünmesini sağlar.</li>
-  <li><strong>Daha Kolay Banyo Süreci</strong>: Siyah-beyaz film banyosu daha affedicidir ve evde yapılması daha kolaydır.</li>
-</ul>
-
-<h3 id="dezavantajları-1">Dezavantajları</h3>
-
-<ul>
-  <li><strong>Renk Bilgisinin Kaybı</strong>: Renklerin etkisine dayanan bir sahne siyah-beyazda etkisini kaybedebilir. Örneğin sonbaharın renklerini çekmek siyah-beyaz filmde istenilen duyguyu veremeyebilir.</li>
-  <li><strong>Herkese Hitap Etmeyebilir</strong>: Özellikle sosyal medya odaklı izleyici kitlesi için siyah-beyaz fotoğraflar daha az ilgi çekici olabilir.</li>
-</ul>
-
-<h2 id="hangi-durumda-hangi-film">Hangi Durumda Hangi Film?</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Durum</th>
-      <th>Tercih Edilen Film</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Portre Çekimi</td>
-      <td>Siyah-Beyaz (duygusal yoğunluk için)</td>
-    </tr>
-    <tr>
-      <td>Manzara Çekimi</td>
-      <td>Renkli (doğal tonlar için)</td>
-    </tr>
-    <tr>
-      <td>Belgesel Fotoğrafçılık</td>
-      <td>Her ikisi de kullanılabilir</td>
-    </tr>
-    <tr>
-      <td>Moda/Ürün Fotoğrafçılığı</td>
-      <td>Renkli (ürünün özelliklerini göstermek için)</td>
-    </tr>
-    <tr>
-      <td>Sanatsal Projeler</td>
-      <td>Siyah-Beyaz (minimalist estetik için)</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="kişisel-tercih-mi-konuya-uygunluk-mu">Kişisel Tercih mi, Konuya Uygunluk mu?</h2>
-
-<p>Film seçimi çoğu zaman kişisel zevke bağlıdır. Ancak çekim yapmak istediğiniz konuya göre karar vermek, sonuçları önemli ölçüde etkileyebilir. Bazen bir sahne o kadar güçlüdür ki renk olmadan da her şeyi anlatır. Diğer zamanlarda ise renkler, anlatımın vazgeçilmez bir parçasıdır.</p>
-
-<h2 id="sonuç-renkli-ve-siyah-beyaz-film-arasında-bir-denge">Sonuç: Renkli ve Siyah-Beyaz Film Arasında Bir Denge</h2>
-<p>Analog fotoğrafçılık karşılaştırması yaparken unutulmaması gereken şey, her iki film türünün de kendine has bir ruhu ve etkisi olduğudur. Deneme yapmaktan çekinmeyin. Belki de aynı sahneyi hem renkli hem siyah-beyaz filmle çekip farkı doğrudan görmek size en iyi cevabı verecektir.</p>
-
-<p><strong>Siz hangisini tercih ediyorsunuz?</strong>
-Yorumlarda kendi film tercihlerinizi ve nedenlerinizi paylaşmayı unutmayın!</p>]]></content><author><name></name></author><category term="analog fotoğrafçılık" /><summary type="html"><![CDATA[Bu yazıda, renkli vs siyah-beyaz film kıyaslamasını yapacak, her iki formatın avantajlarını, dezavantajlarını ve hangi durumlarda tercih edilmesi gerektiğini detaylıca inceleyeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/04/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/04/film-fotografciliginda-renkli-ve-siyah-beyaz-film-karsilastirmasi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Yansıma fotoğrafçılığı, yaratıcılığınızı konuşturmanın harika yollarından biri. Tek yapmanız gereken, gözünüzü açık tutmak ve çevrenizdeki yansıtıcı yüzeyleri bir fotoğraf çerçevesi gibi değerlendirmek. Siz de kameranızı kapın ve kendi yansıma hikâyelerinizi anlatmaya başlayın!</p>]]></content><author><name></name></author><category term="yansıma fotoğrafçılığı" /><summary type="html"><![CDATA[Bu yazıda, yansıma fotoğrafçılığına dair ipuçlarını ve ilham verici fikirleri keşfedeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/04/yansimalari-kullanarak-yaratici-fotograflar-cekin.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/04/yansimalari-kullanarak-yaratici-fotograflar-cekin.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
