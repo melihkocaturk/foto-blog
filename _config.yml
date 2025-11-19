@@ -1,0 +1,26 @@
+# Site
+url: "https://www.siyahbeyaz.net.tr"
+lang: tr
+title: SiyahBeyaz
+description: Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.
+copyright: '<a href="https://www.melihkocaturk.com" class="text-black text-decoration-none">Melih Kocatürk</a>'
+
+# Permalinks
+permalink: /:title
+
+# Pagination
+paginate: 5
+paginate_path: /sayfa:num/
+
+# Social
+social: 
+  instagram: https://www.instagram.com/melih_kocaturk_
+
+# Google Analytics
+google_analytics: G-V5Z4GH826N
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
