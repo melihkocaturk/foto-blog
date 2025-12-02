@@ -3,6 +3,7 @@ layout: post
 title: "Yolculuk Esnasında Fotoğrafçılık: Araç İçinden Bile Harika Kareler Yakalayın"
 description: "Yolda fotoğraf çekmek için en pratik teknikler. Araç içinden yansımasız, net ve güvenli şekilde nasıl fotoğraf çekileceğini adım adım öğrenin."
 image: images/2025/11/yolculuk-esnasinda-fotografcilik.jpg
+tags: []
 ---
 
 Seyahat etmek, yeni yerler görmek ve bu anları ölümsüzleştirmek fotoğrafçılığın en keyifli taraflarından biridir. Ancak her zaman durup fotoğraf çekme fırsatı bulamayabiliriz. Özellikle uzun yolculuklarda, araç içinden yakalanan kareler hem spontane hem de oldukça etkileyici olabilir. Peki yolda fotoğraf çekmek veya araç içinden fotoğraf nasıl çekilir? İşte hem yaratıcı hem de güvenli çekimler için ipuçları...

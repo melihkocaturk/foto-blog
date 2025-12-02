@@ -1,4 +1,468 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-11-30T15:58:30+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?</title><link href="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir" rel="alternate" type="text/html" title="Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?" /><published>2025-11-30T00:00:00+03:00</published><updated>2025-11-30T00:00:00+03:00</updated><id>http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir</id><content type="html" xml:base="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir"><![CDATA[<p>Fotoğrafçılıkta doğru lensi seçmek, kompozisyonun gücünü ve görüntünün kalitesini belirleyen en önemli kararlardan biridir. Özellikle <em>24mm, 35mm, 50mm ve 85mm</em> gibi yaygın kullanılan sabit odak uzaklıkları, farklı çekim türleri için benzersiz avantajlar sunar. Bu rehberde, bu dört popüler lensin hangi çekimlerde en iyi performansı verdiğini, avantajlarını ve kullanım önerilerini detaylıca ele alıyoruz.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-03T02:12:53+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar</title><link href="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar" rel="alternate" type="text/html" title="Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar</id><content type="html" xml:base="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar"><![CDATA[<p>Fotoğrafta renk derecelendirme, bir sahnenin renk tonlarını değiştirerek fotoğrafa belirli bir atmosfer kazandırma sürecidir. Color grading, yalnızca renk düzeltmeden (color correction) farklıdır; burada amaç teknik hataları gidermekten çok <em>duyguyu, hikâyeyi ve estetiği güçlendirmektir</em>. Bu yazıda color grading’in temellerini, profesyonel teknikleri ve popüler tarzlar için örnek ayarları bulabilirsiniz.</p>
+
+<h2 id="color-grading-nedir">Color Grading Nedir?</h2>
+
+<p>Color grading, bir fotoğrafın renk paletini bilinçli olarak değiştirip düzenleyerek belirli bir görünüm oluşturma işlemidir. Fotoğrafın ruhunu belirleyen pek çok şey bu aşamada şekillenir:</p>
+
+<ul>
+  <li>Soğuk ve dramatik bir hava</li>
+  <li>Sıcak ve nostaljik bir ton</li>
+  <li>Sinematik kontrast</li>
+  <li>Pastel ve yumuşak görüntüler</li>
+</ul>
+
+<p>Renk derecelendirme genellikle Lightroom, Photoshop, Capture One veya mobil uygulamalarda Split Toning, HSL, Curves, Color Wheels gibi araçlarla yapılır.</p>
+
+<h2 id="color-grading-ile-color-correction-arasındaki-fark">Color Grading ile Color Correction Arasındaki Fark</h2>
+
+<p>Bu iki kavram çoğu zaman karıştırılır. Aralarındaki en temel farklar:</p>
+
+<p><strong>Color Correction (Renk Düzeltme)</strong></p>
+
+<ul>
+  <li>Fotoğrafı doğal ve doğru renge çekmeyi hedefler.</li>
+  <li>Beyaz ayarı, pozlama, kontrast, ton ve gölgeler düzeltilir.</li>
+</ul>
+
+<p><strong>Color Grading (Renk Derecelendirme)</strong></p>
+
+<ul>
+  <li>Sanatsal bir görünüm yaratır.</li>
+  <li>Fotoğrafa duygu, tarz ve atmosfer katar.</li>
+  <li>Doğal olmayan ama estetik açıdan güçlü renk paletleri oluşturabilir.</li>
+</ul>
+
+<h2 id="color-grading-i̇çin-temel-araçlar">Color Grading İçin Temel Araçlar</h2>
+
+<h3 id="tone-curve-eğri-aracı">Tone Curve (Eğri Aracı)</h3>
+
+<p>Renk derecelendirmede en etkili araçlardan biridir.</p>
+
+<p>Eğri ile yapılabilecekler:</p>
+
+<ul>
+  <li>Kontrast artırma veya azaltma</li>
+  <li>Mat (faded) görüntü oluşturma</li>
+  <li>Kırmızı, yeşil ve mavi kanallar üzerinden ton değişikliği</li>
+  <li>Film görünümü verme</li>
+</ul>
+
+<h3 id="hsl-hue-saturation-luminance">HSL (Hue, Saturation, Luminance)</h3>
+
+<p>Bu panel, her bir rengi ayrı ayrı kontrol etmenizi sağlar.</p>
+
+<ul>
+  <li>Hue: Renk tonunu değiştirir</li>
+  <li>Saturation: Rengin doygunluğunu artırır/azaltır</li>
+  <li>Luminance: Rengin parlaklığını ayarlar</li>
+</ul>
+
+<p>Örneğin yalnızca turuncuları açarak ten tonlarını ön plana çıkarabilirsiniz.</p>
+
+<h3 id="split-toning-veya-color-grading-paneli">Split Toning veya Color Grading Paneli</h3>
+
+<p>Gölgeler, orta tonlar ve parlak alanlar için ayrı renk tonları eklemenizi sağlar. Sinematik tonlamanın temel araçlarından biridir.</p>
+
+<h3 id="color-wheels">Color Wheels</h3>
+
+<p>Işıklı alanlar, gölgeler ve midtones üzerinde daha hassas ton kontrolü yapmayı sağlar.</p>
+
+<h3 id="lut-look-up-table">LUT (Look-Up Table)</h3>
+
+<p>Hazır renk profilleri olarak bilinir. Film tonları, sinematik renkler veya markalara özel renk profilleri LUT olarak uygulanabilir.</p>
+
+<h2 id="color-grading-sürecine-başlamadan-önce-yapılması-gerekenler">Color Grading Sürecine Başlamadan Önce Yapılması Gerekenler</h2>
+
+<ul>
+  <li><strong>RAW çekim kullanın</strong>. Çok daha geniş renk bilgisi içerir.</li>
+  <li><strong>Doğru pozlama ve beyaz ayarı yapın</strong>. Teknik kısmın sağlam olması grading’i kolaylaştırır.</li>
+  <li><strong>Referans belirleyin</strong>. Pinterest, Instagram veya bir film sahnesi olabilir.</li>
+  <li><strong>Hafif dokunuşlarla ilerleyin</strong>. Abartılmış tonlama fotoğrafın doğallığını kaybettirebilir.</li>
+</ul>
+
+<h2 id="popüler-color-grading-stilleri-ve-örnek-ayarlar">Popüler Color Grading Stilleri ve Örnek Ayarlar</h2>
+
+<p>Aşağıdaki örnek ayarlar Lightroom mantığıyla yazılmıştır. Kendi fotoğraflarınıza göre küçük değişiklikler yapmanız gerekebilir.</p>
+
+<h3 id="sinematik-renk-derecelendirme">Sinematik Renk Derecelendirme</h3>
+
+<p>Bu stil mavi-gri gölgeler ve sıcak ten tonları ile bilinir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Turuncu Hue: -5</li>
+  <li>Turuncu Luminance: +10</li>
+  <li>Mavi Hue: -15</li>
+  <li>Mavi Saturation: -20</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Hafif mat siyahlar</li>
+  <li>S’de hafif bir kontrast eğrisi</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Mavi tonu (Hue 220 / Sat 10)</li>
+  <li>Highlights: Turuncu (Hue 35 / Sat 6)</li>
+  <li>Balance: -10 (gölgelere ağırlık ver)</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Film sahnesi hissi veren dengeli mavi-gri gölgeler ve sıcak yüz tonları.</p>
+
+<h3 id="pastel-ve-yumuşak-tonlar">Pastel ve Yumuşak Tonlar</h3>
+
+<p>Bu tarz özellikle portre ve moda fotoğraflarında kullanılır.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Kırmızı Saturation: -10</li>
+  <li>Turuncu Saturation: -15</li>
+  <li>Yeşil Hue: +20</li>
+  <li>Mavi Saturation: -25</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Kontrast çok düşük</li>
+  <li>Parlaklık orta seviyede</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Açık pembemsi ton</li>
+  <li>Highlights: Sarımsı pastel ton</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Hafif, yumuşak ve nazik bir görünüm.</p>
+
+<h3 id="dramatic-moody-look">Dramatic Moody Look</h3>
+
+<p>Orman ve açık hava fotoğraflarında popülerdir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Yeşil Hue: -40</li>
+  <li>Yeşil Saturation: -35</li>
+  <li>Sarı Saturation: -20</li>
+  <li>Turuncu Luminance: +10</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Koyu, güçlü gölgeler</li>
+  <li>Mat siyahlar</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Koyu yeşil-mavi (Hue 200 / Sat 15)</li>
+  <li>Highlights: Sıcak sarı (Hue 40 / Sat 10)</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Güçlü kontrast, karanlık atmosfer, derin gölgeler.</p>
+
+<h3 id="vintage-film-tonları">Vintage Film Tonları</h3>
+
+<p>Eski film kameralarının renklerine benzer bir görünüm hedeflenir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Kırmızı Saturation: -10</li>
+  <li>Turuncu Hue: +5</li>
+  <li>Yeşil Saturation: -20</li>
+  <li>Mavi Hue: +10</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Belirgin mat efekt</li>
+  <li>Düşük kontrast</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Koyu yeşilimsi</li>
+  <li>Highlights: Sarımsı ton</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Eski film havasında soluk ve nostaljik görüntüler.</p>
+
+<h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
+
+<ol>
+  <li><strong>Önce ışığı düzenleyin, sonra rengi</strong>. Pozlama hatası varken yapılan color grading bozuk sonuçlar verir.</li>
+  <li><strong>Ten tonlarına ekstra özen gösterin</strong>. Turuncu ve kırmızı kanalların aşırı doygun olması yapay bir görüntü oluşturur.</li>
+  <li><strong>Referans görüntü ile kıyaslama yapın</strong>. Profesyonel colorist’ler her zaman yanlarında bir referans görsel bulundurur.</li>
+  <li><strong>Ayarları Preset olarak kaydedin</strong>. Aynı tarzı diğer fotoğraflarda tekrar yakalamak kolaylaşır.</li>
+  <li><strong>Abartıdan kaçının</strong>. Color grading, fotoğrafı güçlendirmeli; fotoğrafın önüne geçmemelidir.</li>
+</ol>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Fotoğrafta renk derecelendirme, görüntüye hikâye ve duygu eklemenin en güçlü yollarından biridir. Doğru araçlar ve bilinçli tercihlerle her fotoğrafa kendine has bir atmosfer kazandırabilirsiniz. Bu yazıda yer alan ayarlar ilk adım niteliğindedir; kendi tarzınızı oluşturmak için farklı ton kombinasyonlarıyla denemeler yapabilirsiniz.</p>]]></content><author><name></name></author><category term="renk" /><summary type="html"><![CDATA[Fotoğrafta renk derecelendirme tekniklerini öğrenin. Color grading nedir, temel araçlar, sinematik tonlama ayarları ve örnek preset değerleriyle fotoğraflarınıza profesyonel bir görünüm katın.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
+
+<h2 id="tripod-seçerken-i̇lk-adım-kullanım-amacını-belirlemek">Tripod Seçerken İlk Adım: Kullanım Amacını Belirlemek</h2>
+
+<p>Tripod seçiminde “En iyi tripod hangisidir?” sorusunun tek bir doğru cevabı yoktur. En doğru tripod, kullanım amacınıza en uygun olan modeldir.</p>
+
+<h3 id="manzara-fotoğrafçılığı-i̇çin">Manzara Fotoğrafçılığı İçin</h3>
+
+<ul>
+  <li>Rüzgâra dayanıklı, güçlü gövde</li>
+  <li>Yüksek taşıma kapasitesi</li>
+  <li>Orta-sütun çıkarılabilir veya ters çevrilebilir yapıda olmalı</li>
+  <li>Maksimum stabilite sağlayan kauçuk veya çivili ayak uçları</li>
+</ul>
+
+<h3 id="seyahat-travel-fotoğrafçılığı-i̇çin">Seyahat (Travel) Fotoğrafçılığı İçin</h3>
+
+<ul>
+  <li>Hafif ve kompakt</li>
+  <li>Katlandığında çantaya veya sırt çantasına sığacak kadar küçük</li>
+  <li>Karbon fiber tercih edilebilir</li>
+  <li>Bacakların içe doğru katlanabildiği modeller avantaj sağlar</li>
+</ul>
+
+<h3 id="video-çekimleri-i̇çin">Video Çekimleri İçin</h3>
+
+<ul>
+  <li>Fluid head (akışkan başlık) şarttır</li>
+  <li>Yüksek taşıma kapasitesi</li>
+  <li>Çok yönlü pan–tilt hareketleri</li>
+  <li>Titreşim emici bacak yapısı</li>
+</ul>
+
+<h3 id="stüdyo-ve-ürün-fotoğrafçılığı-i̇çin">Stüdyo ve Ürün Fotoğrafçılığı İçin</h3>
+
+<ul>
+  <li>Ağırlık sorun değil, sağlamlık öncelik</li>
+  <li>Orta sütunla birlikte hassas yükseklik ayarı</li>
+  <li>Çok yönlü hareket kabiliyeti sunan kafa seçimi</li>
+</ul>
+
+<h2 id="tripod-malzemeleri-alüminyum-mu-karbon-fiber-mi">Tripod Malzemeleri: Alüminyum mu, Karbon Fiber mi?</h2>
+
+<p>Tripod seçimindeki en kritik karar malzeme seçimidir. İki ana seçenek vardır: alüminyum ve karbon fiber.</p>
+
+<h3 id="alüminyum-tripodlar">Alüminyum Tripodlar</h3>
+
+<p><strong>Avantajları</strong></p>
+
+<ul>
+  <li>Daha ekonomik</li>
+  <li>Dayanıklı</li>
+  <li>Mikro titreşimleri nispeten iyi emer</li>
+</ul>
+
+<p><strong>Dezavantajları</strong></p>
+
+<ul>
+  <li>Karbon fibere göre daha ağır</li>
+  <li>Soğuk havalarda ele daha soğuk hissiyat verir</li>
+</ul>
+
+<p><strong>Kimler İçin Uygun?</strong></p>
+
+<p>Bütçesi kısıtlı olan, stüdyo veya yakın çevre çekimlerinde kullanacak fotoğrafçılar için ideal.</p>
+
+<h3 id="karbon-fiber-tripodlar">Karbon Fiber Tripodlar</h3>
+
+<p><strong>Avantajları</strong></p>
+
+<ul>
+  <li>Çok daha hafif</li>
+  <li>Daha yüksek titreşim sönümleme</li>
+  <li>Seyahat ve doğa fotoğrafçılığı için en ideal malzeme</li>
+  <li>Paslanmaya karşı daha dirençli</li>
+</ul>
+
+<p><strong>Dezavantajları</strong></p>
+<ul>
+  <li>Daha pahalı</li>
+</ul>
+
+<p><strong>Kimler İçin Uygun?</strong></p>
+
+<p>Sık seyahat eden, uzun yürüyüş yapan, ağırlığın önemli olduğu outdoor fotoğrafçılar için en iyi tercih.</p>
+
+<h2 id="tripod-yükseklik-seçimi-hangi-boy-daha-doğru">Tripod Yükseklik Seçimi: Hangi Boy Daha Doğru?</h2>
+
+<p>Tripodun yüksekliği kullanımdaki konforu ve stabiliteyi doğrudan etkiler.</p>
+
+<h3 id="minimum-yükseklik">Minimum Yükseklik</h3>
+
+<ul>
+  <li>Makro fotoğrafçılık yapanlar için çok kritik</li>
+  <li>Orta sütunun çıkarılabildiği veya ters takılabildiği tripodlar büyük avantaj sağlar</li>
+</ul>
+
+<h3 id="maksimum-yükseklik">Maksimum Yükseklik</h3>
+
+<p>Tripod seçerken, maksimum yüksekliğin kendi boyunuza yakın olmasına dikkat etmelisiniz. Kamera gözü hizanıza geldiğinde, uzun çekimlerde eğilmek zorunda kalmazsınız.</p>
+
+<p><strong>Genel öneri</strong>: Boyunuz + kamera yüksekliği ≈ tripod maksimum yüksekliği</p>
+
+<h3 id="katlanmış-uzunluk">Katlanmış Uzunluk</h3>
+
+<p>Seyahat edenler için en önemli kriterlerden biri katlanmış uzunluktur.</p>
+
+<ul>
+  <li>30–45 cm: Üst düzey taşınabilirlik</li>
+  <li>45–55 cm: Standart tripod ölçüleri</li>
+</ul>
+
+<h2 id="bacak-yapısı-segment-sayısı-ve-kilitleme-mekanizması">Bacak Yapısı, Segment Sayısı ve Kilitleme Mekanizması</h2>
+
+<p>Tripodun stabilitesi büyük ölçüde bacak yapısına bağlıdır.</p>
+
+<h3 id="segment-sayısı">Segment Sayısı</h3>
+
+<p>Bacaklar genelde 3 veya 4 segmentlidir.</p>
+
+<ul>
+  <li>3 segment: Daha stabil</li>
+  <li>4 segment: Daha kompakt (seyahat için ideal)</li>
+</ul>
+
+<h3 id="kilitleme-mekanizması">Kilitleme Mekanizması</h3>
+
+<p>İki ana sistem vardır:</p>
+
+<p><strong>Twist-lock (çevirmeli kilit)</strong></p>
+
+<ul>
+  <li>Daha hızlı açılır</li>
+  <li>Daha sessiz</li>
+  <li>Seyahat tripodlarında çok tercih edilir</li>
+</ul>
+
+<p><strong>Lever-lock (mandallı kilit)</strong></p>
+
+<ul>
+  <li>Daha güçlü kilit hissi</li>
+  <li>Eldivenle kullanım kolaylığı</li>
+  <li>Profesyonel video tripodlarında sık tercih edilir</li>
+</ul>
+
+<h2 id="tripod-başlık-tipleri-ball-head-mi-fluid-head-mi">Tripod Başlık Tipleri: Ball Head mi, Fluid Head mi?</h2>
+
+<p>Tripod başlığı çekim tarzınızı doğrudan etkiler. Yanlış seçilen bir başlık, ne kadar iyi tripod alırsanız alın performansı düşürür.</p>
+
+<h3 id="ball-head-top-kafa">Ball Head (Top Kafa)</h3>
+
+<p><strong>Özellikleri</strong></p>
+
+<ul>
+  <li>Tek bir düğme ile tüm yönlerde hareket</li>
+  <li>Kompakt ve hafif</li>
+  <li>Fotoğrafçılık için en çok tercih edilen kafa tipi</li>
+</ul>
+
+<p><strong>En uygun kullanım alanları</strong></p>
+
+<ul>
+  <li>Manzara</li>
+  <li>Uzun pozlama</li>
+  <li>Seyahat fotoğrafçılığı</li>
+  <li>Portre</li>
+</ul>
+
+<h3 id="fluid-head-video-başlığı">Fluid Head (Video Başlığı)</h3>
+
+<p><strong>Özellikleri</strong></p>
+
+<ul>
+  <li>Akışkan hareket</li>
+  <li>Pan–tilt kontrolü</li>
+  <li>Video için olmazsa olmaz</li>
+</ul>
+
+<p><strong>En uygun kullanım alanları</strong></p>
+
+<ul>
+  <li>Video çekimleri</li>
+  <li>YouTube içerikleri</li>
+  <li>Belgesel</li>
+</ul>
+
+<h3 id="3-way-head-3-yönlü-pan-tilt-başlık">3-Way Head (3 yönlü pan-tilt başlık)</h3>
+
+<p><strong>Özellikleri</strong></p>
+
+<ul>
+  <li>Her eksen ayrı kontrol edilir</li>
+  <li>Hassas kadrajlama imkanı</li>
+  <li>Biraz daha büyük yapıdadır</li>
+</ul>
+
+<p><strong>En uygun kullanım alanları</strong></p>
+
+<ul>
+  <li>Ürün fotoğrafçılığı</li>
+  <li>Mimari çekimler</li>
+  <li>Stüdyo kullanımı</li>
+</ul>
+
+<h2 id="taşıma-kapasitesi-tripodun-kaldırabileceği-maksimum-yük">Taşıma Kapasitesi: Tripodun Kaldırabileceği Maksimum Yük</h2>
+
+<p>Tripod seçerken belirtilen taşıma kapasitesi önemlidir fakat her zaman gerçek kullanım değerini yansıtmayabilir.</p>
+
+<p><strong>Genel kural</strong>: Kamera ve lens toplam ağırlığınızın 2 katı taşıma kapasitesine sahip bir tripod seçin.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Kamera + lens toplam ağırlığı: 2 kg</li>
+  <li>Önerilen tripod kapasitesi: En az 4 kg</li>
+</ul>
+
+<h2 id="orta-sütun-center-column-kullanımı">Orta Sütun (Center Column) Kullanımı</h2>
+
+<p>Orta sütun, tripodun yüksekliğini artırmak için tasarlanmıştır; ancak tamamen yukarı kaldırmak stabiliteyi azaltır.</p>
+
+<p><strong>Öneri</strong>: Maksimum yükseklik ayarını orta sütuna yüklenmeden sağlayan tripodlar daha stabil ve profesyoneldir.</p>
+
+<h2 id="ayak-uçları-kauçuk-mu-çivili-mi">Ayak Uçları: Kauçuk mu, Çivili mi?</h2>
+
+<p>Doğa fotoğrafçıları için çivili ayak uçları büyük avantaj sağlar.</p>
+
+<ul>
+  <li><strong>Kauçuk ayak uçları</strong>: Kapalı mekan, düz zemin</li>
+  <li><strong>Çivili ayak uçları</strong>: Toprak, kar, çimen, kaygan zemin</li>
+</ul>
+
+<p>Bazı tripodlar iki uç tipiyle birlikte gelir.</p>
+
+<h2 id="tripod-seçimi-i̇çin-son-öneriler">Tripod Seçimi İçin Son Öneriler</h2>
+
+<ul>
+  <li>Seyahat ediyorsanız karbon fiber tercih edin.</li>
+  <li>Video çekiyorsanız fluid head seçmek zorunludur.</li>
+  <li>Manzara fotoğrafçılığında stabilite ağırlıktan daha önemlidir.</li>
+  <li>Tripodu maksimum yükseklikte değil, orta seviyelerde kullanmak en iyi performansı sağlar.</li>
+  <li>Segment sayısı arttıkça portatiflik artar, stabilite azalır.</li>
+  <li>Taşıma kapasitesini mutlaka göz önünde bulundurun.</li>
+</ul>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Tripod, fotoğrafçılık ekipmanları arasında en uzun süre kullanılan ve performansı direkt etkileyen araçlardan biridir. Uygun tripod seçimi, çekimlerinizde netlik, keskinlik ve profesyonellik sağlar. Bu rehberde malzeme türleri, yükseklik seçenekleri, başlık tipleri ve mekanik detaylara kadar tripod seçiminde bilmeniz gereken tüm kriterleri ele aldık.</p>
+
+<p>İhtiyaçlarınıza uygun modeli seçerek hem daha keyifli hem de daha kaliteli çekimler gerçekleştirebilirsiniz.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda, tripod seçerken malzeme, yükseklik, başlık tipi ve taşıma kapasitesi gibi kritik kriterleri açıklayan kapsamlı bir rehber sunuyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?</title><link href="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir" rel="alternate" type="text/html" title="Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?" /><published>2025-11-30T00:00:00+03:00</published><updated>2025-11-30T00:00:00+03:00</updated><id>http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir</id><content type="html" xml:base="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir"><![CDATA[<p>Fotoğrafçılıkta doğru lensi seçmek, kompozisyonun gücünü ve görüntünün kalitesini belirleyen en önemli kararlardan biridir. Özellikle <em>24mm, 35mm, 50mm ve 85mm</em> gibi yaygın kullanılan sabit odak uzaklıkları, farklı çekim türleri için benzersiz avantajlar sunar. Bu rehberde, bu dört popüler lensin hangi çekimlerde en iyi performansı verdiğini, avantajlarını ve kullanım önerilerini detaylıca ele alıyoruz.</p>
 
 <h2 id="24mm-lens-geniş-açıyla-hikâye-anlatımı">24mm Lens: Geniş Açıyla Hikâye Anlatımı</h2>
 
@@ -646,120 +1110,7 @@
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Işıksız ortamlarda harici flaş, teknik açıdan ustalık isteyen ama doğru kullanıldığında etkileyici sonuçlar doğuran güçlü bir araçtır. Farklı ayarlar, yönler ve aksesuarlarla oynayarak zamanla en iyi ışığı nasıl yaratacağınızı öğreneceksiniz. Unutmayın: her çekim, yeni bir öğrenme fırsatıdır.</p>]]></content><author><name></name></author><category term="ışık" /><summary type="html"><![CDATA[Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gölge Kullanımı ile Derinlik ve Dramatik Etki Yaratma</title><link href="http://localhost:4000/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma" rel="alternate" type="text/html" title="Gölge Kullanımı ile Derinlik ve Dramatik Etki Yaratma" /><published>2025-07-06T00:00:00+03:00</published><updated>2025-07-06T00:00:00+03:00</updated><id>http://localhost:4000/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma</id><content type="html" xml:base="http://localhost:4000/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma"><![CDATA[<p>Fotoğrafçılık yalnızca ışığın değil, aynı zamanda gölgelerin de sanatıdır. Gölge, bir kompozisyona derinlik, gizem, duygu ve hikâye katmanın güçlü yollarından biridir. Bu yazıda, gölgelerin doğru ve bilinçli kullanımıyla nasıl dramatik etkiler yaratabileceğinizi ve fotoğraflarınıza nasıl derinlik katabileceğinizi detaylı bir şekilde ele alacağız.</p>
-
-<h2 id="gölgenin-temel-rolü-işığın-ters-yüzü">Gölgenin Temel Rolü: Işığın Ters Yüzü</h2>
-
-<p>Gölge, ışığın olmadığı yerde ortaya çıkar. Fotoğrafçılıkta gölgeyi sadece bir “karanlık alan” olarak görmek büyük bir eksikliktir. Aslında gölgeler, ışığın yönünü, şiddetini ve dokusunu anlatan ipuçlarıdır. Gölge sayesinde:</p>
-
-<ul>
-  <li>Objelerin üç boyutlu algılanması sağlanır.</li>
-  <li>Fotoğrafa dramatik bir atmosfer katılır.</li>
-  <li>Duygusal yoğunluk artırılır.</li>
-  <li>İzleyicinin dikkati belirli bir alana yönlendirilebilir.</li>
-</ul>
-
-<h2 id="gölge-ile-derinlik-yaratma">Gölge ile Derinlik Yaratma</h2>
-
-<p>Derinlik, bir fotoğrafın iki boyutlu sınırlarını aşıp izleyicinin içine çekilmesini sağlar. Gölge ile derinlik yaratmanın yolları:</p>
-
-<ol>
-  <li><strong>Yanal Işık Kullanımı (Side Lighting)</strong>: Yan taraftan gelen ışık, objelerin bir yüzünü aydınlatırken diğer yüzünde belirgin gölgeler oluşturur. Bu teknik özellikle portre ve still life (durağan nesne) çekimlerinde derinlik hissi verir.</li>
-  <li><strong>Yüksek Kontrastlı Gölge-Işık Geçişleri</strong>: Gölge ile ışık arasındaki sert geçişler, daha vurgulu bir derinlik algısı oluşturur. Özellikle tek ışık kaynağıyla çekimlerde bu etki çok başarılı sonuçlar doğurur.</li>
-  <li><strong>Çizgisel Gölge Kullanımı</strong>: Cam, perde ya da jaluzilerden süzülen ışığın oluşturduğu çizgisel gölgeler; perspektif algısı yaratır ve derinliği artırır.</li>
-</ol>
-
-<h2 id="dramatik-etki-i̇çin-gölgeyi-nasıl-kurgulamalı">Dramatik Etki İçin Gölgeyi Nasıl Kurgulamalı?</h2>
-
-<ol>
-  <li><strong>Kontrastı Yükseltin</strong>: Gölge ile ışık arasındaki fark ne kadar yüksekse, fotoğraflarınız o kadar çarpıcı olur. “Low-key” fotoğraf tekniği bu mantıkla çalışır: Karanlık tonlar baskındır, ışık sadece belirli alanları vurgular.</li>
-  <li><strong>Negatif Alanı Kullanın</strong>: Gölgeyi sadece bir detay olarak değil, kompozisyonun ana öğesi olarak da kullanın. Negatif alanı gölgeyle doldurmak, minimal ve etkileyici bir ifade sunar.</li>
-  <li><strong>Hikâye Anlatımında Gölge</strong>: Gölgeler, anlatmak istediğiniz hikâyeyi güçlendirir. Örneğin bir portrede kişinin yüzünün yarısını gölgede bırakmak, iç dünyasına dair ipucu verir. Veya bir nesnenin gölgesi, görselde olmayan başka bir varlığı temsil edebilir.</li>
-</ol>
-
-<h2 id="teknik-i̇puçları">Teknik İpuçları</h2>
-
-<ul>
-  <li><strong>Işık Kaynağını Kontrol Edin</strong>: Gölgenin sert ya da yumuşak olması, ışığın doğrudanlığına bağlıdır. Güneş ışığı gibi sert kaynaklar daha belirgin gölgeler oluşturur. Difüz ışıkta gölgeler daha yumuşaktır.</li>
-  <li><strong>Pozlamaya Dikkat Edin</strong>: Gölge detaylarını kaybetmemek için pozlamayı gölgelerden değil, aydınlık alanlardan yapın. Alternatif olarak HDR (High Dynamic Range) çekim kullanabilirsiniz.</li>
-  <li><strong>Siyah-Beyaz Fotoğrafçılıkta Gölge</strong>: Gölge, siyah-beyaz fotoğraflarda çok daha etkili bir anlatım aracıdır. Renk dikkat dağıtıcı unsurları ortadan kaldırır, kontrast ve yapı ön plana çıkar.</li>
-</ul>
-
-<h2 id="i̇lham-veren-gölge-temelli-çekim-örnekleri">İlham Veren Gölge Temelli Çekim Örnekleri</h2>
-
-<ul>
-  <li><strong>Noir Tarzı Portreler</strong>: Tek ışık kaynağıyla yapılan dramatik portreler. Yüzün bir kısmı aydınlık, diğer kısmı karanlık.</li>
-  <li><strong>Sokak Fotoğrafçılığında Gölge Oyunu</strong>: Güneş ışığı ile binaların oluşturduğu keskin gölgeler, güçlü kompozisyonlar yaratır.</li>
-  <li><strong>Soyut Gölge Kompozisyonları</strong>: Gölgenin biçimsel özelliklerini kullanarak nesnenin değil, gölgesinin odakta olduğu deneysel çalışmalar.</li>
-</ul>
-
-<h2 id="gölge-ile-yaratıcı-denemeler">Gölge ile Yaratıcı Denemeler</h2>
-
-<ul>
-  <li><strong>Gölgeyi Nesne Olarak Kullanmak</strong>: Objeyi değil, objenin gölgesini kadrajlamak.</li>
-  <li><strong>Çift Anlamlı Gölge Kullanımı</strong>: Objeden bağımsız bir anlam taşıyan gölgeler. Örneğin bir çocuğun gölgesinde bir yetişkin silueti görmek gibi.</li>
-  <li><strong>Simetri ve Asimetri ile Oynamak</strong>: Gölgeleri denge veya dengeyi bozma aracı olarak kullanmak.</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Gölge, fotoğrafçının en güçlü anlatım araçlarından biridir. Sadece ışığı değil, aynı zamanda karanlığı da görmeyi öğrendiğinizde, karelerinizde daha fazla derinlik, anlam ve duygusallık taşırsınız. Fotoğrafçılığınızda gölgeleri sadece kaçınılması gereken karanlık bölgeler olarak değil, bilinçli olarak şekillendirilmiş görsel dilin bir parçası olarak kullanın.</p>
-
-<h2 id="deneyebileceğiniz-3-alıştırma">Deneyebileceğiniz 3 Alıştırma</h2>
-
-<ul>
-  <li><em>Tek Işıkla Portre Çekimi</em>: Bir masa lambasıyla portre çekin, ışığı farklı açılardan deneyin.</li>
-  <li><em>Gölgelerin Peşinden Gitmek</em>: Gün batımı saatlerinde sokakları dolaşın, ilginç gölgeleri kadrajlayın.</li>
-  <li><em>Siyah-Beyaz Gölgeler Serisi</em>: Renkli değil, sadece siyah-beyaz gölge kompozisyonları üretin.</li>
-</ul>]]></content><author><name></name></author><category term="gölge" /><summary type="html"><![CDATA[Bu yazıda, gölgelerin doğru ve bilinçli kullanımıyla nasıl dramatik etkiler yaratabileceğinizi ve fotoğraflarınıza nasıl derinlik katabileceğinizi detaylı bir şekilde ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/golge-kullanimi-ile-derinlik-ve-dramatik-etki-yaratma.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fotoğrafçılıkta Histogram Nasıl Okunur ve Kullanılır?</title><link href="http://localhost:4000/fotografcilikta-histogram-nasil-okunur-ve-kullanilir" rel="alternate" type="text/html" title="Fotoğrafçılıkta Histogram Nasıl Okunur ve Kullanılır?" /><published>2025-07-06T00:00:00+03:00</published><updated>2025-07-06T00:00:00+03:00</updated><id>http://localhost:4000/fotografcilikta-histogram-nasil-okunur-ve-kullanilir</id><content type="html" xml:base="http://localhost:4000/fotografcilikta-histogram-nasil-okunur-ve-kullanilir"><![CDATA[<p>Fotoğrafçılıkla ilgileniyorsanız, çektiğiniz fotoğrafların doğru pozlandığından emin olmanın en güvenilir yollarından biri histogram kullanmaktır. Ancak birçok fotoğrafçı histogramın sunduğu bilgileri ya göz ardı eder ya da nasıl yorumlayacağını tam olarak bilmez. Bu yazıda, histogram nedir, nasıl okunur ve fotoğraflarınızı iyileştirmek için nasıl kullanılır adım adım öğreneceksiniz.</p>
-
-<h2 id="histogram-nedir">Histogram Nedir?</h2>
-
-<p>Histogram, bir fotoğraftaki parlaklık (ton) değerlerinin grafiksel bir gösterimidir. Yatay eksen siyah (0) ile beyaz (255) arasındaki tonları, dikey eksen ise bu tonlardaki piksel sayısını temsil eder.</p>
-
-<ul>
-  <li><strong>Sol uç</strong>: Siyahlar ve koyu gölgeler</li>
-  <li><strong>Orta kısım</strong>: Orta tonlar (griler)</li>
-  <li><strong>Sağ uç</strong>: Açık tonlar ve beyazlar</li>
-</ul>
-
-<h2 id="histogram-nasıl-okunur">Histogram Nasıl Okunur?</h2>
-
-<ol>
-  <li><strong>Dengeli Histogram</strong>: Grafik, koyudan açığa doğru yumuşak bir geçişle ortalanmışsa, bu genellikle iyi pozlanmış bir fotoğraf anlamına gelir. Hiçbir ton fazla baskın değildir.</li>
-  <li><strong>Sol Tarafa Yığılmış Histogram</strong>: Grafiğin çoğu sol tarafta toplanmışsa fotoğrafınız karanlık (underexposed) olabilir. Detay kayıpları gölgelerde yaşanabilir.</li>
-  <li><strong>Sağ Tarafa Yığılmış Histogram</strong>: Grafik sağa doğru yığılmışsa, fotoğrafınız fazla pozlanmış (overexposed) olabilir. Açık tonlardaki detaylar kaybolmuş olabilir.</li>
-  <li><strong>Uçlarda Kesilen Histogram</strong>: Grafik hem sağ hem sol uçta ani düşüş veya kesilme gösteriyorsa, fotoğrafta ton kayıpları (clipping) vardır. Bu, bazı alanların tamamen siyah ya da beyaz olduğu anlamına gelir.</li>
-</ol>
-
-<h2 id="histogram-neden-önemlidir">Histogram Neden Önemlidir?</h2>
-
-<ul>
-  <li><strong>Ekranlar yanıltabilir</strong>: Fotoğraf makinesi ekranı ortam ışığına göre farklı görünür. Histogram, pozlama hakkında objektif veri sağlar.</li>
-  <li><strong>Detay koruma</strong>: Gölge ve aydınlık bölgelerde detayları kaybetmemek için histogramdan yararlanabilirsiniz.</li>
-  <li><strong>RAW düzenlemeleri</strong>: RAW formatında çekiyorsanız histogram, sonradan düzenlemeler için hangi alanların kurtarılabilir olduğunu gösterir.</li>
-</ul>
-
-<h2 id="fotoğraf-türüne-göre-histogram-yorumlama">Fotoğraf Türüne Göre Histogram Yorumlama</h2>
-
-<ul>
-  <li><strong>Manzara Fotoğrafı</strong>: Genellikle geniş bir dinamik aralık içerdiğinden histogramın tüm alana yayılması beklenir.</li>
-  <li><strong>Portre</strong>: Ten tonları genellikle orta bölgeye denk gelir. Aşırı koyuluk veya açıklık istenmez.</li>
-  <li><strong>Düşük Işık (Low-Light)</strong>: Histogram daha çok sol tarafta olabilir. Ancak clipping varsa dikkat edilmeli.</li>
-</ul>
-
-<h2 id="histogram-kullanarak-pozlama-nasıl-ayarlanır">Histogram Kullanarak Pozlama Nasıl Ayarlanır?</h2>
-
-<ol>
-  <li><em>Çekim sırasında histogramı açın</em> (kamera ayarlarından aktif hale getirin).</li>
-  <li>Histogram çok sola kaymışsa ISO veya pozlama süresini artırın.</li>
-  <li>Sağda kırpma varsa diyaframı kısarak veya ISO’yu düşürerek pozlamayı azaltın.</li>
-  <li>Gölge ve parlak alanları dengede tutmaya çalışın — bu her zaman “düzgün” bir histogram değildir, sahneye uygun olmalıdır.</li>
-</ol>
-
-<h2 id="özetle">Özetle</h2>
-
-<p>Histogram, fotoğrafçının doğru pozlama ve ton dağılımını kontrol etmesini sağlayan <em>en güçlü teknik araçlardan biridir</em>. Özellikle dış mekan, manzara ve stüdyo çekimlerinde histogramı okumayı öğrenmek, hem çekim sırasında hem de sonrasında fotoğraflarınızı profesyonelce yönetmenizi sağlar.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda, histogram nedir, nasıl okunur ve fotoğraflarınızı iyileştirmek için nasıl kullanılır adım adım öğreneceksiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/fotografcilikta-histogram-nasil-okunur-ve-kullanilir.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/fotografcilikta-histogram-nasil-okunur-ve-kullanilir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi</title><link href="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi" rel="alternate" type="text/html" title="Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi" /><published>2025-07-06T00:00:00+03:00</published><updated>2025-07-06T00:00:00+03:00</updated><id>http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi</id><content type="html" xml:base="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi"><![CDATA[<p>Bugün bize tuhaf, hatta rahatsız edici gelebilecek bir gelenek, 19. yüzyılda oldukça yaygındı: <strong>ölülerin fotoğraflarını çekmek</strong>. Bu uygulamaya “postmortem fotoğrafçılık” denir. Peki insanlar neden ölü yakınlarının fotoğraflarını çektiriyordu? Bu geleneğin arkasında sadece bir ürperti değil, derin bir insanlık ve yas kültürü yatıyor. Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız.</p>
+<p>Işıksız ortamlarda harici flaş, teknik açıdan ustalık isteyen ama doğru kullanıldığında etkileyici sonuçlar doğuran güçlü bir araçtır. Farklı ayarlar, yönler ve aksesuarlarla oynayarak zamanla en iyi ışığı nasıl yaratacağınızı öğreneceksiniz. Unutmayın: her çekim, yeni bir öğrenme fırsatıdır.</p>]]></content><author><name></name></author><category term="ışık" /><summary type="html"><![CDATA[Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi</title><link href="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi" rel="alternate" type="text/html" title="Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi" /><published>2025-07-06T00:00:00+03:00</published><updated>2025-07-06T00:00:00+03:00</updated><id>http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi</id><content type="html" xml:base="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi"><![CDATA[<p>Bugün bize tuhaf, hatta rahatsız edici gelebilecek bir gelenek, 19. yüzyılda oldukça yaygındı: <strong>ölülerin fotoğraflarını çekmek</strong>. Bu uygulamaya “postmortem fotoğrafçılık” denir. Peki insanlar neden ölü yakınlarının fotoğraflarını çektiriyordu? Bu geleneğin arkasında sadece bir ürperti değil, derin bir insanlık ve yas kültürü yatıyor. Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız.</p>
 
 <h2 id="postmortem-fotoğrafçılık-nedir">Postmortem Fotoğrafçılık Nedir?</h2>
 
