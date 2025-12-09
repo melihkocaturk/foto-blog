@@ -1,219 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-03T02:12:53+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar</title><link href="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar" rel="alternate" type="text/html" title="Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar</id><content type="html" xml:base="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar"><![CDATA[<p>Fotoğrafta renk derecelendirme, bir sahnenin renk tonlarını değiştirerek fotoğrafa belirli bir atmosfer kazandırma sürecidir. Color grading, yalnızca renk düzeltmeden (color correction) farklıdır; burada amaç teknik hataları gidermekten çok <em>duyguyu, hikâyeyi ve estetiği güçlendirmektir</em>. Bu yazıda color grading’in temellerini, profesyonel teknikleri ve popüler tarzlar için örnek ayarları bulabilirsiniz.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-09T21:37:12+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi</title><link href="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi" rel="alternate" type="text/html" title="Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi</id><content type="html" xml:base="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi"><![CDATA[<p>Zaman atlamalı (time-lapse) video tekniği, yavaş gerçekleşen süreçleri hızlandırarak etkileyici görsel hikâyelere dönüştürür. Gün doğumundan bulut hareketlerine, şehir trafiğinden çiçek açmasına kadar birçok sahne bu teknikle dramatik şekilde yakalanabilir. Bu rehberde, ekipman seçiminden çekim planlamasına ve post prodüksiyona kadar sağlam bir başlangıç için bilmen gereken tüm adımları bulabilirsin.</p>
 
-<h2 id="color-grading-nedir">Color Grading Nedir?</h2>
+<h2 id="time-lapse-nedir">Time-Lapse Nedir?</h2>
 
-<p>Color grading, bir fotoğrafın renk paletini bilinçli olarak değiştirip düzenleyerek belirli bir görünüm oluşturma işlemidir. Fotoğrafın ruhunu belirleyen pek çok şey bu aşamada şekillenir:</p>
+<p>Time-lapse, belirli aralıklarla çekilmiş fotoğrafların birleştirilerek hızlandırılmış bir video oluşturma tekniğidir. İnsan gözünün fark edemeyeceği yavaş süreçler bu sayede saniyeler içinde izlenebilir hale gelir.</p>
 
-<ul>
-  <li>Soğuk ve dramatik bir hava</li>
-  <li>Sıcak ve nostaljik bir ton</li>
-  <li>Sinematik kontrast</li>
-  <li>Pastel ve yumuşak görüntüler</li>
-</ul>
+<h2 id="hangi-ekipmanlara-i̇htiyacın-var">Hangi Ekipmanlara İhtiyacın Var?</h2>
 
-<p>Renk derecelendirme genellikle Lightroom, Photoshop, Capture One veya mobil uygulamalarda Split Toning, HSL, Curves, Color Wheels gibi araçlarla yapılır.</p>
+<ol>
+  <li><strong>Kamera</strong>: DSLR ya da aynasız bir fotoğraf makinesi idealdir. Manuel ayar kontrolü ne kadar genişse sonuçlar o kadar tutarlı olur.</li>
+  <li><strong>Tripod</strong>: Sarsıntısız çekim için sağlam bir tripod zorunludur. Hafif modeller outdoor çekimlerde avantaj sağlar.</li>
+  <li><strong>Intervalometre</strong>: Çekim aralığını kontrol eden cihazdır. Birçok modern kamera gövdesinde dahili time-lapse modu bulunur. Eğer yoksa harici bir intervalometre kullanılabilir.</li>
+  <li><strong>Yedek Batarya ve Geniş Hafıza Kartı</strong>: Uzun çekimler yüksek enerji ve depolama gerektirir.</li>
+  <li><strong>ND Filtre (İsteğe Bağlı)</strong>: Özellikle gün ışığında daha uzun pozlama süreleri kullanmak isteyenler için yararlıdır.</li>
+</ol>
 
-<h2 id="color-grading-ile-color-correction-arasındaki-fark">Color Grading ile Color Correction Arasındaki Fark</h2>
+<h2 id="doğru-sahneyi-seçmek">Doğru Sahneyi Seçmek</h2>
 
-<p>Bu iki kavram çoğu zaman karıştırılır. Aralarındaki en temel farklar:</p>
-
-<p><strong>Color Correction (Renk Düzeltme)</strong></p>
-
-<ul>
-  <li>Fotoğrafı doğal ve doğru renge çekmeyi hedefler.</li>
-  <li>Beyaz ayarı, pozlama, kontrast, ton ve gölgeler düzeltilir.</li>
-</ul>
-
-<p><strong>Color Grading (Renk Derecelendirme)</strong></p>
+<p>Sahne seçimi time-lapse’in etkisini belirleyen en kritik faktördür.</p>
 
 <ul>
-  <li>Sanatsal bir görünüm yaratır.</li>
-  <li>Fotoğrafa duygu, tarz ve atmosfer katar.</li>
-  <li>Doğal olmayan ama estetik açıdan güçlü renk paletleri oluşturabilir.</li>
+  <li>Hızlı atmosfer değişimlerinin olduğu açık alanlar</li>
+  <li>Trafik akışının yoğun olduğu şehir görüntüleri</li>
+  <li>Hareketli gökyüzü, bulut geçişleri</li>
+  <li>İnsan trafiğinin yoğun olduğu meydanlar</li>
+  <li>Gün batımı, gün doğumu gibi dinamik ışık geçişleri</li>
 </ul>
 
-<h2 id="color-grading-i̇çin-temel-araçlar">Color Grading İçin Temel Araçlar</h2>
+<p>Sürecin zaman içinde görünür bir değişim üretmesi gerekir; aksi takdirde video durağan hissedilir.</p>
 
-<h3 id="tone-curve-eğri-aracı">Tone Curve (Eğri Aracı)</h3>
+<h2 id="çekim-öncesi-planlama">Çekim Öncesi Planlama</h2>
 
-<p>Renk derecelendirmede en etkili araçlardan biridir.</p>
+<ol>
+  <li><strong>Işık Durumunu Analiz Et</strong>: Çekim yapacağın saat ışığın değişim hızını belirler. Örneğin gün batımı hızlı değiştiği için aralıkları daha sık tutmak gerekir.</li>
+  <li><strong>Kadrajı Sabitle</strong>: Kompozisyonu çekim başlamadan sağlamlaştır. Ufuk çizgisinin eğik olmaması, sahnenin merkezde veya üçte birler kuralına uygun yerleşmesi önemlidir.</li>
+  <li><strong>Hesaplama Yap</strong>: Standart bir time-lapse videosu 24 veya 30 fps ile oluşturulur.
+    <ul>
+      <li>Örnek hesap:</li>
+      <li>10 saniyelik bir video istiyorsun</li>
+      <li>30 fps kullanacaksın</li>
+      <li>Toplam kare = 10 × 30 = 300 fotoğraf</li>
+      <li>Çekim aralığını 5 saniye seçersen toplam çekim süresi = 300 × 5 = 1500 saniye (25 dakika)</li>
+    </ul>
+  </li>
+</ol>
 
-<p>Eğri ile yapılabilecekler:</p>
+<h2 id="kamera-ayarlarını-doğru-yapma-rehberi">Kamera Ayarlarını Doğru Yapma Rehberi</h2>
+
+<ol>
+  <li><strong>Manuel Mod</strong>: Time-lapse çekimlerinde tüm ayarların sabit olması gerekir. Aksi halde kareler arasında parlaklık farkları oluşur.
+    <ul>
+      <li><strong>Diyafram</strong>: Sahneye göre f/5.6 – f/11 arası</li>
+      <li><strong>Enstantane</strong>: Hareket akıcılığını belirler</li>
+      <li><strong>ISO</strong>: Mümkün olduğunca düşük</li>
+    </ul>
+  </li>
+  <li><strong>Beyaz Dengesi</strong>: Otomatik bırakılırsa sahne değiştikçe renkler kayabilir. Ortama uygun sabit bir WB seçmelisin.</li>
+  <li><strong>Netleme</strong>: Otomatik netleme dalgalanmalar yaratır. Manuel netleme kullanarak konuya kilitlen.</li>
+  <li><strong>Raw Çekim Önerisi</strong>: Raw formatı post-prodüksiyonda çok daha geniş bir düzenleme imkânı sunar.</li>
+</ol>
+
+<h2 id="pozlama-süresi-ve-aralık-ayarı">Pozlama Süresi ve Aralık Ayarı</h2>
+
+<p>Time-lapse çekiminin karakterini belirleyen iki temel değer:</p>
+
+<ol>
+  <li><strong>Çekim Aralığı (Interval)</strong>: Hareket ne kadar hızlıysa aralık o kadar kısa olmalı.
+    <ul>
+      <li>Bulut hareketi: 2–5 saniye</li>
+      <li>İnsan trafiği: 1–2 saniye</li>
+      <li>Gün batımı: 3–6 saniye</li>
+      <li>Bitki büyümesi: Saatlik veya günlük</li>
+    </ul>
+  </li>
+  <li><strong>Pozlama Süresi</strong>: Hareketin akıcı görünmesini sağlar. Çok kısa süreler kareleri “titrek” gösterebilir.
+Gün ışığında ND filtre kullanarak daha uzun pozlama süreleri elde edebilirsin.</li>
+</ol>
+
+<h2 id="çekim-sırasında-dikkat-edilecek-noktalar">Çekim Sırasında Dikkat Edilecek Noktalar</h2>
+<ul>
+  <li>Tripodu sabitle, rüzgarda ağırlık ekle.</li>
+  <li>Kadraja girebilecek beklenmedik hareketleri öngör.</li>
+  <li>Batarya ve hafıza kartını çekimden önce kontrol et.</li>
+  <li>Uzun çekimlerde LCD ekranı kapatarak enerji tasarrufu yap.</li>
+  <li>Kameranın ısınmaması için gölgede konumlandırmayı düşün.</li>
+</ul>
+
+<h2 id="fotoğrafları-videoya-dönüştürme-post-prodüksiyon">Fotoğrafları Videoya Dönüştürme (Post Prodüksiyon)</h2>
+
+<p>Kareleri düzenlemek ve video haline getirmek için birkaç popüler yöntem:</p>
+
+<ol>
+  <li><strong>Adobe Lightroom</strong>: Tüm karelerde toplu düzenleme yapmak için idealdir. Pozlama, kontrast, renk ve keskinlik tek seferde uygulanabilir.</li>
+  <li><strong>Adobe Premiere Pro</strong>: Fotoğraf dizilerini video sekansı olarak içe aktarıp final videoyu istediğin fps değerine göre çıkartabilirsin.</li>
+  <li><strong>After Effects</strong>: Gelişmiş kare sabitleme, renk geçişi ve hareket yumuşatma seçenekleri sunar.</li>
+  <li><strong>Alternatif Yazılımlar</strong>: LRTimelapse, DaVinci Resolve, Final Cut Pro gibi güçlü çözümler de mevcuttur.</li>
+</ol>
+
+<h2 id="başlangıç-seviyesi-i̇çin-time-lapse-çekim-önerileri">Başlangıç Seviyesi İçin Time-Lapse Çekim Önerileri</h2>
 
 <ul>
-  <li>Kontrast artırma veya azaltma</li>
-  <li>Mat (faded) görüntü oluşturma</li>
-  <li>Kırmızı, yeşil ve mavi kanallar üzerinden ton değişikliği</li>
-  <li>Film görünümü verme</li>
+  <li><strong>Gün batımı</strong>: Işığın hızlı değişmesi etkileyici sonuç verir.</li>
+  <li><strong>Şehir manzarası</strong>: Trafik akışı ve araç ışıkları güzel bir akıcılık sağlar.</li>
+  <li><strong>Hareketli bulutlar</strong>: Açık havalarda en pratik çekim türüdür.</li>
+  <li><strong>İnşaat alanı</strong>: Zaman içinde belirgin değişim sunar.</li>
+  <li><strong>Yıldız pozlama (Star-Lapse)</strong>: Tripod ve uzun pozlama bir araya gelince estetik görüntüler oluşur.</li>
 </ul>
 
-<h3 id="hsl-hue-saturation-luminance">HSL (Hue, Saturation, Luminance)</h3>
+<h2 id="sonuç">Sonuç</h2>
 
-<p>Bu panel, her bir rengi ayrı ayrı kontrol etmenizi sağlar.</p>
+<p>Time-lapse çekim, sabır gerektiren fakat bir o kadar da ödüllendirici bir fotoğraf ve video tekniğidir. Doğru ekipman, stabil ayarlar ve iyi planlamayla herkes etkileyici zaman atlamalı videolar üretebilir. Başlangıç seviyesinde küçük sahnelerle başlayıp deneyim kazandıkça daha uzun ve karmaşık projelere geçebilirsin.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dış Mekân Portreleri İçin Doğal Işık Kullanımı</title><link href="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi" rel="alternate" type="text/html" title="Dış Mekân Portreleri İçin Doğal Işık Kullanımı" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi</id><content type="html" xml:base="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi"><![CDATA[<p>Dış mekân portrelerinde doğal ışık, fotoğrafın atmosferini belirleyen en güçlü unsurlardan biridir. Yapay ışıklara göre daha öngörülemez olsa da doğru tekniklerle kullanıldığında çok daha doğal, yumuşak ve estetik sonuçlar sağlar. Bu yazıda modeli doğru konumlandırmaktan sert ışığı yumuşatmaya, reflektör kullanımından pratik ipuçlarına kadar profesyonel düzeyde bir rehber bulacaksınız.</p>
 
-<ul>
-  <li>Hue: Renk tonunu değiştirir</li>
-  <li>Saturation: Rengin doygunluğunu artırır/azaltır</li>
-  <li>Luminance: Rengin parlaklığını ayarlar</li>
-</ul>
+<h2 id="modeli-doğru-konumlandırma">Modeli Doğru Konumlandırma</h2>
 
-<p>Örneğin yalnızca turuncuları açarak ten tonlarını ön plana çıkarabilirsiniz.</p>
+<p>Dış mekân portrelerinde ışığa göre konumlandırma, fotoğrafın kalitesini doğrudan etkiler. Aşağıdaki yöntemlerle ışığı en doğru şekilde yönlendirebilirsiniz.</p>
 
-<h3 id="split-toning-veya-color-grading-paneli">Split Toning veya Color Grading Paneli</h3>
+<ol>
+  <li><strong>Işığı Yandan Verme</strong>: Modeli ışığın geldiği yöne göre 45 derecelik açıyla konumlandırmak, yüz hatlarını belirginleştirir ve portreyi daha üç boyutlu gösterir. Bu açı, yumuşak gölgeler oluşturarak doğal bir portre ortaya çıkarır.</li>
+  <li><strong>Arkadan Işık (Backlight) Kullanımı</strong>: Güneş modeli arkasından aydınlatırken saçlarda hoş bir parlama, fonda ise yumuşak bir parıltı oluşur. Ancak bu durumda yüz karanlık kalabileceği için reflektör veya dolgu ışığı gerekebilir.</li>
+  <li><strong>Tam Gölgede Çekim</strong>: Özellikle öğle saatlerinde sert güneş altında çekim yapmak yerine, modeli bina gölgesi, ağaç gölgesi veya saçak altı gibi yumuşak gölge alanlarına almak en net ve dengeli ışığı sağlar.</li>
+</ol>
 
-<p>Gölgeler, orta tonlar ve parlak alanlar için ayrı renk tonları eklemenizi sağlar. Sinematik tonlamanın temel araçlarından biridir.</p>
+<h2 id="sert-işığı-yumuşatma-yöntemleri">Sert Işığı Yumuşatma Yöntemleri</h2>
 
-<h3 id="color-wheels">Color Wheels</h3>
+<p>Özellikle güneşin dik geldiği saatlerde ışık oldukça sert ve kontrastlıdır. Bu durumda yumuşatma teknikleri devreye girer.</p>
 
-<p>Işıklı alanlar, gölgeler ve midtones üzerinde daha hassas ton kontrolü yapmayı sağlar.</p>
+<ol>
+  <li><strong>Difüzör Kullanımı</strong>: Profesyonel portre fotoğrafçılarının vazgeçilmezi olan difüzörler, güneş ışığını kırarak yumuşatır Kullanım önerileri:
+    <ul>
+      <li>Model ile güneş arasına konumlandırılmalıdır.</li>
+      <li>Beyaz ya da yarı şeffaf yüzeyler daha doğal sonuç verir.</li>
+      <li>Rüzgarlı havalarda sabitlemek için yardımcı gerekir.</li>
+    </ul>
+  </li>
+  <li><strong>Gölgeye Taşımak</strong>: Basit ama etkili bir yöntemdir. Sert ışık yerine yumuşak gölge alanlarına modelinizi çekerek yüz üzerindeki keskin kontrastları kaldırabilirsiniz.</li>
+  <li><strong>Güneşi Yana veya Arkaya Almak</strong>: Güneş tam karşıdan geldiğinde göz kısmaları artar ve yüz üzerinde sert gölgeler oluşur. Bunun yerine güneşi yan tarafa veya arka tarafa almak ışığın yoğunluğunu azaltır ve fotoğraf daha yumuşak olur.</li>
+</ol>
 
-<h3 id="lut-look-up-table">LUT (Look-Up Table)</h3>
+<h2 id="reflektör-kullanarak-profesyonel-portreler-elde-etme">Reflektör Kullanarak Profesyonel Portreler Elde Etme</h2>
 
-<p>Hazır renk profilleri olarak bilinir. Film tonları, sinematik renkler veya markalara özel renk profilleri LUT olarak uygulanabilir.</p>
+<p>Reflektörler, doğal ışığın yönünü kontrol etmek için oldukça etkili araçlardır. Doğru reflektör rengi ve açısı portreyi profesyonel seviyeye taşır.</p>
 
-<h2 id="color-grading-sürecine-başlamadan-önce-yapılması-gerekenler">Color Grading Sürecine Başlamadan Önce Yapılması Gerekenler</h2>
-
-<ul>
-  <li><strong>RAW çekim kullanın</strong>. Çok daha geniş renk bilgisi içerir.</li>
-  <li><strong>Doğru pozlama ve beyaz ayarı yapın</strong>. Teknik kısmın sağlam olması grading’i kolaylaştırır.</li>
-  <li><strong>Referans belirleyin</strong>. Pinterest, Instagram veya bir film sahnesi olabilir.</li>
-  <li><strong>Hafif dokunuşlarla ilerleyin</strong>. Abartılmış tonlama fotoğrafın doğallığını kaybettirebilir.</li>
-</ul>
-
-<h2 id="popüler-color-grading-stilleri-ve-örnek-ayarlar">Popüler Color Grading Stilleri ve Örnek Ayarlar</h2>
-
-<p>Aşağıdaki örnek ayarlar Lightroom mantığıyla yazılmıştır. Kendi fotoğraflarınıza göre küçük değişiklikler yapmanız gerekebilir.</p>
-
-<h3 id="sinematik-renk-derecelendirme">Sinematik Renk Derecelendirme</h3>
-
-<p>Bu stil mavi-gri gölgeler ve sıcak ten tonları ile bilinir.</p>
-
-<p><strong>HSL Ayarları</strong></p>
-
-<ul>
-  <li>Turuncu Hue: -5</li>
-  <li>Turuncu Luminance: +10</li>
-  <li>Mavi Hue: -15</li>
-  <li>Mavi Saturation: -20</li>
-</ul>
-
-<p><strong>Tone Curve</strong></p>
-
-<ul>
-  <li>Hafif mat siyahlar</li>
-  <li>S’de hafif bir kontrast eğrisi</li>
-</ul>
-
-<p><strong>Split Toning</strong></p>
-
-<ul>
-  <li>Shadows: Mavi tonu (Hue 220 / Sat 10)</li>
-  <li>Highlights: Turuncu (Hue 35 / Sat 6)</li>
-  <li>Balance: -10 (gölgelere ağırlık ver)</li>
-</ul>
-
-<p><strong>Sonuç</strong>: Film sahnesi hissi veren dengeli mavi-gri gölgeler ve sıcak yüz tonları.</p>
-
-<h3 id="pastel-ve-yumuşak-tonlar">Pastel ve Yumuşak Tonlar</h3>
-
-<p>Bu tarz özellikle portre ve moda fotoğraflarında kullanılır.</p>
-
-<p><strong>HSL Ayarları</strong></p>
-
-<ul>
-  <li>Kırmızı Saturation: -10</li>
-  <li>Turuncu Saturation: -15</li>
-  <li>Yeşil Hue: +20</li>
-  <li>Mavi Saturation: -25</li>
-</ul>
-
-<p><strong>Tone Curve</strong></p>
-
-<ul>
-  <li>Kontrast çok düşük</li>
-  <li>Parlaklık orta seviyede</li>
-</ul>
-
-<p><strong>Split Toning</strong></p>
-
-<ul>
-  <li>Shadows: Açık pembemsi ton</li>
-  <li>Highlights: Sarımsı pastel ton</li>
-</ul>
-
-<p><strong>Sonuç</strong>: Hafif, yumuşak ve nazik bir görünüm.</p>
-
-<h3 id="dramatic-moody-look">Dramatic Moody Look</h3>
-
-<p>Orman ve açık hava fotoğraflarında popülerdir.</p>
-
-<p><strong>HSL Ayarları</strong></p>
-
-<ul>
-  <li>Yeşil Hue: -40</li>
-  <li>Yeşil Saturation: -35</li>
-  <li>Sarı Saturation: -20</li>
-  <li>Turuncu Luminance: +10</li>
-</ul>
-
-<p><strong>Tone Curve</strong></p>
-
-<ul>
-  <li>Koyu, güçlü gölgeler</li>
-  <li>Mat siyahlar</li>
-</ul>
-
-<p><strong>Split Toning</strong></p>
-
-<ul>
-  <li>Shadows: Koyu yeşil-mavi (Hue 200 / Sat 15)</li>
-  <li>Highlights: Sıcak sarı (Hue 40 / Sat 10)</li>
-</ul>
-
-<p><strong>Sonuç</strong>: Güçlü kontrast, karanlık atmosfer, derin gölgeler.</p>
-
-<h3 id="vintage-film-tonları">Vintage Film Tonları</h3>
-
-<p>Eski film kameralarının renklerine benzer bir görünüm hedeflenir.</p>
-
-<p><strong>HSL Ayarları</strong></p>
-
-<ul>
-  <li>Kırmızı Saturation: -10</li>
-  <li>Turuncu Hue: +5</li>
-  <li>Yeşil Saturation: -20</li>
-  <li>Mavi Hue: +10</li>
-</ul>
-
-<p><strong>Tone Curve</strong></p>
-
-<ul>
-  <li>Belirgin mat efekt</li>
-  <li>Düşük kontrast</li>
-</ul>
-
-<p><strong>Split Toning</strong></p>
-
-<ul>
-  <li>Shadows: Koyu yeşilimsi</li>
-  <li>Highlights: Sarımsı ton</li>
-</ul>
-
-<p><strong>Sonuç</strong>: Eski film havasında soluk ve nostaljik görüntüler.</p>
+<ol>
+  <li><strong>Hangi Renk Reflektör Ne İşe Yarar?</strong>
+    <ul>
+      <li><strong>Beyaz Reflektör</strong>: En doğal ve yumuşak ışığı verir. Günün her saatinde idealdir.</li>
+      <li><strong>Gümüş Reflektör</strong>: Daha parlak ve kontrastlı ışık sağlar. Bulutlu havalarda etkisi yüksektir.</li>
+      <li><strong>Altın Reflektör</strong>: Sıcak tonlu bir ışık üretir. Özellikle gün batımı tonlarını güçlendirmek için tercih edilir.</li>
+      <li><strong>Siyah Panel</strong>: Işığı yansıtmak yerine gölgeleri derinleştirir. Yüz hatlarını belirginleştirmek için kullanılabilir.</li>
+    </ul>
+  </li>
+  <li><strong>Reflektör Açısı</strong>: Reflektörün yönü yüz üzerinde çok büyük fark yaratır.
+    <ul>
+      <li>Göz hizasından hafif aşağı gelen ışık portreyi doğal gösterir.</li>
+      <li>Çok alttan gelen ışık yapay ve istenmeyen gölgeler oluşturabilir.</li>
+      <li>Yan taraftan yakın bir mesafede tuttuğunuz reflektör, yüzün karanlık tarafını başarılı şekilde doldurur.</li>
+    </ul>
+  </li>
+  <li><strong>Yalnız Çalışanlar için Tripod veya Stand</strong>: Tek başınıza çekim yapıyorsanız reflektörü sabitlemek için bir C-stand veya tripod aparatı kullanabilirsiniz.</li>
+</ol>
 
 <h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
 
+<p>Doğal ışıkla dış mekân portrelerini daha profesyonel hale getirmenizi sağlayacak ek öneriler:</p>
+
 <ol>
-  <li><strong>Önce ışığı düzenleyin, sonra rengi</strong>. Pozlama hatası varken yapılan color grading bozuk sonuçlar verir.</li>
-  <li><strong>Ten tonlarına ekstra özen gösterin</strong>. Turuncu ve kırmızı kanalların aşırı doygun olması yapay bir görüntü oluşturur.</li>
-  <li><strong>Referans görüntü ile kıyaslama yapın</strong>. Profesyonel colorist’ler her zaman yanlarında bir referans görsel bulundurur.</li>
-  <li><strong>Ayarları Preset olarak kaydedin</strong>. Aynı tarzı diğer fotoğraflarda tekrar yakalamak kolaylaşır.</li>
-  <li><strong>Abartıdan kaçının</strong>. Color grading, fotoğrafı güçlendirmeli; fotoğrafın önüne geçmemelidir.</li>
+  <li><strong>Altın Saatleri Kullanın</strong>: Gün doğumu ve gün batımı arasındaki zaman dilimi, yumuşacık ve sıcak ışığıyla portre çekimi için en ideal zamandır.</li>
+  <li><strong>Arka Plan Seçimini Işığa Göre Yapın</strong>: Işık güzel olsa bile karmaşık bir arka plan portreyi zayıflatabilir. Arka planın renk ve ışık dengesini kontrol edin.</li>
+  <li><strong>Lens Gölgesine Dikkat</strong>: Güneş kamera lensine açıyla çarptığında parlamalar oluşabilir. Lens hood kullanmak çoğu zaman sorunu çözer.</li>
+  <li><strong>Spot Güneşi Sevenler İçin</strong>: Bazı fotoğrafçılar bilerek sert ışıkla dramatik portreler çeker. Bu durumda yüzün üzerinde oluşacak gölgeleri bilinçli kullanmak önemlidir. Burnun altındaki gölge, yanak çizgisi ve çene hattı belirgin olur.</li>
 </ol>
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Fotoğrafta renk derecelendirme, görüntüye hikâye ve duygu eklemenin en güçlü yollarından biridir. Doğru araçlar ve bilinçli tercihlerle her fotoğrafa kendine has bir atmosfer kazandırabilirsiniz. Bu yazıda yer alan ayarlar ilk adım niteliğindedir; kendi tarzınızı oluşturmak için farklı ton kombinasyonlarıyla denemeler yapabilirsiniz.</p>]]></content><author><name></name></author><category term="renk" /><summary type="html"><![CDATA[Fotoğrafta renk derecelendirme tekniklerini öğrenin. Color grading nedir, temel araçlar, sinematik tonlama ayarları ve örnek preset değerleriyle fotoğraflarınıza profesyonel bir görünüm katın.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
+<p>Doğal ışık, dış mekân portrelerinde en yaratıcı ve doğal sonuçları elde etmenin en güçlü aracıdır. Modeli doğru konumlandırarak, sert ışığı yumuşatarak ve reflektörlerle ışığı kontrol ederek profesyonel kalitede portreler çekebilirsiniz. Doğru teknikleri pratikle birleştirdikçe doğal ışığın sizin için ne kadar esnek bir araç olduğunu göreceksiniz.</p>]]></content><author><name></name></author><category term="ışık" /><category term="portre" /><summary type="html"><![CDATA[Model konumlandırma teknikleri, sert ışığı yumuşatma yöntemleri ve reflektör kullanarak profesyonel portreler elde etme ipuçları bu rehberde.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
 
 <h2 id="tripod-seçerken-i̇lk-adım-kullanım-amacını-belirlemek">Tripod Seçerken İlk Adım: Kullanım Amacını Belirlemek</h2>
 
@@ -462,7 +421,222 @@
 
 <p>Tripod, fotoğrafçılık ekipmanları arasında en uzun süre kullanılan ve performansı direkt etkileyen araçlardan biridir. Uygun tripod seçimi, çekimlerinizde netlik, keskinlik ve profesyonellik sağlar. Bu rehberde malzeme türleri, yükseklik seçenekleri, başlık tipleri ve mekanik detaylara kadar tripod seçiminde bilmeniz gereken tüm kriterleri ele aldık.</p>
 
-<p>İhtiyaçlarınıza uygun modeli seçerek hem daha keyifli hem de daha kaliteli çekimler gerçekleştirebilirsiniz.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda, tripod seçerken malzeme, yükseklik, başlık tipi ve taşıma kapasitesi gibi kritik kriterleri açıklayan kapsamlı bir rehber sunuyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?</title><link href="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir" rel="alternate" type="text/html" title="Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?" /><published>2025-11-30T00:00:00+03:00</published><updated>2025-11-30T00:00:00+03:00</updated><id>http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir</id><content type="html" xml:base="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir"><![CDATA[<p>Fotoğrafçılıkta doğru lensi seçmek, kompozisyonun gücünü ve görüntünün kalitesini belirleyen en önemli kararlardan biridir. Özellikle <em>24mm, 35mm, 50mm ve 85mm</em> gibi yaygın kullanılan sabit odak uzaklıkları, farklı çekim türleri için benzersiz avantajlar sunar. Bu rehberde, bu dört popüler lensin hangi çekimlerde en iyi performansı verdiğini, avantajlarını ve kullanım önerilerini detaylıca ele alıyoruz.</p>
+<p>İhtiyaçlarınıza uygun modeli seçerek hem daha keyifli hem de daha kaliteli çekimler gerçekleştirebilirsiniz.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda, tripod seçerken malzeme, yükseklik, başlık tipi ve taşıma kapasitesi gibi kritik kriterleri açıklayan kapsamlı bir rehber sunuyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar</title><link href="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar" rel="alternate" type="text/html" title="Fotoğrafta Renk Derecelendirme (Color Grading): Temel Teknikler ve Örnek Ayarlar" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar</id><content type="html" xml:base="http://localhost:4000/fotografta-renk-derecelendirme-color-grading-temel-teknikler-ve-ornek-ayarlar"><![CDATA[<p>Fotoğrafta renk derecelendirme, bir sahnenin renk tonlarını değiştirerek fotoğrafa belirli bir atmosfer kazandırma sürecidir. Color grading, yalnızca renk düzeltmeden (color correction) farklıdır; burada amaç teknik hataları gidermekten çok <em>duyguyu, hikâyeyi ve estetiği güçlendirmektir</em>. Bu yazıda color grading’in temellerini, profesyonel teknikleri ve popüler tarzlar için örnek ayarları bulabilirsiniz.</p>
+
+<h2 id="color-grading-nedir">Color Grading Nedir?</h2>
+
+<p>Color grading, bir fotoğrafın renk paletini bilinçli olarak değiştirip düzenleyerek belirli bir görünüm oluşturma işlemidir. Fotoğrafın ruhunu belirleyen pek çok şey bu aşamada şekillenir:</p>
+
+<ul>
+  <li>Soğuk ve dramatik bir hava</li>
+  <li>Sıcak ve nostaljik bir ton</li>
+  <li>Sinematik kontrast</li>
+  <li>Pastel ve yumuşak görüntüler</li>
+</ul>
+
+<p>Renk derecelendirme genellikle Lightroom, Photoshop, Capture One veya mobil uygulamalarda Split Toning, HSL, Curves, Color Wheels gibi araçlarla yapılır.</p>
+
+<h2 id="color-grading-ile-color-correction-arasındaki-fark">Color Grading ile Color Correction Arasındaki Fark</h2>
+
+<p>Bu iki kavram çoğu zaman karıştırılır. Aralarındaki en temel farklar:</p>
+
+<p><strong>Color Correction (Renk Düzeltme)</strong></p>
+
+<ul>
+  <li>Fotoğrafı doğal ve doğru renge çekmeyi hedefler.</li>
+  <li>Beyaz ayarı, pozlama, kontrast, ton ve gölgeler düzeltilir.</li>
+</ul>
+
+<p><strong>Color Grading (Renk Derecelendirme)</strong></p>
+
+<ul>
+  <li>Sanatsal bir görünüm yaratır.</li>
+  <li>Fotoğrafa duygu, tarz ve atmosfer katar.</li>
+  <li>Doğal olmayan ama estetik açıdan güçlü renk paletleri oluşturabilir.</li>
+</ul>
+
+<h2 id="color-grading-i̇çin-temel-araçlar">Color Grading İçin Temel Araçlar</h2>
+
+<h3 id="tone-curve-eğri-aracı">Tone Curve (Eğri Aracı)</h3>
+
+<p>Renk derecelendirmede en etkili araçlardan biridir.</p>
+
+<p>Eğri ile yapılabilecekler:</p>
+
+<ul>
+  <li>Kontrast artırma veya azaltma</li>
+  <li>Mat (faded) görüntü oluşturma</li>
+  <li>Kırmızı, yeşil ve mavi kanallar üzerinden ton değişikliği</li>
+  <li>Film görünümü verme</li>
+</ul>
+
+<h3 id="hsl-hue-saturation-luminance">HSL (Hue, Saturation, Luminance)</h3>
+
+<p>Bu panel, her bir rengi ayrı ayrı kontrol etmenizi sağlar.</p>
+
+<ul>
+  <li>Hue: Renk tonunu değiştirir</li>
+  <li>Saturation: Rengin doygunluğunu artırır/azaltır</li>
+  <li>Luminance: Rengin parlaklığını ayarlar</li>
+</ul>
+
+<p>Örneğin yalnızca turuncuları açarak ten tonlarını ön plana çıkarabilirsiniz.</p>
+
+<h3 id="split-toning-veya-color-grading-paneli">Split Toning veya Color Grading Paneli</h3>
+
+<p>Gölgeler, orta tonlar ve parlak alanlar için ayrı renk tonları eklemenizi sağlar. Sinematik tonlamanın temel araçlarından biridir.</p>
+
+<h3 id="color-wheels">Color Wheels</h3>
+
+<p>Işıklı alanlar, gölgeler ve midtones üzerinde daha hassas ton kontrolü yapmayı sağlar.</p>
+
+<h3 id="lut-look-up-table">LUT (Look-Up Table)</h3>
+
+<p>Hazır renk profilleri olarak bilinir. Film tonları, sinematik renkler veya markalara özel renk profilleri LUT olarak uygulanabilir.</p>
+
+<h2 id="color-grading-sürecine-başlamadan-önce-yapılması-gerekenler">Color Grading Sürecine Başlamadan Önce Yapılması Gerekenler</h2>
+
+<ul>
+  <li><strong>RAW çekim kullanın</strong>. Çok daha geniş renk bilgisi içerir.</li>
+  <li><strong>Doğru pozlama ve beyaz ayarı yapın</strong>. Teknik kısmın sağlam olması grading’i kolaylaştırır.</li>
+  <li><strong>Referans belirleyin</strong>. Pinterest, Instagram veya bir film sahnesi olabilir.</li>
+  <li><strong>Hafif dokunuşlarla ilerleyin</strong>. Abartılmış tonlama fotoğrafın doğallığını kaybettirebilir.</li>
+</ul>
+
+<h2 id="popüler-color-grading-stilleri-ve-örnek-ayarlar">Popüler Color Grading Stilleri ve Örnek Ayarlar</h2>
+
+<p>Aşağıdaki örnek ayarlar Lightroom mantığıyla yazılmıştır. Kendi fotoğraflarınıza göre küçük değişiklikler yapmanız gerekebilir.</p>
+
+<h3 id="sinematik-renk-derecelendirme">Sinematik Renk Derecelendirme</h3>
+
+<p>Bu stil mavi-gri gölgeler ve sıcak ten tonları ile bilinir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Turuncu Hue: -5</li>
+  <li>Turuncu Luminance: +10</li>
+  <li>Mavi Hue: -15</li>
+  <li>Mavi Saturation: -20</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Hafif mat siyahlar</li>
+  <li>S’de hafif bir kontrast eğrisi</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Mavi tonu (Hue 220 / Sat 10)</li>
+  <li>Highlights: Turuncu (Hue 35 / Sat 6)</li>
+  <li>Balance: -10 (gölgelere ağırlık ver)</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Film sahnesi hissi veren dengeli mavi-gri gölgeler ve sıcak yüz tonları.</p>
+
+<h3 id="pastel-ve-yumuşak-tonlar">Pastel ve Yumuşak Tonlar</h3>
+
+<p>Bu tarz özellikle portre ve moda fotoğraflarında kullanılır.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Kırmızı Saturation: -10</li>
+  <li>Turuncu Saturation: -15</li>
+  <li>Yeşil Hue: +20</li>
+  <li>Mavi Saturation: -25</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Kontrast çok düşük</li>
+  <li>Parlaklık orta seviyede</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Açık pembemsi ton</li>
+  <li>Highlights: Sarımsı pastel ton</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Hafif, yumuşak ve nazik bir görünüm.</p>
+
+<h3 id="dramatic-moody-look">Dramatic Moody Look</h3>
+
+<p>Orman ve açık hava fotoğraflarında popülerdir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Yeşil Hue: -40</li>
+  <li>Yeşil Saturation: -35</li>
+  <li>Sarı Saturation: -20</li>
+  <li>Turuncu Luminance: +10</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Koyu, güçlü gölgeler</li>
+  <li>Mat siyahlar</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Koyu yeşil-mavi (Hue 200 / Sat 15)</li>
+  <li>Highlights: Sıcak sarı (Hue 40 / Sat 10)</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Güçlü kontrast, karanlık atmosfer, derin gölgeler.</p>
+
+<h3 id="vintage-film-tonları">Vintage Film Tonları</h3>
+
+<p>Eski film kameralarının renklerine benzer bir görünüm hedeflenir.</p>
+
+<p><strong>HSL Ayarları</strong></p>
+
+<ul>
+  <li>Kırmızı Saturation: -10</li>
+  <li>Turuncu Hue: +5</li>
+  <li>Yeşil Saturation: -20</li>
+  <li>Mavi Hue: +10</li>
+</ul>
+
+<p><strong>Tone Curve</strong></p>
+
+<ul>
+  <li>Belirgin mat efekt</li>
+  <li>Düşük kontrast</li>
+</ul>
+
+<p><strong>Split Toning</strong></p>
+
+<ul>
+  <li>Shadows: Koyu yeşilimsi</li>
+  <li>Highlights: Sarımsı ton</li>
+</ul>
+
+<p><strong>Sonuç</strong>: Eski film havasında soluk ve nostaljik görüntüler.</p>
+
+<h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
+
+<ol>
+  <li><strong>Önce ışığı düzenleyin, sonra rengi</strong>. Pozlama hatası varken yapılan color grading bozuk sonuçlar verir.</li>
+  <li><strong>Ten tonlarına ekstra özen gösterin</strong>. Turuncu ve kırmızı kanalların aşırı doygun olması yapay bir görüntü oluşturur.</li>
+  <li><strong>Referans görüntü ile kıyaslama yapın</strong>. Profesyonel colorist’ler her zaman yanlarında bir referans görsel bulundurur.</li>
+  <li><strong>Ayarları Preset olarak kaydedin</strong>. Aynı tarzı diğer fotoğraflarda tekrar yakalamak kolaylaşır.</li>
+  <li><strong>Abartıdan kaçının</strong>. Color grading, fotoğrafı güçlendirmeli; fotoğrafın önüne geçmemelidir.</li>
+</ol>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Fotoğrafta renk derecelendirme, görüntüye hikâye ve duygu eklemenin en güçlü yollarından biridir. Doğru araçlar ve bilinçli tercihlerle her fotoğrafa kendine has bir atmosfer kazandırabilirsiniz. Bu yazıda yer alan ayarlar ilk adım niteliğindedir; kendi tarzınızı oluşturmak için farklı ton kombinasyonlarıyla denemeler yapabilirsiniz.</p>]]></content><author><name></name></author><category term="renk" /><summary type="html"><![CDATA[Fotoğrafta renk derecelendirme tekniklerini öğrenin. Color grading nedir, temel araçlar, sinematik tonlama ayarları ve örnek preset değerleriyle fotoğraflarınıza profesyonel bir görünüm katın.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/fotografta-renk-derecelendirme.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?</title><link href="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir" rel="alternate" type="text/html" title="Lens Odak Uzaklıkları: 24mm, 35mm, 50mm, 85mm Hangi Çekimlerde Kullanılır?" /><published>2025-11-30T00:00:00+03:00</published><updated>2025-11-30T00:00:00+03:00</updated><id>http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir</id><content type="html" xml:base="http://localhost:4000/lens-odak-uzakliklari-24mm-35mm-50mm-85mm-hangi-cekimlerde-kullanilir"><![CDATA[<p>Fotoğrafçılıkta doğru lensi seçmek, kompozisyonun gücünü ve görüntünün kalitesini belirleyen en önemli kararlardan biridir. Özellikle <em>24mm, 35mm, 50mm ve 85mm</em> gibi yaygın kullanılan sabit odak uzaklıkları, farklı çekim türleri için benzersiz avantajlar sunar. Bu rehberde, bu dört popüler lensin hangi çekimlerde en iyi performansı verdiğini, avantajlarını ve kullanım önerilerini detaylıca ele alıyoruz.</p>
 
 <h2 id="24mm-lens-geniş-açıyla-hikâye-anlatımı">24mm Lens: Geniş Açıyla Hikâye Anlatımı</h2>
 
@@ -1039,173 +1213,4 @@
 
 <p>Fotoğraf serinizi tamamladıktan sonra bir süre ona bakmayı bırakın. Ardından yeniden gözden geçirin veya başkalarına gösterin. Aldığınız geri bildirimlerle seriyi yeniden düzenlemekten çekinmeyin.</p>
 
-<p>Hikaye anlatan bir fotoğraf serisi teknikten çok duyguya dayanır. Işık, kompozisyon ve kurgu önemli olsa da en önemlisi izleyicide bir bağ kurmaktır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hikaye anlatan fotoğraf serileri, izleyiciyi görsel bir yolculuğa çıkarır, duygular uyandırır ve anlatmak istediğiniz düşünceyi çok daha etkili şekilde aktarır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Işıksız Ortamlarda Harici Flaş Kullanımı</title><link href="http://localhost:4000/isiksiz-ortamlarda-harici-flas-kullanimi" rel="alternate" type="text/html" title="Işıksız Ortamlarda Harici Flaş Kullanımı" /><published>2025-07-08T00:00:00+03:00</published><updated>2025-07-08T00:00:00+03:00</updated><id>http://localhost:4000/isiksiz-ortamlarda-harici-flas-kullanimi</id><content type="html" xml:base="http://localhost:4000/isiksiz-ortamlarda-harici-flas-kullanimi"><![CDATA[<p>Fotoğrafçılıkta en büyük zorluklardan biri <em>düşük ışıklı ortamlarda doğru pozlamayı sağlamak</em> ve detayları kaybetmeden kaliteli kareler yakalamaktır. Bu noktada <em>harici flaşlar</em>, iç ve dış mekân çekimlerinde fotoğrafçının en önemli yardımcılarından biri olur. Peki, harici flaşı etkili şekilde kullanmak için neleri bilmek gerekir?</p>
-
-<p>Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız.</p>
-
-<h2 id="harici-flaş-nedir-ve-neden-kullanılır">Harici Flaş Nedir ve Neden Kullanılır?</h2>
-
-<p>Harici flaş, kameranın dahili flaşına göre çok daha güçlü ve yönlendirilebilir bir ışık kaynağıdır. Özellikle ışığın kontrolünün zor olduğu iç mekânlarda, gece çekimlerinde ve düğün, portre ya da ürün fotoğrafçılığı gibi profesyonel işlerde büyük avantaj sağlar.</p>
-
-<p><strong>Harici Flaşın Avantajları</strong>:</p>
-
-<ul>
-  <li>Yönlendirilebilir başlık ile ışığı yansıtma imkânı</li>
-  <li>Daha güçlü ve dengeli ışık</li>
-  <li>Daha hızlı şarj süresi</li>
-  <li>Genişletilebilirlik (softbox, diffuser, renk filtresi vs.)</li>
-</ul>
-
-<h2 id="işıksız-ortamlarda-flaş-kullanımı-i̇çin-temel-ayarlar">Işıksız Ortamlarda Flaş Kullanımı İçin Temel Ayarlar</h2>
-
-<ol>
-  <li><strong>Manuel Modda Çekim Yapın</strong>: Karanlık ortamlarda otomatik ayarlar genellikle yetersiz kalır. Manuel modda:
-    <ul>
-      <li><strong>Diyafram (f/)</strong>: f/2.8 veya daha açık (f/1.8, f/1.4)</li>
-      <li><strong>Enstantane (shutter speed)</strong>: 1/60 – 1/200 arası (flaş senkron hızına dikkat!)</li>
-      <li><strong>ISO</strong>: 100 – 800 arası, gerektiğinde artırılabilir</li>
-    </ul>
-  </li>
-  <li><strong>Flaş Gücünü Ayarlayın</strong>: Flaşınızın güç seviyesi genellikle 1/1 (tam güç) ile 1/128 arasında değişir. Deneyerek ideal seviyeyi bulun. Örneğin bir portre için 1/8 ya da 1/16 idealdir.</li>
-  <li><strong>Beyaz Dengesi (White Balance)</strong>: “Flaş” veya “Kelvin” modunu kullanarak daha doğru renkler elde edebilirsiniz. Özellikle flaşta renk filtresi kullanıyorsanız, WB ayarı çok önemlidir.</li>
-</ol>
-
-<h2 id="flaş-işığını-yönlendirme-teknikleri">Flaş Işığını Yönlendirme Teknikleri</h2>
-
-<p>Doğrudan flaş ışığı, sert gölgeler ve patlayan yüzeylere neden olabilir. Bunun yerine:</p>
-
-<ul>
-  <li><strong>Yansıtmalı Işık (Bounce Flash)</strong>: Tavan veya duvar gibi açık renkli yüzeylere flaşı çevirerek daha doğal ve yumuşak ışık elde edebilirsiniz.</li>
-  <li><strong>Difüzör Kullanımı</strong>: Flaşın önüne yerleştirilen plastik difüzör ya da softbox, ışığı yayarak yumuşatır.</li>
-  <li><strong>Işık Şekillendiriciler</strong>: Bounce kartı, grid (ızgara), snoot gibi aksesuarlar ile ışığın yönünü ve şiddetini daha hassas kontrol edebilirsiniz.</li>
-</ul>
-
-<h2 id="harici-flaş-ile-portre-çekiminde-dikkat-edilmesi-gerekenler">Harici Flaş ile Portre Çekiminde Dikkat Edilmesi Gerekenler</h2>
-
-<ul>
-  <li><strong>Işığın Yönü Önemlidir</strong>: Yandan gelen flaş ışığı (45° üstten) yüz hatlarını belirginleştirir ve daha derinlikli görüntüler oluşturur.</li>
-  <li><strong>Gözlerde Catchlight (Parlaklık)</strong>: Gözlerdeki yansıma, portrelere canlılık katar. Flaş konumunu buna göre ayarlayın.</li>
-  <li><strong>Arka Planı Unutmayın</strong>: Flaşla sadece öndeki objeyi değil, arka planı da göz önünde bulundurarak ışık dengesi kurmaya çalışın. Gerekirse ikinci bir flaş kullanabilirsiniz.</li>
-</ul>
-
-<h2 id="pratik-i̇puçları-ve-sık-yapılan-hatalar">Pratik İpuçları ve Sık Yapılan Hatalar</h2>
-
-<ul>
-  <li><strong>Ön test çekimi yapın</strong>: Pozlamayı test etmeden seri çekime geçmeyin.</li>
-  <li><strong>Yüzey seçimine dikkat edin</strong>: Yansıma yapacak metalik, parlak yüzeylerden kaçının.</li>
-  <li><strong>Modelleri rahatsız etmeyin</strong>: Flaş çok sık çakarsa göz alabilir, doğal pozlar zorlaşabilir.</li>
-  <li><strong>Pillerinizi kontrol edin</strong>: Harici flaşların güç tüketimi yüksektir, ekstra pil taşımayı unutmayın.</li>
-  <li><strong>TTL modunu deneyin</strong>: Başlangıç seviyesi kullanıcılar için otomatik ölçüm yapan TTL modu büyük kolaylık sağlar.</li>
-</ul>
-
-<h2 id="alternatif-aydınlatma-stratejileri">Alternatif Aydınlatma Stratejileri</h2>
-
-<p>Flaş kullanımı dışında ışık kaynaklarını çoğaltmak veya kombinlemek de mümkün:</p>
-
-<ul>
-  <li>LED panel + flaş kombinasyonu</li>
-  <li>Işık yansıtıcılar (reflektör)</li>
-  <li>Ortam ışığına katkı sağlamak için perde, mum veya loş lambalarla kompozisyon yaratmak</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Işıksız ortamlarda harici flaş, teknik açıdan ustalık isteyen ama doğru kullanıldığında etkileyici sonuçlar doğuran güçlü bir araçtır. Farklı ayarlar, yönler ve aksesuarlarla oynayarak zamanla en iyi ışığı nasıl yaratacağınızı öğreneceksiniz. Unutmayın: her çekim, yeni bir öğrenme fırsatıdır.</p>]]></content><author><name></name></author><category term="ışık" /><summary type="html"><![CDATA[Bu yazıda, karanlık ortamlarda harici flaş kullanımı hakkında temel bilgiler, teknik ipuçları ve yaratıcı öneriler bulacaksınız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/isiksiz-ortamlarda-harici-flas-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi</title><link href="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi" rel="alternate" type="text/html" title="Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi" /><published>2025-07-06T00:00:00+03:00</published><updated>2025-07-06T00:00:00+03:00</updated><id>http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi</id><content type="html" xml:base="http://localhost:4000/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi"><![CDATA[<p>Bugün bize tuhaf, hatta rahatsız edici gelebilecek bir gelenek, 19. yüzyılda oldukça yaygındı: <strong>ölülerin fotoğraflarını çekmek</strong>. Bu uygulamaya “postmortem fotoğrafçılık” denir. Peki insanlar neden ölü yakınlarının fotoğraflarını çektiriyordu? Bu geleneğin arkasında sadece bir ürperti değil, derin bir insanlık ve yas kültürü yatıyor. Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız.</p>
-
-<h2 id="postmortem-fotoğrafçılık-nedir">Postmortem Fotoğrafçılık Nedir?</h2>
-
-<p>“Postmortem” Latince bir terimdir ve “ölümden sonra” anlamına gelir. <em>Postmortem fotoğrafçılık</em>, bir kişinin ölümünden sonra onun bedeninin fotoğraflanmasıdır. Genellikle cenazeden hemen önce veya tabutta gerçekleştirilirdi.</p>
-
-<p>Bu tür fotoğraflar:</p>
-
-<ul>
-  <li>Kimi zaman ölen kişi yalnızken,</li>
-  <li>Kimi zaman yaşayan aile bireyleriyle birlikte,</li>
-  <li>Bazen de sanki hala yaşıyormuş gibi pozlandırılarak çekilirdi.</li>
-</ul>
-
-<h2 id="tarihçesi-viktorya-dönemi-ve-yas-kültürü">Tarihçesi: Viktorya Dönemi ve Yas Kültürü</h2>
-
-<h3 id="1800ler-fotoğrafın-yeni-çağı">1800’ler: Fotoğrafın Yeni Çağı</h3>
-
-<ul>
-  <li>1839’da daguerreotype (ilk pratik fotoğraf teknolojisi) yaygınlaştı.</li>
-  <li>Fotoğraf makineleri pahalıydı; birçok insan hayatında yalnızca bir kez fotoğraflanıyordu: Ölümünden sonra.</li>
-</ul>
-
-<h3 id="yas-ve-hatıra-kültürü">Yas ve Hatıra Kültürü</h3>
-
-<ul>
-  <li>Viktorya döneminde (1837–1901), ölüm gündelik hayatın olağan bir parçasıydı.</li>
-  <li>Bebek ölümleri yaygındı; postmortem bebek fotoğrafları sıklıkla çekilirdi.</li>
-  <li>Aileler, sevdiklerini son bir kez “<strong>yaşarkenki gibi</strong>” hatırlamak istiyordu.</li>
-  <li>Bu fotoğraflar çoğu zaman evin duvarına asılıyor veya albümlere konuyordu.</li>
-</ul>
-
-<h2 id="teknik-ve-kompozisyon">Teknik ve Kompozisyon</h2>
-
-<h3 id="diri-gibi-pozlandırma">Diri Gibi Pozlandırma</h3>
-
-<ul>
-  <li>Beden dik durması için özel destek çubuklarıyla sabitlenirdi.</li>
-  <li>Gözler açıkmış gibi çizilir veya cam göz yerleştirilirdi.</li>
-  <li>Sağlıklı görünüm vermesi için yanaklara renk eklenirdi.</li>
-</ul>
-
-<h3 id="cenazede-yatarken">Cenazede Yatarken</h3>
-<ul>
-  <li>Tabutta ya da yatakta çekilen daha sakin ve gerçekçi pozlar da yaygındı.</li>
-</ul>
-
-<h3 id="aile-fotoğrafları">Aile Fotoğrafları</h3>
-
-<ul>
-  <li>Aile üyeleriyle birlikte çekilen karelerde, bazen ölüyü tanımak zordur.</li>
-</ul>
-
-<h2 id="kültürel-değişim-ve-düşüş">Kültürel Değişim ve Düşüş</h2>
-
-<p>20. yüzyılın başlarında:</p>
-
-<ul>
-  <li>Fotoğraf makineleri ucuzladı, insanlar yaşarken de bolca fotoğraf çektirmeye başladı.</li>
-  <li>Ölüm daha “klinik” bir hal aldı; hastane ve morglara taşındı.</li>
-  <li>Postmortem fotoğrafçılık giderek <em>tabu haline geldi</em>.</li>
-</ul>
-
-<h2 id="günümüzde-postmortem-fotoğrafçılık">Günümüzde Postmortem Fotoğrafçılık</h2>
-
-<h3 id="modern-uygulamalar">Modern Uygulamalar</h3>
-
-<ul>
-  <li>Hâlâ bazı kültürlerde (özellikle Latin Amerika, Filipinler) devam ediyor.</li>
-  <li>Yeniden canlanan bir niş: <em>cenaze fotoğrafçılığı</em>.</li>
-  <li>ABD ve Avrupa’da bazı aileler, ölen yakınlarının elini tutarken çekilen fotoğrafları tercih ediyor.</li>
-</ul>
-
-<h3 id="yas-terapisi-olarak-fotoğraf">Yas Terapisi Olarak Fotoğraf</h3>
-
-<ul>
-  <li>Özellikle bebek kayıplarında, <em>Now I Lay Me Down To Sleep</em> gibi organizasyonlar profesyonel fotoğrafçılar aracılığıyla anı fotoğrafları çekiyor.</li>
-  <li>Bu fotoğraflar, yas sürecine yardımcı olabiliyor.</li>
-</ul>
-
-<h2 id="sanat-edebiyat-ve-sinemada-yeri">Sanat, Edebiyat ve Sinemada Yeri</h2>
-
-<ul>
-  <li><strong>Susan Sontag</strong>, “Fotoğraf Üzerine” adlı eserinde postmortem fotoğrafların etik ve estetik yönünü inceler.</li>
-  <li><strong>Sinemada</strong>: “The Others” (2001) filminde, postmortem fotoğraflar önemli bir temadır.</li>
-  <li><strong>Sanat galerileri ve müzelerde</strong>, bu tür arşiv fotoğraflar “ölüm temsili” kapsamında sergilenir.</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Postmortem fotoğrafçılık bize ölümle başa çıkmanın tarihsel yollarından birini gösteriyor. Bugün rahatsız edici gelebilir ama bir zamanlar sevgi ve hatıra ile harmanlanmış son derece insani bir gelenekti. Belki de asıl soru şu: Bizler bugün kayıplarımızla nasıl vedalaşıyoruz?</p>
-
-<h2 id="kitap-ve-kaynak-önerileri">Kitap ve Kaynak Önerileri</h2>
-
-<ul>
-  <li><em>Sleeping Beauty: Memorial Photography in America — Stanley B. Burns</em></li>
-  <li><em>The Victorian Book of the Dead — Chris Woodyard</em></li>
-  <li>Fotoğraf arşivleri: <a href="https://www.thanatos.net/">The Thanatos Archive</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Hikaye anlatan bir fotoğraf serisi teknikten çok duyguya dayanır. Işık, kompozisyon ve kurgu önemli olsa da en önemlisi izleyicide bir bağ kurmaktır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hikaye anlatan fotoğraf serileri, izleyiciyi görsel bir yolculuğa çıkarır, duygular uyandırır ve anlatmak istediğiniz düşünceyi çok daha etkili şekilde aktarır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
