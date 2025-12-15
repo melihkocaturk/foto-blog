@@ -1,4 +1,197 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-09T21:37:12+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi</title><link href="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi" rel="alternate" type="text/html" title="Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi</id><content type="html" xml:base="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi"><![CDATA[<p>Zaman atlamalı (time-lapse) video tekniği, yavaş gerçekleşen süreçleri hızlandırarak etkileyici görsel hikâyelere dönüştürür. Gün doğumundan bulut hareketlerine, şehir trafiğinden çiçek açmasına kadar birçok sahne bu teknikle dramatik şekilde yakalanabilir. Bu rehberde, ekipman seçiminden çekim planlamasına ve post prodüksiyona kadar sağlam bir başlangıç için bilmen gereken tüm adımları bulabilirsin.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-15T22:26:14+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Fotoğrafta Renk Parlaklığı (Vibrance) ve Doygunluk (Saturation) Arasındaki Fark</title><link href="http://localhost:4000/fotografta-renk-parlakligi-ve-doygunluk-arasindaki-fark" rel="alternate" type="text/html" title="Fotoğrafta Renk Parlaklığı (Vibrance) ve Doygunluk (Saturation) Arasındaki Fark" /><published>2025-12-15T00:00:00+03:00</published><updated>2025-12-15T00:00:00+03:00</updated><id>http://localhost:4000/fotografta-renk-parlakligi-ve-doygunluk-arasindaki-fark</id><content type="html" xml:base="http://localhost:4000/fotografta-renk-parlakligi-ve-doygunluk-arasindaki-fark"><![CDATA[<p>Dijital fotoğraf düzenleme sürecinde renkler üzerinde yapılan küçük bir değişiklik bile fotoğrafın havasını tamamen değiştirebilir. Özellikle <strong>Vibrance (Renk Parlaklığı)</strong> ve <strong>Saturation (Doygunluk)</strong> fotoğraf düzenleme yazılımlarında en sık kullanılan iki renk ayarıdır. Ancak birçok yeni başlayan fotoğrafçı bu iki ayarın aynı olduğunu düşünür. Oysa gerçekte birbirlerinden önemli ölçüde farklı çalışırlar ve doğru kullanıldıklarında fotoğraflarınızın kalitesini belirgin şekilde artırabilirler.</p>
+
+<p>Bu rehberde Vibrance ve Saturation arasındaki farkları, hangi durumlarda hangisinin tercih edilmesi gerektiğini ve profesyonel kullanım ipuçlarını bulacaksınız.</p>
+
+<h2 id="vibrance-nedir">Vibrance Nedir?</h2>
+
+<p>Vibrance, fotoğrafta yer alan <em>renklerin parlaklığını seçici olarak artıran</em> bir ayardır. Yani tüm renkleri eşit şekilde güçlendirmek yerine, özellikle soluk (desaturated) olan renkleri hedef alır.</p>
+
+<p><strong>Vibrance’in temel özellikleri</strong>:</p>
+
+<ul>
+  <li>Soluk renkleri güçlendirir.</li>
+  <li>Zaten canlı olan renkleri fazla etkilemez.</li>
+  <li>Ten tonlarını korur, bu nedenle portrelerde sıklıkla tercih edilir.</li>
+  <li>Daha doğal ve dengeli bir sonuç üretir.</li>
+</ul>
+
+<p><strong>Vibrance ne zaman kullanılmalı?</strong></p>
+
+<ul>
+  <li>Doğal görünümü korumak istediğiniz fotoğraflarda.</li>
+  <li>Ten tonu içeren portre çekimlerinde.</li>
+  <li>Renk uyumunun korunmasının önemli olduğu ürün fotoğrafçılığında.</li>
+  <li>Doğa ve manzara fotoğraflarında hafif bir renk canlılığı gerektiğinde.</li>
+</ul>
+
+<h2 id="saturation-nedir">Saturation Nedir?</h2>
+
+<p>Saturation (Doygunluk), fotoğraftaki <em>tüm renklerin yoğunluğunu eşit şekilde artıran veya azaltan</em> bir ayardır. Bu nedenle kontrollü kullanılmadığında fotoğrafta yapay bir görünüm oluşturabilir.</p>
+
+<p><strong>Saturation’un temel özellikleri</strong>:</p>
+
+<ul>
+  <li>Tüm renkleri aynı ölçüde etkiler.</li>
+  <li>Renk tonlarını yoğunlaştırır, göze çarpan sonuçlar üretir.</li>
+  <li>Fazla kullanımda renk patlaması veya aşırı kontrast hissi oluşturabilir.</li>
+</ul>
+
+<p><strong>Saturation ne zaman kullanılmalı?</strong></p>
+
+<ul>
+  <li>Sanatsal, stilize veya güçlü renklerin istenildiği fotoğraflarda.</li>
+  <li>Minimalist veya düz renk ağırlıklı sahnelerde.</li>
+  <li>Grafik tasarım amaçlı fotoğraflarda.</li>
+  <li>Renklerin güçlü bir duygusal etki yaratması hedeflendiğinde.</li>
+</ul>
+
+<h2 id="vibrance-ve-saturation-arasındaki-teknik-fark">Vibrance ve Saturation Arasındaki Teknik Fark</h2>
+
+<p>Bu iki ayarın görüntüye uyguladığı değişiklik aslında fotoğrafın renk kanallarının nasıl düzenlendiğiyle ilgilidir:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Özellik</strong></th>
+      <th><strong>Vibrance</strong></th>
+      <th><strong>Saturation</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Etki tipi</td>
+      <td>Seçici</td>
+      <td>Her renge eşit</td>
+    </tr>
+    <tr>
+      <td>Ten tonları</td>
+      <td>Korur</td>
+      <td>Kolayca aşırı doygunlaşır</td>
+    </tr>
+    <tr>
+      <td>Doğallık</td>
+      <td>Yüksek</td>
+      <td>Kolay bozulabilir</td>
+    </tr>
+    <tr>
+      <td>Kullanım zorluğu</td>
+      <td>Daha güvenli</td>
+      <td>Dikkatli kullanılmalı</td>
+    </tr>
+    <tr>
+      <td>Profesyonel kullanım</td>
+      <td>Portre, manzara, ürün</td>
+      <td>Sanatsal işler, grafik</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Kısacası, Vibrance daha akıllı, Saturation daha güçlü bir renk artırma aracıdır.</p>
+
+<h2 id="hangi-durumda-hangisini-kullanmalısınız">Hangi Durumda Hangisini Kullanmalısınız?</h2>
+
+<ul>
+  <li><strong>Portre fotoğrafları</strong>
+    <ul>
+      <li>Vibrance: En güvenli seçimdir; cilt tonlarını bozmaz.</li>
+      <li>Saturation: Kısıtlı ve düşük değerlerde kullanılmalı.</li>
+    </ul>
+  </li>
+  <li><strong>Manzara fotoğrafları</strong>
+    <ul>
+      <li>Hafif Vibrance + düşük Saturation birlikte kullanıldığında doğal bir canlılık oluşur.</li>
+    </ul>
+  </li>
+  <li><strong>Ürün fotoğrafları</strong>
+    <ul>
+      <li>Renk doğruluğu kritik olduğundan genellikle Vibrance tercih edilir.</li>
+      <li>Sanatsal veya atmosferik fotoğraflar</li>
+      <li>Saturation, duyguyu güçlendirmek için ideal olabilir.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
+
+<ol>
+  <li><strong>Vibrance ile başlamak en güvenli yöntemdir</strong>: Renk canlılığını artırmanız gerektiğinde ilk adım olarak Vibrance’ı kullanın. Genellikle fotoğrafın %80 oranında doğru renk canlılığına ulaşmasını sağlar.</li>
+  <li><strong>Saturation’ı düşük seviyelerde destekleyici olarak kullanın</strong>: Aşırıya kaçmadan yapılan küçük Saturation artışı, Vibrance’ın bıraktığı boşlukları doldurabilir.</li>
+  <li><strong>Cilt tonlarında Saturation’dan kaçının</strong>: Düşük bile olsa Saturation, cilt tonlarını kırmızıya doğru çeker. Bu, portrelerde istenmeyen bir görünüm oluşturur.</li>
+  <li><strong>HSL panelleriyle daha hassas kontrol sağlayın</strong>: Saturation tüm renkleri eşit artırdığından, her rengi ayrı ayrı düzenlemek isteyebilirsiniz. Bunun için Lightroom veya Camera Raw’daki HSL (Hue – Saturation – Luminance) panelini kullanarak her renk kanalını ayrı ayrı kontrol etmek daha profesyonel bir yaklaşımdır.</li>
+  <li><strong>Fazla düzenlemeyi histogramdan anlayabilirsiniz</strong>: Saturation arttıkça histogramın uçlara doğru yayılması artar. Bu, renklerin “patlamaya” başladığını gösterir.</li>
+</ol>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Vibrance ve Saturation, renk düzenlemede birbirini tamamlayan ama farklı çalışan iki güçlü araçtır. Vibrance doğal ve dengeli bir renk canlılığı sağlarken, Saturation daha dramatik ve etkili sonuçlar üretir. Hangi ayarı kullanmanız gerektiği, fotoğrafın türüne ve hedeflediğiniz görünüme bağlıdır.</p>
+
+<p>Fotoğraf düzenlemeye yeni başladıysanız Vibrance odaklı ilerlemek daha güvenli olur. Profesyonelleştikçe Saturation’ı belirli alanlarda yaratıcı bir araç olarak kullanabilir, hatta HSL ayarlarıyla çok daha detaylı renk kontrolü sağlayabilirsiniz.</p>
+
+<p>Düzenlemelerde doğru ayarı kullanmak, fotoğraflarınızın profesyonel görünmesine direkt katkı sağlar. Renk yönetimi, fotoğrafın ruhunu belirleyen en önemli adımlardan biridir.</p>]]></content><author><name></name></author><category term="renk" /><summary type="html"><![CDATA[Bu rehberde Vibrance ve Saturation arasındaki farkları, hangi durumlarda hangisinin tercih edilmesi gerektiğini ve profesyonel kullanım ipuçlarını bulacaksınız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/fotografta-renk-parlakligi-ve-doygunluk-arasindaki-fark.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/fotografta-renk-parlakligi-ve-doygunluk-arasindaki-fark.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dış Mekân Portreleri İçin Doğal Işık Kullanımı</title><link href="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi" rel="alternate" type="text/html" title="Dış Mekân Portreleri İçin Doğal Işık Kullanımı" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi</id><content type="html" xml:base="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi"><![CDATA[<p>Dış mekân portrelerinde doğal ışık, fotoğrafın atmosferini belirleyen en güçlü unsurlardan biridir. Yapay ışıklara göre daha öngörülemez olsa da doğru tekniklerle kullanıldığında çok daha doğal, yumuşak ve estetik sonuçlar sağlar. Bu yazıda modeli doğru konumlandırmaktan sert ışığı yumuşatmaya, reflektör kullanımından pratik ipuçlarına kadar profesyonel düzeyde bir rehber bulacaksınız.</p>
+
+<h2 id="modeli-doğru-konumlandırma">Modeli Doğru Konumlandırma</h2>
+
+<p>Dış mekân portrelerinde ışığa göre konumlandırma, fotoğrafın kalitesini doğrudan etkiler. Aşağıdaki yöntemlerle ışığı en doğru şekilde yönlendirebilirsiniz.</p>
+
+<ol>
+  <li><strong>Işığı Yandan Verme</strong>: Modeli ışığın geldiği yöne göre 45 derecelik açıyla konumlandırmak, yüz hatlarını belirginleştirir ve portreyi daha üç boyutlu gösterir. Bu açı, yumuşak gölgeler oluşturarak doğal bir portre ortaya çıkarır.</li>
+  <li><strong>Arkadan Işık (Backlight) Kullanımı</strong>: Güneş modeli arkasından aydınlatırken saçlarda hoş bir parlama, fonda ise yumuşak bir parıltı oluşur. Ancak bu durumda yüz karanlık kalabileceği için reflektör veya dolgu ışığı gerekebilir.</li>
+  <li><strong>Tam Gölgede Çekim</strong>: Özellikle öğle saatlerinde sert güneş altında çekim yapmak yerine, modeli bina gölgesi, ağaç gölgesi veya saçak altı gibi yumuşak gölge alanlarına almak en net ve dengeli ışığı sağlar.</li>
+</ol>
+
+<h2 id="sert-işığı-yumuşatma-yöntemleri">Sert Işığı Yumuşatma Yöntemleri</h2>
+
+<p>Özellikle güneşin dik geldiği saatlerde ışık oldukça sert ve kontrastlıdır. Bu durumda yumuşatma teknikleri devreye girer.</p>
+
+<ol>
+  <li><strong>Difüzör Kullanımı</strong>: Profesyonel portre fotoğrafçılarının vazgeçilmezi olan difüzörler, güneş ışığını kırarak yumuşatır Kullanım önerileri:
+    <ul>
+      <li>Model ile güneş arasına konumlandırılmalıdır.</li>
+      <li>Beyaz ya da yarı şeffaf yüzeyler daha doğal sonuç verir.</li>
+      <li>Rüzgarlı havalarda sabitlemek için yardımcı gerekir.</li>
+    </ul>
+  </li>
+  <li><strong>Gölgeye Taşımak</strong>: Basit ama etkili bir yöntemdir. Sert ışık yerine yumuşak gölge alanlarına modelinizi çekerek yüz üzerindeki keskin kontrastları kaldırabilirsiniz.</li>
+  <li><strong>Güneşi Yana veya Arkaya Almak</strong>: Güneş tam karşıdan geldiğinde göz kısmaları artar ve yüz üzerinde sert gölgeler oluşur. Bunun yerine güneşi yan tarafa veya arka tarafa almak ışığın yoğunluğunu azaltır ve fotoğraf daha yumuşak olur.</li>
+</ol>
+
+<h2 id="reflektör-kullanarak-profesyonel-portreler-elde-etme">Reflektör Kullanarak Profesyonel Portreler Elde Etme</h2>
+
+<p>Reflektörler, doğal ışığın yönünü kontrol etmek için oldukça etkili araçlardır. Doğru reflektör rengi ve açısı portreyi profesyonel seviyeye taşır.</p>
+
+<ol>
+  <li><strong>Hangi Renk Reflektör Ne İşe Yarar?</strong>
+    <ul>
+      <li><strong>Beyaz Reflektör</strong>: En doğal ve yumuşak ışığı verir. Günün her saatinde idealdir.</li>
+      <li><strong>Gümüş Reflektör</strong>: Daha parlak ve kontrastlı ışık sağlar. Bulutlu havalarda etkisi yüksektir.</li>
+      <li><strong>Altın Reflektör</strong>: Sıcak tonlu bir ışık üretir. Özellikle gün batımı tonlarını güçlendirmek için tercih edilir.</li>
+      <li><strong>Siyah Panel</strong>: Işığı yansıtmak yerine gölgeleri derinleştirir. Yüz hatlarını belirginleştirmek için kullanılabilir.</li>
+    </ul>
+  </li>
+  <li><strong>Reflektör Açısı</strong>: Reflektörün yönü yüz üzerinde çok büyük fark yaratır.
+    <ul>
+      <li>Göz hizasından hafif aşağı gelen ışık portreyi doğal gösterir.</li>
+      <li>Çok alttan gelen ışık yapay ve istenmeyen gölgeler oluşturabilir.</li>
+      <li>Yan taraftan yakın bir mesafede tuttuğunuz reflektör, yüzün karanlık tarafını başarılı şekilde doldurur.</li>
+    </ul>
+  </li>
+  <li><strong>Yalnız Çalışanlar için Tripod veya Stand</strong>: Tek başınıza çekim yapıyorsanız reflektörü sabitlemek için bir C-stand veya tripod aparatı kullanabilirsiniz.</li>
+</ol>
+
+<h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
+
+<p>Doğal ışıkla dış mekân portrelerini daha profesyonel hale getirmenizi sağlayacak ek öneriler:</p>
+
+<ol>
+  <li><strong>Altın Saatleri Kullanın</strong>: Gün doğumu ve gün batımı arasındaki zaman dilimi, yumuşacık ve sıcak ışığıyla portre çekimi için en ideal zamandır.</li>
+  <li><strong>Arka Plan Seçimini Işığa Göre Yapın</strong>: Işık güzel olsa bile karmaşık bir arka plan portreyi zayıflatabilir. Arka planın renk ve ışık dengesini kontrol edin.</li>
+  <li><strong>Lens Gölgesine Dikkat</strong>: Güneş kamera lensine açıyla çarptığında parlamalar oluşabilir. Lens hood kullanmak çoğu zaman sorunu çözer.</li>
+  <li><strong>Spot Güneşi Sevenler İçin</strong>: Bazı fotoğrafçılar bilerek sert ışıkla dramatik portreler çeker. Bu durumda yüzün üzerinde oluşacak gölgeleri bilinçli kullanmak önemlidir. Burnun altındaki gölge, yanak çizgisi ve çene hattı belirgin olur.</li>
+</ol>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Doğal ışık, dış mekân portrelerinde en yaratıcı ve doğal sonuçları elde etmenin en güçlü aracıdır. Modeli doğru konumlandırarak, sert ışığı yumuşatarak ve reflektörlerle ışığı kontrol ederek profesyonel kalitede portreler çekebilirsiniz. Doğru teknikleri pratikle birleştirdikçe doğal ışığın sizin için ne kadar esnek bir araç olduğunu göreceksiniz.</p>]]></content><author><name></name></author><category term="ışık" /><category term="portre" /><summary type="html"><![CDATA[Model konumlandırma teknikleri, sert ışığı yumuşatma yöntemleri ve reflektör kullanarak profesyonel portreler elde etme ipuçları bu rehberde.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi</title><link href="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi" rel="alternate" type="text/html" title="Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi</id><content type="html" xml:base="http://localhost:4000/zaman-atlamali-time-lapse-cekim-icin-baslangic-rehberi"><![CDATA[<p>Zaman atlamalı (time-lapse) video tekniği, yavaş gerçekleşen süreçleri hızlandırarak etkileyici görsel hikâyelere dönüştürür. Gün doğumundan bulut hareketlerine, şehir trafiğinden çiçek açmasına kadar birçok sahne bu teknikle dramatik şekilde yakalanabilir. Bu rehberde, ekipman seçiminden çekim planlamasına ve post prodüksiyona kadar sağlam bir başlangıç için bilmen gereken tüm adımları bulabilirsin.</p>
 
 <h2 id="time-lapse-nedir">Time-Lapse Nedir?</h2>
 
@@ -108,71 +301,7 @@ Gün ışığında ND filtre kullanarak daha uzun pozlama süreleri elde edebili
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Time-lapse çekim, sabır gerektiren fakat bir o kadar da ödüllendirici bir fotoğraf ve video tekniğidir. Doğru ekipman, stabil ayarlar ve iyi planlamayla herkes etkileyici zaman atlamalı videolar üretebilir. Başlangıç seviyesinde küçük sahnelerle başlayıp deneyim kazandıkça daha uzun ve karmaşık projelere geçebilirsin.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dış Mekân Portreleri İçin Doğal Işık Kullanımı</title><link href="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi" rel="alternate" type="text/html" title="Dış Mekân Portreleri İçin Doğal Işık Kullanımı" /><published>2025-12-09T00:00:00+03:00</published><updated>2025-12-09T00:00:00+03:00</updated><id>http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi</id><content type="html" xml:base="http://localhost:4000/dis-mekan-portreleri-icin-dogal-isik-kullanimi"><![CDATA[<p>Dış mekân portrelerinde doğal ışık, fotoğrafın atmosferini belirleyen en güçlü unsurlardan biridir. Yapay ışıklara göre daha öngörülemez olsa da doğru tekniklerle kullanıldığında çok daha doğal, yumuşak ve estetik sonuçlar sağlar. Bu yazıda modeli doğru konumlandırmaktan sert ışığı yumuşatmaya, reflektör kullanımından pratik ipuçlarına kadar profesyonel düzeyde bir rehber bulacaksınız.</p>
-
-<h2 id="modeli-doğru-konumlandırma">Modeli Doğru Konumlandırma</h2>
-
-<p>Dış mekân portrelerinde ışığa göre konumlandırma, fotoğrafın kalitesini doğrudan etkiler. Aşağıdaki yöntemlerle ışığı en doğru şekilde yönlendirebilirsiniz.</p>
-
-<ol>
-  <li><strong>Işığı Yandan Verme</strong>: Modeli ışığın geldiği yöne göre 45 derecelik açıyla konumlandırmak, yüz hatlarını belirginleştirir ve portreyi daha üç boyutlu gösterir. Bu açı, yumuşak gölgeler oluşturarak doğal bir portre ortaya çıkarır.</li>
-  <li><strong>Arkadan Işık (Backlight) Kullanımı</strong>: Güneş modeli arkasından aydınlatırken saçlarda hoş bir parlama, fonda ise yumuşak bir parıltı oluşur. Ancak bu durumda yüz karanlık kalabileceği için reflektör veya dolgu ışığı gerekebilir.</li>
-  <li><strong>Tam Gölgede Çekim</strong>: Özellikle öğle saatlerinde sert güneş altında çekim yapmak yerine, modeli bina gölgesi, ağaç gölgesi veya saçak altı gibi yumuşak gölge alanlarına almak en net ve dengeli ışığı sağlar.</li>
-</ol>
-
-<h2 id="sert-işığı-yumuşatma-yöntemleri">Sert Işığı Yumuşatma Yöntemleri</h2>
-
-<p>Özellikle güneşin dik geldiği saatlerde ışık oldukça sert ve kontrastlıdır. Bu durumda yumuşatma teknikleri devreye girer.</p>
-
-<ol>
-  <li><strong>Difüzör Kullanımı</strong>: Profesyonel portre fotoğrafçılarının vazgeçilmezi olan difüzörler, güneş ışığını kırarak yumuşatır Kullanım önerileri:
-    <ul>
-      <li>Model ile güneş arasına konumlandırılmalıdır.</li>
-      <li>Beyaz ya da yarı şeffaf yüzeyler daha doğal sonuç verir.</li>
-      <li>Rüzgarlı havalarda sabitlemek için yardımcı gerekir.</li>
-    </ul>
-  </li>
-  <li><strong>Gölgeye Taşımak</strong>: Basit ama etkili bir yöntemdir. Sert ışık yerine yumuşak gölge alanlarına modelinizi çekerek yüz üzerindeki keskin kontrastları kaldırabilirsiniz.</li>
-  <li><strong>Güneşi Yana veya Arkaya Almak</strong>: Güneş tam karşıdan geldiğinde göz kısmaları artar ve yüz üzerinde sert gölgeler oluşur. Bunun yerine güneşi yan tarafa veya arka tarafa almak ışığın yoğunluğunu azaltır ve fotoğraf daha yumuşak olur.</li>
-</ol>
-
-<h2 id="reflektör-kullanarak-profesyonel-portreler-elde-etme">Reflektör Kullanarak Profesyonel Portreler Elde Etme</h2>
-
-<p>Reflektörler, doğal ışığın yönünü kontrol etmek için oldukça etkili araçlardır. Doğru reflektör rengi ve açısı portreyi profesyonel seviyeye taşır.</p>
-
-<ol>
-  <li><strong>Hangi Renk Reflektör Ne İşe Yarar?</strong>
-    <ul>
-      <li><strong>Beyaz Reflektör</strong>: En doğal ve yumuşak ışığı verir. Günün her saatinde idealdir.</li>
-      <li><strong>Gümüş Reflektör</strong>: Daha parlak ve kontrastlı ışık sağlar. Bulutlu havalarda etkisi yüksektir.</li>
-      <li><strong>Altın Reflektör</strong>: Sıcak tonlu bir ışık üretir. Özellikle gün batımı tonlarını güçlendirmek için tercih edilir.</li>
-      <li><strong>Siyah Panel</strong>: Işığı yansıtmak yerine gölgeleri derinleştirir. Yüz hatlarını belirginleştirmek için kullanılabilir.</li>
-    </ul>
-  </li>
-  <li><strong>Reflektör Açısı</strong>: Reflektörün yönü yüz üzerinde çok büyük fark yaratır.
-    <ul>
-      <li>Göz hizasından hafif aşağı gelen ışık portreyi doğal gösterir.</li>
-      <li>Çok alttan gelen ışık yapay ve istenmeyen gölgeler oluşturabilir.</li>
-      <li>Yan taraftan yakın bir mesafede tuttuğunuz reflektör, yüzün karanlık tarafını başarılı şekilde doldurur.</li>
-    </ul>
-  </li>
-  <li><strong>Yalnız Çalışanlar için Tripod veya Stand</strong>: Tek başınıza çekim yapıyorsanız reflektörü sabitlemek için bir C-stand veya tripod aparatı kullanabilirsiniz.</li>
-</ol>
-
-<h2 id="profesyonel-i̇puçları">Profesyonel İpuçları</h2>
-
-<p>Doğal ışıkla dış mekân portrelerini daha profesyonel hale getirmenizi sağlayacak ek öneriler:</p>
-
-<ol>
-  <li><strong>Altın Saatleri Kullanın</strong>: Gün doğumu ve gün batımı arasındaki zaman dilimi, yumuşacık ve sıcak ışığıyla portre çekimi için en ideal zamandır.</li>
-  <li><strong>Arka Plan Seçimini Işığa Göre Yapın</strong>: Işık güzel olsa bile karmaşık bir arka plan portreyi zayıflatabilir. Arka planın renk ve ışık dengesini kontrol edin.</li>
-  <li><strong>Lens Gölgesine Dikkat</strong>: Güneş kamera lensine açıyla çarptığında parlamalar oluşabilir. Lens hood kullanmak çoğu zaman sorunu çözer.</li>
-  <li><strong>Spot Güneşi Sevenler İçin</strong>: Bazı fotoğrafçılar bilerek sert ışıkla dramatik portreler çeker. Bu durumda yüzün üzerinde oluşacak gölgeleri bilinçli kullanmak önemlidir. Burnun altındaki gölge, yanak çizgisi ve çene hattı belirgin olur.</li>
-</ol>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Doğal ışık, dış mekân portrelerinde en yaratıcı ve doğal sonuçları elde etmenin en güçlü aracıdır. Modeli doğru konumlandırarak, sert ışığı yumuşatarak ve reflektörlerle ışığı kontrol ederek profesyonel kalitede portreler çekebilirsiniz. Doğru teknikleri pratikle birleştirdikçe doğal ışığın sizin için ne kadar esnek bir araç olduğunu göreceksiniz.</p>]]></content><author><name></name></author><category term="ışık" /><category term="portre" /><summary type="html"><![CDATA[Model konumlandırma teknikleri, sert ışığı yumuşatma yöntemleri ve reflektör kullanarak profesyonel portreler elde etme ipuçları bu rehberde.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/dis-mekan-portreleri-icin-dogal-isik-kullanimi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
+<p>Time-lapse çekim, sabır gerektiren fakat bir o kadar da ödüllendirici bir fotoğraf ve video tekniğidir. Doğru ekipman, stabil ayarlar ve iyi planlamayla herkes etkileyici zaman atlamalı videolar üretebilir. Başlangıç seviyesinde küçük sahnelerle başlayıp deneyim kazandıkça daha uzun ve karmaşık projelere geçebilirsin.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
 
 <h2 id="tripod-seçerken-i̇lk-adım-kullanım-amacını-belirlemek">Tripod Seçerken İlk Adım: Kullanım Amacını Belirlemek</h2>
 
@@ -1166,51 +1295,4 @@ Gün ışığında ND filtre kullanarak daha uzun pozlama süreleri elde edebili
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Ayna ile fotoğraf çekmek, sıradan kareleri sıra dışı hale getiren güçlü bir tekniktir. <em>Yansıma kullanımı</em>, fotoğrafa hem teknik hem de sanatsal açıdan değer katar. Bir dahaki çekiminizde yanınıza bir ayna alın ve farklı açılardan bakmayı deneyin - belki de en iyi kare, gerçek ile hayalin buluştuğu yerde sizi bekliyordur.</p>]]></content><author><name></name></author><category term="yansıma fotoğrafçılığı" /><summary type="html"><![CDATA[Bu yazıda, yansıma kullanımı ile yaratıcı illüzyonlar oluşturmanın yollarını, simetriyi ön plana çıkarmanın ipuçlarını ve farklı kompozisyon tekniklerini ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/08/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/08/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hikaye Anlatan Fotoğraf Serileri Nasıl Oluşturulur?</title><link href="http://localhost:4000/hikaye-anlatan-fotograf-serileri-nasil-olusturulur" rel="alternate" type="text/html" title="Hikaye Anlatan Fotoğraf Serileri Nasıl Oluşturulur?" /><published>2025-07-09T00:00:00+03:00</published><updated>2025-07-09T00:00:00+03:00</updated><id>http://localhost:4000/hikaye-anlatan-fotograf-serileri-nasil-olusturulur</id><content type="html" xml:base="http://localhost:4000/hikaye-anlatan-fotograf-serileri-nasil-olusturulur"><![CDATA[<p>Günümüzde fotoğrafçılık yalnızca estetik bir uğraş değil; aynı zamanda güçlü bir anlatım aracı. Bir kare bin kelimeye bedelse, bir fotoğraf serisi küçük bir roman gibidir. Hikaye anlatan fotoğraf serileri, izleyiciyi görsel bir yolculuğa çıkarır, duygular uyandırır ve anlatmak istediğiniz düşünceyi çok daha etkili şekilde aktarır. Peki, böyle bir seri nasıl oluşturulur?</p>
-
-<h2 id="1-anlatmak-i̇stediğiniz-hikayeyi-belirleyin">1. Anlatmak İstediğiniz Hikayeyi Belirleyin</h2>
-
-<p>Her şey bir fikirle başlar. Anlatmak istediğiniz hikaye ne? Bir yolculuk mu? Bir sokak sanatçısının hayatı mı? Bir semtin değişimi mi? Yoksa sadece bir duygunun görsel temsili mi?</p>
-
-<p><strong>İpucu</strong>: Kısa bir metinle ya da anahtar kelimelerle hikayenizin iskeletini kurun. “Yalnızlık”, “umut”, “göç”, “çocukluk”, “şehirde kaybolmak” gibi temalar size yol gösterebilir.</p>
-
-<h2 id="2-senaryo-gibi-planlayın">2. Senaryo Gibi Planlayın</h2>
-
-<p><strong>Fotoğraf serinizin bir akışı olmalı</strong>: Başlangıç, gelişme, sonuç. Her bir fotoğraf bu akış içinde bir görevi yerine getirmeli.</p>
-
-<p><strong>Soru sorun</strong>:</p>
-<ul>
-  <li>Bu fotoğraf serisine bir giriş yapacak kare hangisi?</li>
-  <li>Duygusal doruk noktası nerede?</li>
-  <li>Final karesi ne anlatmalı?</li>
-</ul>
-
-<h2 id="3-mekan-ve-işık-seçimi-atmosferi-kurmak">3. Mekan ve Işık Seçimi: Atmosferi Kurmak</h2>
-
-<p>Hikayenizi destekleyecek doğru mekânları ve saatleri seçin. Yumuşak sabah ışığı, sert öğle gölgeleri ya da gece lambası altındaki sessizlik… Her biri farklı bir duygu yaratır.</p>
-
-<p><strong>Örnek</strong>: Bir yalnızlık hikayesi anlatıyorsanız, boş banklar, tek başına yürüyen insanlar ya da gri bulutlar atmosferi destekleyebilir.</p>
-
-<h2 id="4-karakterleri-ve-anları-doğru-seçin">4. Karakterleri ve Anları Doğru Seçin</h2>
-
-<p>Eğer hikayeniz insan odaklıysa, karakterin ifadeleri, duruşu, kıyafetleri bile anlatının bir parçası olur. Doğal anlar genellikle kurgu olandan daha güçlü hisler taşır. Bu nedenle belgesel tarzda, spontane kareler yakalamak önemlidir.</p>
-
-<h2 id="5-ritim-ve-uyum-seriyi-kurgularken-dikkat-edin">5. Ritim ve Uyum: Seriyi Kurgularken Dikkat Edin</h2>
-
-<p>Çekimleri yaptıktan sonra en kritik adım: <em>Fotoğrafları sıralamak</em>.</p>
-
-<ul>
-  <li>Görsel çeşitlilik olmalı (yakın plan, geniş açı, detay kareleri).</li>
-  <li>Renk uyumu ya da kontrastı dikkatlice düşünülmeli.</li>
-  <li>Seriyi izleyen biri, nerede başladığını, nereye gittiğini ve nasıl bittiğini hissedebilmeli.</li>
-</ul>
-
-<h2 id="6-metin-ile-destekleyin-gerekirse">6. Metin ile Destekleyin (Gerekirse)</h2>
-
-<p>Bazı hikayeler açıklama ister. Her kareye kısa başlıklar, alıntılar veya küçük bir hikaye paragrafı eklemek, izleyicinin görsel dünyanıza daha kolay girmesini sağlar.</p>
-
-<h2 id="7-geri-bildirim-alın-ve-geliştirin">7. Geri Bildirim Alın ve Geliştirin</h2>
-
-<p>Fotoğraf serinizi tamamladıktan sonra bir süre ona bakmayı bırakın. Ardından yeniden gözden geçirin veya başkalarına gösterin. Aldığınız geri bildirimlerle seriyi yeniden düzenlemekten çekinmeyin.</p>
-
-<p>Hikaye anlatan bir fotoğraf serisi teknikten çok duyguya dayanır. Işık, kompozisyon ve kurgu önemli olsa da en önemlisi izleyicide bir bağ kurmaktır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Hikaye anlatan fotoğraf serileri, izleyiciyi görsel bir yolculuğa çıkarır, duygular uyandırır ve anlatmak istediğiniz düşünceyi çok daha etkili şekilde aktarır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/hikaye-anlatan-fotograf-serileri-nasil-olusturulur.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Ayna ile fotoğraf çekmek, sıradan kareleri sıra dışı hale getiren güçlü bir tekniktir. <em>Yansıma kullanımı</em>, fotoğrafa hem teknik hem de sanatsal açıdan değer katar. Bir dahaki çekiminizde yanınıza bir ayna alın ve farklı açılardan bakmayı deneyin - belki de en iyi kare, gerçek ile hayalin buluştuğu yerde sizi bekliyordur.</p>]]></content><author><name></name></author><category term="yansıma fotoğrafçılığı" /><summary type="html"><![CDATA[Bu yazıda, yansıma kullanımı ile yaratıcı illüzyonlar oluşturmanın yollarını, simetriyi ön plana çıkarmanın ipuçlarını ve farklı kompozisyon tekniklerini ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/08/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/08/ayna-ile-fotografcilik-yaratici-yansimalar-ve-perspektifler.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
