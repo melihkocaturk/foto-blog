@@ -16,5 +16,25 @@ layout: default
   {% if page.image %}
     <a href="{{ post.url }}"><img src="{{ page.image }}" class="img-fluid mb-4" alt="{{ page.title }}"></a>
   {% endif %}
+  
   {{ page.content }}
+
+  <div class="row mt-5">
+    {% if page.previous %}
+      <div class="col-md-6">
+        <a href="{{ page.previous.url | relative_url }}" class="text-black-50 text-decoration-none">
+          <b class="text-black">&laquo; Önceki</b><br>
+          {{ page.previous.title }}
+        </a>
+      </div>
+    {% endif %}
+    {% if page.next %}
+      <div class="col-md-6 text-end">
+        <a href="{{ page.next.url | relative_url }}" class="text-black-50 text-decoration-none">
+          <b class="text-black">Sonraki &raquo;</b><br>
+          {{ page.next.title }}
+        </a>
+      </div>
+    {% endif %}
+  </div>
 </article>
