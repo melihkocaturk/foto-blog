@@ -1,86 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-01-18T14:12:42+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">AI ile Fotoğraf Üretimi Fotoğrafçılığı Bitirecek mi?</title><link href="http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi" rel="alternate" type="text/html" title="AI ile Fotoğraf Üretimi Fotoğrafçılığı Bitirecek mi?" /><published>2026-01-18T00:00:00+03:00</published><updated>2026-01-18T00:00:00+03:00</updated><id>http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi</id><content type="html" xml:base="http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi"><![CDATA[<p>Son yıllarda yapay zekâ destekli görsel üretim araçları inanılmaz bir hızla gelişti. Tek bir metinle gerçekçi portreler, ürün fotoğrafları ve hatta sinematik sahneler oluşturmak artık mümkün. Bu gelişmeler, doğal olarak şu soruyu gündeme taşıyor: <strong>AI ile fotoğraf üretimi, fotoğrafçılığı tamamen bitirecek mi?</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-01-21T01:58:34+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Sosyal Medyada 2026 Fotoğraf Estetiği: Neden ‘Kusurlu’ Fotoğraflar Daha Çok Tutuyor?</title><link href="http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor" rel="alternate" type="text/html" title="Sosyal Medyada 2026 Fotoğraf Estetiği: Neden ‘Kusurlu’ Fotoğraflar Daha Çok Tutuyor?" /><published>2026-01-20T00:00:00+03:00</published><updated>2026-01-20T00:00:00+03:00</updated><id>http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor</id><content type="html" xml:base="http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor"><![CDATA[<p>Son yıllarda sosyal medya platformlarında fotoğraf estetiği köklü bir değişim geçiriyor. Bir zamanların kusursuz ışıklandırılmış, ağır filtreli ve profesyonel çekim hissi veren kareleri artık eskisi kadar ilgi görmüyor. 2026 itibarıyla kullanıcıların dikkatini çeken ve etkileşim alan içerikler; daha ham, daha doğal ve hatta teknik olarak “kusurlu” sayılabilecek fotoğraflar oluyor. Bu durum yalnızca geçici bir trend değil, dijital kültürde yaşanan daha büyük bir dönüşümün yansıması.</p>
 
-<p>Bu yazıda; yapay zekânın fotoğrafçılığı nasıl etkilediğini, hangi alanlarda tehdit oluşturduğunu ve neden fotoğrafçılığın tamamen yok olmayacağını detaylı şekilde ele alacağız.</p>
+<p>Bu yazıda, 2026 fotoğraf estetiğinin neden kusurlu görüntülere yöneldiğini, bunun arkasındaki psikolojik ve kültürel nedenleri ve bu estetiğin sosyal medyada nasıl etkili kullanılabileceğini detaylı şekilde ele alıyoruz.</p>
 
-<h2 id="ai-fotoğraf-üretimi-nedir">AI Fotoğraf Üretimi Nedir?</h2>
+<h2 id="kusurlu-fotoğraf-estetiği-nedir">Kusurlu Fotoğraf Estetiği Nedir?</h2>
 
-<p>AI fotoğraf üretimi; yapay zekânın, milyonlarca görseli analiz ederek yeni ve özgün görseller üretmesi sürecidir. Kullanıcı, yalnızca metinle ne istediğini tarif eder ve sistem buna uygun bir görüntü oluşturur.</p>
+<p>Kusurlu fotoğraf estetiği; geleneksel fotoğraf kurallarının bilinçli olarak esnetildiği, hatta zaman zaman tamamen göz ardı edildiği bir yaklaşımı ifade eder. Bu estetik anlayışında fotoğrafın “mükemmel” olması değil, “gerçek” olması önemlidir.</p>
 
-<p>Günümüzde bu alanda öne çıkan araçlar şunlardır:</p>
-
-<ul>
-  <li>DALL·E</li>
-  <li>Midjourney</li>
-  <li>Stable Diffusion</li>
-  <li>Adobe Firefly</li>
-</ul>
-
-<p>Bu araçlar, özellikle dijital içerik üretiminde ciddi bir dönüşüm yaratmış durumda.</p>
-
-<h2 id="yapay-zekâ-fotoğrafçılık-i̇çin-bir-tehdit-mi">Yapay Zekâ Fotoğrafçılık İçin Bir Tehdit mi?</h2>
-
-<p>Kısa cevap: <strong>Bazı alanlar için evet, tamamı için hayır.</strong></p>
-
-<h3 id="tehdit-altındaki-alanlar">Tehdit Altındaki Alanlar</h3>
-
-<p>AI görsel üretimi özellikle şu alanlarda fotoğrafçı ihtiyacını azaltıyor:</p>
+<p>Bu tarz fotoğraflarda sıkça şu unsurlar görülür:</p>
 
 <ul>
-  <li>Stok fotoğrafçılık</li>
-  <li>Basit ürün görselleri</li>
-  <li>Blog ve sosyal medya görselleri</li>
-  <li>Reklamlarda kullanılan konsept görseller</li>
+  <li>Hafif bulanıklık veya netlik kaybı</li>
+  <li>Doğal ve kontrolsüz ışık</li>
+  <li>Film grenleri ve parazitler</li>
+  <li>Asimetrik veya rastgele kompozisyonlar</li>
+  <li>Filtre kullanılmadan paylaşılan kareler</li>
 </ul>
 
-<p>Bir e-ticaret sitesi için “beyaz fonda kahve fincanı” gibi standart bir görsel, artık fotoğraf çekimine gerek kalmadan saniyeler içinde üretilebiliyor.</p>
+<p>Bu görüntüler izleyiciye planlanmış bir sahne yerine, anın içinden yakalanmış bir kesit hissi verir. Tam da bu nedenle daha samimi algılanır.</p>
 
-<h2 id="fotoğrafçılığı-bitiremeyeceği-alanlar">Fotoğrafçılığı Bitiremeyeceği Alanlar</h2>
+<h2 id="2026da-kusurlu-fotoğraflar-neden-daha-çok-tutuyor">2026’da Kusurlu Fotoğraflar Neden Daha Çok Tutuyor?</h2>
 
-<p>Yapay zekâ ne kadar gelişirse gelişsin, bazı alanlarda insan faktörünün yerini alması mümkün değil.</p>
+<h3 id="gerçeklik-ve-samimiyet-i̇htiyacı">Gerçeklik ve Samimiyet İhtiyacı</h3>
 
-<ol>
-  <li><strong>Düğün ve Etkinlik Fotoğrafçılığı</strong>: Gerçek anlar, duygular ve spontane anlar yapay zekâ ile üretilemez. AI, yaşanmış bir anı belgeleyemez.</li>
-  <li><strong>Belgesel ve Gazetecilik</strong>: Gerçeklik, etik ve doğruluk bu alanların temelidir. Yapay zekâ ile üretilmiş bir görsel, belgesel niteliği taşımaz.</li>
-  <li><strong>Sanatsal Fotoğrafçılık</strong>: Fotoğrafçının bakış açısı, yaşanmışlıkları ve anlatmak istediği hikâye; algoritmalarla birebir kopyalanamaz.</li>
-  <li><strong>Kişisel Marka ve Portre Çekimleri</strong>: İnsanlar hâlâ “gerçek kendilerini” yansıtan fotoğraflara ihtiyaç duyar. Özellikle iş dünyası ve kişisel markalaşmada bu fark çok önemlidir.</li>
-</ol>
+<p>Sosyal medya kullanıcıları yıllarca idealize edilmiş hayatlara, kusursuz bedenlere ve filtrelenmiş yüzlere maruz kaldı. Bu durum zamanla bir doygunluk yarattı. 2026’ya gelindiğinde kullanıcıların büyük bir bölümü artık kendine benzeyen, hataları olan ve gerçek hayata daha yakın içerikler görmek istiyor. Kusurlu fotoğraflar bu ihtiyaca doğrudan cevap veriyor.</p>
 
-<h2 id="yapay-zekâ-fotoğrafçıların-rakibi-mi-aracı-mı">Yapay Zekâ Fotoğrafçıların Rakibi mi, Aracı mı?</h2>
+<h3 id="algoritmaların-değişen-öncelikleri">Algoritmaların Değişen Öncelikleri</h3>
 
-<p>Aslında yapay zekâ, doğru kullanıldığında fotoğrafçılar için güçlü bir yardımcı araç olabilir.</p>
+<p>Başta <strong>Instagram</strong> olmak üzere pek çok platform, kullanıcıyı platformda daha uzun süre tutacak içerikleri öne çıkarmayı hedefliyor. Ham ve doğal fotoğraflar, “reklam gibi” görünmedikleri için daha fazla duraksama ve etkileşim yaratıyor. Bu da algoritmalar tarafından olumlu sinyal olarak algılanıyor.</p>
 
-<p>Fotoğrafçılar AI’yi şu alanlarda kullanabilir:</p>
+<h3 id="dijital-mükemmelliğe-karşı-tepki">Dijital Mükemmelliğe Karşı Tepki</h3>
 
-<ul>
-  <li>Konsept ve moodboard oluşturma</li>
-  <li>Arka plan üretimi</li>
-  <li>Post-prodüksiyon süreçlerini hızlandırma</li>
-  <li>Işık ve kompozisyon simülasyonları</li>
-</ul>
+<p>Her şeyin kusursuz göründüğü bir dijital dünyada, kusur dikkat çekici bir unsur haline geliyor. Hafif eğri bir kadraj ya da fazla karanlık bir ışık, izleyicinin gözünde fotoğrafı daha “insani” yapıyor. Bu da içeriğin akılda kalıcılığını artırıyor.</p>
 
-<p>Bu noktada kazananlar, AI’ye direnenler değil, onu işine entegre edenler olacaktır.</p>
+<h3 id="duygusal-bağ-ve-hikâye-anlatımı">Duygusal Bağ ve Hikâye Anlatımı</h3>
 
-<h2 id="gelecekte-fotoğrafçılığı-ne-bekliyor">Gelecekte Fotoğrafçılığı Ne Bekliyor?</h2>
+<p>Kusurlu fotoğraflar genellikle daha güçlü bir hikâye hissi taşır. Çünkü bu kareler poz verilmiş anlardan çok, yaşanmış anlara benzer. İzleyici bu tür fotoğrafları kendi deneyimleriyle daha kolay ilişkilendirir ve bu da duygusal bağ kurmayı kolaylaştırır.</p>
 
-<p>Önümüzdeki yıllarda şu gelişmeler daha sık görülecek:</p>
+<h2 id="kusurlu-estetiğin-psikolojik-arka-planı">Kusurlu Estetiğin Psikolojik Arka Planı</h2>
 
-<ul>
-  <li>AI destekli fotoğrafçı kavramı</li>
-  <li>Hibrit işler (gerçek çekim + AI üretim)</li>
-  <li>Yaratıcılığın teknik bilgiden daha değerli hale gelmesi</li>
-  <li>Düşük bütçeli işler için AI, yüksek bütçeli işler için insan fotoğrafçılar</li>
-</ul>
+<p>Psikolojik açıdan bakıldığında insanlar, kendilerine benzer olan şeylere daha fazla güvenir. Aşırı düzenlenmiş fotoğraflar bilinçaltında “pazarlama” hissi uyandırırken, kusurlu fotoğraflar daha az savunma mekanizmasını tetikler. Bu durum, özellikle kişisel hesaplar ve içerik üreticileri için etkileşim oranlarını doğrudan etkiler.</p>
 
-<p>Fotoğrafçılık yok olmaz, sadece evrim geçirir.</p>
+<p>Ayrıca kusurlu estetik, kontrolsüzlük hissi sayesinde daha özgür bir algı yaratır. İzleyici, içeriğin üretim sürecine değil, içerdiği duyguya odaklanır.</p>
 
-<h2 id="sonuç-fotoğrafçılık-bitmiyor-evriliyor">Sonuç: Fotoğrafçılık Bitmiyor, Evriliyor</h2>
+<h2 id="sosyal-medyada-kusurlu-fotoğraf-estetiği-nasıl-uygulanır">Sosyal Medyada Kusurlu Fotoğraf Estetiği Nasıl Uygulanır?</h2>
 
-<p>AI ile fotoğraf üretimi, fotoğrafçılığı tamamen bitirmeyecek. Ancak sektörü dönüştürdüğü çok net.<br />
-Teknik bilgiye dayalı, tekrarlayan işler azalırken; yaratıcılık, hikâye anlatımı ve insan dokunuşu daha da değerli hale geliyor.</p>
+<h3 id="doğal-işıktan-yararlan">Doğal Işıktan Yararlan</h3>
 
-<p>Eğer fotoğrafçıysan, şu soruyu kendine sormalısın: <strong>AI benden neyi alamaz ve ben bu farkı nasıl güçlendirebilirim?</strong></p>
+<p>Yapay ışıklar yerine gün ışığı, gölgeler ve ışık kırılmaları kullanmak fotoğrafa derinlik kazandırır. Işığın her zaman “doğru” olmasına gerek yoktur.</p>
 
-<p>Bu sorunun cevabını bulanlar, gelecekte de var olmaya devam edecek.</p>]]></content><author><name></name></author><category term="yapay zeka" /><summary type="html"><![CDATA[Bu yazıda; yapay zekânın fotoğrafçılığı nasıl etkilediğini, hangi alanlarda tehdit oluşturduğunu ve neden fotoğrafçılığın tamamen yok olmayacağını detaylı şekilde ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2026’da Popüler Fotoğraf Stil Trendleri: Gerçekçi mi, Sinematik mi?</title><link href="http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi" rel="alternate" type="text/html" title="2026’da Popüler Fotoğraf Stil Trendleri: Gerçekçi mi, Sinematik mi?" /><published>2026-01-18T00:00:00+03:00</published><updated>2026-01-18T00:00:00+03:00</updated><id>http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi</id><content type="html" xml:base="http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi"><![CDATA[<p>Fotoğraf sanatı her yıl evrim geçiriyor. Teknolojinin ilerlemesi, sosyal medya platformlarının talepleri, yapay zekâ destekli düzenleme araçları ve izleyici beklentileri fotoğraf stilini doğrudan etkiliyor. 2026 yılında iki ana yaklaşım öne çıkıyor: <strong>gerçekçi (realistic) fotoğrafçılık</strong> ve <strong>sinematik (cinematic) estetik</strong>.</p>
+<h3 id="anı-yakala-poz-verdirmeye-zorlama">Anı Yakala, Poz Verdirmeye Zorlama</h3>
+
+<p>Hareket halindeki anlar, gülüşler, yürüyüşler veya küçük detaylar kusurlu estetiğin temelini oluşturur. Fotoğrafın biraz bulanık olması sorun değil, hatta çoğu zaman avantajdır.</p>
+
+<h3 id="minimal-düzenleme-yap">Minimal Düzenleme Yap</h3>
+
+<p>Aşırı kontrast, keskinlik ve renk doygunluğu kusurlu estetiğin ruhuna aykırıdır. Düzenleme yaparken fotoğrafın doğal hatalarını tamamen yok etmeye çalışma.</p>
+
+<h3 id="analog-ve-film-hissi-veren-dokular-kullan">Analog ve Film Hissi Veren Dokular Kullan</h3>
+
+<p>Film grenleri, soluk renkler ve hafif renk kaymaları fotoğrafa nostaljik bir hava katar ve dijital soğukluğu kırar.</p>
+
+<h2 id="markalar-ve-i̇çerik-üreticiler-i̇çin-anlamı">Markalar ve İçerik Üreticiler İçin Anlamı</h2>
+
+<p>2026’ta kusurlu estetik, markalar için daha “insan” bir iletişim dili anlamına geliyor. Ürünü kusursuz göstermekten çok, ürünün gerçek hayattaki kullanım anlarını göstermek daha etkili hale geliyor. Bu yaklaşım, özellikle küçük markalar ve bireysel üreticiler için büyük bir avantaj sağlıyor.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>2026 fotoğraf estetiğinde kusurlu fotoğraflar bir moda akımı olmanın ötesine geçmiş durumda. Bu yaklaşım, dijital dünyada gerçeklik, samimiyet ve duygusal bağ arayışının bir yansıması. Kullanıcılar artık teknik mükemmellikten çok, kendilerinden bir parça bulabildikleri içeriklere değer veriyor.</p>
+
+<p>Sosyal medyada öne çıkmak isteyen herkes için mesaj net: Kusursuz olmaya çalışma, gerçek olmaya odaklan.</p>]]></content><author><name></name></author><category term="sosyal medya" /><summary type="html"><![CDATA[Bu yazıda, 2026 fotoğraf estetiğinin neden kusurlu görüntülere yöneldiğini, bunun arkasındaki psikolojik ve kültürel nedenleri ve bu estetiğin sosyal medyada nasıl etkili kullanılabileceğini detaylı şekilde ele alıyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/neden-kusurlu-fotograflar-daha-cok-tutuyor.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/neden-kusurlu-fotograflar-daha-cok-tutuyor.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2026’da Popüler Fotoğraf Stil Trendleri: Gerçekçi mi, Sinematik mi?</title><link href="http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi" rel="alternate" type="text/html" title="2026’da Popüler Fotoğraf Stil Trendleri: Gerçekçi mi, Sinematik mi?" /><published>2026-01-18T00:00:00+03:00</published><updated>2026-01-18T00:00:00+03:00</updated><id>http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi</id><content type="html" xml:base="http://localhost:4000/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi"><![CDATA[<p>Fotoğraf sanatı her yıl evrim geçiriyor. Teknolojinin ilerlemesi, sosyal medya platformlarının talepleri, yapay zekâ destekli düzenleme araçları ve izleyici beklentileri fotoğraf stilini doğrudan etkiliyor. 2026 yılında iki ana yaklaşım öne çıkıyor: <strong>gerçekçi (realistic) fotoğrafçılık</strong> ve <strong>sinematik (cinematic) estetik</strong>.</p>
 
 <p>Bu yazıda, 2026 fotoğraf trendlerini detaylı şekilde ele alarak şu soruya yanıt arıyoruz: Gerçekçi mi, sinematik mi?</p>
 
@@ -225,7 +213,89 @@ Teknik bilgiye dayalı, tekrarlayan işler azalırken; yaratıcılık, hikâye a
   <li>Doğal sahnelerin sinematik kurgulanması</li>
 </ul>
 
-<p>Sonuç olarak, 2026 fotoğrafçılığı bir stil seçmekten çok, doğru duyguyu doğru görselle anlatma sanatı hâline geliyor.</p>]]></content><author><name></name></author><category term="sinematik fotoğrafçılık" /><summary type="html"><![CDATA[Bu yazıda, 2026 fotoğraf trendlerini detaylı şekilde ele alarak şu soruya yanıt arıyoruz: Gerçekçi mi, sinematik mi?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Preset ve Filtre Satışı ile Fotoğrafçılar Nasıl Pasif Gelir Elde Ediyor?</title><link href="http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor" rel="alternate" type="text/html" title="Preset ve Filtre Satışı ile Fotoğrafçılar Nasıl Pasif Gelir Elde Ediyor?" /><published>2026-01-16T00:00:00+03:00</published><updated>2026-01-16T00:00:00+03:00</updated><id>http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor</id><content type="html" xml:base="http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor"><![CDATA[<p>Fotoğrafçılık artık yalnızca çekim yaparak gelir elde edilen bir alan değil. Dijital ürünlerin yükselişiyle birlikte fotoğrafçılar, bilgi birikimlerini ve estetik anlayışlarını pasif gelire dönüştürebiliyor. Bu dönüşümün merkezinde preset ve filtre satışları yer alıyor. Peki preset ve filtre nedir, nasıl satılır ve neden bu kadar etkili bir pasif gelir modelidir?</p>
+<p>Sonuç olarak, 2026 fotoğrafçılığı bir stil seçmekten çok, doğru duyguyu doğru görselle anlatma sanatı hâline geliyor.</p>]]></content><author><name></name></author><category term="sinematik fotoğrafçılık" /><summary type="html"><![CDATA[Bu yazıda, 2026 fotoğraf trendlerini detaylı şekilde ele alarak şu soruya yanıt arıyoruz: Gerçekçi mi, sinematik mi?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/2026-da-populer-fotograf-stil-trendleri-gercekci-mi-sinematik-mi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI ile Fotoğraf Üretimi Fotoğrafçılığı Bitirecek mi?</title><link href="http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi" rel="alternate" type="text/html" title="AI ile Fotoğraf Üretimi Fotoğrafçılığı Bitirecek mi?" /><published>2026-01-18T00:00:00+03:00</published><updated>2026-01-18T00:00:00+03:00</updated><id>http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi</id><content type="html" xml:base="http://localhost:4000/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi"><![CDATA[<p>Son yıllarda yapay zekâ destekli görsel üretim araçları inanılmaz bir hızla gelişti. Tek bir metinle gerçekçi portreler, ürün fotoğrafları ve hatta sinematik sahneler oluşturmak artık mümkün. Bu gelişmeler, doğal olarak şu soruyu gündeme taşıyor: <strong>AI ile fotoğraf üretimi, fotoğrafçılığı tamamen bitirecek mi?</strong></p>
+
+<p>Bu yazıda; yapay zekânın fotoğrafçılığı nasıl etkilediğini, hangi alanlarda tehdit oluşturduğunu ve neden fotoğrafçılığın tamamen yok olmayacağını detaylı şekilde ele alacağız.</p>
+
+<h2 id="ai-fotoğraf-üretimi-nedir">AI Fotoğraf Üretimi Nedir?</h2>
+
+<p>AI fotoğraf üretimi; yapay zekânın, milyonlarca görseli analiz ederek yeni ve özgün görseller üretmesi sürecidir. Kullanıcı, yalnızca metinle ne istediğini tarif eder ve sistem buna uygun bir görüntü oluşturur.</p>
+
+<p>Günümüzde bu alanda öne çıkan araçlar şunlardır:</p>
+
+<ul>
+  <li>DALL·E</li>
+  <li>Midjourney</li>
+  <li>Stable Diffusion</li>
+  <li>Adobe Firefly</li>
+</ul>
+
+<p>Bu araçlar, özellikle dijital içerik üretiminde ciddi bir dönüşüm yaratmış durumda.</p>
+
+<h2 id="yapay-zekâ-fotoğrafçılık-i̇çin-bir-tehdit-mi">Yapay Zekâ Fotoğrafçılık İçin Bir Tehdit mi?</h2>
+
+<p>Kısa cevap: <strong>Bazı alanlar için evet, tamamı için hayır.</strong></p>
+
+<h3 id="tehdit-altındaki-alanlar">Tehdit Altındaki Alanlar</h3>
+
+<p>AI görsel üretimi özellikle şu alanlarda fotoğrafçı ihtiyacını azaltıyor:</p>
+
+<ul>
+  <li>Stok fotoğrafçılık</li>
+  <li>Basit ürün görselleri</li>
+  <li>Blog ve sosyal medya görselleri</li>
+  <li>Reklamlarda kullanılan konsept görseller</li>
+</ul>
+
+<p>Bir e-ticaret sitesi için “beyaz fonda kahve fincanı” gibi standart bir görsel, artık fotoğraf çekimine gerek kalmadan saniyeler içinde üretilebiliyor.</p>
+
+<h2 id="fotoğrafçılığı-bitiremeyeceği-alanlar">Fotoğrafçılığı Bitiremeyeceği Alanlar</h2>
+
+<p>Yapay zekâ ne kadar gelişirse gelişsin, bazı alanlarda insan faktörünün yerini alması mümkün değil.</p>
+
+<ol>
+  <li><strong>Düğün ve Etkinlik Fotoğrafçılığı</strong>: Gerçek anlar, duygular ve spontane anlar yapay zekâ ile üretilemez. AI, yaşanmış bir anı belgeleyemez.</li>
+  <li><strong>Belgesel ve Gazetecilik</strong>: Gerçeklik, etik ve doğruluk bu alanların temelidir. Yapay zekâ ile üretilmiş bir görsel, belgesel niteliği taşımaz.</li>
+  <li><strong>Sanatsal Fotoğrafçılık</strong>: Fotoğrafçının bakış açısı, yaşanmışlıkları ve anlatmak istediği hikâye; algoritmalarla birebir kopyalanamaz.</li>
+  <li><strong>Kişisel Marka ve Portre Çekimleri</strong>: İnsanlar hâlâ “gerçek kendilerini” yansıtan fotoğraflara ihtiyaç duyar. Özellikle iş dünyası ve kişisel markalaşmada bu fark çok önemlidir.</li>
+</ol>
+
+<h2 id="yapay-zekâ-fotoğrafçıların-rakibi-mi-aracı-mı">Yapay Zekâ Fotoğrafçıların Rakibi mi, Aracı mı?</h2>
+
+<p>Aslında yapay zekâ, doğru kullanıldığında fotoğrafçılar için güçlü bir yardımcı araç olabilir.</p>
+
+<p>Fotoğrafçılar AI’yi şu alanlarda kullanabilir:</p>
+
+<ul>
+  <li>Konsept ve moodboard oluşturma</li>
+  <li>Arka plan üretimi</li>
+  <li>Post-prodüksiyon süreçlerini hızlandırma</li>
+  <li>Işık ve kompozisyon simülasyonları</li>
+</ul>
+
+<p>Bu noktada kazananlar, AI’ye direnenler değil, onu işine entegre edenler olacaktır.</p>
+
+<h2 id="gelecekte-fotoğrafçılığı-ne-bekliyor">Gelecekte Fotoğrafçılığı Ne Bekliyor?</h2>
+
+<p>Önümüzdeki yıllarda şu gelişmeler daha sık görülecek:</p>
+
+<ul>
+  <li>AI destekli fotoğrafçı kavramı</li>
+  <li>Hibrit işler (gerçek çekim + AI üretim)</li>
+  <li>Yaratıcılığın teknik bilgiden daha değerli hale gelmesi</li>
+  <li>Düşük bütçeli işler için AI, yüksek bütçeli işler için insan fotoğrafçılar</li>
+</ul>
+
+<p>Fotoğrafçılık yok olmaz, sadece evrim geçirir.</p>
+
+<h2 id="sonuç-fotoğrafçılık-bitmiyor-evriliyor">Sonuç: Fotoğrafçılık Bitmiyor, Evriliyor</h2>
+
+<p>AI ile fotoğraf üretimi, fotoğrafçılığı tamamen bitirmeyecek. Ancak sektörü dönüştürdüğü çok net.<br />
+Teknik bilgiye dayalı, tekrarlayan işler azalırken; yaratıcılık, hikâye anlatımı ve insan dokunuşu daha da değerli hale geliyor.</p>
+
+<p>Eğer fotoğrafçıysan, şu soruyu kendine sormalısın: <strong>AI benden neyi alamaz ve ben bu farkı nasıl güçlendirebilirim?</strong></p>
+
+<p>Bu sorunun cevabını bulanlar, gelecekte de var olmaya devam edecek.</p>]]></content><author><name></name></author><category term="yapay zeka" /><summary type="html"><![CDATA[Bu yazıda; yapay zekânın fotoğrafçılığı nasıl etkilediğini, hangi alanlarda tehdit oluşturduğunu ve neden fotoğrafçılığın tamamen yok olmayacağını detaylı şekilde ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/ai-ile-fotograf-uretimi-fotografciligi-bitirecek-mi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Preset ve Filtre Satışı ile Fotoğrafçılar Nasıl Pasif Gelir Elde Ediyor?</title><link href="http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor" rel="alternate" type="text/html" title="Preset ve Filtre Satışı ile Fotoğrafçılar Nasıl Pasif Gelir Elde Ediyor?" /><published>2026-01-16T00:00:00+03:00</published><updated>2026-01-16T00:00:00+03:00</updated><id>http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor</id><content type="html" xml:base="http://localhost:4000/preset-ve-filtre-satisi-ile-fotografcilar-nasil-pasif-gelir-elde-ediyor"><![CDATA[<p>Fotoğrafçılık artık yalnızca çekim yaparak gelir elde edilen bir alan değil. Dijital ürünlerin yükselişiyle birlikte fotoğrafçılar, bilgi birikimlerini ve estetik anlayışlarını pasif gelire dönüştürebiliyor. Bu dönüşümün merkezinde preset ve filtre satışları yer alıyor. Peki preset ve filtre nedir, nasıl satılır ve neden bu kadar etkili bir pasif gelir modelidir?</p>
 
 <h2 id="preset-ve-filtre-nedir">Preset ve Filtre Nedir?</h2>
 
@@ -1032,253 +1102,4 @@ Gün ışığında ND filtre kullanarak daha uzun pozlama süreleri elde edebili
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Time-lapse çekim, sabır gerektiren fakat bir o kadar da ödüllendirici bir fotoğraf ve video tekniğidir. Doğru ekipman, stabil ayarlar ve iyi planlamayla herkes etkileyici zaman atlamalı videolar üretebilir. Başlangıç seviyesinde küçük sahnelerle başlayıp deneyim kazandıkça daha uzun ve karmaşık projelere geçebilirsin.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?</title><link href="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik" rel="alternate" type="text/html" title="Tripod Seçim Rehberi: Hangi Malzeme, Hangi Yükseklik, Hangi Başlık?" /><published>2025-12-02T00:00:00+03:00</published><updated>2025-12-02T00:00:00+03:00</updated><id>http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik</id><content type="html" xml:base="http://localhost:4000/tripod-secim-rehberi-hangi-malzeme-hangi-yukseklik-hangi-baslik"><![CDATA[<p>Fotoğrafçılığın en kritik ekipmanlarından biri tripoddur. Uzun pozlamadan manzara çekimine, ürün fotoğrafçılığından videoya kadar pek çok alanda netlik ve stabilite sağlar. Ancak tripod seçimi göründüğü kadar basit değildir. Malzeme yapısı, taşıma kapasitesi, maksimum yükseklik, bacak kilitleme sistemi ve tripod başlığı gibi birçok değişken fotoğraf deneyimini doğrudan etkiler. Bu rehberde ihtiyaçlarınıza en uygun tripod modelini seçebilmeniz için tüm detayları ele alıyoruz.</p>
-
-<h2 id="tripod-seçerken-i̇lk-adım-kullanım-amacını-belirlemek">Tripod Seçerken İlk Adım: Kullanım Amacını Belirlemek</h2>
-
-<p>Tripod seçiminde “En iyi tripod hangisidir?” sorusunun tek bir doğru cevabı yoktur. En doğru tripod, kullanım amacınıza en uygun olan modeldir.</p>
-
-<h3 id="manzara-fotoğrafçılığı-i̇çin">Manzara Fotoğrafçılığı İçin</h3>
-
-<ul>
-  <li>Rüzgâra dayanıklı, güçlü gövde</li>
-  <li>Yüksek taşıma kapasitesi</li>
-  <li>Orta-sütun çıkarılabilir veya ters çevrilebilir yapıda olmalı</li>
-  <li>Maksimum stabilite sağlayan kauçuk veya çivili ayak uçları</li>
-</ul>
-
-<h3 id="seyahat-travel-fotoğrafçılığı-i̇çin">Seyahat (Travel) Fotoğrafçılığı İçin</h3>
-
-<ul>
-  <li>Hafif ve kompakt</li>
-  <li>Katlandığında çantaya veya sırt çantasına sığacak kadar küçük</li>
-  <li>Karbon fiber tercih edilebilir</li>
-  <li>Bacakların içe doğru katlanabildiği modeller avantaj sağlar</li>
-</ul>
-
-<h3 id="video-çekimleri-i̇çin">Video Çekimleri İçin</h3>
-
-<ul>
-  <li>Fluid head (akışkan başlık) şarttır</li>
-  <li>Yüksek taşıma kapasitesi</li>
-  <li>Çok yönlü pan–tilt hareketleri</li>
-  <li>Titreşim emici bacak yapısı</li>
-</ul>
-
-<h3 id="stüdyo-ve-ürün-fotoğrafçılığı-i̇çin">Stüdyo ve Ürün Fotoğrafçılığı İçin</h3>
-
-<ul>
-  <li>Ağırlık sorun değil, sağlamlık öncelik</li>
-  <li>Orta sütunla birlikte hassas yükseklik ayarı</li>
-  <li>Çok yönlü hareket kabiliyeti sunan kafa seçimi</li>
-</ul>
-
-<h2 id="tripod-malzemeleri-alüminyum-mu-karbon-fiber-mi">Tripod Malzemeleri: Alüminyum mu, Karbon Fiber mi?</h2>
-
-<p>Tripod seçimindeki en kritik karar malzeme seçimidir. İki ana seçenek vardır: alüminyum ve karbon fiber.</p>
-
-<h3 id="alüminyum-tripodlar">Alüminyum Tripodlar</h3>
-
-<p><strong>Avantajları</strong></p>
-
-<ul>
-  <li>Daha ekonomik</li>
-  <li>Dayanıklı</li>
-  <li>Mikro titreşimleri nispeten iyi emer</li>
-</ul>
-
-<p><strong>Dezavantajları</strong></p>
-
-<ul>
-  <li>Karbon fibere göre daha ağır</li>
-  <li>Soğuk havalarda ele daha soğuk hissiyat verir</li>
-</ul>
-
-<p><strong>Kimler İçin Uygun?</strong></p>
-
-<p>Bütçesi kısıtlı olan, stüdyo veya yakın çevre çekimlerinde kullanacak fotoğrafçılar için ideal.</p>
-
-<h3 id="karbon-fiber-tripodlar">Karbon Fiber Tripodlar</h3>
-
-<p><strong>Avantajları</strong></p>
-
-<ul>
-  <li>Çok daha hafif</li>
-  <li>Daha yüksek titreşim sönümleme</li>
-  <li>Seyahat ve doğa fotoğrafçılığı için en ideal malzeme</li>
-  <li>Paslanmaya karşı daha dirençli</li>
-</ul>
-
-<p><strong>Dezavantajları</strong></p>
-<ul>
-  <li>Daha pahalı</li>
-</ul>
-
-<p><strong>Kimler İçin Uygun?</strong></p>
-
-<p>Sık seyahat eden, uzun yürüyüş yapan, ağırlığın önemli olduğu outdoor fotoğrafçılar için en iyi tercih.</p>
-
-<h2 id="tripod-yükseklik-seçimi-hangi-boy-daha-doğru">Tripod Yükseklik Seçimi: Hangi Boy Daha Doğru?</h2>
-
-<p>Tripodun yüksekliği kullanımdaki konforu ve stabiliteyi doğrudan etkiler.</p>
-
-<h3 id="minimum-yükseklik">Minimum Yükseklik</h3>
-
-<ul>
-  <li>Makro fotoğrafçılık yapanlar için çok kritik</li>
-  <li>Orta sütunun çıkarılabildiği veya ters takılabildiği tripodlar büyük avantaj sağlar</li>
-</ul>
-
-<h3 id="maksimum-yükseklik">Maksimum Yükseklik</h3>
-
-<p>Tripod seçerken, maksimum yüksekliğin kendi boyunuza yakın olmasına dikkat etmelisiniz. Kamera gözü hizanıza geldiğinde, uzun çekimlerde eğilmek zorunda kalmazsınız.</p>
-
-<p><strong>Genel öneri</strong>: Boyunuz + kamera yüksekliği ≈ tripod maksimum yüksekliği</p>
-
-<h3 id="katlanmış-uzunluk">Katlanmış Uzunluk</h3>
-
-<p>Seyahat edenler için en önemli kriterlerden biri katlanmış uzunluktur.</p>
-
-<ul>
-  <li>30–45 cm: Üst düzey taşınabilirlik</li>
-  <li>45–55 cm: Standart tripod ölçüleri</li>
-</ul>
-
-<h2 id="bacak-yapısı-segment-sayısı-ve-kilitleme-mekanizması">Bacak Yapısı, Segment Sayısı ve Kilitleme Mekanizması</h2>
-
-<p>Tripodun stabilitesi büyük ölçüde bacak yapısına bağlıdır.</p>
-
-<h3 id="segment-sayısı">Segment Sayısı</h3>
-
-<p>Bacaklar genelde 3 veya 4 segmentlidir.</p>
-
-<ul>
-  <li>3 segment: Daha stabil</li>
-  <li>4 segment: Daha kompakt (seyahat için ideal)</li>
-</ul>
-
-<h3 id="kilitleme-mekanizması">Kilitleme Mekanizması</h3>
-
-<p>İki ana sistem vardır:</p>
-
-<p><strong>Twist-lock (çevirmeli kilit)</strong></p>
-
-<ul>
-  <li>Daha hızlı açılır</li>
-  <li>Daha sessiz</li>
-  <li>Seyahat tripodlarında çok tercih edilir</li>
-</ul>
-
-<p><strong>Lever-lock (mandallı kilit)</strong></p>
-
-<ul>
-  <li>Daha güçlü kilit hissi</li>
-  <li>Eldivenle kullanım kolaylığı</li>
-  <li>Profesyonel video tripodlarında sık tercih edilir</li>
-</ul>
-
-<h2 id="tripod-başlık-tipleri-ball-head-mi-fluid-head-mi">Tripod Başlık Tipleri: Ball Head mi, Fluid Head mi?</h2>
-
-<p>Tripod başlığı çekim tarzınızı doğrudan etkiler. Yanlış seçilen bir başlık, ne kadar iyi tripod alırsanız alın performansı düşürür.</p>
-
-<h3 id="ball-head-top-kafa">Ball Head (Top Kafa)</h3>
-
-<p><strong>Özellikleri</strong></p>
-
-<ul>
-  <li>Tek bir düğme ile tüm yönlerde hareket</li>
-  <li>Kompakt ve hafif</li>
-  <li>Fotoğrafçılık için en çok tercih edilen kafa tipi</li>
-</ul>
-
-<p><strong>En uygun kullanım alanları</strong></p>
-
-<ul>
-  <li>Manzara</li>
-  <li>Uzun pozlama</li>
-  <li>Seyahat fotoğrafçılığı</li>
-  <li>Portre</li>
-</ul>
-
-<h3 id="fluid-head-video-başlığı">Fluid Head (Video Başlığı)</h3>
-
-<p><strong>Özellikleri</strong></p>
-
-<ul>
-  <li>Akışkan hareket</li>
-  <li>Pan–tilt kontrolü</li>
-  <li>Video için olmazsa olmaz</li>
-</ul>
-
-<p><strong>En uygun kullanım alanları</strong></p>
-
-<ul>
-  <li>Video çekimleri</li>
-  <li>YouTube içerikleri</li>
-  <li>Belgesel</li>
-</ul>
-
-<h3 id="3-way-head-3-yönlü-pan-tilt-başlık">3-Way Head (3 yönlü pan-tilt başlık)</h3>
-
-<p><strong>Özellikleri</strong></p>
-
-<ul>
-  <li>Her eksen ayrı kontrol edilir</li>
-  <li>Hassas kadrajlama imkanı</li>
-  <li>Biraz daha büyük yapıdadır</li>
-</ul>
-
-<p><strong>En uygun kullanım alanları</strong></p>
-
-<ul>
-  <li>Ürün fotoğrafçılığı</li>
-  <li>Mimari çekimler</li>
-  <li>Stüdyo kullanımı</li>
-</ul>
-
-<h2 id="taşıma-kapasitesi-tripodun-kaldırabileceği-maksimum-yük">Taşıma Kapasitesi: Tripodun Kaldırabileceği Maksimum Yük</h2>
-
-<p>Tripod seçerken belirtilen taşıma kapasitesi önemlidir fakat her zaman gerçek kullanım değerini yansıtmayabilir.</p>
-
-<p><strong>Genel kural</strong>: Kamera ve lens toplam ağırlığınızın 2 katı taşıma kapasitesine sahip bir tripod seçin.</p>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>Kamera + lens toplam ağırlığı: 2 kg</li>
-  <li>Önerilen tripod kapasitesi: En az 4 kg</li>
-</ul>
-
-<h2 id="orta-sütun-center-column-kullanımı">Orta Sütun (Center Column) Kullanımı</h2>
-
-<p>Orta sütun, tripodun yüksekliğini artırmak için tasarlanmıştır; ancak tamamen yukarı kaldırmak stabiliteyi azaltır.</p>
-
-<p><strong>Öneri</strong>: Maksimum yükseklik ayarını orta sütuna yüklenmeden sağlayan tripodlar daha stabil ve profesyoneldir.</p>
-
-<h2 id="ayak-uçları-kauçuk-mu-çivili-mi">Ayak Uçları: Kauçuk mu, Çivili mi?</h2>
-
-<p>Doğa fotoğrafçıları için çivili ayak uçları büyük avantaj sağlar.</p>
-
-<ul>
-  <li><strong>Kauçuk ayak uçları</strong>: Kapalı mekan, düz zemin</li>
-  <li><strong>Çivili ayak uçları</strong>: Toprak, kar, çimen, kaygan zemin</li>
-</ul>
-
-<p>Bazı tripodlar iki uç tipiyle birlikte gelir.</p>
-
-<h2 id="tripod-seçimi-i̇çin-son-öneriler">Tripod Seçimi İçin Son Öneriler</h2>
-
-<ul>
-  <li>Seyahat ediyorsanız karbon fiber tercih edin.</li>
-  <li>Video çekiyorsanız fluid head seçmek zorunludur.</li>
-  <li>Manzara fotoğrafçılığında stabilite ağırlıktan daha önemlidir.</li>
-  <li>Tripodu maksimum yükseklikte değil, orta seviyelerde kullanmak en iyi performansı sağlar.</li>
-  <li>Segment sayısı arttıkça portatiflik artar, stabilite azalır.</li>
-  <li>Taşıma kapasitesini mutlaka göz önünde bulundurun.</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Tripod, fotoğrafçılık ekipmanları arasında en uzun süre kullanılan ve performansı direkt etkileyen araçlardan biridir. Uygun tripod seçimi, çekimlerinizde netlik, keskinlik ve profesyonellik sağlar. Bu rehberde malzeme türleri, yükseklik seçenekleri, başlık tipleri ve mekanik detaylara kadar tripod seçiminde bilmeniz gereken tüm kriterleri ele aldık.</p>
-
-<p>İhtiyaçlarınıza uygun modeli seçerek hem daha keyifli hem de daha kaliteli çekimler gerçekleştirebilirsiniz.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bu yazıda, tripod seçerken malzeme, yükseklik, başlık tipi ve taşıma kapasitesi gibi kritik kriterleri açıklayan kapsamlı bir rehber sunuyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/tripod-secim-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Time-lapse çekim, sabır gerektiren fakat bir o kadar da ödüllendirici bir fotoğraf ve video tekniğidir. Doğru ekipman, stabil ayarlar ve iyi planlamayla herkes etkileyici zaman atlamalı videolar üretebilir. Başlangıç seviyesinde küçük sahnelerle başlayıp deneyim kazandıkça daha uzun ve karmaşık projelere geçebilirsin.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
