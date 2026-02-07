@@ -421,6 +421,14 @@
 <lastmod>2026-01-25T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2026nin-en-iyi-yapay-zeka-fotograf-duzenleme-uygulamalari</loc>
+<lastmod>2026-02-07T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/kisisel-marka-olusturan-fotografcilar-neyi-farkli-yapiyor</loc>
+<lastmod>2026-02-07T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ara</loc>
 </url>
 <url>
@@ -491,5 +499,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/sayfa21/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sayfa22/</loc>
 </url>
 </urlset>
