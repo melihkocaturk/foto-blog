@@ -21,8 +21,8 @@
   </nav>
 </header>
 
-{% if page.layout == "default" %}
-  <div class="py-5 hero">
-    {{ site.description }}
+{% if site.top_banner == true %}
+  <div class="py-3 hero text-center">
+    {% include banner.html %}
   </div>
 {% endif %}

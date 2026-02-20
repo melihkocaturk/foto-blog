@@ -19,6 +19,9 @@ social:
 # Google Analytics
 google_analytics: G-V5Z4GH826N
 
+# Ads
+top_banner: true
+
 # Plugins
 plugins:
   - jekyll-paginate
