@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dijital ve Analog Fotoğrafçılık: Hangi Seçim Size Daha Uygun?"
-description: "Bu yazıda, her iki yöntemi inceleyerek sizin için en uygun olanı bulmanıza yardımcı olacağız."
+description: "Dijital ve analog fotoğrafçılık arasındaki farkları keşfedin; kalite, maliyet ve kullanım açısından hangi seçeneğin fotoğraf tarzınıza daha uygun olduğunu öğrenin."
 image: images/2024/12/dijital-ve-analog-fotografcilik.jpg
 tags: [dijital fotoğrafçılık, analog fotoğrafçılık]
 ---

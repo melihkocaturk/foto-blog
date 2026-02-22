@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğraf Makinesinde Poz Ölçümü Nasıl Yapılır?"
-description: "Poz ölçümü nasıl yapılır ve hangi modlar kullanılır?"
+description: "Fotoğraf makinesinde poz ölçümü nasıl yapılır? Doğru pozlama için ışık ölçüm modlarını, pozometre kullanımını ve enstantane-diyafram-ISO ayarlarını adım adım öğrenin."
 image: images/2025/01/fotograf-makinesinde-poz-olcumu-nasil-yapilir.jpg
 tags: [pozlama]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mobil Fotoğrafçılık için En İyi İpuçları ve Teknikler"
-description: "Daha iyi fotoğraflar çekmek için detaylı ipuçları ve teknikler."
+description: "Mobil fotoğrafçılıkta kaliteyi artırmak için pratik ipuçları ve tekniklerle daha net, etkileyici ve profesyonel görünümlü kareler çekmenin yollarını keşfedin."
 image: images/2025/01/mobil-fotografcilik-icin-en-iyi-ipuclari-ve-teknikler.jpg
 tags: [mobil fotoğrafçılık]
 ---

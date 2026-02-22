@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafta Kırmızı Renk: Gücün ve Tutkunun Yansıması"
-description: "Kırmızı, tutkunun, enerjinin, tehlikenin, aşkın ve öfkenin rengi olarak bilinir."
+description: "Kırmızı, tutkunun, enerjinin, tehlikenin, aşkın ve öfkenin rengi olarak bilinir. Bu nedenle fotoğraf karesinde kırmızının yer alması, izleyici üzerinde güçlü bir etki yaratabilir."
 image: images/2024/10/fotografta-kirmizi-renk.jpg
 tags: [renk, kompozisyon]
 ---

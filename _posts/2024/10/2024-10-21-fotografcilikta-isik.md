@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafçılıkta Işığın Gücü: Mükemmel Kareyi Yaratmanın Anahtarı"
-description: "Doğru ışığı yakalamak, bir fotoğrafı sıradanlıktan çıkararak sanata dönüştürür."
+description: "Doğru ışığı yakalamak, bir fotoğrafı sıradanlıktan çıkararak sanata dönüştürür. Peki, ışık neden bu kadar önemli ve nasıl etkili kullanılabilir?"
 image: images/2024/10/fotografcilikta-isik.jpg
 tags: [ışık, altın saat, mavi saat, kompozisyon]
 ---

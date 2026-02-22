@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analog Fotoğrafçılığa Yeni Başlayanlar İçin Kapsamlı Rehber"
-description: "Analog fotoğrafçılığa adım atmak istiyorsanız, bu rehber size temel bilgileri sunacaktır."
+description: "Film fotoğraf makineleriyle analog fotoğrafçılığa adım atın. Doğru film seçimi, temel ayarlar ve pratik ipuçlarıyla nostaljik ve etkileyici kareler çekmenin yollarını öğrenin."
 image: images/2025/02/analog-fotografciliga-yeni-baslayanlar-icin-kapsamli-rehber.jpg
 tags: [analog fotoğrafçılık]
 ---

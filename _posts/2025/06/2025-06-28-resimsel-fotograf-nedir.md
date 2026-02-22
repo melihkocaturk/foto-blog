@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resimsel Fotoğraf Nedir?"
-description: "Bu yazımızda tüm detaylarıyla resimsel fotoğrafçılığı ele alıyoruz."
+description: "Resimsel fotoğraf nedir? Resimsel fotoğrafçılığın temel özelliklerini, sanatsal yaklaşımını ve bu tarzın fotoğraf dünyasındaki yerini sade ve anlaşılır şekilde öğrenin."
 image: images/2025/06/resimsel-fotograf-nedir.jpg
 tags: [resimsel fotoğrafçılık]
 ---

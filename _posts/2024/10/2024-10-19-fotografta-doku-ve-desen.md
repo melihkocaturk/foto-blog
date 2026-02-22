@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafta Doku ve Desen: Görsel Bir Hikaye"
-description: "Mavi saat nedir ve fotoğrafçılıkta neden bu kadar değerlidir?"
+description: "Bu yazıda, doku ve desenlerin fotoğrafçılıkta nasıl kullanılabileceğini inceleyeceğiz."
 image: images/2024/10/doku-ve-desen.jpg
 tags: [doku, desen, kompozisyon]
 ---

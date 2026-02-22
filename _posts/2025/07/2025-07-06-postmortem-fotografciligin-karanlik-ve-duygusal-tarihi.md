@@ -3,7 +3,7 @@ layout: post
 title: "Postmortem Fotoğrafçılığın Karanlık ve Duygusal Tarihi"
 description: "Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız."
 image: images/2025/07/postmortem-fotografciligin-karanlik-ve-duygusal-tarihi.jpg
-tags: []
+tags: [fotoğrafçılık]
 ---
 
 Bugün bize tuhaf, hatta rahatsız edici gelebilecek bir gelenek, 19. yüzyılda oldukça yaygındı: **ölülerin fotoğraflarını çekmek**. Bu uygulamaya “postmortem fotoğrafçılık” denir. Peki insanlar neden ölü yakınlarının fotoğraflarını çektiriyordu? Bu geleneğin arkasında sadece bir ürperti değil, derin bir insanlık ve yas kültürü yatıyor. Bu yazıda postmortem fotoğrafçılığın tarihine, kültürel boyutlarına ve sanatsal yönlerine yakından bakacağız.

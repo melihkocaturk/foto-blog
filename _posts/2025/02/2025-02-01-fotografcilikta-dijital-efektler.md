@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafçılıkta Dijital Efektler: Sanatsal Dokunuşlar ve Teknikler"
-description: "Fotoğrafçılıkta dijital efektler nasıl kullanılır ve hangi teknikler öne çıkar?"
+description: "Fotoğrafçılıkta dijital efektler nedir, nasıl uygulanır? Renk tonlama, HDR, çift pozlama ve yapay zekâ destekli düzenleme teknikleriyle fotoğraflarınızı nasıl daha etkileyici hale getireceğinizi keşfedin."
 image: images/2025/02/fotografcilikta-dijital-efektler.jpg
 tags: [dijital fotoğrafçılık]
 ---
