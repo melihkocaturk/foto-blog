@@ -3,7 +3,7 @@ layout: post
 title: "Rim Light Tekniği ile Konularınızı Vurgulayın"
 description: "Fotoğrafta dramatik bir etki yaratmak ve nesnenizi arka planından ayrıştırmak istiyorsanız, Rim Light tekniği tam size göre!"
 image: images/2025/03/rim-light-teknigi-ile-konularinizi-vurgulayin.jpg
-tags: []
+tags: [çekim tekniği]
 ---
 
 Fotoğrafta dramatik bir etki yaratmak ve nesnenizi arka planından ayrıştırmak istiyorsanız, **Rim Light** tekniği tam size göre! Bu teknik, nesnenin arkasına yerleştirilen bir ışık kaynağıyla siluet veya parlak bir kontur oluşturarak görsel ilgiyi arttırmanıza olanak tanır. Peki, rim light nedir ve arka ışıkla portre fotoğrafçılığında nasıl kullanılır? Gelin birlikte inceleyelim.

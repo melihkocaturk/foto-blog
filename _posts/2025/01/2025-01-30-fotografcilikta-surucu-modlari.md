@@ -3,7 +3,7 @@ layout: post
 title: "Fotoğrafçılıkta Sürücü Modları: Çekim Deneyiminizi Geliştirin"
 description: "Bu yazıda, sürücü modlarının ne olduğunu, farklı çekim senaryolarında nasıl kullanılması gerektiğini ve en iyi sonuçları almak için ipuçlarını inceleyeceğiz."
 image: images/2025/01/fotografcilikta-surucu-modlari.jpg
-tags: []
+tags: [fotoğraf makinesi, fotoğrafçılık]
 ---
 
 Fotoğrafçılıkta sürücü modları, deklanşöre bastığınızda makinenizin nasıl tepki vereceğini belirleyen önemli bir ayardır. Doğru sürücü modunu seçmek, çekim yaptığınız sahneye göre fotoğraf kalitenizi artırabilir ve çekim sürecinizi daha verimli hale getirebilir. Bu yazıda, sürücü modlarının ne olduğunu, farklı çekim senaryolarında nasıl kullanılması gerektiğini ve en iyi sonuçları almak için ipuçlarını inceleyeceğiz.

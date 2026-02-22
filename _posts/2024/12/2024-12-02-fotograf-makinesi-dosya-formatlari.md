@@ -2,9 +2,8 @@
 layout: post
 title: "Fotoğraf Makinesi Dosya Formatları: Hangisini, Neden Tercih Etmelisiniz?"
 description: "Bu yazıda, bu formatların özelliklerini, avantajlarını ve dezavantajlarını inceleyerek doğru tercihi yapmanız için rehber sunacağız."
-date: 2024-12-02
 image: images/2024/12/fotograf-makinesi-dosya-formatlari.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Modern fotoğraf makineleri, farklı ihtiyaçlara uygun çeşitli dosya formatlarını destekler. Bu yazıda, bu formatların özelliklerini, avantajlarını ve dezavantajlarını inceleyerek doğru tercihi yapmanız için rehber sunacağız.

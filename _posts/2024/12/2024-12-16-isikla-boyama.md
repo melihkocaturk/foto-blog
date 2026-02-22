@@ -2,7 +2,6 @@
 layout: post
 title: "Işıkla Boyama: Fotoğraflarınıza Sanat Katın"
 description: "Bu yazıda, işıkla boyama tekniğinin temel prensiplerini, farklı yaklaşımları ve dikkat edilmesi gereken noktaları detaylıca inceleyeceğiz."
-date: 2024-12-16
 image: images/2024/12/isikla-boyama.jpg
 tags: [gece fotoğrafçılığı]
 ---

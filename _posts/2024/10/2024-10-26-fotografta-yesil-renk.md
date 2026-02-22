@@ -2,7 +2,6 @@
 layout: post
 title: "Yeşil Renk: Doğanın Ruhunu Fotoğraflara Yansıtmak"
 description: "Fotoğrafçılıkta yeşil renk, manzaraların derinliğini artıran, sahnelere hayat katan bir öğe olarak öne çıkar."
-date: 2024-10-26
 image: images/2024/10/fotografta-yesil-renk.jpg
 tags: [renk, kompozisyon]
 ---

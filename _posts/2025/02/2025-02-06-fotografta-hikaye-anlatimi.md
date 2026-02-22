@@ -3,7 +3,7 @@ layout: post
 title: "Fotoğrafta Hikaye Anlatımı: Görsellerle Duygu ve Anlam Yaratmak"
 description: "Bu yazıda, fotoğrafta hikaye anlatımını güçlendirmenin yollarını paylaşıyoruz."
 image: images/2025/02/fotografta-hikaye-anlatimi.jpg
-tags: []
+tags: [çekim tekniği]
 ---
 
 Fotoğraf, yalnızca bir anı dondurmak değil, aynı zamanda bir hikaye anlatmanın da güçlü bir yoludur. Anlamlı ve etkileyici kareler oluşturmak, izleyiciyle duygusal bir bağ kurmak için bazı teknikleri ve yaklaşımları bilmek önemlidir. Peki, fotoğrafta hikaye anlatımı nasıl güçlendirilir? İşte etkili görseller oluşturmanın yolları:

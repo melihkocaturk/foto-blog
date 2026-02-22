@@ -2,7 +2,6 @@
 layout: post
 title: "Evde Ürün Fotoğrafçılığı için Düşük Bütçeli Çözümler"
 description: "Bu yazıda, düşük bütçeli çözümlerle evde harika ürün fotoğrafı nasıl çekebileceğinizi anlatıyoruz."
-date: 2024-12-29
 image: images/2024/12/evde-urun-fotografciligi-icin-dusuk-butceli-cozumler.jpg
 tags: [ürün fotoğrafçılığı]
 ---

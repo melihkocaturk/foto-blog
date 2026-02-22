@@ -2,7 +2,6 @@
 layout: post
 title: "Yapay Zeka ile Fotoğraf Düzenleme: Geleceğin Sanatı Bugün"
 description: "Yapay zeka fotoğraf düzenleme sürecinde neler sunuyor?"
-date: 2024-12-28
 image: images/2024/12/yapay-zeka-ile-fotograf-duzenleme.jpg
 tags: [yapay zeka]
 ---

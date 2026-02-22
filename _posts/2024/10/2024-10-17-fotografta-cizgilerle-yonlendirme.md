@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Çizgilerle Yönlendirme: Kompozisyonun Gücü"
 description: "Çizgiler, kompozisyonda doğru kullanıldığında izleyicinin gözünü fotoğrafta gezdirerek bir hikaye anlatır."
-date: 2024-10-17
 image: images/2024/10/fotografta-cizgilerle-yonlendirme.jpg
 tags: [çizgiler, kompozisyon]
 ---

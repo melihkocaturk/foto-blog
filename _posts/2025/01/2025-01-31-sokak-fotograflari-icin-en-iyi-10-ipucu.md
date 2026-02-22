@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sokak Fotoğrafları İçin En İyi 10 İpucu"
-description: "Bu yazıda, sokak fotoğrafçılığınızı geliştirmenize yardımcı olacak 10 ipucunu paylaşıyoruz."
+description: "Sokak fotoğrafları çekmek için en iyi 10 ipucu! Doğru anı yakalama, kompozisyon, ışık kullanımı ve pratik tekniklerle sokak fotoğrafçılığınızı geliştirin."
 image: images/2025/01/sokak-fotograflari-icin-en-iyi-10-ipucu.jpg
 tags: [sokak foroğrafçılığı]
 ---

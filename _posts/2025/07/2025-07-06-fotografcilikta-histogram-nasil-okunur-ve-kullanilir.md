@@ -3,7 +3,7 @@ layout: post
 title: "Fotoğrafçılıkta Histogram Nasıl Okunur ve Kullanılır?"
 description: "Bu yazıda, histogram nedir, nasıl okunur ve fotoğraflarınızı iyileştirmek için nasıl kullanılır adım adım öğreneceksiniz."
 image: images/2025/07/fotografcilikta-histogram-nasil-okunur-ve-kullanilir.jpg
-tags: []
+tags: [dijital fotoğrafçılık]
 ---
 
 Fotoğrafçılıkla ilgileniyorsanız, çektiğiniz fotoğrafların doğru pozlandığından emin olmanın en güvenilir yollarından biri histogram kullanmaktır. Ancak birçok fotoğrafçı histogramın sunduğu bilgileri ya göz ardı eder ya da nasıl yorumlayacağını tam olarak bilmez. Bu yazıda, histogram nedir, nasıl okunur ve fotoğraflarınızı iyileştirmek için nasıl kullanılır adım adım öğreneceksiniz.

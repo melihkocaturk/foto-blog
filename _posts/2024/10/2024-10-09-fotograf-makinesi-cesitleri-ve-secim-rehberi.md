@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğraf Makinesi Çeşitleri ve Seçim Rehberi"
 description: "Fotoğraf makinesi çeşitleri hakkında detaylı bir inceleme ve seçim yaparken dikkat etmeniz gerekenler."
-date: 2024-10-09
 image: images/2024/10/fotograf-makinesi-cesitleri.jpg
 tags: [dslr, aynasız, orta format, polaroid]
 ---

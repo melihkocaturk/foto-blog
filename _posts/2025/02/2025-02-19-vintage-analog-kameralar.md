@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vintage Analog Kameralar: Tarihi Modeller ve Kullanım Önerileri"
-description: "Bu yazıda, tarihe damga vurmuş bazı analog kamera modellerini inceleyeceğiz."
+description: "Vintage analog kameralar nedir? Leica, Nikon, Canon ve Pentax gibi efsane modelleri, ikinci el alım ipuçlarını ve analog fotoğrafçılığın büyüsünü keşfedin."
 image: images/2025/02/vintage-analog-kameralar.jpg
 tags: [analog fotoğrafçılık]
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Diyaframın Sırrı: Işığı ve Alan Derinliğini Nasıl Kontrol Edersiniz?"
 description: "Bu yazıda, diyaframın nasıl çalıştığını, fotoğraflarınıza nasıl etki ettiğini ve alan derinliği ile ışık dengesini nasıl optimize edebileceğinizi öğreneceksiniz."
-date: 2024-10-14
 image: images/2024/10/diyafram.jpg
 tags: [diyafram, alan derinliği, pozlama üçgeni]
 ---

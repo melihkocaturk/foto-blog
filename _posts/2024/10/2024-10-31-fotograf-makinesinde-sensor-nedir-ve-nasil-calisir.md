@@ -2,9 +2,8 @@
 layout: post
 title: "Fotoğraf Makinesinde Sensör Nedir ve Nasıl Çalışır?"
 description: "Bu yazıda, sensörün ne olduğunu, nasıl çalıştığını ve farklı sensör türlerinin fotoğraflar üzerindeki etkilerini ele alacağız."
-date: 2024-10-31
 image: images/2024/10/fotograf-makinesinde-sensor-nedir.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Fotoğrafçılıkla ilgilenen herkes, kameranın en temel bileşenlerinden biri olan "sensör" terimini mutlaka duymuştur. Dijital fotoğraf makinelerinin en önemli parçası olan sensör, aslında dijital dünyada fotoğrafın "gözüdür." Bu yazıda, sensörün ne olduğunu, nasıl çalıştığını ve farklı sensör türlerinin fotoğraflar üzerindeki etkilerini ele alacağız.

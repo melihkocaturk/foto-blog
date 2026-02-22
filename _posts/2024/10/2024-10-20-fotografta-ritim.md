@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Ritim: Görsel Dünyanın Müziksel Dokusu"
 description: "Bu yazıda, ritmin fotoğraftaki rolünü ve nasıl etkili bir şekilde kullanılabileceğini inceleyeceğiz."
-date: 2024-10-20
 image: images/2024/10/fotografta-ritim.jpg
 tags: [ritim, kompozisyon]
 ---

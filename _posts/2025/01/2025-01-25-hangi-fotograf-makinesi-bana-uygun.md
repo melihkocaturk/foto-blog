@@ -3,7 +3,7 @@ layout: post
 title: "Hangi Fotoğraf Makinesi Bana Uygun? Başlangıç ve Orta Seviye Karşılaştırması"
 description: "Bu yazıda, başlangıç ve orta seviyeye uygun fotoğraf makinelerini karşılaştırarak, ihtiyacınıza en uygun seçimi yapmanıza yardımcı olacağız."
 image: images/2025/01/hangi-fotograf-makinesi-bana-uygun.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Fotoğrafçılığa adım atmaya karar verdiyseniz ya da deneyiminizi bir üst seviyeye taşımak istiyorsanız, doğru fotoğraf makinesi seçimi oldukça önemlidir. Ancak, piyasada o kadar çok seçenek var ki hangi modeli seçeceğinize karar vermek kafa karıştırıcı olabilir. Bu yazıda, başlangıç ve orta seviyeye uygun fotoğraf makinelerini karşılaştırarak, ihtiyacınıza en uygun seçimi yapmanıza yardımcı olacağız.

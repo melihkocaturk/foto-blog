@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Sarı Renk: Canlılığın ve Enerjinin Temsilcisi"
 description: "Sarı renk, fotoğrafçılıkta canlılık, neşe, enerji ve sıcaklığın en güçlü temsilcilerinden biridir."
-date: 2024-10-22
 image: images/2024/10/fotografta-sari-renk.jpg
 tags: [renk, kompozisyon]
 ---

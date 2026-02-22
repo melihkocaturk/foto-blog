@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fotoğrafın Gizli Dili: EXIF Verileri ile Çekimlerinizi Geliştirin"
-description: "EXIF verilerinin detayları ve nasıl kullanılabileceği hakkında bilmeniz gerekenler."
-date: 2024-10-30
+description: "EXIF verileri nedir ve nasıl kullanılır? Fotoğraf çekim ayarlarınızı analiz ederek hataları görmeyi ve çekim kalitenizi artırmayı öğrenin."
 image: images/2024/10/exif-verileri-ile-cekimlerinizi-gelistirin.jpg
-tags: [exif]
+tags: [exif, dijital fotoğrafçılık]
 ---
 
 Fotoğrafçılıkla ilgilenenler için, EXIF (Exchangeable Image File Format) verileri oldukça kıymetli bir bilgi kaynağıdır. Her bir dijital fotoğraf dosyasında bulunan EXIF verileri, fotoğraf çekildiğinde kullanılan ayarları ve cihaz bilgilerini içerir. Fotoğrafçının deklanşöre bastığı anda cihazın topladığı bu veriler, hem fotoğraf çekim sürecini daha iyi anlamamıza yardımcı olur hem de daha iyi fotoğraflar çekmek için bir referans sağlar. İşte EXIF verilerinin detayları ve nasıl kullanılabileceği hakkında bilmeniz gerekenler.

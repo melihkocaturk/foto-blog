@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Pozlama Üçgeni: Temel Bir Kılavuz"
 description: "Pozlama üçgeni, ışığın doğru bir şekilde algılanması ve fotoğrafın istenilen parlaklıkta olması için üç temel unsura odaklanır: diyafram, enstantane hızı ve ISO."
-date: 2024-10-12
 image: images/2024/10/pozlama-ucgeni.jpeg
 tags: [diyafram, enstantane, iso]
 ---

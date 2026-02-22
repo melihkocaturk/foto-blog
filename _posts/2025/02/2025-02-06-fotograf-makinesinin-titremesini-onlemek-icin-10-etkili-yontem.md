@@ -3,7 +3,7 @@ layout: post
 title: "Fotoğraf Makinesinin Titremesini Önlemek İçin 10 Etkili Yöntem"
 description: "Bu yazıda, fotoğraf makinesinin titremesini önlemek için neler yapabileceğinizi paylaşıyoruz."
 image: images/2025/02/fotograf-makinesinin-titremesini-onlemek.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Fotoğraf çekerken karşılaşılan en büyük sorunlardan biri, makinenin titremesi sonucu oluşan bulanıklık ve netlik kaybıdır. Özellikle düşük ışık koşullarında veya uzun pozlamalarda bu sorun daha da belirgin hale gelir. Fotoğrafçılığa yeni başlayanlar ve profesyoneller için bu sorunu minimize etmek oldukça önemlidir. Peki, fotoğraf makinesinin titremesini önlemek için neler yapabilirsiniz? İşte en etkili yöntemler:

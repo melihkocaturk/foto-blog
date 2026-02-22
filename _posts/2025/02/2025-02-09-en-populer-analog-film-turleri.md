@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "En Popüler Analog Film Türleri ve Karakteristikleri"
-description: "Bu yazıda, en popüler analog film türlerini ve özelliklerini ele alacağız."
+description: "En popüler analog film türleri hangileri? Kodak, Fujifilm ve Ilford filmlerinin özelliklerini ve hangi çekimler için uygun olduklarını keşfedin."
 image: images/2025/02/en-populer-analog-film-turleri.jpg
 tags: [analog fotoğrafçılık]
 ---

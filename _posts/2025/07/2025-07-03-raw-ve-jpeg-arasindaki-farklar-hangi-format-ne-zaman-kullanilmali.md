@@ -3,7 +3,7 @@ layout: post
 title: "RAW ve JPEG Arasındaki Farklar: Hangi Format Ne Zaman Kullanılmalı?"
 description: "Bu yazıda, RAW ve JPEG formatlarını detaylı bir şekilde inceleyip, hangi durumlarda hangisinin tercih edilmesi gerektiğini anlatacağız."
 image: images/2025/07/raw-ve-jpeg-arasindaki-farklar.jpg
-tags: []
+tags: [dijital fotoğrafçılık]
 ---
 
 Fotoğrafçılıkla ilgilenmeye başlayan çoğu kişinin aklındaki ilk sorulardan biri şudur: RAW mı çekmeliyim, JPEG mi? Her iki formatın da avantajları ve dezavantajları vardır. Bu yazıda, RAW ve JPEG formatlarını detaylı bir şekilde inceleyip, hangi durumlarda hangisinin tercih edilmesi gerektiğini anlatacağız.

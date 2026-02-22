@@ -2,7 +2,6 @@
 layout: post
 title: "Enstantane Nedir? Fotoğrafçılıkta Enstantane Kullanımı ve İpuçları"
 description: "Enstantane, hareketi yakalamak ya da dondurmak için fotoğraf makinenizin obtüratör hızını ayarlamanıza olanak tanır."
-date: 2024-10-14
 image: images/2024/10/enstantane-oncelikli-mod.jpg
 tags: [enstantane, pozlama üçgeni]
 ---

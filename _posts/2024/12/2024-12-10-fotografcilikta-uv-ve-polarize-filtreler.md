@@ -2,9 +2,8 @@
 layout: post
 title: "Fotoğrafçılıkta UV ve Polarize Filtreler: Ne İşe Yarar ve Farkları Nelerdir?"
 description: "UV ve Polarize filtreler ne işe yarar? Hangi durumlarda hangisini kullanmalıyız?"
-date: 2024-12-10
 image: images/2024/12/fotografcilikta-uv-ve-polarize-filtreler.jpg
-tags: []
+tags: [fotoğrafçılık, filtre]
 ---
 
 Fotoğrafçılık, doğru ışık yönetimiyle mükemmelleşen bir sanat. Lens filtreleri, bu süreçte fotoğrafçıların en önemli yardımcılarından biridir. Özellikle UV ve polarize filtreler, hem teknik avantajları hem de yaratıcı kullanımlarıyla dikkat çeker. Peki, bu iki filtre ne işe yarar? Hangi durumlarda hangisini kullanmalıyız? Gelin, detaylara birlikte bakalım.

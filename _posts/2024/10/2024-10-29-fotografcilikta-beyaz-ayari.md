@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Beyaz Ayarı: Doğru Renkler İçin İpuçları ve Teknikler"
 description: "Beyaz ayarı tam olarak nedir, nasıl yapılır ve hangi durumlarda nasıl kullanılır?"
-date: 2024-10-29
 image: images/2024/10/fotografcilikta-beyaz-ayari.jpg
 tags: [beyaz ayarı, renk sıcaklığı]
 ---

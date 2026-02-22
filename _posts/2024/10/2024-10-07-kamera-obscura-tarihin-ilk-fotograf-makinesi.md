@@ -2,7 +2,6 @@
 layout: post
 title: "Kamera Obscura: Tarihin İlk Fotoğraf Makinesi"
 description: "Latince'de karanlık oda anlamına gelen Kamera Obscura, ışığın bir delikten geçerek karşı duvara ters bir görüntü yansıtması prensibine dayanır."
-date: 2024-10-07
 image: images/2024/10/kamera-obscura.jpeg
 tags: [kamera obscura]
 ---

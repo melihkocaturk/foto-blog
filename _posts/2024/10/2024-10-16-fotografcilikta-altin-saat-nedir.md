@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Altın Saat Nedir? Işığın Büyüsüyle En İyi Fotoğrafları Yakalamak"
 description: "Altın saat, güneşin doğuşundan hemen sonraki ve batışından hemen önceki zaman dilimini tanımlamak için kullanılır."
-date: 2024-10-16
 image: images/2024/10/altin-saat.jpg
 tags: [altın saat, kompozisyon]
 ---

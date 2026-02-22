@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fotoğrafta Sanat Akımları: Geçmişten Günümüze Yolculuk"
-description: "Bu yazıda, fotoğrafta sanat akımlarının tarihine kısa bir yolculuk yapıyoruz."
-date: 2024-12-24
+description: "Fotoğrafta sanat akımları nelerdir? Piktoryalizmden modern yaklaşımlara uzanan akımları, özelliklerini ve fotoğraf sanatına etkilerini keşfedin."
 image: images/2024/12/fotografta-sanat-akimlari.jpg
-tags: []
+tags: [sanat]
 ---
 
 Fotoğraflar sadece birer görsel bellek aracı değil, aynı zamanda sanatın dinamik bir yansımasıdır. Sanat akımları, fotoğrafların hem çekim tekniklerinde hem de ifade şekillerinde kendini göstermiş, zaman içinde bu disipline benzersiz bir karakter kazandırmıştır. Gelin, fotoğrafta sanat akımlarının tarihine kısa bir yolculuk yapalım ve bu akımların içeriklerini daha detaylı bir şekilde inceleyelim.

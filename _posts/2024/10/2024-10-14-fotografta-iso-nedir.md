@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafta ISO Nedir? ISO Ayarları Hakkında Bilmeniz Gereken Her Şey"
-description: "Bu yazıda, ISO'nun ne olduğunu ve fotoğrafçılığınıza nasıl etki edeceğini adım adım açıklayacağım."
-date: 2024-10-14
+description: "Fotoğrafta ISO nedir ve ne işe yarar? ISO değerlerinin fotoğrafın parlaklığına, grenine ve çekim kalitesine etkisini örneklerle öğrenin."
 image: images/2024/10/iso.jpg
 tags: [iso, pozlama üçgeni]
 ---

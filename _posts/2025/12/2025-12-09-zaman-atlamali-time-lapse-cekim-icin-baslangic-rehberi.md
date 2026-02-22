@@ -3,7 +3,7 @@ layout: post
 title: "Zaman Atlamalı (Time-Lapse) Çekim İçin Başlangıç Rehberi"
 description: "Time-lapse çekimine başlamak için ihtiyaç duyulan ekipman, kamera ayarları, çekim aralıkları ve post prodüksiyon adımlarının anlatıldığı kapsamlı başlangıç rehberi."
 image: images/2025/12/time-lapse-cekim-icin-baslangic-rehberi.jpg
-tags: []
+tags: [çekim tekniği]
 ---
 
 Zaman atlamalı (time-lapse) video tekniği, yavaş gerçekleşen süreçleri hızlandırarak etkileyici görsel hikâyelere dönüştürür. Gün doğumundan bulut hareketlerine, şehir trafiğinden çiçek açmasına kadar birçok sahne bu teknikle dramatik şekilde yakalanabilir. Bu rehberde, ekipman seçiminden çekim planlamasına ve post prodüksiyona kadar sağlam bir başlangıç için bilmen gereken tüm adımları bulabilirsin.

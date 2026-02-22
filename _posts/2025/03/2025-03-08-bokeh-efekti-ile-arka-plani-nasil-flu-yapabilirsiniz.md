@@ -3,7 +3,7 @@ layout: post
 title: "Bokeh Efekti ile Arka Planı Nasıl Flu Yapabilirsiniz?"
 description: "Bu yazıda, mükemmel bokeh efektini elde etmenin yollarını paylaşıyoruz."
 image: images/2025/03/bokeh-efekti-ile-arka-plani-nasil-flu-yapabilirsiniz.jpg
-tags: []
+tags: [çekim tekniği]
 ---
 
 Fotoğrafçılıkta arka planı bulanıklaştırarak ana konuyu öne çıkarmanın en popüler yöntemlerinden biri bokeh efektidir. Peki, "bokeh efekti nasıl yapılır?" ve "flu arka plan fotoğrafçılığı" için hangi teknikleri kullanmalısınız? İşte diyafram ayarları, lens seçimi ve ışık kullanımıyla mükemmel bokeh efektini elde etmenin yolları.

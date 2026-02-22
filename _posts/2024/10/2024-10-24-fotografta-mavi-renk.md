@@ -2,7 +2,6 @@
 layout: post
 title: "Mavi Renk: Fotoğraf Dünyasında Derin Bir Yolculuk"
 description: "Bu yazıda, mavi rengin fotoğraftaki yeri, anlamı ve nasıl etkili bir şekilde kullanılabileceği üzerine bazı ipuçları paylaşacağım."
-date: 2024-10-24
 image: images/2024/10/fotografta-mavi-renk.jpg
 tags: [renk, mavi saat, kompozisyon]
 ---

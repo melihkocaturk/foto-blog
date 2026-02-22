@@ -2,7 +2,6 @@
 layout: post
 title: "Odak Nedir? Fotoğraf Makinesi Nasıl Odaklanır?"
 description: "Bu yazıda, odaklamanın ne olduğu, fotoğraf makinelerinin nasıl odaklandığı ve odaklama tekniklerinin fotoğrafçılık üzerindeki etkilerini detaylı bir şekilde inceleyeceğiz."
-date: 2024-11-20
 image: images/2024/11/odak-nedir.jpg
 tags: [alan derinliği]
 ---

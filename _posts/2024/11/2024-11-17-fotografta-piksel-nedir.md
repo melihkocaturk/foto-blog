@@ -2,9 +2,8 @@
 layout: post
 title: "Fotoğrafta Piksel Nedir? Dijital Görsellerin Temel Taşı"
 description: "Pikselin ne olduğunu, nasıl çalıştığını, fotoğraf kalitesine nasıl etki ettiğini anlamak için ayrıntılı bir yolculuğa çıkalım."
-date: 2024-11-17
 image: images/2024/11/fotografta-piksel-nedir.jpg
-tags: []
+tags: [dijital fotoğrafçılık]
 ---
 
 Dijital fotoğrafçılıkla ilgilenen herkesin sıkça duyduğu bir terim olan "piksel", modern fotoğrafların temel yapı taşıdır. Dijital dünyada renkli, yüksek çözünürlüklü görüntüler sunmamıza olanak sağlayan bu küçük karelerin arkasında karmaşık bir yapı bulunur. Pikselin ne olduğunu, nasıl çalıştığını, fotoğraf kalitesine nasıl etki ettiğini ve baskı ile dijital kullanım arasındaki farkları daha iyi anlamak için ayrıntılı bir yolculuğa çıkalım.

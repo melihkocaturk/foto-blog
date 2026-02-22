@@ -3,7 +3,7 @@ layout: post
 title: "Drone Fotoğrafçılığına Giriş: Havadan Muhteşem Kareler Çekin"
 description: "Bu yazıda, drone fotoğrafçılığına yeni başlayanlar için temel ipuçlarını paylaşacağız."
 image: images/2025/02/drone-fotografciligina-giris.jpg
-tags: []
+tags: [drone fotoğrafçılığı]
 ---
 
 Drone fotoğrafçılığı, farklı açılardan ve büyük bir perspektiften görüntüler yakalamak için heyecan verici bir yöntemdir. Ancak, başarılı kareler yakalamak için doğru ekipmanı seçmek, yasal prosedürlere uymak ve kompozisyon tekniklerini bilmek gerekir. Bu yazıda, drone fotoğrafçılığına yeni başlayanlar için temel ipuçlarını paylaşacağız.

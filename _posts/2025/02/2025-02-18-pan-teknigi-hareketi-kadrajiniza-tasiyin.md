@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Pan Tekniği: Hareketi Kadrajınıza Taşıyın"
-description: "Bu yazıda, pan tekniğini detaylıca inceliyoruz."
+description: "Pan tekniği nedir? Hareketli sahneleri etkileyici şekilde fotoğraflamak için pan çekim ayarlarını, ipuçlarını ve pratik uygulama yöntemlerini keşfedin."
 image: images/2025/02/pan-teknigi.jpg
-tags: []
+tags: [çekim tekniği]
 ---
 
 Fotoğrafçılıkta hareketi ve hızı en etkileyici şekilde yakalamanın yollarından biri de "pan tekniği"dir. Peki, pan tekniği nedir ve nasıl uygulanır? Gelin, bu tekniği detaylıca inceleyelim.

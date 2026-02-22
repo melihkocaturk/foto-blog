@@ -2,9 +2,8 @@
 layout: post
 title: "Panoramik Fotoğrafçılık: Geniş Açıyla Hikaye Anlatımı Sanatı"
 description: "Panoramik fotoğrafçılığa nasıl başlanır, hangi teknikleri bilmek gerekir ve nelere dikkat etmeliyiz?"
-date: 2024-11-03
 image: images/2024/11/panoramik-fotografcilik.jpg
-tags: []
+tags: [fotoğrafçılık]
 ---
 
 Panoramik fotoğrafçılık, sıradan bir kareye sığmayan geniş manzaraları yakalamanın en güzel yollarından biridir. Manzara çekimleri, şehir siluetleri, geniş iç mekanlar ve kalabalık etkinlikler gibi çok çeşitli konularda kullanılan bu teknik, fotoğrafçılara geniş perspektifler sunar. Peki, panoramik fotoğrafçılığa nasıl başlanır, hangi teknikleri bilmek gerekir ve nelere dikkat etmeliyiz? Bu yazıda tüm bu sorulara yanıt vermeye çalışacağım.

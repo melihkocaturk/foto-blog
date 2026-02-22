@@ -2,7 +2,6 @@
 layout: post
 title: "Gece Fotoğrafçılığı: Harika Kareler Çekmek İçin İpuçları ve Teknikler"
 description: "Bu rehberde, gece fotoğrafçılığı hakkında detaylı bilgiler ve en iyi kareleri yakalamak için ihtiyaç duyacağınız ipuçlarını bulabilirsiniz."
-date: 2024-12-15
 image: images/2024/12/gece-fotografciligi.jpg
 tags: [gece fotoğrafçılığı]
 ---

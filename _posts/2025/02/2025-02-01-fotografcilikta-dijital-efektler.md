@@ -3,7 +3,7 @@ layout: post
 title: "Fotoğrafçılıkta Dijital Efektler: Sanatsal Dokunuşlar ve Teknikler"
 description: "Fotoğrafçılıkta dijital efektler nasıl kullanılır ve hangi teknikler öne çıkar?"
 image: images/2025/02/fotografcilikta-dijital-efektler.jpg
-tags: []
+tags: [dijital fotoğrafçılık]
 ---
 
 Dijital fotoğrafçılığın gelişimi, görsellerimizi dönüştürmek ve kişiselleştirmek için sonsuz olanaklar sundu. Eskiden karanlık odalarda saatler süren işlemler, bugün birkaç tıklamayla gerçekleştirilebiliyor. Dijital efektler, fotoğraflara sanatsal bir bakış açısı katmak, atmosfer yaratmak veya belirli bir mesajı güçlendirmek için yaygın olarak kullanılıyor. Peki, fotoğrafçılıkta dijital efektler nasıl kullanılır ve hangi teknikler öne çıkar? İşte detaylar:

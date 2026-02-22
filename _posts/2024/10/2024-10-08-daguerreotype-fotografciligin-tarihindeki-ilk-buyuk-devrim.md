@@ -2,7 +2,6 @@
 layout: post
 title: "Daguerreotype: Fotoğrafçılığın Tarihindeki İlk Büyük Devrim"
 description: "Daguerreotype, fotoğrafçılık dünyasında çığır açan ve kalıcı görüntü elde etme konusunda devrim yaratan bir tekniktir."
-date: 2024-10-08
 image: images/2024/10/daguerreotype.jpg
 tags: [daguerreotype]
 ---

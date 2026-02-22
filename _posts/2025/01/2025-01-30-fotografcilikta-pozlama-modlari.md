@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fotoğrafçılıkta Pozlama Modları: Hangi Modu Ne Zaman Kullanmalısınız?"
-description: "Bu yazıda, pozlama modlarını ve hangi durumlarda tercih edilmesi gerektiğini ele alacağız."
+description: "Fotoğrafçılıkta pozlama modları nelerdir? P, A/Av, S/Tv ve M modlarının ne işe yaradığını ve hangi çekimde hangisini kullanmanız gerektiğini öğrenin."
 image: images/2025/01/fotografcilikta-pozlama-modlari.jpg
 tags: [pozlama]
 ---

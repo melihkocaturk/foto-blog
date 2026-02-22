@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fotoğraf Makinesi Sensörü Nasıl Temizlenir? Bakım ve İpuçları"
-description: "Sensör bakımı ve temizliği hakkında ayrıntılı bilgiler."
-date: 2024-11-02
+description: "Fotoğraf makinesi sensörü nasıl temizlenir? Güvenli sensör temizleme adımlarını, gerekli ekipmanları ve dikkat edilmesi gereken püf noktalarını öğrenin."
 image: images/2024/11/fotograf-makinesi-sensoru-nasil-temizlenir.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Elbette, sensör bakımı ve temizliği fotoğrafçılar için oldukça önemlidir, çünkü sensörde oluşabilecek toz ve kir, çekilen fotoğraflarda istenmeyen lekelerin ortaya çıkmasına yol açabilir. Özellikle lens değiştirirken sensöre toz, tüy ve diğer parçacıkların bulaşması kaçınılmazdır. İşte sensör bakımı ve temizliği hakkında daha ayrıntılı bilgiler:

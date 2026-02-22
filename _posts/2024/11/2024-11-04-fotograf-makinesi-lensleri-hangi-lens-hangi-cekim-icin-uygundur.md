@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fotoğraf Makinesi Lensleri: Hangi Lens Hangi Çekim İçin Uygundur?"
-description: "Bu yazıda, farklı lens türlerini ve hangi durumlarda en iyi sonucu verdiğini inceleyeceğiz."
-date: 2024-11-04
+description: "Fotoğraf makinesi lensleri ne işe yarar? Hangi lens hangi çekim için uygundur öğrenin; portre, manzara, makro ve telefoto lens rehberi."
 image: images/2024/11/fotograf-makinesi-lensleri.jpg
-tags: []
+tags: [lens]
 ---
 
 Fotoğrafçılığın büyüleyici dünyasında, doğru lens seçimi çekimlerin kalitesini ve ruhunu belirleyen en önemli faktörlerden biridir. Özellikle hangi lensin hangi çekim türü için en ideal olduğunu anlamak, fotoğrafçılık yeteneklerinizi bir üst seviyeye taşıyabilir. Bu yazıda, farklı lens türlerini ve hangi durumlarda en iyi sonucu verdiğini inceleyeceğiz.

@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Perspektif: Görüntülere Derinlik Katın"
 description: "Perspektif, bir görüntüyü izleyicinin gözünde üç boyutlu hale getirir ve ona daha fazla gerçeklik kazandırır."
-date: 2024-10-19
 image: images/2024/10/perspektif.jpg
 tags: [perspektif, kompozisyon]
 ---

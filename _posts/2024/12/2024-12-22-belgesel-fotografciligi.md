@@ -2,7 +2,6 @@
 layout: post
 title: "Belgesel Fotoğrafçılığı: Gerçeğin Kadrajdaki Hikayesi"
 description: "Belirli bir konu, olay ya da toplum kesitini belgeleme amacı taşıyan bu disiplin, gerçeklik üzerine kurulu bir sanattır."
-date: 2024-12-22
 image: images/2024/12/belgesel-fotografciligi.jpg
 tags: [belgesel fotoğrafçılığı]
 ---

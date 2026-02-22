@@ -2,9 +2,8 @@
 layout: post
 title: "Dijital ve Analog Fotoğrafçılık: Hangi Seçim Size Daha Uygun?"
 description: "Bu yazıda, her iki yöntemi inceleyerek sizin için en uygun olanı bulmanıza yardımcı olacağız."
-date: 2024-12-25
 image: images/2024/12/dijital-ve-analog-fotografcilik.jpg
-tags: []
+tags: [dijital fotoğrafçılık, analog fotoğrafçılık]
 ---
 
 Fotoğrafçılık, zamanın akışını yakalamanın ve hatıraları sonsuzlaştırmanın en etkileyici yollarından biridir. Teknolojinin ilerlemesiyle fotoğrafçılıkta iki temel yöntem öne çıkıyor: dijital ve analog fotoğrafçılık. Peki, hangisi sizin için daha uygun? Bu yazıda, her iki yöntemi detaylı bir şekilde inceleyerek sizin için en uygun olanı bulmanıza yardımcı olacağız.

@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafta Çerçeveleme Kompozisyonu: Hikayenizi Kadrajla Anlatın"
 description: "Çerçeveleme; bir fotoğrafın dikkat çekici öğelerini izleyicinin gözlerine sunma biçimidir."
-date: 2024-10-16
 image: images/2024/10/fotografta-cerceveleme.jpg
 tags: [çerçeveleme, kompozisyon]
 ---

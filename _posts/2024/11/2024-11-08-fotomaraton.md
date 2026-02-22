@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fotomaraton: Fotoğraf Tutkunlarına Heyecanlı Bir Deneyim"
-description: "Fotomaraton nedir, nasıl düzenlenir ve katılımcılar için neler sunar?"
-date: 2024-11-08
+description: "Fotomaraton nedir? Fotoğraf tutkunları için düzenlenen fotomaratonların kurallarını, katılım sürecini ve başarılı çekimler için ipuçlarını keşfedin."
 image: images/2024/11/fotomaraton.jpg
-tags: []
+tags: [fotoğrafçılık]
 ---
 
 Fotoğrafçılıkla ilgilenenler için hem eğlenceli hem de öğretici bir etkinlik olan *fotomaraton*, dünya genelinde giderek daha popüler hale geliyor. Adından da anlaşılacağı gibi, bu etkinlik maratonun zorluklarıyla fotoğrafçılığı bir araya getiriyor. Peki, nedir bu fotomaraton, nasıl düzenlenir ve katılımcılar için neler sunar?

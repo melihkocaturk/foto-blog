@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafçılıkta Altın Oran ve 1/3 Kuralı: Kusursuz Kompozisyonun Anahtarları"
 description: "Altın oran ve 1/3 kuralı nedir? Nasıl kullanılır? Hangi durumda hangisini tercih etmelisiniz?"
-date: 2024-10-15
 image: images/2024/10/nautilus.jpg
 tags: [altın oran, kompozisyon]
 ---

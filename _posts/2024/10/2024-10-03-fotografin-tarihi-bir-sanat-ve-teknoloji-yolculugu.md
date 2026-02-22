@@ -2,7 +2,6 @@
 layout: post
 title: "Fotoğrafın Tarihi: Bir Sanat ve Teknoloji Yolculuğu"
 description: "Fotoğraf, insanlığın anıları ölümsüzleştirme ve gerçekliği yakalama arzusunun bir ürünüdür."
-date: 2024-10-03
 image: images/2024/10/fotografin-tarihi.jpg
 tags: [kamera obscura, daguerreotype]
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: "Fotoğraf Makineleri İçin Hafıza Kartları: Seçim Rehberi ve İpuçları"
 description: "Bu yazıda, hafıza kartı seçiminde dikkat edilmesi gereken temel noktaları ve önerileri paylaşacağım."
-date: 2024-12-02
 image: images/2024/12/fotograf-makineleri-icin-hafiza-kartlari.jpg
-tags: []
+tags: [fotoğraf makinesi]
 ---
 
 Fotoğrafçılık tutkunları için en önemli ekipmanlardan biri fotoğraf makinesidir; ancak bir diğer kritik bileşen de doğru hafıza kartını seçmektir. Hafıza kartları, çektiğiniz karelerin kalitesinden çekim hızınıza kadar birçok faktörü etkileyebilir. Bu yazıda, hafıza kartı seçiminde dikkat edilmesi gereken temel noktaları ve önerileri paylaşacağım.
