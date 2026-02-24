@@ -1,142 +1,366 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-22T18:12:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Neden Fotoğraf Çekeriz?</title><link href="http://localhost:4000/neden-fotograf-cekeriz" rel="alternate" type="text/html" title="Neden Fotoğraf Çekeriz?" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/neden-fotograf-cekeriz</id><content type="html" xml:base="http://localhost:4000/neden-fotograf-cekeriz"><![CDATA[<p>Fotoğraf çekmek, modern insanın en yaygın alışkanlıklarından biri. Akıllı telefonların yaygınlaşmasıyla birlikte artık herkes cebinde güçlü bir kamera taşıyor. Peki hiç düşündünüz mü: <strong>Neden fotoğraf çekeriz?</strong> Bu sadece güzel anları kaydetmekten ibaret mi, yoksa daha derin psikolojik ve kültürel sebepler mi var?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-24T09:59:58+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Magnum Photos Nedir? Fotoğraf Dünyasının Efsanevi Ajansı</title><link href="http://localhost:4000/magnum-photos-nedir-fotograf-dunyasinin-efsanevi-ajansi" rel="alternate" type="text/html" title="Magnum Photos Nedir? Fotoğraf Dünyasının Efsanevi Ajansı" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/magnum-photos-nedir-fotograf-dunyasinin-efsanevi-ajansi</id><content type="html" xml:base="http://localhost:4000/magnum-photos-nedir-fotograf-dunyasinin-efsanevi-ajansi"><![CDATA[<p>Fotoğraf tarihine yön veren kurumlar sayıldığında akla ilk gelen isimlerden biri Magnum Photos olur. 1947 yılında kurulan bu efsanevi fotoğraf ajansı, belgesel fotoğrafçılığın standartlarını belirlemiş, fotoğrafçı haklarını savunmuş ve görsel gazeteciliğin dilini kökten değiştirmiştir.</p>
 
-<p>Bu yazıda fotoğraf çekme motivasyonunun arkasındaki temel nedenleri detaylı şekilde ele alıyoruz.</p>
+<p>Bu yazıda Magnum Photos’un kuruluş hikâyesini, çalışma modelini, ünlü fotoğrafçılarını ve fotoğraf dünyasına etkilerini detaylı şekilde inceleyeceğiz.</p>
 
-<h2 id="1-anıları-ölümsüzleştirme-i̇steği">1. Anıları Ölümsüzleştirme İsteği</h2>
+<h2 id="magnum-photosun-kuruluş-hikâyesi">Magnum Photos’un Kuruluş Hikâyesi</h2>
 
-<p>Fotoğraf çekmenin en temel nedeni, anları kalıcı hale getirme arzusudur. İnsan hafızası zamanla silikleşir; detaylar kaybolur, duygular bulanıklaşır. Fotoğraflar ise zamanı dondurur.</p>
-
-<ul>
-  <li>Doğum günleri</li>
-  <li>Tatiller</li>
-  <li>Aile buluşmaları</li>
-  <li>Özel başarı anları</li>
-</ul>
-
-<p>Bu kareler, yıllar sonra bile o anın duygusunu yeniden yaşatır. Fotoğraf, bir anlamda <strong>kişisel zaman kapsülü</strong> görevi görür.</p>
-
-<h2 id="2-duyguları-i̇fade-etme-aracı">2. Duyguları İfade Etme Aracı</h2>
-
-<p>Fotoğraf sadece belge değildir; aynı zamanda güçlü bir ifade biçimidir. Bir fotoğraf:</p>
+<p>Magnum Photos, II. Dünya Savaşı sonrası dönemde dört vizyoner fotoğrafçı tarafından kuruldu:</p>
 
 <ul>
-  <li>Mutluluğu</li>
-  <li>Yalnızlığı</li>
-  <li>Huzuru</li>
-  <li>Kaosu</li>
+  <li>Robert Capa</li>
+  <li>Henri Cartier-Bresson</li>
+  <li>George Rodger</li>
+  <li>David Seymour (Chim)</li>
 </ul>
 
-<p>tek karede anlatabilir.</p>
+<p>Kuruluşun temel amacı, fotoğrafçıların çalışmalarının kontrolünü ellerinde tutabilmesiydi. O dönemde dergiler fotoğrafların tüm haklarını satın alıyordu. Magnum ise devrim niteliğinde bir model getirdi: Fotoğrafçı telif haklarının sahibi olacaktı.</p>
 
-<p>Özellikle sanat fotoğrafçılığında fotoğraf, kelimelerin yetersiz kaldığı yerde devreye girer. Bu yüzden birçok kişi için fotoğraf çekmek, <strong>görsel bir dil konuşmak</strong> gibidir.</p>
+<p>Bu yaklaşım, foto muhabirliğinde bir dönüm noktası oldu.</p>
 
-<h2 id="3-hikâye-anlatma-i̇htiyacı">3. Hikâye Anlatma İhtiyacı</h2>
+<h2 id="magnum-photosun-felsefesi">Magnum Photos’un Felsefesi</h2>
 
-<p>İnsan doğası gereği hikâye anlatmayı sever. Fotoğraf da modern çağın en etkili hikâye anlatım araçlarından biridir.</p>
+<p>Magnum sıradan bir fotoğraf ajansı değildir; bir düşünce biçimidir. Ajansın temel ilkeleri şunlardır:</p>
 
-<p>Bir sokak fotoğrafı:</p>
+<ol>
+  <li><strong>Fotoğrafçı Özgürlüğü</strong>: Magnum fotoğrafçıları projelerini kendileri seçer. Editoryal baskı minimumdur.</li>
+  <li><strong>Hikâye Odaklı Belgeselcilik</strong>: Ajansın odağında tek kare değil, anlatı gücü yüksek fotoğraf hikâyeleri vardır.</li>
+  <li><strong>İnsan Merkezli Yaklaşım</strong>: Magnum geleneğinde fotoğraf, insan deneyimini anlamaya yönelik bir araçtır.</li>
+  <li><strong>Uzun Vadeli Projeler</strong>: Hızlı haber fotoğrafçılığı yerine derinlikli belgesel çalışmalar teşvik edilir.</li>
+</ol>
+
+<h2 id="magnum-photosun-çalışma-modeli">Magnum Photos’un Çalışma Modeli</h2>
+
+<p>Magnum’un en dikkat çekici özelliği kooperatif yapısıdır.</p>
+
+<h3 id="üyelik-sistemi">Üyelik Sistemi</h3>
+
+<p>Magnum’a fotoğrafçı olmak oldukça zordur. Süreç şu aşamalardan oluşur:</p>
+
+<ol>
+  <li>Aday (Nominee)</li>
+  <li>Aday Üye (Associate)</li>
+  <li>Tam Üye (Full Member)</li>
+</ol>
+
+<p>Bu süreç genellikle yıllar sürer ve mevcut üyelerin oylamasıyla ilerler.</p>
+
+<h3 id="ajansın-merkezleri">Ajansın Merkezleri</h3>
+
+<p>Magnum Photos’un başlıca ofisleri:</p>
 
 <ul>
-  <li>Bir şehrin ruhunu</li>
-  <li>Bir insanın yaşam mücadelesini</li>
-  <li>Günlük hayatın akışını</li>
+  <li>Paris</li>
+  <li>New York</li>
+  <li>Londra</li>
+  <li>Tokyo</li>
 </ul>
 
-<p>anlatabilir.</p>
+<p>Bu küresel yapı, ajansın dünya çapında etkili olmasını sağlar.</p>
 
-<p>Özellikle blog yazarları, içerik üreticileri ve sosyal medya kullanıcıları için fotoğraf, anlatının vazgeçilmez parçasıdır.</p>
+<h2 id="magnum-photosun-efsane-fotoğrafçıları">Magnum Photos’un Efsane Fotoğrafçıları</h2>
 
-<h2 id="4-sosyal-paylaşım-ve-görünür-olma-i̇steği">4. Sosyal Paylaşım ve Görünür Olma İsteği</h2>
-
-<p>Dijital çağda fotoğraf çekmenin motivasyonları değişti. Artık fotoğraflar sadece saklanmıyor, aynı zamanda paylaşılıyor.</p>
-
-<p>Bugün insanlar fotoğraf çekiyor çünkü:</p>
+<p>Magnum çatısı altında fotoğraf tarihine damga vurmuş birçok isim vardır. En bilinenlerden bazıları:</p>
 
 <ul>
-  <li>Sosyal medyada var olmak istiyor</li>
-  <li>Deneyimlerini göstermek istiyor</li>
-  <li>Beğeni ve etkileşim almak istiyor</li>
-  <li>Kişisel marka oluşturmak istiyor</li>
+  <li>Elliott Erwitt</li>
+  <li>Steve McCurry</li>
+  <li>Sebastião Salgado</li>
+  <li>Martin Parr</li>
+  <li>Josef Koudelka</li>
 </ul>
 
-<p>Bu durum fotoğrafı, <strong>sosyal iletişimin temel araçlarından biri</strong> haline getirdi.</p>
+<p>Bu fotoğrafçılar savaşlardan gündelik yaşama, göçten çevre krizine kadar pek çok konuyu görsel hafızaya kazımıştır.</p>
 
-<h2 id="5-estetik-haz-ve-güzeli-yakalama-tutkusu">5. Estetik Haz ve Güzeli Yakalama Tutkusu</h2>
+<h2 id="magnum-photosun-fotoğraf-dünyasına-etkisi">Magnum Photos’un Fotoğraf Dünyasına Etkisi</h2>
 
-<p>Bazı insanlar için fotoğraf çekmek tamamen estetik bir tatmindir. Işığın yüzeye düşüşü, renklerin uyumu, kompozisyonun dengesi…</p>
+<p>Magnum Photos’un etkisi yalnızca iyi fotoğraflar üretmekle sınırlı değildir.</p>
 
-<p>Fotoğrafçılar çoğu zaman şu duygunun peşindedir:</p>
+<h3 id="belgesel-fotoğrafçılığın-standartlarını-belirledi">Belgesel Fotoğrafçılığın Standartlarını Belirledi</h3>
 
-<blockquote>
-  <p>“Gördüğüm güzelliği başkaları da görsün.”</p>
-</blockquote>
-
-<p>Bu motivasyon özellikle şu alanlarda güçlüdür:</p>
+<p>Magnum yaklaşımı sayesinde:</p>
 
 <ul>
-  <li>Manzara fotoğrafçılığı</li>
-  <li>Mimari fotoğrafçılık</li>
-  <li>Makro çekimler</li>
-  <li>Minimal fotoğrafçılık</li>
+  <li>Fotoğraf hikâyesi kavramı güçlendi</li>
+  <li>Foto muhabirliği sanatsal değer kazandı</li>
+  <li>Uzun soluklu projeler önem kazandı</li>
 </ul>
 
-<h2 id="6-kontrol-etme-ve-anı-sahiplenme-duygusu">6. Kontrol Etme ve Anı Sahiplenme Duygusu</h2>
+<h3 id="karar-anı-kültürünü-yaygınlaştırdı">“Karar Anı” Kültürünü Yaygınlaştırdı</h3>
 
-<p>Psikolojik açıdan fotoğraf çekmek, yaşanan an üzerinde kontrol kurma hissi de verir. Bir anı fotoğraflamak:</p>
+<p>Özellikle Henri Cartier-Bresson’un ortaya attığı “decisive moment” (karar anı) kavramı, Magnum sayesinde küresel bir fotoğraf felsefesine dönüştü.</p>
+
+<h3 id="fotoğrafçı-haklarını-güçlendirdi">Fotoğrafçı Haklarını Güçlendirdi</h3>
+
+<p>Bugün birçok ajansın uyguladığı telif modeli, Magnum’un öncülüğü sayesinde standart hale geldi.</p>
+
+<h2 id="magnum-photos-günümüzde-hâlâ-etkili-mi">Magnum Photos Günümüzde Hâlâ Etkili mi?</h2>
+
+<p>Kısa cevap: Evet, ancak dönüşerek.</p>
+
+<p>Dijital çağda fotoğraf üretimi demokratikleşmiş olsa da Magnum hâlâ:</p>
 
 <ul>
-  <li>Onu fark ettiğimizi</li>
-  <li>Ona değer verdiğimizi</li>
-  <li>Onu kaybetmek istemediğimizi</li>
+  <li>Prestijli projeler üretiyor</li>
+  <li>Sergiler düzenliyor</li>
+  <li>Fotoğraf kitapları yayımlıyor</li>
+  <li>Arşiv lisanslama faaliyetlerini sürdürüyor</li>
 </ul>
 
-<p>gösterir.</p>
+<p>Ayrıca genç fotoğrafçılar için eğitim programları ve workshop’lar da düzenliyor.</p>
 
-<p>Araştırmalar, insanların önemli gördükleri anları daha sık fotoğrafladığını ortaya koyuyor. Yani fotoğraf çekmek, aslında <strong>önceliklerimizin bir haritası</strong>dır.</p>
+<h2 id="magnum-photos-eleştirileri">Magnum Photos Eleştirileri</h2>
 
-<h2 id="7-profesyonel-ve-ekonomik-nedenler">7. Profesyonel ve Ekonomik Nedenler</h2>
-
-<p>Fotoğraf çekmenin her zaman duygusal nedenleri yoktur. Günümüzde fotoğraf:</p>
+<p>Her büyük kurum gibi Magnum da eleştirilerden muaf değil:</p>
 
 <ul>
-  <li>Bir meslek</li>
-  <li>Bir gelir kapısı</li>
-  <li>Bir pazarlama aracı</li>
-  <li>Bir marka unsuru</li>
+  <li>Fazla elitist olmakla suçlanması</li>
+  <li>Üyelik sürecinin aşırı kapalı olması</li>
+  <li>Dijital çağda yavaş kalmakla eleştirilmesi</li>
 </ul>
 
-<p>haline gelmiştir.</p>
+<p>Buna rağmen Magnum, belgesel fotoğrafçılığın referans noktası olmaya devam ediyor.</p>
 
-<p>Özellikle şu alanlarda fotoğraf kritik rol oynar:</p>
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Magnum Photos, yalnızca bir fotoğraf ajansı değil, fotoğraf tarihini şekillendiren bir harekettir. Fotoğrafçı haklarını savunması, hikâye odaklı yaklaşımı ve insan merkezli bakışı sayesinde görsel gazeteciliğin standartlarını yeniden tanımlamıştır.</p>
+
+<p>Bugün fotoğrafla ilgilenen herkes için Magnum’un mirasını anlamak, belgesel fotoğrafın ruhunu kavramak açısından büyük önem taşır.</p>]]></content><author><name></name></author><category term="fotoğraf tarihi" /><summary type="html"><![CDATA[Bu yazıda Magnum Photos’un kuruluş hikâyesini, çalışma modelini, ünlü fotoğrafçılarını ve fotoğraf dünyasına etkilerini detaylı şekilde inceleyeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/magnum-photos.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/magnum-photos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hangi Kadrajlar Portre Çekimi Olarak Kabul Edilir?</title><link href="http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir" rel="alternate" type="text/html" title="Hangi Kadrajlar Portre Çekimi Olarak Kabul Edilir?" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir</id><content type="html" xml:base="http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir"><![CDATA[<p>Portre fotoğrafçılığı, bir kişinin yüzünü, ifadesini ve karakterini ön plana çıkaran çekim türüdür. Ancak pratikte “portre” yalnızca yakın plan yüz fotoğrafı anlamına gelmez. Farklı kadraj türleri de portre kapsamına girer. Bu yazıda hangi kadrajların portre çekimi olarak kabul edildiğini, her birinin ne zaman tercih edilmesi gerektiğini ve çekim ipuçlarını detaylı şekilde inceleyeceğiz.</p>
+
+<h2 id="portre-fotoğrafı-nedir">Portre Fotoğrafı Nedir?</h2>
+
+<p>Portre fotoğrafı; bir insanın (bazen birden fazla kişinin) kimliğini, ruh halini veya kişiliğini yansıtmayı amaçlayan fotoğraf türüdür. Temel amaç teknik mükemmellikten çok, izleyici ile özne arasında duygusal bir bağ kurmaktır.</p>
+
+<p>Portreyi portre yapan şey:</p>
 
 <ul>
-  <li>Emlak ilanları</li>
-  <li>E-ticaret ürünleri</li>
-  <li>Restoran menüleri</li>
-  <li>Kişisel marka yönetimi</li>
+  <li>İnsan unsurunun merkezde olması</li>
+  <li>Yüz ifadesinin önem taşıması</li>
+  <li>Hikâye veya duygu aktarma amacı</li>
+  <li>Kompozisyonun kişiye odaklanması</li>
 </ul>
 
-<p>Kaliteli fotoğraf, doğrudan satış ve güven üzerinde etkilidir.</p>
+<p>Bu nedenle kadraj genişliği değişse bile, odak insansa fotoğraf portre kategorisine girebilir.</p>
 
-<h2 id="8-kendini-keşfetme-ve-farkındalık">8. Kendini Keşfetme ve Farkındalık</h2>
+<h2 id="portre-kadraj-türleri">Portre Kadraj Türleri</h2>
 
-<p>Fotoğraf çekmek aynı zamanda kişinin bakışını eğitir. Düzenli fotoğraf çeken insanlar zamanla:</p>
+<h3 id="1-çok-yakın-plan-extreme-close-up">1. Çok Yakın Plan (Extreme Close-Up)</h3>
+
+<p>Bu kadrajda genellikle:</p>
 
 <ul>
-  <li>Detayları daha çok fark eder</li>
-  <li>Işığa daha duyarlı olur</li>
-  <li>Kompozisyonu günlük hayatta bile görmeye başlar</li>
+  <li>Sadece gözler</li>
+  <li>Yüzün bir bölümü</li>
+  <li>Dudaklar veya bakış</li>
 </ul>
 
-<p>Bu süreç, fotoğrafı bir hobiden çıkarıp <strong>farkındalık pratiğine</strong> dönüştürebilir.</p>
+<p>yer alır.</p>
 
-<h2 id="sonuç-fotoğraf-çekmek-aslında-nedir">Sonuç: Fotoğraf Çekmek Aslında Nedir?</h2>
+<p><strong>Ne zaman kullanılır?</strong></p>
 
-<p>Fotoğraf çekmek; anı biriktirmek, kendini ifade etmek, hikâye anlatmak, görünür olmak ve güzeli yakalama çabasının birleşimidir. Her deklanşöre basışın arkasında küçük bir “unutmak istemiyorum” duygusu yatar.</p>
+<ul>
+  <li>Güçlü duygu vurgusu gerektiğinde</li>
+  <li>Dramatik portrelerde</li>
+  <li>Sanatsal çalışmalarda</li>
+</ul>
 
-<p>Belki de bu yüzden fotoğraf, icat edildiği günden beri insan hayatının merkezinde:</p>
+<p><strong>Avantajı:</strong> İzleyici ile çok güçlü bağ kurar.<br />
+<strong>Risk:</strong> Odak kaçarsa fotoğraf başarısız olur.</p>
 
-<p><strong>Çünkü zaman akıyor — biz ise onu durdurmak istiyoruz.</strong></p>]]></content><author><name></name></author><category term="fotoğraf" /><summary type="html"><![CDATA[Neden fotoğraf çekeriz? Anıları ölümsüzleştirme, duyguları ifade etme ve hikâye anlatma gibi fotoğraf çekmenin psikolojik ve kültürel nedenlerini keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/neden-fotograf-cekeriz.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/neden-fotograf-cekeriz.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fotoğraf Sanat mıdır? Objektif Bir Tartışma</title><link href="http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma" rel="alternate" type="text/html" title="Fotoğraf Sanat mıdır? Objektif Bir Tartışma" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma</id><content type="html" xml:base="http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma"><![CDATA[<p>Fotoğrafın sanat olup olmadığı sorusu, fotoğraf makinesinin icadından bu yana tartışılan klasik bir konudur. Kimilerine göre fotoğraf yalnızca gerçeğin mekanik bir kaydıdır; kimilerine göre ise fotoğraf, güçlü bir anlatım dili olan başlı başına bir sanat formudur. Bu yazıda fotoğrafın sanat olup olmadığı sorusunu tarihsel, estetik ve teknik yönleriyle ele alacağız.</p>
+<h3 id="2-yakın-plan-close-up--headshot">2. Yakın Plan (Close-Up / Headshot)</h3>
+
+<p>En klasik portre türüdür. Kadraj genellikle:</p>
+
+<ul>
+  <li>Baş ve omuzlar</li>
+  <li>Bazen sadece yüz</li>
+</ul>
+
+<p>şeklindedir.</p>
+
+<p><strong>Nerelerde kullanılır?</strong></p>
+
+<ul>
+  <li>Kurumsal portreler</li>
+  <li>Oyuncu headshot’ları</li>
+  <li>LinkedIn ve profil fotoğrafları</li>
+  <li>Güzellik çekimleri</li>
+</ul>
+
+<p><strong>Özelliği:</strong> Yüz ifadesi tamamen ön plandadır.<br />
+<strong>En uygun odak uzaklığı:</strong> 50mm – 135mm (full frame)</p>
+
+<p>Bu kadraj, fotoğraf dünyasında en net şekilde “portre” olarak kabul edilen çekimdir.</p>
+
+<h3 id="3-omuz-üstü-kadraj-head-and-shoulders">3. Omuz Üstü Kadraj (Head and Shoulders)</h3>
+
+<p>Yakın planın biraz daha geniş versiyonudur. Kadrajda:</p>
+
+<ul>
+  <li>Baş</li>
+  <li>Omuzlar</li>
+  <li>Üst göğüs kısmı</li>
+</ul>
+
+<p>yer alır.</p>
+
+<p><strong>Ne zaman tercih edilir?</strong></p>
+
+<ul>
+  <li>Daha doğal görünüm istendiğinde</li>
+  <li>Kurumsal çekimlerde</li>
+  <li>Editoryal portrelerde</li>
+</ul>
+
+<p><strong>Avantajı:</strong> Hem yüz hem beden dili okunur.<br />
+<strong>Kullanım alanı:</strong> Dergi portreleri için çok popülerdir.</p>
+
+<h3 id="4-yarım-boy-portre-half-body--waist-up">4. Yarım Boy Portre (Half Body / Waist-Up)</h3>
+
+<p>Bu kadrajda model genellikle bel hizasına kadar görünür.</p>
+
+<p><strong>Portre sayılır mı?</strong><br />
+Evet. Çünkü odak hâlâ kişidedir ve yüz ifadesi önemlidir.</p>
+
+<p><strong>Ne zaman kullanılır?</strong></p>
+
+<ul>
+  <li>Moda portrelerinde</li>
+  <li>Sosyal medya çekimlerinde</li>
+  <li>Hikâye anlatımı gereken durumlarda</li>
+</ul>
+
+<p><strong>Avantajı:</strong> El hareketleri ve beden dili fotoğrafa dahil olur.<br />
+<strong>Dikkat edilmesi gereken:</strong> Eller kadraja giriyorsa poz çok önemlidir.</p>
+
+<h3 id="5-diz-üstü-kadraj-three-quarter-portrait">5. Diz Üstü Kadraj (Three-Quarter Portrait)</h3>
+
+<p>Model diz üstünden kesilir.</p>
+
+<p><strong>Özellikleri:</strong></p>
+
+<ul>
+  <li>Daha çevresel bilgi verir</li>
+  <li>Stil ve kıyafet daha görünür</li>
+  <li>Ama odak hâlâ kişidedir</li>
+</ul>
+
+<p><strong>Portre kategorisine girer mi?</strong><br />
+Evet, özellikle moda ve editoryal fotoğrafçılıkta portre kabul edilir.</p>
+
+<p><strong>Ne zaman kullanılır?</strong></p>
+
+<ul>
+  <li>Moda çekimleri</li>
+  <li>Lifestyle portreler</li>
+  <li>Blog ve sosyal medya içerikleri</li>
+</ul>
+
+<h3 id="6-tam-boy-portre-full-body-portrait">6. Tam Boy Portre (Full Body Portrait)</h3>
+
+<p>Model baştan ayağa kadraj içindedir.</p>
+
+<p>Burada kritik soru şudur:<br />
+<strong>Her tam boy fotoğraf portre midir?</strong></p>
+
+<p>Cevap: Duruma bağlı.</p>
+
+<p><strong>Portre sayılması için:</strong></p>
+
+<ul>
+  <li>Kişi ana odak olmalı</li>
+  <li>Arka plan ikinci planda kalmalı</li>
+  <li>Fotoğraf kişiyi anlatmalı</li>
+</ul>
+
+<p>Eğer çevre çok baskınsa bu çekim “çevresel portre” veya “lifestyle fotoğraf” olarak da değerlendirilebilir.</p>
+
+<h3 id="7-çevresel-portre-environmental-portrait">7. Çevresel Portre (Environmental Portrait)</h3>
+
+<p>Bu türde kişi kendi ortamı içinde fotoğraflanır.</p>
+
+<p>Örnekler:</p>
+
+<ul>
+  <li>Atölyesinde zanaatkâr</li>
+  <li>Ofisinde çalışan</li>
+  <li>Mutfağında şef</li>
+  <li>Sokakta müzisyen</li>
+</ul>
+
+<p><strong>Kadraj geniş olabilir ama hâlâ portredir.</strong></p>
+
+<p><strong>Temel amaç:</strong><br />
+Kişiyi + hikâyesini birlikte anlatmak.</p>
+
+<p><strong>Modern portre fotoğrafçılığında çok değerlidir.</strong></p>
+
+<h2 id="portre-kadrajını-belirleyen-faktörler">Portre Kadrajını Belirleyen Faktörler</h2>
+
+<h3 id="1-çekimin-amacı">1. Çekimin Amacı</h3>
+
+<ul>
+  <li>Profil fotoğrafı → yakın plan</li>
+  <li>Moda çekimi → yarım boy veya diz üstü</li>
+  <li>Hikâye anlatımı → çevresel portre</li>
+</ul>
+
+<h3 id="2-duygu-yoğunluğu">2. Duygu Yoğunluğu</h3>
+
+<ul>
+  <li>Daha dramatik → yakın plan</li>
+  <li>Daha doğal → yarım boy</li>
+  <li>Daha hikâyesel → geniş kadraj</li>
+</ul>
+
+<h3 id="3-kullanım-alanı">3. Kullanım Alanı</h3>
+
+<ul>
+  <li>LinkedIn → headshot</li>
+  <li>Instagram → yarım boy</li>
+  <li>Dergi → omuz üstü veya diz üstü</li>
+  <li>Belgesel → çevresel portre</li>
+</ul>
+
+<h2 id="yeni-başlayanların-yaptığı-kadraj-hataları">Yeni Başlayanların Yaptığı Kadraj Hataları</h2>
+
+<p><strong>1. Çok geniş çekmek</strong><br />
+Kişi kadrajda kaybolur, portre etkisi zayıflar.</p>
+
+<p><strong>2. Yanlış kesim noktaları</strong></p>
+
+<p>Şuralardan kesmek genellikle kötü görünür:</p>
+
+<ul>
+  <li>Tam eklem noktaları</li>
+  <li>Diz kapağı</li>
+  <li>Dirsek</li>
+  <li>Boyun ortası</li>
+</ul>
+
+<p><strong>3. Boşluk dengesini kuramamak</strong></p>
+
+<ul>
+  <li>Baş üstü payı çok fazla</li>
+  <li>Model kadrajın ortasına çakılı</li>
+  <li>Bakış yönünde boşluk yok</li>
+</ul>
+
+<h2 id="profesyonel-portre-i̇çin-kadraj-i̇puçları">Profesyonel Portre İçin Kadraj İpuçları</h2>
+
+<ul>
+  <li>Gözlere mutlaka netlik ver</li>
+  <li>Baş üstü payını abartma</li>
+  <li>85mm civarı odak uzaklığı portre için güvenlidir</li>
+  <li>Arka planı mümkün olduğunca sade tut</li>
+  <li>Modelin bakış yönüne boşluk bırak</li>
+  <li>Kadrajı modele göre değil, hikâyeye göre seç</li>
+</ul>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Portre fotoğrafçılığı yalnızca yakın plan yüz çekimlerinden ibaret değildir. Çok yakın plandan tam boya kadar birçok kadraj portre olarak kabul edilebilir. Belirleyici olan şey kadrajın genişliği değil, fotoğrafın odağının insan ve onun ifadesi olmasıdır.</p>
+
+<p>Doğru kadraj seçimi; vermek istediğiniz duyguya, çekimin amacına ve fotoğrafın kullanılacağı yere göre değişir. Bu nedenle iyi bir portre fotoğrafçısı, tüm kadraj türlerini bilir ve sahneye göre bilinçli seçim yapar.</p>]]></content><author><name></name></author><category term="portre" /><summary type="html"><![CDATA[Portre çekiminde hangi kadrajlar kullanılır? Yakın plan, yarım boy ve tam boy portre türlerini örnekler ve ipuçlarıyla detaylı öğrenin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fotoğraf Sanat mıdır? Objektif Bir Tartışma</title><link href="http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma" rel="alternate" type="text/html" title="Fotoğraf Sanat mıdır? Objektif Bir Tartışma" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma</id><content type="html" xml:base="http://localhost:4000/fotograf-sanat-midir-objektif-bir-tartisma"><![CDATA[<p>Fotoğrafın sanat olup olmadığı sorusu, fotoğraf makinesinin icadından bu yana tartışılan klasik bir konudur. Kimilerine göre fotoğraf yalnızca gerçeğin mekanik bir kaydıdır; kimilerine göre ise fotoğraf, güçlü bir anlatım dili olan başlı başına bir sanat formudur. Bu yazıda fotoğrafın sanat olup olmadığı sorusunu tarihsel, estetik ve teknik yönleriyle ele alacağız.</p>
 
 <h2 id="fotoğrafın-ortaya-çıkışı-ve-i̇lk-tartışmalar">Fotoğrafın Ortaya Çıkışı ve İlk Tartışmalar</h2>
 
@@ -551,243 +775,145 @@ Bugün dünyanın en önemli müzelerinde fotoğraf sergileri yer almakta ve fot
 
 <p>Fotoğraf makinesini doğru tutmak, fotoğraf kalitesini doğrudan etkileyen temel becerilerden biridir. En pahalı ekipman bile yanlış tutuşla titreşimli sonuçlar üretirken, doğru teknikle elde çekimde bile son derece net kareler yakalamak mümkündür. Fotoğrafçılıkta ustalaşmanın yolu çoğu zaman küçük ama kritik alışkanlıklardan geçer — doğru tutuş da bunların başında gelir.</p>
 
-<p>Düzenli pratik yaparak doğru tutuşu kas hafızanıza yerleştirirseniz, zamanla daha net, daha kontrollü ve daha profesyonel fotoğraflar çektiğinizi fark edeceksiniz.</p>]]></content><author><name></name></author><category term="fotoğraf makinesi" /><summary type="html"><![CDATA[Fotoğraf makinesi doğru tutuş tekniklerini öğrenin. Titreşimi azaltan, daha net ve profesyonel fotoğraflar çekmenizi sağlayan adımları keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/fotograf-makinesini-tutus-sekli-nasil-olmali.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/fotograf-makinesini-tutus-sekli-nasil-olmali.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hangi Kadrajlar Portre Çekimi Olarak Kabul Edilir?</title><link href="http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir" rel="alternate" type="text/html" title="Hangi Kadrajlar Portre Çekimi Olarak Kabul Edilir?" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir</id><content type="html" xml:base="http://localhost:4000/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir"><![CDATA[<p>Portre fotoğrafçılığı, bir kişinin yüzünü, ifadesini ve karakterini ön plana çıkaran çekim türüdür. Ancak pratikte “portre” yalnızca yakın plan yüz fotoğrafı anlamına gelmez. Farklı kadraj türleri de portre kapsamına girer. Bu yazıda hangi kadrajların portre çekimi olarak kabul edildiğini, her birinin ne zaman tercih edilmesi gerektiğini ve çekim ipuçlarını detaylı şekilde inceleyeceğiz.</p>
+<p>Düzenli pratik yaparak doğru tutuşu kas hafızanıza yerleştirirseniz, zamanla daha net, daha kontrollü ve daha profesyonel fotoğraflar çektiğinizi fark edeceksiniz.</p>]]></content><author><name></name></author><category term="fotoğraf makinesi" /><summary type="html"><![CDATA[Fotoğraf makinesi doğru tutuş tekniklerini öğrenin. Titreşimi azaltan, daha net ve profesyonel fotoğraflar çekmenizi sağlayan adımları keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/fotograf-makinesini-tutus-sekli-nasil-olmali.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/fotograf-makinesini-tutus-sekli-nasil-olmali.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Neden Fotoğraf Çekeriz?</title><link href="http://localhost:4000/neden-fotograf-cekeriz" rel="alternate" type="text/html" title="Neden Fotoğraf Çekeriz?" /><published>2026-02-22T00:00:00+03:00</published><updated>2026-02-22T00:00:00+03:00</updated><id>http://localhost:4000/neden-fotograf-cekeriz</id><content type="html" xml:base="http://localhost:4000/neden-fotograf-cekeriz"><![CDATA[<p>Fotoğraf çekmek, modern insanın en yaygın alışkanlıklarından biri. Akıllı telefonların yaygınlaşmasıyla birlikte artık herkes cebinde güçlü bir kamera taşıyor. Peki hiç düşündünüz mü: <strong>Neden fotoğraf çekeriz?</strong> Bu sadece güzel anları kaydetmekten ibaret mi, yoksa daha derin psikolojik ve kültürel sebepler mi var?</p>
 
-<h2 id="portre-fotoğrafı-nedir">Portre Fotoğrafı Nedir?</h2>
+<p>Bu yazıda fotoğraf çekme motivasyonunun arkasındaki temel nedenleri detaylı şekilde ele alıyoruz.</p>
 
-<p>Portre fotoğrafı; bir insanın (bazen birden fazla kişinin) kimliğini, ruh halini veya kişiliğini yansıtmayı amaçlayan fotoğraf türüdür. Temel amaç teknik mükemmellikten çok, izleyici ile özne arasında duygusal bir bağ kurmaktır.</p>
+<h2 id="1-anıları-ölümsüzleştirme-i̇steği">1. Anıları Ölümsüzleştirme İsteği</h2>
 
-<p>Portreyi portre yapan şey:</p>
-
-<ul>
-  <li>İnsan unsurunun merkezde olması</li>
-  <li>Yüz ifadesinin önem taşıması</li>
-  <li>Hikâye veya duygu aktarma amacı</li>
-  <li>Kompozisyonun kişiye odaklanması</li>
-</ul>
-
-<p>Bu nedenle kadraj genişliği değişse bile, odak insansa fotoğraf portre kategorisine girebilir.</p>
-
-<h2 id="portre-kadraj-türleri">Portre Kadraj Türleri</h2>
-
-<h3 id="1-çok-yakın-plan-extreme-close-up">1. Çok Yakın Plan (Extreme Close-Up)</h3>
-
-<p>Bu kadrajda genellikle:</p>
+<p>Fotoğraf çekmenin en temel nedeni, anları kalıcı hale getirme arzusudur. İnsan hafızası zamanla silikleşir; detaylar kaybolur, duygular bulanıklaşır. Fotoğraflar ise zamanı dondurur.</p>
 
 <ul>
-  <li>Sadece gözler</li>
-  <li>Yüzün bir bölümü</li>
-  <li>Dudaklar veya bakış</li>
+  <li>Doğum günleri</li>
+  <li>Tatiller</li>
+  <li>Aile buluşmaları</li>
+  <li>Özel başarı anları</li>
 </ul>
 
-<p>yer alır.</p>
+<p>Bu kareler, yıllar sonra bile o anın duygusunu yeniden yaşatır. Fotoğraf, bir anlamda <strong>kişisel zaman kapsülü</strong> görevi görür.</p>
 
-<p><strong>Ne zaman kullanılır?</strong></p>
+<h2 id="2-duyguları-i̇fade-etme-aracı">2. Duyguları İfade Etme Aracı</h2>
+
+<p>Fotoğraf sadece belge değildir; aynı zamanda güçlü bir ifade biçimidir. Bir fotoğraf:</p>
 
 <ul>
-  <li>Güçlü duygu vurgusu gerektiğinde</li>
-  <li>Dramatik portrelerde</li>
-  <li>Sanatsal çalışmalarda</li>
+  <li>Mutluluğu</li>
+  <li>Yalnızlığı</li>
+  <li>Huzuru</li>
+  <li>Kaosu</li>
 </ul>
 
-<p><strong>Avantajı:</strong> İzleyici ile çok güçlü bağ kurar.<br />
-<strong>Risk:</strong> Odak kaçarsa fotoğraf başarısız olur.</p>
+<p>tek karede anlatabilir.</p>
 
-<h3 id="2-yakın-plan-close-up--headshot">2. Yakın Plan (Close-Up / Headshot)</h3>
+<p>Özellikle sanat fotoğrafçılığında fotoğraf, kelimelerin yetersiz kaldığı yerde devreye girer. Bu yüzden birçok kişi için fotoğraf çekmek, <strong>görsel bir dil konuşmak</strong> gibidir.</p>
 
-<p>En klasik portre türüdür. Kadraj genellikle:</p>
+<h2 id="3-hikâye-anlatma-i̇htiyacı">3. Hikâye Anlatma İhtiyacı</h2>
+
+<p>İnsan doğası gereği hikâye anlatmayı sever. Fotoğraf da modern çağın en etkili hikâye anlatım araçlarından biridir.</p>
+
+<p>Bir sokak fotoğrafı:</p>
 
 <ul>
-  <li>Baş ve omuzlar</li>
-  <li>Bazen sadece yüz</li>
+  <li>Bir şehrin ruhunu</li>
+  <li>Bir insanın yaşam mücadelesini</li>
+  <li>Günlük hayatın akışını</li>
 </ul>
 
-<p>şeklindedir.</p>
+<p>anlatabilir.</p>
 
-<p><strong>Nerelerde kullanılır?</strong></p>
+<p>Özellikle blog yazarları, içerik üreticileri ve sosyal medya kullanıcıları için fotoğraf, anlatının vazgeçilmez parçasıdır.</p>
+
+<h2 id="4-sosyal-paylaşım-ve-görünür-olma-i̇steği">4. Sosyal Paylaşım ve Görünür Olma İsteği</h2>
+
+<p>Dijital çağda fotoğraf çekmenin motivasyonları değişti. Artık fotoğraflar sadece saklanmıyor, aynı zamanda paylaşılıyor.</p>
+
+<p>Bugün insanlar fotoğraf çekiyor çünkü:</p>
 
 <ul>
-  <li>Kurumsal portreler</li>
-  <li>Oyuncu headshot’ları</li>
-  <li>LinkedIn ve profil fotoğrafları</li>
-  <li>Güzellik çekimleri</li>
+  <li>Sosyal medyada var olmak istiyor</li>
+  <li>Deneyimlerini göstermek istiyor</li>
+  <li>Beğeni ve etkileşim almak istiyor</li>
+  <li>Kişisel marka oluşturmak istiyor</li>
 </ul>
 
-<p><strong>Özelliği:</strong> Yüz ifadesi tamamen ön plandadır.<br />
-<strong>En uygun odak uzaklığı:</strong> 50mm – 135mm (full frame)</p>
+<p>Bu durum fotoğrafı, <strong>sosyal iletişimin temel araçlarından biri</strong> haline getirdi.</p>
 
-<p>Bu kadraj, fotoğraf dünyasında en net şekilde “portre” olarak kabul edilen çekimdir.</p>
+<h2 id="5-estetik-haz-ve-güzeli-yakalama-tutkusu">5. Estetik Haz ve Güzeli Yakalama Tutkusu</h2>
 
-<h3 id="3-omuz-üstü-kadraj-head-and-shoulders">3. Omuz Üstü Kadraj (Head and Shoulders)</h3>
+<p>Bazı insanlar için fotoğraf çekmek tamamen estetik bir tatmindir. Işığın yüzeye düşüşü, renklerin uyumu, kompozisyonun dengesi…</p>
 
-<p>Yakın planın biraz daha geniş versiyonudur. Kadrajda:</p>
+<p>Fotoğrafçılar çoğu zaman şu duygunun peşindedir:</p>
+
+<blockquote>
+  <p>“Gördüğüm güzelliği başkaları da görsün.”</p>
+</blockquote>
+
+<p>Bu motivasyon özellikle şu alanlarda güçlüdür:</p>
 
 <ul>
-  <li>Baş</li>
-  <li>Omuzlar</li>
-  <li>Üst göğüs kısmı</li>
+  <li>Manzara fotoğrafçılığı</li>
+  <li>Mimari fotoğrafçılık</li>
+  <li>Makro çekimler</li>
+  <li>Minimal fotoğrafçılık</li>
 </ul>
 
-<p>yer alır.</p>
+<h2 id="6-kontrol-etme-ve-anı-sahiplenme-duygusu">6. Kontrol Etme ve Anı Sahiplenme Duygusu</h2>
 
-<p><strong>Ne zaman tercih edilir?</strong></p>
+<p>Psikolojik açıdan fotoğraf çekmek, yaşanan an üzerinde kontrol kurma hissi de verir. Bir anı fotoğraflamak:</p>
 
 <ul>
-  <li>Daha doğal görünüm istendiğinde</li>
-  <li>Kurumsal çekimlerde</li>
-  <li>Editoryal portrelerde</li>
+  <li>Onu fark ettiğimizi</li>
+  <li>Ona değer verdiğimizi</li>
+  <li>Onu kaybetmek istemediğimizi</li>
 </ul>
 
-<p><strong>Avantajı:</strong> Hem yüz hem beden dili okunur.<br />
-<strong>Kullanım alanı:</strong> Dergi portreleri için çok popülerdir.</p>
+<p>gösterir.</p>
 
-<h3 id="4-yarım-boy-portre-half-body--waist-up">4. Yarım Boy Portre (Half Body / Waist-Up)</h3>
+<p>Araştırmalar, insanların önemli gördükleri anları daha sık fotoğrafladığını ortaya koyuyor. Yani fotoğraf çekmek, aslında <strong>önceliklerimizin bir haritası</strong>dır.</p>
 
-<p>Bu kadrajda model genellikle bel hizasına kadar görünür.</p>
+<h2 id="7-profesyonel-ve-ekonomik-nedenler">7. Profesyonel ve Ekonomik Nedenler</h2>
 
-<p><strong>Portre sayılır mı?</strong><br />
-Evet. Çünkü odak hâlâ kişidedir ve yüz ifadesi önemlidir.</p>
-
-<p><strong>Ne zaman kullanılır?</strong></p>
+<p>Fotoğraf çekmenin her zaman duygusal nedenleri yoktur. Günümüzde fotoğraf:</p>
 
 <ul>
-  <li>Moda portrelerinde</li>
-  <li>Sosyal medya çekimlerinde</li>
-  <li>Hikâye anlatımı gereken durumlarda</li>
+  <li>Bir meslek</li>
+  <li>Bir gelir kapısı</li>
+  <li>Bir pazarlama aracı</li>
+  <li>Bir marka unsuru</li>
 </ul>
 
-<p><strong>Avantajı:</strong> El hareketleri ve beden dili fotoğrafa dahil olur.<br />
-<strong>Dikkat edilmesi gereken:</strong> Eller kadraja giriyorsa poz çok önemlidir.</p>
+<p>haline gelmiştir.</p>
 
-<h3 id="5-diz-üstü-kadraj-three-quarter-portrait">5. Diz Üstü Kadraj (Three-Quarter Portrait)</h3>
-
-<p>Model diz üstünden kesilir.</p>
-
-<p><strong>Özellikleri:</strong></p>
+<p>Özellikle şu alanlarda fotoğraf kritik rol oynar:</p>
 
 <ul>
-  <li>Daha çevresel bilgi verir</li>
-  <li>Stil ve kıyafet daha görünür</li>
-  <li>Ama odak hâlâ kişidedir</li>
+  <li>Emlak ilanları</li>
+  <li>E-ticaret ürünleri</li>
+  <li>Restoran menüleri</li>
+  <li>Kişisel marka yönetimi</li>
 </ul>
 
-<p><strong>Portre kategorisine girer mi?</strong><br />
-Evet, özellikle moda ve editoryal fotoğrafçılıkta portre kabul edilir.</p>
+<p>Kaliteli fotoğraf, doğrudan satış ve güven üzerinde etkilidir.</p>
 
-<p><strong>Ne zaman kullanılır?</strong></p>
+<h2 id="8-kendini-keşfetme-ve-farkındalık">8. Kendini Keşfetme ve Farkındalık</h2>
+
+<p>Fotoğraf çekmek aynı zamanda kişinin bakışını eğitir. Düzenli fotoğraf çeken insanlar zamanla:</p>
 
 <ul>
-  <li>Moda çekimleri</li>
-  <li>Lifestyle portreler</li>
-  <li>Blog ve sosyal medya içerikleri</li>
+  <li>Detayları daha çok fark eder</li>
+  <li>Işığa daha duyarlı olur</li>
+  <li>Kompozisyonu günlük hayatta bile görmeye başlar</li>
 </ul>
 
-<h3 id="6-tam-boy-portre-full-body-portrait">6. Tam Boy Portre (Full Body Portrait)</h3>
+<p>Bu süreç, fotoğrafı bir hobiden çıkarıp <strong>farkındalık pratiğine</strong> dönüştürebilir.</p>
 
-<p>Model baştan ayağa kadraj içindedir.</p>
+<h2 id="sonuç-fotoğraf-çekmek-aslında-nedir">Sonuç: Fotoğraf Çekmek Aslında Nedir?</h2>
 
-<p>Burada kritik soru şudur:<br />
-<strong>Her tam boy fotoğraf portre midir?</strong></p>
+<p>Fotoğraf çekmek; anı biriktirmek, kendini ifade etmek, hikâye anlatmak, görünür olmak ve güzeli yakalama çabasının birleşimidir. Her deklanşöre basışın arkasında küçük bir “unutmak istemiyorum” duygusu yatar.</p>
 
-<p>Cevap: Duruma bağlı.</p>
+<p>Belki de bu yüzden fotoğraf, icat edildiği günden beri insan hayatının merkezinde:</p>
 
-<p><strong>Portre sayılması için:</strong></p>
-
-<ul>
-  <li>Kişi ana odak olmalı</li>
-  <li>Arka plan ikinci planda kalmalı</li>
-  <li>Fotoğraf kişiyi anlatmalı</li>
-</ul>
-
-<p>Eğer çevre çok baskınsa bu çekim “çevresel portre” veya “lifestyle fotoğraf” olarak da değerlendirilebilir.</p>
-
-<h3 id="7-çevresel-portre-environmental-portrait">7. Çevresel Portre (Environmental Portrait)</h3>
-
-<p>Bu türde kişi kendi ortamı içinde fotoğraflanır.</p>
-
-<p>Örnekler:</p>
-
-<ul>
-  <li>Atölyesinde zanaatkâr</li>
-  <li>Ofisinde çalışan</li>
-  <li>Mutfağında şef</li>
-  <li>Sokakta müzisyen</li>
-</ul>
-
-<p><strong>Kadraj geniş olabilir ama hâlâ portredir.</strong></p>
-
-<p><strong>Temel amaç:</strong><br />
-Kişiyi + hikâyesini birlikte anlatmak.</p>
-
-<p><strong>Modern portre fotoğrafçılığında çok değerlidir.</strong></p>
-
-<h2 id="portre-kadrajını-belirleyen-faktörler">Portre Kadrajını Belirleyen Faktörler</h2>
-
-<h3 id="1-çekimin-amacı">1. Çekimin Amacı</h3>
-
-<ul>
-  <li>Profil fotoğrafı → yakın plan</li>
-  <li>Moda çekimi → yarım boy veya diz üstü</li>
-  <li>Hikâye anlatımı → çevresel portre</li>
-</ul>
-
-<h3 id="2-duygu-yoğunluğu">2. Duygu Yoğunluğu</h3>
-
-<ul>
-  <li>Daha dramatik → yakın plan</li>
-  <li>Daha doğal → yarım boy</li>
-  <li>Daha hikâyesel → geniş kadraj</li>
-</ul>
-
-<h3 id="3-kullanım-alanı">3. Kullanım Alanı</h3>
-
-<ul>
-  <li>LinkedIn → headshot</li>
-  <li>Instagram → yarım boy</li>
-  <li>Dergi → omuz üstü veya diz üstü</li>
-  <li>Belgesel → çevresel portre</li>
-</ul>
-
-<h2 id="yeni-başlayanların-yaptığı-kadraj-hataları">Yeni Başlayanların Yaptığı Kadraj Hataları</h2>
-
-<p><strong>1. Çok geniş çekmek</strong><br />
-Kişi kadrajda kaybolur, portre etkisi zayıflar.</p>
-
-<p><strong>2. Yanlış kesim noktaları</strong></p>
-
-<p>Şuralardan kesmek genellikle kötü görünür:</p>
-
-<ul>
-  <li>Tam eklem noktaları</li>
-  <li>Diz kapağı</li>
-  <li>Dirsek</li>
-  <li>Boyun ortası</li>
-</ul>
-
-<p><strong>3. Boşluk dengesini kuramamak</strong></p>
-
-<ul>
-  <li>Baş üstü payı çok fazla</li>
-  <li>Model kadrajın ortasına çakılı</li>
-  <li>Bakış yönünde boşluk yok</li>
-</ul>
-
-<h2 id="profesyonel-portre-i̇çin-kadraj-i̇puçları">Profesyonel Portre İçin Kadraj İpuçları</h2>
-
-<ul>
-  <li>Gözlere mutlaka netlik ver</li>
-  <li>Baş üstü payını abartma</li>
-  <li>85mm civarı odak uzaklığı portre için güvenlidir</li>
-  <li>Arka planı mümkün olduğunca sade tut</li>
-  <li>Modelin bakış yönüne boşluk bırak</li>
-  <li>Kadrajı modele göre değil, hikâyeye göre seç</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Portre fotoğrafçılığı yalnızca yakın plan yüz çekimlerinden ibaret değildir. Çok yakın plandan tam boya kadar birçok kadraj portre olarak kabul edilebilir. Belirleyici olan şey kadrajın genişliği değil, fotoğrafın odağının insan ve onun ifadesi olmasıdır.</p>
-
-<p>Doğru kadraj seçimi; vermek istediğiniz duyguya, çekimin amacına ve fotoğrafın kullanılacağı yere göre değişir. Bu nedenle iyi bir portre fotoğrafçısı, tüm kadraj türlerini bilir ve sahneye göre bilinçli seçim yapar.</p>]]></content><author><name></name></author><category term="portre" /><summary type="html"><![CDATA[Portre çekiminde hangi kadrajlar kullanılır? Yakın plan, yarım boy ve tam boy portre türlerini örnekler ve ipuçlarıyla detaylı öğrenin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/hangi-kadrajlar-portre-cekimi-olarak-kabul-edilir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instagram Fotoğraf Ölçüleri 2026</title><link href="http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari" rel="alternate" type="text/html" title="Instagram Fotoğraf Ölçüleri 2026" /><published>2026-02-08T00:00:00+03:00</published><updated>2026-02-08T00:00:00+03:00</updated><id>http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari</id><content type="html" xml:base="http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari"><![CDATA[<p>Instagram, 2026 itibarıyla hâlâ görsel odaklı en güçlü sosyal medya platformlarından biri. Ancak kaliteli bir fotoğraf çekmek tek başına yeterli değil. Yanlış ölçülerle yüklenen görseller kırpılabilir, bulanıklaşabilir ve etkileşim kaybına yol açabilir.</p>
+<p><strong>Çünkü zaman akıyor — biz ise onu durdurmak istiyoruz.</strong></p>]]></content><author><name></name></author><category term="fotoğraf" /><summary type="html"><![CDATA[Neden fotoğraf çekeriz? Anıları ölümsüzleştirme, duyguları ifade etme ve hikâye anlatma gibi fotoğraf çekmenin psikolojik ve kültürel nedenlerini keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/neden-fotograf-cekeriz.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/neden-fotograf-cekeriz.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Instagram Fotoğraf Ölçüleri 2026</title><link href="http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari" rel="alternate" type="text/html" title="Instagram Fotoğraf Ölçüleri 2026" /><published>2026-02-08T00:00:00+03:00</published><updated>2026-02-08T00:00:00+03:00</updated><id>http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari</id><content type="html" xml:base="http://localhost:4000/2026-guncel-instagram-fotograf-boyutlari"><![CDATA[<p>Instagram, 2026 itibarıyla hâlâ görsel odaklı en güçlü sosyal medya platformlarından biri. Ancak kaliteli bir fotoğraf çekmek tek başına yeterli değil. Yanlış ölçülerle yüklenen görseller kırpılabilir, bulanıklaşabilir ve etkileşim kaybına yol açabilir.</p>
 
 <p>Bu yazıda 2026 yılı için güncel Instagram fotoğraf ölçülerini, hangi formatın ne zaman kullanılacağını ve görsel kalitenin nasıl korunacağını detaylı şekilde bulacaksınız.</p>
 
@@ -1244,74 +1370,4 @@ Uzun cevap: <strong>Stok fotoğrafçılık ölmedi, ciddi bir dönüşüm geçir
 
 <p>2026’da stok fotoğrafçılık, <strong>rastgele fotoğraf yükleyip para kazanma işi değil</strong>, bilinçli bir içerik üretim modeli hâline gelmiş durumda.</p>
 
-<p>Doğru niş, doğru konsept ve sürdürülebilir üretimle hâlâ gelir elde etmek mümkün.</p>]]></content><author><name></name></author><category term="stok fotoğrafçılık" /><summary type="html"><![CDATA[Stok fotoğrafçılık öldü mü? 2026’da hâlâ satılan fotoğraf türleri, kazandıran nişler ve yapay zekâ sonrası güncel stok fotoğraf stratejileri.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/stok-fotografcilik-oldu-mu-2026da-hala-satilan-fotograf-turleri.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/stok-fotografcilik-oldu-mu-2026da-hala-satilan-fotograf-turleri.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sosyal Medyada 2026 Fotoğraf Estetiği: Neden ‘Kusurlu’ Fotoğraflar Daha Çok Tutuyor?</title><link href="http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor" rel="alternate" type="text/html" title="Sosyal Medyada 2026 Fotoğraf Estetiği: Neden ‘Kusurlu’ Fotoğraflar Daha Çok Tutuyor?" /><published>2026-01-20T00:00:00+03:00</published><updated>2026-01-20T00:00:00+03:00</updated><id>http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor</id><content type="html" xml:base="http://localhost:4000/sosyal-medyada-2025-fotograf-estetigi-neden-kusurlu-fotograflar-daha-cok-tutuyor"><![CDATA[<p>Son yıllarda sosyal medya platformlarında fotoğraf estetiği köklü bir değişim geçiriyor. Bir zamanların kusursuz ışıklandırılmış, ağır filtreli ve profesyonel çekim hissi veren kareleri artık eskisi kadar ilgi görmüyor. 2026 itibarıyla kullanıcıların dikkatini çeken ve etkileşim alan içerikler; daha ham, daha doğal ve hatta teknik olarak “kusurlu” sayılabilecek fotoğraflar oluyor. Bu durum yalnızca geçici bir trend değil, dijital kültürde yaşanan daha büyük bir dönüşümün yansıması.</p>
-
-<p>Bu yazıda, 2026 fotoğraf estetiğinin neden kusurlu görüntülere yöneldiğini, bunun arkasındaki psikolojik ve kültürel nedenleri ve bu estetiğin sosyal medyada nasıl etkili kullanılabileceğini detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="kusurlu-fotoğraf-estetiği-nedir">Kusurlu Fotoğraf Estetiği Nedir?</h2>
-
-<p>Kusurlu fotoğraf estetiği; geleneksel fotoğraf kurallarının bilinçli olarak esnetildiği, hatta zaman zaman tamamen göz ardı edildiği bir yaklaşımı ifade eder. Bu estetik anlayışında fotoğrafın “mükemmel” olması değil, “gerçek” olması önemlidir.</p>
-
-<p>Bu tarz fotoğraflarda sıkça şu unsurlar görülür:</p>
-
-<ul>
-  <li>Hafif bulanıklık veya netlik kaybı</li>
-  <li>Doğal ve kontrolsüz ışık</li>
-  <li>Film grenleri ve parazitler</li>
-  <li>Asimetrik veya rastgele kompozisyonlar</li>
-  <li>Filtre kullanılmadan paylaşılan kareler</li>
-</ul>
-
-<p>Bu görüntüler izleyiciye planlanmış bir sahne yerine, anın içinden yakalanmış bir kesit hissi verir. Tam da bu nedenle daha samimi algılanır.</p>
-
-<h2 id="2026da-kusurlu-fotoğraflar-neden-daha-çok-tutuyor">2026’da Kusurlu Fotoğraflar Neden Daha Çok Tutuyor?</h2>
-
-<h3 id="gerçeklik-ve-samimiyet-i̇htiyacı">Gerçeklik ve Samimiyet İhtiyacı</h3>
-
-<p>Sosyal medya kullanıcıları yıllarca idealize edilmiş hayatlara, kusursuz bedenlere ve filtrelenmiş yüzlere maruz kaldı. Bu durum zamanla bir doygunluk yarattı. 2026’ya gelindiğinde kullanıcıların büyük bir bölümü artık kendine benzeyen, hataları olan ve gerçek hayata daha yakın içerikler görmek istiyor. Kusurlu fotoğraflar bu ihtiyaca doğrudan cevap veriyor.</p>
-
-<h3 id="algoritmaların-değişen-öncelikleri">Algoritmaların Değişen Öncelikleri</h3>
-
-<p>Başta <strong>Instagram</strong> olmak üzere pek çok platform, kullanıcıyı platformda daha uzun süre tutacak içerikleri öne çıkarmayı hedefliyor. Ham ve doğal fotoğraflar, “reklam gibi” görünmedikleri için daha fazla duraksama ve etkileşim yaratıyor. Bu da algoritmalar tarafından olumlu sinyal olarak algılanıyor.</p>
-
-<h3 id="dijital-mükemmelliğe-karşı-tepki">Dijital Mükemmelliğe Karşı Tepki</h3>
-
-<p>Her şeyin kusursuz göründüğü bir dijital dünyada, kusur dikkat çekici bir unsur haline geliyor. Hafif eğri bir kadraj ya da fazla karanlık bir ışık, izleyicinin gözünde fotoğrafı daha “insani” yapıyor. Bu da içeriğin akılda kalıcılığını artırıyor.</p>
-
-<h3 id="duygusal-bağ-ve-hikâye-anlatımı">Duygusal Bağ ve Hikâye Anlatımı</h3>
-
-<p>Kusurlu fotoğraflar genellikle daha güçlü bir hikâye hissi taşır. Çünkü bu kareler poz verilmiş anlardan çok, yaşanmış anlara benzer. İzleyici bu tür fotoğrafları kendi deneyimleriyle daha kolay ilişkilendirir ve bu da duygusal bağ kurmayı kolaylaştırır.</p>
-
-<h2 id="kusurlu-estetiğin-psikolojik-arka-planı">Kusurlu Estetiğin Psikolojik Arka Planı</h2>
-
-<p>Psikolojik açıdan bakıldığında insanlar, kendilerine benzer olan şeylere daha fazla güvenir. Aşırı düzenlenmiş fotoğraflar bilinçaltında “pazarlama” hissi uyandırırken, kusurlu fotoğraflar daha az savunma mekanizmasını tetikler. Bu durum, özellikle kişisel hesaplar ve içerik üreticileri için etkileşim oranlarını doğrudan etkiler.</p>
-
-<p>Ayrıca kusurlu estetik, kontrolsüzlük hissi sayesinde daha özgür bir algı yaratır. İzleyici, içeriğin üretim sürecine değil, içerdiği duyguya odaklanır.</p>
-
-<h2 id="sosyal-medyada-kusurlu-fotoğraf-estetiği-nasıl-uygulanır">Sosyal Medyada Kusurlu Fotoğraf Estetiği Nasıl Uygulanır?</h2>
-
-<h3 id="doğal-işıktan-yararlan">Doğal Işıktan Yararlan</h3>
-
-<p>Yapay ışıklar yerine gün ışığı, gölgeler ve ışık kırılmaları kullanmak fotoğrafa derinlik kazandırır. Işığın her zaman “doğru” olmasına gerek yoktur.</p>
-
-<h3 id="anı-yakala-poz-verdirmeye-zorlama">Anı Yakala, Poz Verdirmeye Zorlama</h3>
-
-<p>Hareket halindeki anlar, gülüşler, yürüyüşler veya küçük detaylar kusurlu estetiğin temelini oluşturur. Fotoğrafın biraz bulanık olması sorun değil, hatta çoğu zaman avantajdır.</p>
-
-<h3 id="minimal-düzenleme-yap">Minimal Düzenleme Yap</h3>
-
-<p>Aşırı kontrast, keskinlik ve renk doygunluğu kusurlu estetiğin ruhuna aykırıdır. Düzenleme yaparken fotoğrafın doğal hatalarını tamamen yok etmeye çalışma.</p>
-
-<h3 id="analog-ve-film-hissi-veren-dokular-kullan">Analog ve Film Hissi Veren Dokular Kullan</h3>
-
-<p>Film grenleri, soluk renkler ve hafif renk kaymaları fotoğrafa nostaljik bir hava katar ve dijital soğukluğu kırar.</p>
-
-<h2 id="markalar-ve-i̇çerik-üreticiler-i̇çin-anlamı">Markalar ve İçerik Üreticiler İçin Anlamı</h2>
-
-<p>2026’ta kusurlu estetik, markalar için daha “insan” bir iletişim dili anlamına geliyor. Ürünü kusursuz göstermekten çok, ürünün gerçek hayattaki kullanım anlarını göstermek daha etkili hale geliyor. Bu yaklaşım, özellikle küçük markalar ve bireysel üreticiler için büyük bir avantaj sağlıyor.</p>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>2026 fotoğraf estetiğinde kusurlu fotoğraflar bir moda akımı olmanın ötesine geçmiş durumda. Bu yaklaşım, dijital dünyada gerçeklik, samimiyet ve duygusal bağ arayışının bir yansıması. Kullanıcılar artık teknik mükemmellikten çok, kendilerinden bir parça bulabildikleri içeriklere değer veriyor.</p>
-
-<p>Sosyal medyada öne çıkmak isteyen herkes için mesaj net: Kusursuz olmaya çalışma, gerçek olmaya odaklan.</p>]]></content><author><name></name></author><category term="sosyal medya" /><summary type="html"><![CDATA[Bu yazıda, 2026 fotoğraf estetiğinin neden kusurlu görüntülere yöneldiğini, bunun arkasındaki psikolojik ve kültürel nedenleri ve bu estetiğin sosyal medyada nasıl etkili kullanılabileceğini detaylı şekilde ele alıyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/neden-kusurlu-fotograflar-daha-cok-tutuyor.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/neden-kusurlu-fotograflar-daha-cok-tutuyor.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Doğru niş, doğru konsept ve sürdürülebilir üretimle hâlâ gelir elde etmek mümkün.</p>]]></content><author><name></name></author><category term="stok fotoğrafçılık" /><summary type="html"><![CDATA[Stok fotoğrafçılık öldü mü? 2026’da hâlâ satılan fotoğraf türleri, kazandıran nişler ve yapay zekâ sonrası güncel stok fotoğraf stratejileri.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/stok-fotografcilik-oldu-mu-2026da-hala-satilan-fotograf-turleri.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/stok-fotografcilik-oldu-mu-2026da-hala-satilan-fotograf-turleri.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
