@@ -1,4 +1,367 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-30T23:07:37+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">iPhone ile Işığı Yakalamak: Uzun Pozlama Fotoğrafçılığının Tüm İncelikleri</title><link href="http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri" rel="alternate" type="text/html" title="iPhone ile Işığı Yakalamak: Uzun Pozlama Fotoğrafçılığının Tüm İncelikleri" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri</id><content type="html" xml:base="http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri"><![CDATA[<p>Mobil fotoğrafçılık son yıllarda ciddi bir dönüşüm geçirdi ve artık profesyonel görünümlü kareler çekmek için pahalı ekipmanlara ihtiyaç yok. Özellikle iPhone kullanıcıları için uzun pozlama (long exposure), doğru tekniklerle kullanıldığında oldukça etkileyici sonuçlar ortaya çıkarabilir. Bu yazıda iPhone ile uzun pozlama fotoğrafçılığını tüm detaylarıyla ele alacağız.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-04-14T01:08:07+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SiyahBeyaz</title><subtitle>Siyahbeyaz, fotoğrafçılık, sanat, tasarım ve estetik üzerine ilham verici yazılar sunar.</subtitle><entry><title type="html">Mobil Fotoğrafçılıkta Diyafram Etkisini Anlamak ve Ustalaşmak</title><link href="http://localhost:4000/mobil-fotografcilikta-diyafram-etkisini-anlamak-ve-ustalasmak" rel="alternate" type="text/html" title="Mobil Fotoğrafçılıkta Diyafram Etkisini Anlamak ve Ustalaşmak" /><published>2026-04-13T00:00:00+03:00</published><updated>2026-04-13T00:00:00+03:00</updated><id>http://localhost:4000/mobil-fotografcilikta-diyafram-etkisini-anlamak-ve-ustalasmak</id><content type="html" xml:base="http://localhost:4000/mobil-fotografcilikta-diyafram-etkisini-anlamak-ve-ustalasmak"><![CDATA[<p>Mobil fotoğrafçılık son yıllarda ciddi bir dönüşüm geçirdi. Artık akıllı telefonlarla çekilen fotoğraflar, birçok durumda profesyonel makinelerle yarışabilecek seviyeye ulaştı. Bu gelişimin arkasında ise yapay zekâ destekli kamera yazılımları, gelişmiş sensörler ve özellikle de “diyafram” kontrolü gibi fotoğrafçılığın temel unsurları yer alıyor.</p>
+
+<p>Bu yazıda mobil fotoğrafçılıkta diyaframın ne anlama geldiğini, nasıl çalıştığını ve daha etkileyici fotoğraflar çekmek için nasıl kullanabileceğinizi detaylı şekilde ele alacağız.</p>
+
+<h2 id="diyafram-nedir-temel-mantık">Diyafram Nedir? Temel Mantık</h2>
+
+<p>Diyafram, kameraya giren ışık miktarını kontrol eden mekanizmadır. Fotoğrafçılıkta “f değeri” ile ifade edilir (örneğin f/1.8, f/2.4 gibi).</p>
+
+<ul>
+  <li>Düşük f değeri (f/1.8) → Daha fazla ışık → Daha parlak fotoğraf + daha bulanık arka plan</li>
+  <li>Yüksek f değeri (f/8 gibi) → Daha az ışık → Daha net (derin alan) fotoğraf</li>
+</ul>
+
+<p>Mobil cihazlarda fiziksel diyafram çoğu zaman sabittir. Ancak yazılımsal diyafram simülasyonu ve bazı üst segment cihazlarda değişken diyafram teknolojisi sayesinde bu etkiyi kontrol etmek mümkün hale gelmiştir.</p>
+
+<h2 id="mobil-fotoğrafçılıkta-diyaframın-rolü">Mobil Fotoğrafçılıkta Diyaframın Rolü</h2>
+
+<p>Akıllı telefonlarda diyafram, klasik fotoğraf makinelerindeki kadar fiziksel olarak değiştirilebilir olmasa da etkisi oldukça büyüktür.</p>
+
+<h3 id="1-alan-derinliği-arka-plan-bulanıklığı">1. Alan Derinliği (Arka Plan Bulanıklığı)</h3>
+
+<p>Mobil fotoğrafçılıkta diyaframın en çok hissedildiği alan burasıdır.</p>
+
+<ul>
+  <li>f/1.8 gibi düşük değerler: Portre çekimlerinde arka planı bulanıklaştırır (bokeh efekti)</li>
+  <li>f/4 ve üzeri (simülasyon): Manzara çekimlerinde her şeyi net gösterir</li>
+</ul>
+
+<p>Telefonlarda “Portre Modu” aslında diyafram etkisinin yazılımla taklit edilmesidir.</p>
+
+<h3 id="2-işık-performansı-low-light">2. Işık Performansı (Low Light)</h3>
+
+<p>Diyafram açıklığı büyüdükçe sensöre daha fazla ışık girer.</p>
+
+<p>Bu da şu avantajları sağlar:</p>
+
+<ul>
+  <li>Gece çekimlerinde daha az noise (gren)</li>
+  <li>Daha net ve parlak görüntü</li>
+  <li>Daha hızlı çekim süresi</li>
+</ul>
+
+<p>Bu yüzden gece fotoğrafçılığı için geniş diyaframlı (örneğin f/1.6 - f/1.8) lensler büyük avantaj sağlar.</p>
+
+<h3 id="3-keskinlik-ve-detay">3. Keskinlik ve Detay</h3>
+
+<p>Her ne kadar düşük f değeri daha fazla ışık sağlasa da, bazı durumlarda görüntü keskinliği düşebilir.</p>
+
+<p>Mobilde bu durum genellikle yazılımla dengelenir. Ancak şunu bilmek önemli:</p>
+
+<ul>
+  <li>Portrelerde düşük diyafram idealdir</li>
+  <li>Mimari ve manzara çekimlerinde daha yüksek diyafram tercih edilmelidir</li>
+</ul>
+
+<h2 id="mobilde-diyafram-nasıl-kontrol-edilir">Mobilde Diyafram Nasıl Kontrol Edilir?</h2>
+
+<p>Mobil cihazlarda diyafram kontrolü üç şekilde yapılır:</p>
+
+<ol>
+  <li><strong>Portre Modu</strong>
+    <ul>
+      <li>Arka plan bulanıklığını artırıp azaltabilirsiniz</li>
+      <li>Çekim sonrası bile düzenlenebilir</li>
+    </ul>
+  </li>
+  <li><strong>Pro (Manuel) Mod</strong>
+    <ul>
+      <li>Bazı telefonlarda diyafram yerine ISO ve enstantane ile ışık dengesi sağlanır</li>
+      <li>Diyafram sabit olsa bile benzer etki oluşturabilirsiniz</li>
+    </ul>
+  </li>
+  <li><strong>Yapay Zekâ ve Yazılım</strong>
+    <ul>
+      <li>Sahneyi analiz eder</li>
+      <li>Otomatik olarak en uygun diyafram etkisini simüle eder</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="hangi-çekimde-hangi-diyafram-etkisi-kullanılmalı">Hangi Çekimde Hangi Diyafram Etkisi Kullanılmalı?</h2>
+
+<h3 id="portre-fotoğrafları">Portre Fotoğrafları</h3>
+<ul>
+  <li>Düşük diyafram (f/1.8 civarı)</li>
+  <li>Güçlü arka plan bulanıklığı</li>
+  <li>Konu ön plana çıkar</li>
+</ul>
+
+<h3 id="manzara-fotoğrafları">Manzara Fotoğrafları</h3>
+<ul>
+  <li>Yüksek diyafram (simülasyon)</li>
+  <li>Her şey net görünür</li>
+  <li>Derinlik hissi artar</li>
+</ul>
+
+<h3 id="gece-çekimleri">Gece Çekimleri</h3>
+<ul>
+  <li>En düşük diyafram değeri</li>
+  <li>Maksimum ışık girişi</li>
+  <li>Daha az gürültü</li>
+</ul>
+
+<h3 id="ürün-fotoğrafları">Ürün Fotoğrafları</h3>
+<ul>
+  <li>Orta seviyede diyafram</li>
+  <li>Ürün net, arka plan hafif bulanık</li>
+</ul>
+
+<h2 id="mobil-fotoğrafçılıkta-diyafram-kullanımı-i̇çin-i̇puçları">Mobil Fotoğrafçılıkta Diyafram Kullanımı İçin İpuçları</h2>
+
+<ul>
+  <li>Portre çekerken arka planı sade seçin, bokeh daha etkili olur</li>
+  <li>Gece çekimlerinde sabit durmaya özen gösterin</li>
+  <li>Manzara çekerken HDR modunu diyafram etkisiyle birlikte kullanın</li>
+  <li>Portre modunda diyafram değerini sonradan düzenleyerek en iyi sonucu bulun</li>
+  <li>Işığın geliş açısını kontrol ederek diyafram etkisini güçlendirin</li>
+</ul>
+
+<h2 id="gerçek-diyafram-vs-yazılımsal-diyafram">Gerçek Diyafram vs Yazılımsal Diyafram</h2>
+
+<p>Mobil fotoğrafçılıkta önemli bir ayrım vardır:</p>
+
+<ul>
+  <li>Gerçek diyafram: Fiziksel lens açıklığı (bazı üst segment telefonlarda var)</li>
+  <li>Yazılımsal diyafram: Derinlik haritası ile oluşturulan bulanıklık</li>
+</ul>
+
+<p>Çoğu kullanıcı için yazılımsal diyafram yeterlidir. Ancak profesyonel işler için gerçek diyafram avantaj sağlar.</p>
+
+<h2 id="sonuç-diyaframı-anlayan-daha-i̇yi-fotoğraf-çeker">Sonuç: Diyaframı Anlayan Daha İyi Fotoğraf Çeker</h2>
+
+<p>Mobil fotoğrafçılıkta iyi sonuçlar almak yalnızca iyi bir telefona sahip olmakla ilgili değildir. Işığı, kompozisyonu ve özellikle diyafram etkisini doğru kullanmak büyük fark yaratır.</p>
+
+<p>Diyaframı bilinçli kullandığınızda:</p>
+
+<ul>
+  <li>Portreleriniz daha profesyonel görünür</li>
+  <li>Gece çekimleriniz daha net olur</li>
+  <li>Fotoğraflarınız daha derin ve etkileyici hale gelir</li>
+</ul>
+
+<p>Kısacası, cebinizdeki kamera aslında düşündüğünüzden çok daha güçlü. Onu nasıl kullandığınız ise tamamen sizin fotoğrafçılık bilginize bağlı.</p>]]></content><author><name></name></author><category term="mobil fotoğrafçılık" /><category term="diyafram" /><summary type="html"><![CDATA[Bu yazıda mobil fotoğrafçılıkta diyaframın ne anlama geldiğini, nasıl çalıştığını ve daha etkileyici fotoğraflar çekmek için nasıl kullanabileceğinizi detaylı şekilde ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/04/mobil-fotografcilikta-diyafram-etkisini-anlamak-ve-ustalasmak.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/04/mobil-fotografcilikta-diyafram-etkisini-anlamak-ve-ustalasmak.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Açık Kompozisyon Nedir? Fotoğrafta Sınırların Ötesine Geçmek</title><link href="http://localhost:4000/acik-kompozisyon-nedir-fotografta-sinirlarin-otesine-gecmek" rel="alternate" type="text/html" title="Açık Kompozisyon Nedir? Fotoğrafta Sınırların Ötesine Geçmek" /><published>2026-04-13T00:00:00+03:00</published><updated>2026-04-13T00:00:00+03:00</updated><id>http://localhost:4000/acik-kompozisyon-nedir-fotografta-sinirlarin-otesine-gecmek</id><content type="html" xml:base="http://localhost:4000/acik-kompozisyon-nedir-fotografta-sinirlarin-otesine-gecmek"><![CDATA[<p>Fotoğrafçılıkta kompozisyon, bir kareyi sıradanlıktan çıkarıp etkileyici hale getiren en önemli unsurlardan biridir. Çoğu kişi kompozisyon denince “kadrajın içini doldurmak” gerektiğini düşünür. Ancak güçlü bir anlatım için bazen tam tersini yapmak gerekir: <strong>kadrajı bilinçli olarak açık bırakmak</strong>.</p>
+
+<p>Bu yazıda, fotoğrafta “açık kompozisyon” kavramını detaylı şekilde ele alacak, nasıl uygulanacağını ve hangi durumlarda daha etkili sonuçlar verdiğini inceleyeceğiz.</p>
+
+<h2 id="açık-kompozisyon-nedir">Açık Kompozisyon Nedir?</h2>
+
+<p>Açık kompozisyon, fotoğraf karesinin sınırlarının ötesine uzanan bir hikâye hissi yaratan kompozisyon türüdür. Yani izleyiciye şu mesaj verilir:</p>
+
+<blockquote>
+  <p>“Bu sahne sadece bu kareden ibaret değil, devamı var.”</p>
+</blockquote>
+
+<p>Bu yaklaşımda ana konu genellikle kadrajın tamamını doldurmaz. Çevredeki boşluklar (negatif alan), sahnenin bir parçası haline gelir.</p>
+
+<h2 id="açık-kompozisyonun-temel-özellikleri">Açık Kompozisyonun Temel Özellikleri</h2>
+
+<p>Açık kompozisyonu diğer kompozisyon türlerinden ayıran bazı belirgin özellikler vardır:</p>
+
+<ol>
+  <li><strong>Negatif Alan Kullanımı</strong>: Konu etrafında geniş boşluklar bırakılır. Bu boşluklar, fotoğrafın nefes almasını sağlar.</li>
+  <li><strong>Kadraj Dışına Taşan Hikâye</strong>: Fotoğrafın içinde olmayan ama varlığı hissedilen unsurlar bulunur. İzleyici merak eder: “Devamında ne var?”</li>
+  <li><strong>Asimetrik Yerleşim</strong>: Konu genellikle ortada değil; sağda, solda veya köşeye yakın konumlandırılır.</li>
+  <li><strong>Doğallık ve Anlık Hissiyat</strong>: Açık kompozisyon, sahnenin “kurgu değilmiş” hissini güçlendirir.</li>
+</ol>
+
+<h2 id="açık-kompozisyon-ne-zaman-kullanılır">Açık Kompozisyon Ne Zaman Kullanılır?</h2>
+
+<p>Açık kompozisyon her fotoğraf için uygun değildir. Ancak doğru kullanıldığında çok güçlü bir etki yaratır.</p>
+
+<ul>
+  <li><strong>Sokak Fotoğrafçılığı</strong>: İnsanların doğal anlarını yakalarken çevreyle birlikte hikâye anlatmak için idealdir.</li>
+  <li><strong>Manzara Fotoğrafçılığı</strong>: Geniş alan hissi vermek, doğanın büyüklüğünü vurgulamak için kullanılır.</li>
+  <li><strong>Minimalist Fotoğraflar</strong>: Az obje ile güçlü bir etki yaratmak için boşluklar bilinçli şekilde kullanılır.</li>
+  <li><strong>Hikâye Anlatımı</strong>: İzleyicinin hayal gücünü devreye sokmak istediğinizde açık kompozisyon en doğru tercihlerden biridir.</li>
+</ul>
+
+<h2 id="açık-kompozisyon-nasıl-kurulur">Açık Kompozisyon Nasıl Kurulur?</h2>
+
+<p>Bu tarzı uygulamak için dikkat etmen gereken bazı teknikler var:</p>
+
+<ol>
+  <li><strong>Konuyu Kadrajın Ortasına Koyma</strong>: Altın oran veya üçler kuralını kullanarak konuyu kenarlara yerleştir.</li>
+  <li><strong>Boşluklardan Korkma</strong>: Yeni başlayanların en büyük hatası boş alan bırakmamaktır. Oysa açık kompozisyonda boşluk, anlatımın bir parçasıdır.</li>
+  <li><strong>Bakış Yönüne Alan Bırak</strong>: Eğer kadrajda bir insan veya hareket eden bir nesne varsa, baktığı ya da gittiği yönde boşluk bırak.</li>
+  <li><strong>Arka Planı Sade Tut</strong>: Dikkat dağıtan unsurlar açık kompozisyonun etkisini azaltır.</li>
+  <li><strong>Perspektif ile Derinlik Kat</strong>: Geniş açı kullanarak sahnenin devam ettiği hissini güçlendirebilirsin.</li>
+</ol>
+
+<h2 id="açık-kompozisyonun-avantajları">Açık Kompozisyonun Avantajları</h2>
+
+<ul>
+  <li>Daha güçlü hikâye anlatımı sağlar</li>
+  <li>İzleyicinin hayal gücünü harekete geçirir</li>
+  <li>Minimalist ve estetik kareler oluşturur</li>
+  <li>Profesyonel bir görünüm kazandırır</li>
+</ul>
+
+<h2 id="açık-kompozisyonda-yapılan-hatalar">Açık Kompozisyonda Yapılan Hatalar</h2>
+
+<ul>
+  <li><strong>Fazla Boşluk Kullanımı</strong>: Boşluk bilinçsiz kullanılırsa fotoğraf anlamsız görünebilir.</li>
+  <li><strong>Konunun Kaybolması</strong>: Ana unsur çok küçük kalırsa izleyici neye odaklanacağını bilemez.</li>
+  <li><strong>Dikkat Dağıtan Arka Plan</strong>: Açık kompozisyon sade olmalıdır; karmaşa etkisini yok eder.</li>
+</ul>
+
+<h2 id="açık-ve-kapalı-kompozisyon-arasındaki-fark">Açık ve Kapalı Kompozisyon Arasındaki Fark</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Özellik</th>
+      <th>Açık Kompozisyon</th>
+      <th>Kapalı Kompozisyon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hikâye</td>
+      <td>Kadraj dışına taşar</td>
+      <td>Kadraj içinde tamamlanır</td>
+    </tr>
+    <tr>
+      <td>Yerleşim</td>
+      <td>Asimetrik</td>
+      <td>Dengeli ve merkezli</td>
+    </tr>
+    <tr>
+      <td>Alan Kullanımı</td>
+      <td>Negatif alan yoğun</td>
+      <td>Kadraj dolu</td>
+    </tr>
+    <tr>
+      <td>Etki</td>
+      <td>Doğal ve özgür</td>
+      <td>Kontrollü ve net</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Açık kompozisyon, fotoğrafçılıkta ustalık seviyesine geçişin önemli adımlarından biridir. Kuralları yıkmak gibi görünse de aslında daha derin bir anlatım kurmanı sağlar.</p>
+
+<p>Eğer fotoğraflarında daha fazla duygu, hikâye ve derinlik yaratmak istiyorsan, kadrajın dışını da düşünmeye başlamalısın.</p>
+
+<p>Unutma: <strong>Bazen en güçlü şey, kadrajın içinde olan değil; dışında bıraktığındır.</strong></p>]]></content><author><name></name></author><category term="kompozisyon" /><category term="fotoğrafçılık" /><summary type="html"><![CDATA[Bu yazıda, fotoğrafta açık kompozisyon kavramını detaylı şekilde ele alacak, nasıl uygulanacağını ve hangi durumlarda daha etkili sonuçlar verdiğini inceleyeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/04/acik-kompozisyon-nedir-fotografta-sinirlarin-otesine-gecmek.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/04/acik-kompozisyon-nedir-fotografta-sinirlarin-otesine-gecmek.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Işığın Hassas Dengesi: Mobil Fotoğrafçılıkta ISO’nun Gücünü Anlamak</title><link href="http://localhost:4000/isigin-hassas-dengesi-mobil-fotografcilikta-isonun-gucunu-anlamak" rel="alternate" type="text/html" title="Işığın Hassas Dengesi: Mobil Fotoğrafçılıkta ISO’nun Gücünü Anlamak" /><published>2026-04-13T00:00:00+03:00</published><updated>2026-04-13T00:00:00+03:00</updated><id>http://localhost:4000/isigin-hassas-dengesi-mobil-fotografcilikta-isonun-gucunu-anlamak</id><content type="html" xml:base="http://localhost:4000/isigin-hassas-dengesi-mobil-fotografcilikta-isonun-gucunu-anlamak"><![CDATA[<p>Mobil fotoğrafçılık, akıllı telefon kameralarının gelişimiyle birlikte artık herkesin kaliteli fotoğraflar çekebilmesini sağlıyor. Ancak iyi bir kare yakalamak için yalnızca iyi bir cihaz yetmez; doğru ayarları bilmek gerekir. Bu ayarların başında ise ISO gelir.</p>
+
+<p>Bu yazıda hem ISO’nun ne olduğunu hem de mobil telefonlarda ISO’nun nasıl ayarlanacağını detaylı şekilde ele alacağız.</p>
+
+<h2 id="iso-nedir">ISO Nedir?</h2>
+
+<p>ISO, kameranın ışığa karşı duyarlılığını belirleyen bir değerdir. ISO ne kadar yüksekse sensör o kadar fazla ışık algılar; ne kadar düşükse o kadar az ışık alır.</p>
+
+<ul>
+  <li>Düşük ISO = Daha temiz görüntü, daha az noise</li>
+  <li>Yüksek ISO = Daha aydınlık görüntü, daha fazla noise (gren)</li>
+</ul>
+
+<p>Mobil cihazlarda sensörler küçük olduğu için yüksek ISO kullanımı görüntü kalitesini hızlı şekilde düşürebilir.</p>
+
+<h2 id="iso-değerleri-ne-anlama-gelir">ISO Değerleri Ne Anlama Gelir?</h2>
+
+<ul>
+  <li><strong>ISO 50 – 100:</strong> En temiz görüntü, bol ışıkta kullanılır</li>
+  <li><strong>ISO 200 – 400:</strong> Dengeli kullanım</li>
+  <li><strong>ISO 800 ve üzeri:</strong> Düşük ışıkta gerekli ama kalite düşer</li>
+</ul>
+
+<h2 id="mobil-telefonlarda-iso-nasıl-ayarlanır">Mobil Telefonlarda ISO Nasıl Ayarlanır?</h2>
+
+<p>Mobil cihazlarda ISO ayarı genellikle otomatik çalışır. Ancak daha iyi sonuçlar almak için manuel kontrol (Pro Mod) kullanmanız gerekir.</p>
+
+<h3 id="1-kamera-uygulamasında-pro-profesyonel-modu-açın">1. Kamera Uygulamasında Pro (Profesyonel) Modu Açın</h3>
+
+<p>Çoğu Android telefonda kamera uygulamasında şu seçenekler bulunur:</p>
+
+<ul>
+  <li>Pro</li>
+  <li>Manuel</li>
+  <li>Profesyonel</li>
+</ul>
+
+<p>Bu moda geçtiğinizde ISO, enstantane (S), beyaz dengesi (WB) gibi ayarlar aktif hale gelir.</p>
+
+<p>iPhone tarafında ise varsayılan kamera uygulamasında manuel ISO kontrolü yoktur. Bunun için:</p>
+
+<ul>
+  <li>Halide</li>
+  <li>ProCamera</li>
+  <li>Lightroom Mobile</li>
+</ul>
+
+<p>gibi üçüncü parti uygulamalar kullanmanız gerekir.</p>
+
+<h3 id="2-iso-değerini-manuel-olarak-seçin">2. ISO Değerini Manuel Olarak Seçin</h3>
+
+<p>Pro moda geçtiğinizde genellikle “ISO” olarak etiketlenmiş bir kaydırıcı (slider) görürsünüz.</p>
+
+<p>Buradan:</p>
+
+<ul>
+  <li>Sağa kaydırdıkça ISO artar (görüntü aydınlanır)</li>
+  <li>Sola kaydırdıkça ISO düşer (görüntü kararır ama kalite artar)</li>
+</ul>
+
+<h3 id="3-ortama-göre-iso-ayarlayın">3. Ortama Göre ISO Ayarlayın</h3>
+
+<p>ISO ayarını yaparken bulunduğunuz ortamı analiz etmeniz gerekir:</p>
+
+<ul>
+  <li><strong>Güneşli ortam:</strong> ISO 50 – 100</li>
+  <li><strong>Kapalı hava:</strong> ISO 100 – 200</li>
+  <li><strong>İç mekân:</strong> ISO 200 – 400</li>
+  <li><strong>Gece çekimi:</strong> ISO 800+ (mümkünse sabitleyerek)</li>
+</ul>
+
+<h3 id="4-iso-yerine-alternatifleri-kullanın">4. ISO Yerine Alternatifleri Kullanın</h3>
+
+<p>ISO’yu artırmak her zaman en iyi çözüm değildir. Bunun yerine:</p>
+
+<ul>
+  <li>Telefonu sabitleyip enstantaneyi uzatabilirsiniz</li>
+  <li>Gece modunu kullanabilirsiniz</li>
+  <li>Işık kaynağını artırabilirsiniz</li>
+</ul>
+
+<p>Bu yöntemler daha temiz sonuçlar verir.</p>
+
+<h2 id="iphone-ve-android-arasındaki-fark">iPhone ve Android Arasındaki Fark</h2>
+
+<ul>
+  <li><strong>Android cihazlar:</strong> Genellikle yerleşik Pro mod ile ISO kontrolü sunar</li>
+  <li><strong>iPhone:</strong> Varsayılan uygulamada ISO manuel ayarlanamaz, üçüncü parti uygulama gerekir</li>
+</ul>
+
+<p>Ancak her iki platformda da otomatik mod, çoğu kullanıcı için yeterli sonuç verir.</p>
+
+<h2 id="iso-kullanırken-yapılan-yaygın-hatalar">ISO Kullanırken Yapılan Yaygın Hatalar</h2>
+
+<ul>
+  <li>Gereksiz yere ISO yükseltmek</li>
+  <li>Sadece parlaklığa odaklanmak</li>
+  <li>Noise oluşumunu dikkate almamak</li>
+  <li>Sabitleme kullanmadan gece çekimi yapmak</li>
+</ul>
+
+<h2 id="pratik-bir-örnek">Pratik Bir Örnek</h2>
+
+<p>Gece sokakta fotoğraf çekiyorsunuz:</p>
+
+<ul>
+  <li>ISO’yu 1600’e çıkarırsanız: Görüntü aydınlık ama grenli olur</li>
+  <li>ISO’yu 400’te tutup telefonu sabitlerseniz: Daha temiz ve kaliteli sonuç elde edersiniz</li>
+</ul>
+
+<h2 id="sonuç-iso-kontrolü-fotoğraf-kalitesini-belirler">Sonuç: ISO Kontrolü Fotoğraf Kalitesini Belirler</h2>
+
+<p>Mobil fotoğrafçılıkta ISO, doğru kullanıldığında güçlü bir araçtır. Ancak kontrolsüz kullanımı fotoğrafı bozabilir. Bu yüzden temel prensip her zaman aynıdır:</p>
+
+<p><strong>ISO’yu mümkün olan en düşük seviyede tut ve ışığı farklı yollarla yönet.</strong></p>
+
+<p>Manuel ayarları öğrenmek, sizi otomatik moddan bir adım öteye taşır ve fotoğraflarınızda gözle görülür bir kalite artışı sağlar.</p>]]></content><author><name></name></author><category term="mobil fotoğrafçılık" /><category term="iso" /><summary type="html"><![CDATA[Bu yazıda hem ISO’nun ne olduğunu hem de mobil telefonlarda ISO’nun nasıl ayarlanacağını detaylı şekilde ele alacağız.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/04/isigin-hassas-dengesi-mobil-fotografcilikta-isonun-gucunu-anlamak.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/04/isigin-hassas-dengesi-mobil-fotografcilikta-isonun-gucunu-anlamak.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iPhone ile Işığı Yakalamak: Uzun Pozlama Fotoğrafçılığının Tüm İncelikleri</title><link href="http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri" rel="alternate" type="text/html" title="iPhone ile Işığı Yakalamak: Uzun Pozlama Fotoğrafçılığının Tüm İncelikleri" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri</id><content type="html" xml:base="http://localhost:4000/iphone-ile-isigi-yakalamak-uzun-pozlama-fotografciliginin-tum-incelikleri"><![CDATA[<p>Mobil fotoğrafçılık son yıllarda ciddi bir dönüşüm geçirdi ve artık profesyonel görünümlü kareler çekmek için pahalı ekipmanlara ihtiyaç yok. Özellikle iPhone kullanıcıları için uzun pozlama (long exposure), doğru tekniklerle kullanıldığında oldukça etkileyici sonuçlar ortaya çıkarabilir. Bu yazıda iPhone ile uzun pozlama fotoğrafçılığını tüm detaylarıyla ele alacağız.</p>
 
 <h2 id="uzun-pozlama-nedir">Uzun Pozlama Nedir?</h2>
 
@@ -761,379 +1124,4 @@
 
 <p>İbrahim Zaman, fotoğrafı estetik bir üretimin ötesinde, toplumsal hafızayı koruyan güçlü bir anlatım dili olarak kullanan ustalardan biridir. Yarım asrı aşan üretimi boyunca Türkiye’nin insanını, sokaklarını ve değişen yüzünü sabırla belgeleyen Zaman, Türk fotoğraf tarihinin sessiz ama derin iz bırakan tanıkları arasında yer almaktadır.</p>
 
-<p>Onun mirası, yalnızca çektiği karelerde değil; yetiştirdiği öğrencilerde, yazdığı metinlerde ve fotoğrafa kazandırdığı etik bakışta yaşamaya devam etmektedir.</p>]]></content><author><name></name></author><category term="biyografi" /><summary type="html"><![CDATA[İbrahim Zaman’ın hayatı, fotoğraf anlayışı ve Türk belgesel fotoğrafına katkılarını keşfedin. Usta fotoğrafçının etkileyici kariyer yolculuğu bu yazıda.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/ibrahim-zaman.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/ibrahim-zaman.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cemal Işıksel Kimdir? Türk Fotoğrafçılığının Sessiz Ustası</title><link href="http://localhost:4000/cemal-isiksel-kimdir-turk-fotografciliginin-sessiz-ustasi" rel="alternate" type="text/html" title="Cemal Işıksel Kimdir? Türk Fotoğrafçılığının Sessiz Ustası" /><published>2026-03-04T00:00:00+03:00</published><updated>2026-03-04T00:00:00+03:00</updated><id>http://localhost:4000/cemal-isiksel-kimdir-turk-fotografciliginin-sessiz-ustasi</id><content type="html" xml:base="http://localhost:4000/cemal-isiksel-kimdir-turk-fotografciliginin-sessiz-ustasi"><![CDATA[<p>Türk fotoğrafçılık tarihinin önemli isimlerinden biri olan <strong>Cemal Işıksel</strong>, hem sanatsal hem de belgesel fotoğraf alanındaki çalışmalarıyla Türkiye’de modern fotoğraf anlayışının gelişmesine katkı sağlamış öncü bir fotoğrafçıdır. Özellikle Cumhuriyet dönemi İstanbul’unu belgeleyen çalışmalarıyla tanınan Işıksel, fotoğrafı yalnızca bir kayıt aracı değil, aynı zamanda güçlü bir anlatım dili olarak kullanmıştır.</p>
-
-<p>Bu yazıda Cemal Işıksel’in hayatını, fotoğraf anlayışını ve Türk fotoğrafçılığına bıraktığı mirası detaylı biçimde inceliyoruz.</p>
-
-<h2 id="erken-yaşamı-ve-eğitimi">Erken Yaşamı ve Eğitimi</h2>
-
-<p>Cemal Işıksel, 1907 yılında İstanbul’da dünyaya geldi. Genç yaşlardan itibaren sanata ve özellikle görsel anlatıma ilgi duymaya başladı. O dönem Türkiye’de fotoğraf henüz kurumsallaşmış bir sanat dalı olmadığı için Işıksel, kendini büyük ölçüde kendi çabalarıyla geliştirdi.</p>
-
-<p>Fotoğrafla tanışması, dönemin pek çok fotoğrafçısında olduğu gibi teknik merakla başladı; ancak kısa sürede estetik bakış açısı ağır basmaya başladı. Bu yönü, onu yalnızca fotoğraf çeken biri değil, görsel hikâye anlatıcısı haline getirdi.</p>
-
-<h2 id="fotoğrafçılık-kariyerinin-başlangıcı">Fotoğrafçılık Kariyerinin Başlangıcı</h2>
-
-<p>Işıksel’in profesyonel kariyeri basın fotoğrafçılığı ile şekillendi. Uzun yıllar çeşitli gazete ve dergiler için çalışarak Türkiye’nin sosyal ve kültürel hayatını belgeledi. Özellikle:</p>
-
-<ul>
-  <li>Cumhuriyet dönemi İstanbul yaşamı</li>
-  <li>Şehir kültürü</li>
-  <li>Günlük hayat sahneleri</li>
-  <li>Portre fotoğrafçılığı</li>
-</ul>
-
-<p>alanlarında yoğun üretim yaptı.</p>
-
-<p>Onu farklı kılan en önemli özelliklerden biri, fotoğraflarında sahicilik duygusunu korumasıydı. Kadrajları çoğu zaman doğal, müdahalesiz ve hikâye odaklıydı.</p>
-
-<h2 id="i̇stanbulun-görsel-hafızasını-oluşturması">İstanbul’un Görsel Hafızasını Oluşturması</h2>
-
-<p>Cemal Işıksel denince akla ilk gelen konulardan biri İstanbul fotoğraflarıdır. 20. yüzyıl ortası İstanbul’unu belgeleyen en önemli isimlerden biri olarak kabul edilir.</p>
-
-<p>Fotoğraflarında:</p>
-
-<ul>
-  <li>Eski İstanbul sokakları</li>
-  <li>Boğaz yaşamı</li>
-  <li>Günlük şehir ritmi</li>
-  <li>İnsan manzaraları</li>
-</ul>
-
-<p>ön plandadır.</p>
-
-<p>Bu yönüyle çalışmaları bugün yalnızca sanatsal değil, aynı zamanda tarihsel belge niteliği taşır. Pek çok araştırmacı ve tarihçi, dönemin kent yaşamını anlamak için onun arşivlerinden yararlanmaktadır.</p>
-
-<h2 id="fotoğraf-anlayışı-ve-üslubu">Fotoğraf Anlayışı ve Üslubu</h2>
-
-<p>Cemal Işıksel’in fotoğraf dili sade ama güçlüdür. Çalışmalarında öne çıkan bazı karakteristik özellikler şunlardır:</p>
-
-<ul>
-  <li><strong>Doğallık:</strong> Yapay kurgu yerine gerçek anların peşinden gitmiştir.</li>
-  <li><strong>Işık kullanımı:</strong> İsminin hakkını verircesine ışığı dramatik ama abartısız kullanmıştır.</li>
-  <li><strong>İnsan odaklı yaklaşım:</strong> Mekândan çok insan hikâyelerine yoğunlaşmıştır.</li>
-  <li><strong>Belgesel estetik:</strong> Sanat ile belgesel arasında dengeli bir çizgi kurmuştur.</li>
-</ul>
-
-<p>Onun fotoğraflarına bakıldığında, izleyici yalnızca bir görüntü değil, o anın atmosferini de hisseder. Bu, Işıksel’i dönemdaşlarından ayıran en önemli unsurlardan biridir.</p>
-
-<h2 id="basın-ve-dergi-çalışmaları">Basın ve Dergi Çalışmaları</h2>
-
-<p>Cemal Işıksel uzun yıllar basın dünyasında aktif olarak çalıştı. Dönemin önemli yayınlarında görev alarak foto muhabirliği yaptı. Bu süreçte:</p>
-
-<ul>
-  <li>Siyasi olayları</li>
-  <li>Kültürel etkinlikleri</li>
-  <li>Toplumsal dönüşümleri</li>
-</ul>
-
-<p>yakından takip etti.</p>
-
-<p>Basın fotoğrafçılığı deneyimi, onun hızlı karar verme, doğru anı yakalama ve güçlü kompozisyon kurma becerilerini önemli ölçüde geliştirdi.</p>
-
-<h2 id="türk-fotoğrafçılığına-katkıları">Türk Fotoğrafçılığına Katkıları</h2>
-
-<p>Cemal Işıksel yalnızca üretken bir fotoğrafçı değil, aynı zamanda Türkiye’de fotoğraf kültürünün gelişmesine katkı sağlayan bir isimdir. Katkılarını birkaç başlıkta özetleyebiliriz:</p>
-
-<ul>
-  <li><strong>Görsel arşiv oluşturması:</strong> Cumhuriyet dönemi şehir yaşamına dair zengin bir fotoğraf mirası bırakmıştır.</li>
-  <li><strong>Belgesel yaklaşımı yaygınlaştırması:</strong> Fotoğrafın belge gücünü ön plana çıkarmıştır.</li>
-  <li><strong>Yeni kuşaklara ilham vermesi:</strong> Özellikle sokak ve basın fotoğrafçıları üzerinde etkisi büyüktür.</li>
-</ul>
-
-<p>Bugün Türkiye’de sokak fotoğrafçılığı yapan birçok isim, doğrudan ya da dolaylı olarak onun açtığı yoldan ilerlemektedir.</p>
-
-<h2 id="vefatı-ve-ardında-bıraktığı-miras">Vefatı ve Ardında Bıraktığı Miras</h2>
-
-<p>Cemal Işıksel 1985 yılında hayatını kaybetti. Ancak arkasında bıraktığı fotoğraf arşivi ve görsel miras, Türk fotoğraf tarihinin en değerli hazinelerinden biri olmaya devam ediyor.</p>
-
-<p>Bugün onun fotoğrafları:</p>
-
-<ul>
-  <li>Sergilerde</li>
-  <li>Arşiv koleksiyonlarında</li>
-  <li>Fotoğraf tarihi çalışmalarında</li>
-</ul>
-
-<p>yaşamaya devam etmektedir.</p>
-
-<h2 id="sonuç-sessiz-ama-derin-bir-i̇z">Sonuç: Sessiz Ama Derin Bir İz</h2>
-
-<p>Cemal Işıksel, gösterişten uzak ama etkisi derin bir fotoğraf ustasıdır. İstanbul’un dönüşümünü belgeleyen kareleri, yalnızca estetik açıdan değil, kültürel hafıza açısından da büyük değer taşır.</p>
-
-<p>Eğer fotoğrafın yalnızca “güzel görüntü” değil, aynı zamanda zamanı durduran bir tanıklık olduğuna inanıyorsak, Cemal Işıksel bu anlayışın Türkiye’deki en güçlü temsilcilerinden biridir.</p>]]></content><author><name></name></author><category term="biyografi" /><summary type="html"><![CDATA[Bu yazıda Cemal Işıksel’in hayatını, fotoğraf anlayışını ve Türk fotoğrafçılığına bıraktığı mirası detaylı biçimde inceliyoruz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/cemal-isiksel.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/cemal-isiksel.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sabit Kalfagil ve Fotoğrafın Düşünsel Yolculuğu</title><link href="http://localhost:4000/sabit-kalfagil-ve-fotografin-dusunsel-yolculugu" rel="alternate" type="text/html" title="Sabit Kalfagil ve Fotoğrafın Düşünsel Yolculuğu" /><published>2026-03-04T00:00:00+03:00</published><updated>2026-03-04T00:00:00+03:00</updated><id>http://localhost:4000/sabit-kalfagil-ve-fotografin-dusunsel-yolculugu</id><content type="html" xml:base="http://localhost:4000/sabit-kalfagil-ve-fotografin-dusunsel-yolculugu"><![CDATA[<p>Türk fotoğraf sanatının gelişim sürecinde önemli bir yere sahip olan <strong>Sabit Kalfagil</strong>, yalnızca çektiği fotoğraflarla değil; eğitmenliği, yazarlığı ve fotoğraf kültürüne yaptığı katkılarla da iz bırakan isimlerden biridir. Özellikle belgesel fotoğraf alanındaki yaklaşımı ve fotoğraf felsefesine getirdiği yorumlar, onu Türkiye’de fotoğraf denince akla gelen öncü isimlerden biri haline getirmiştir.</p>
-
-<p>Bu yazıda Sabit Kalfagil’in hayatını, sanatsal yaklaşımını ve Türk fotoğrafına bıraktığı mirası detaylı şekilde inceleyeceğiz.</p>
-
-<h2 id="hayatı-ve-eğitim-süreci">Hayatı ve Eğitim Süreci</h2>
-
-<p>Sabit Kalfagil, 1934 yılında Elazığ’ın Keban ilçesinde dünyaya geldi. Çocukluk ve gençlik yıllarında sanata ve görsel anlatıma ilgi duyan Kalfagil’in fotoğrafla tanışması üniversite yıllarına uzanır.</p>
-
-<p>Yükseköğrenimini İstanbul Üniversitesi İktisat Fakültesi’nde tamamladı. Ancak mesleki kariyerinin yönü, akademik eğitiminden çok fotoğrafa olan tutkusu tarafından belirlendi. Fotoğrafla kurduğu bağ zamanla profesyonel ve sanatsal bir kimliğe dönüştü.</p>
-
-<h2 id="fotoğrafla-tanışması-ve-sanatsal-gelişimi">Fotoğrafla Tanışması ve Sanatsal Gelişimi</h2>
-
-<p>Kalfagil’in fotoğraf yolculuğu 1950’li yılların sonunda başladı. Bu dönemde Türkiye’de fotoğraf henüz kurumsal anlamda yeni gelişiyordu. O, fotoğrafı yalnızca teknik bir uğraş olarak değil, güçlü bir anlatım dili olarak ele aldı.</p>
-
-<p>Özellikle şu temalar üzerine yoğunlaştı:</p>
-
-<ul>
-  <li>Belgesel fotoğraf</li>
-  <li>İnsan ve yaşam temaları</li>
-  <li>Anadolu kültürü</li>
-  <li>Doğa ve çevre</li>
-</ul>
-
-<p>Fotoğraflarında abartıdan uzak, sade ama derinlikli bir anlatım göze çarpar. Onun karelerinde “anı yakalamak”tan çok, anlamı yakalamak ön plandadır.</p>
-
-<h2 id="i̇fsak-ve-fotoğraf-eğitimine-katkıları">İFSAK ve Fotoğraf Eğitimine Katkıları</h2>
-
-<p>Sabit Kalfagil’in Türk fotoğrafına en büyük katkılarından biri eğitim alanında olmuştur. Uzun yıllar boyunca İFSAK (İstanbul Fotoğraf ve Sinema Amatörleri Derneği) bünyesinde eğitmenlik yaptı.</p>
-
-<p>Bu süreçte:</p>
-
-<ul>
-  <li>Temel fotoğraf eğitimleri verdi</li>
-  <li>Atölye çalışmaları yürüttü</li>
-  <li>Genç fotoğrafçıların yetişmesine katkı sağladı</li>
-  <li>Fotoğraf eleştirisi kültürünün gelişmesine öncülük etti</li>
-</ul>
-
-<p>Türkiye’de pek çok fotoğrafçı, onun derslerinden ve seminerlerinden geçerek yetişmiştir. Bu yönüyle Kalfagil, yalnızca bir sanatçı değil, aynı zamanda bir fotoğraf okulu gibidir.</p>
-
-<h2 id="yazarlığı-ve-kuramsal-çalışmaları">Yazarlığı ve Kuramsal Çalışmaları</h2>
-
-<p>Sabit Kalfagil’i farklı kılan en önemli özelliklerden biri de fotoğraf üzerine düşünen ve yazan bir isim olmasıdır. Fotoğrafın sadece çekilmesi değil, okunması ve yorumlanması gerektiğini savunmuştur.</p>
-
-<p>Başlıca eserleri arasında:</p>
-
-<ul>
-  <li>Fotoğraf Sanatında Kompozisyon</li>
-  <li>Fotoğrafın ABC’si</li>
-  <li>Fotoğraf Sanatı Üzerine Denemeler</li>
-</ul>
-
-<p>gibi kitaplar yer alır.</p>
-
-<p>Bu kitaplar, Türkiye’de fotoğraf eğitimi alan pek çok kişi için temel başvuru kaynakları arasında kabul edilir. Özellikle kompozisyon konusundaki yaklaşımı, fotoğraf eğitiminde uzun yıllar referans olmuştur.</p>
-
-<h2 id="fotoğraf-anlayışı-ve-sanatsal-üslubu">Fotoğraf Anlayışı ve Sanatsal Üslubu</h2>
-
-<p>Kalfagil’in fotoğraf yaklaşımını birkaç temel başlıkta özetlemek mümkündür:</p>
-
-<ol>
-  <li><strong>Sadelik ve Anlam</strong>: Onun fotoğraflarında teknik gösterişten çok içerik ön plandadır. Fotoğrafın izleyiciyle düşünsel bir bağ kurması gerektiğini savunur.</li>
-  <li><strong>Belgesel Duyarlılık</strong>: Türkiye’nin sosyal ve kültürel dokusunu belgeleyen çalışmaları, onu güçlü bir belgesel fotoğrafçı olarak konumlandırır.</li>
-  <li><strong>Kompozisyon Disiplini</strong>: Kalfagil’e göre iyi fotoğraf tesadüf değildir. Kadraj, denge, ışık ve ritim bilinçli şekilde kurulmalıdır. Bu yaklaşımı, eğitimlerinde de temel prensip olmuştur.</li>
-  <li><strong>Fotoğraf Felsefesi</strong>: Fotoğrafın yalnızca “güzel görüntü” üretmek olmadığını; bir düşünce, yorum ve bakış açısı içerdiğini vurgulamıştır.</li>
-</ol>
-
-<h2 id="sergiler-ve-uluslararası-çalışmalar">Sergiler ve Uluslararası Çalışmalar</h2>
-
-<p>Sabit Kalfagil, Türkiye’de ve yurt dışında çok sayıda sergiye katıldı. Fotoğrafları ulusal ve uluslararası platformlarda ilgi gördü. Özellikle Anadolu insanını ve yaşamını konu alan çalışmaları, evrensel bir dil yakalaması bakımından dikkat çekicidir.</p>
-
-<p>Ayrıca çeşitli fotoğraf federasyonları ve sanat kurumlarıyla da çalışmalar yürütmüş, Türkiye’nin fotoğraf alanındaki temsil gücüne katkıda bulunmuştur.</p>
-
-<h2 id="türk-fotoğrafına-bıraktığı-miras">Türk Fotoğrafına Bıraktığı Miras</h2>
-
-<p>Sabit Kalfagil’in mirasını üç ana başlıkta toplamak mümkündür:</p>
-
-<ul>
-  <li>Eğitmen kimliğiyle yetiştirdiği kuşaklar</li>
-  <li>Fotoğraf kuramına yaptığı katkılar</li>
-  <li>Belgesel fotoğraf alanındaki nitelikli üretimi</li>
-</ul>
-
-<p>Bugün Türkiye’de fotoğrafla ciddi biçimde ilgilenen pek çok isim, doğrudan ya da dolaylı olarak onun düşüncelerinden etkilenmiştir.</p>
-
-<h2 id="sonuç-düşünen-fotoğrafın-öncüsü">Sonuç: Düşünen Fotoğrafın Öncüsü</h2>
-
-<p>Sabit Kalfagil, Türk fotoğraf tarihinde yalnızca iyi kareler üretmiş bir sanatçı değil; fotoğrafın düşünsel altyapısını güçlendiren bir aydın olarak öne çıkar. Onun yaklaşımı, fotoğrafın teknik bir uğraş olmanın ötesinde kültürel ve entelektüel bir ifade biçimi olduğunu hatırlatır.</p>
-
-<p>Bugün fotoğrafla ilgilenen herkes için Kalfagil’in eserleri ve yazıları, hâlâ yol gösterici niteliğini korumaktadır. Türk fotoğrafının sessiz ama derin etkili ustalarından biri olarak adı, fotoğraf tarihimizde özel bir yerde durmaya devam etmektedir.</p>]]></content><author><name></name></author><category term="biyografi" /><summary type="html"><![CDATA[Bu yazıda Sabit Kalfagil’in hayatını, sanatsal yaklaşımını ve Türk fotoğrafına bıraktığı mirası detaylı şekilde inceleyeceğiz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/sabit-kalfagil.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/sabit-kalfagil.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Telefonların Lensleri Kaç mm’dir? Telefon Kamerası ile İnsan Gözü Karşılaştırması</title><link href="http://localhost:4000/telefonlarin-lensleri-kac-mmdir" rel="alternate" type="text/html" title="Telefonların Lensleri Kaç mm’dir? Telefon Kamerası ile İnsan Gözü Karşılaştırması" /><published>2026-03-03T00:00:00+03:00</published><updated>2026-03-03T00:00:00+03:00</updated><id>http://localhost:4000/telefonlarin-lensleri-kac-mmdir</id><content type="html" xml:base="http://localhost:4000/telefonlarin-lensleri-kac-mmdir"><![CDATA[<p>Akıllı telefon kameraları her yıl gelişiyor, ancak birçok kişinin aklındaki temel soru değişmiyor: <strong>Telefonların lensleri kaç mm’dir ve bu değer neyi ifade eder?</strong> Bu yazıda telefon lenslerinin odak uzaklığını, gerçek mm değerlerini, eşdeğer kavramını ve insan gözüyle farklarını detaylı şekilde ele alıyoruz.</p>
-
-<h2 id="telefon-lenslerinde-mm-ne-anlama-gelir">Telefon Lenslerinde “mm” Ne Anlama Gelir?</h2>
-
-<p>Fotoğrafçılıkta mm (milimetre), <strong>odak uzaklığını (focal length)</strong> ifade eder. Bu değer:</p>
-
-<ul>
-  <li>Görüş açısını belirler</li>
-  <li>Kadrajın ne kadar geniş ya da dar olacağını gösterir</li>
-  <li>Perspektifi etkiler</li>
-</ul>
-
-<p>Ancak telefonlarda gördüğünüz mm değeri çoğu zaman <strong>gerçek fiziksel odak uzaklığı değil</strong>, <strong>35mm eşdeğer odak uzaklığıdır</strong>.</p>
-
-<h3 id="neden-eşdeğer-kullanılır">Neden Eşdeğer Kullanılır?</h3>
-
-<p>Telefon sensörleri çok küçük olduğu için gerçek odak uzaklığı da çok küçüktür. Bu nedenle üreticiler karşılaştırmayı kolaylaştırmak için 35mm full frame eşdeğerini verir.</p>
-
-<h2 id="telefon-kameralarının-tipik-mm-değerleri">Telefon Kameralarının Tipik mm Değerleri</h2>
-
-<p>Günümüzde çoğu akıllı telefonda birden fazla lens bulunur. İşte yaygın odak uzaklıkları:</p>
-
-<h3 id="1-ultra-geniş-açı-lens">1. Ultra Geniş Açı Lens</h3>
-<ul>
-  <li>Eşdeğer: <strong>12–16 mm</strong></li>
-  <li>Görüş açısı: Çok geniş</li>
-  <li>Kullanım: Manzara, mimari, kalabalık sahneler</li>
-</ul>
-
-<p><strong>Özellik:</strong> Kenarlarda perspektif bozulması olabilir.</p>
-
-<h3 id="2-geniş-açı-ana-kamera">2. Geniş Açı (Ana Kamera)</h3>
-<ul>
-  <li>Eşdeğer: <strong>23–26 mm</strong></li>
-  <li>Görüş açısı: Doğala yakın geniş açı</li>
-  <li>Kullanım: Günlük çekimler, sokak fotoğrafçılığı</li>
-</ul>
-
-<p><strong>Bu lens telefonun ana kamerasıdır.</strong></p>
-
-<h3 id="3-telefoto-lens">3. Telefoto Lens</h3>
-<ul>
-  <li>Eşdeğer: <strong>50–120 mm</strong> (modele göre değişir)</li>
-  <li>Görüş açısı: Dar</li>
-  <li>Kullanım: Portre, uzaktaki objeler</li>
-</ul>
-
-<p><strong>Avantaj:</strong> Arka planı sıkıştırır, daha estetik portre verir.</p>
-
-<h3 id="4-periskop-telefoto-bazı-modellerde">4. Periskop Telefoto (Bazı Modellerde)</h3>
-<ul>
-  <li>Eşdeğer: <strong>120–240 mm</strong></li>
-  <li>Kullanım: Yüksek optik zoom</li>
-</ul>
-
-<h2 id="telefon-lenslerinin-gerçek-mm-değeri">Telefon Lenslerinin Gerçek mm Değeri</h2>
-
-<p>İşin teknik kısmı burada başlıyor.</p>
-
-<p>Telefonlarda:</p>
-
-<ul>
-  <li>Sensör küçük</li>
-  <li>Lens fiziksel olarak çok kısa</li>
-  <li>Bu yüzden gerçek odak uzaklığı genelde: <strong>4 mm – 8 mm civarıdır</strong></li>
-</ul>
-
-<p>Örneğin:</p>
-
-<ul>
-  <li>24 mm eşdeğer ana kamera</li>
-  <li>Gerçek odak uzaklığı ≈ <strong>5–6 mm</strong></li>
-</ul>
-
-<p>Yani telefonda gördüğünüz mm değeri, <strong>full frame karşılığıdır</strong>, gerçek fiziksel ölçü değildir.</p>
-
-<h2 id="i̇nsan-gözü-kaç-mmdir">İnsan Gözü Kaç mm’dir?</h2>
-
-<p>Fotoğrafçılıkta insan gözü genellikle: <strong>43–50 mm full frame eşdeğer</strong></p>
-
-<p>olarak kabul edilir.</p>
-
-<p>Ancak bu basitleştirilmiş bir yaklaşımdır. Çünkü insan gözü:</p>
-
-<ul>
-  <li>Sabit odaklı değildir</li>
-  <li>Beyin görüntüyü işler</li>
-  <li>Görüş alanı çok geniştir</li>
-  <li>Odak dinamik olarak değişir</li>
-</ul>
-
-<h3 id="teknik-karşılık">Teknik Karşılık</h3>
-
-<ul>
-  <li>Retina odak uzaklığı ≈ 17 mm</li>
-  <li>Algısal karşılık ≈ 43–50 mm</li>
-</ul>
-
-<h2 id="telefon-kamerası-vs-i̇nsan-gözü">Telefon Kamerası vs İnsan Gözü</h2>
-
-<h3 id="görüş-açısı">Görüş Açısı</h3>
-
-<p><strong>Telefon ana kamera (24 mm):</strong></p>
-
-<ul>
-  <li>İnsan gözünden daha geniş</li>
-  <li>Daha fazla alan gösterir</li>
-  <li>Kenarlarda perspektif abartısı yapar</li>
-</ul>
-
-<p><strong>İnsan gözü (~50 mm):</strong></p>
-
-<ul>
-  <li>Daha doğal perspektif</li>
-  <li>Nesneleri daha gerçek oranlarda görür</li>
-</ul>
-
-<h3 id="perspektif-algısı">Perspektif Algısı</h3>
-
-<p>Telefonla yüz çektiğinizde neden burun büyük çıkar?</p>
-
-<p>Sebep odak uzaklığıdır.</p>
-
-<ul>
-  <li>24 mm → perspektif abartır</li>
-  <li>50–85 mm → portre için idealdir</li>
-</ul>
-
-<p>Bu yüzden profesyonel portreler genelde: <strong>85 mm civarında</strong> çekilir.</p>
-
-<h3 id="alan-derinliği-bokeh">Alan Derinliği (Bokeh)</h3>
-
-<p>İnsan gözü:</p>
-
-<ul>
-  <li>Çok gelişmiş odaklama yapar</li>
-  <li>Arka planı doğal bulanık görür</li>
-</ul>
-
-<p>Telefonlar ise:</p>
-
-<ul>
-  <li>Küçük sensör nedeniyle doğal bokeh üretmekte zorlanır</li>
-  <li>Bu yüzden <strong>yazılımsal portre modu</strong> kullanır</li>
-</ul>
-
-<h3 id="işık-toplama-performansı">Işık Toplama Performansı</h3>
-
-<p>İnsan gözü:</p>
-
-<ul>
-  <li>Karanlığa müthiş adapte olur</li>
-  <li>Dinamik aralığı çok yüksektir</li>
-</ul>
-
-<p>Telefon:</p>
-
-<ul>
-  <li>Yazılımla telafi eder</li>
-  <li>HDR ve gece modu kullanır</li>
-</ul>
-
-<h2 id="neden-telefonlar-genelde-24-mm">Neden Telefonlar Genelde 24 mm?</h2>
-
-<p>Bunun üç nedeni var:</p>
-
-<ol>
-  <li><strong>Çok yönlü kullanım</strong>: Hem manzara hem günlük çekim için uygundur.</li>
-  <li><strong>Küçük sensör gerçeği</strong>: Daha dar açı kullanıcıyı zorlar.</li>
-  <li><strong>Kullanıcı alışkanlığı</strong>: Sosyal medya için geniş kadraj tercih edilir.</li>
-</ol>
-
-<h2 id="hangi-mm-hangi-çekim-i̇çin-i̇deal">Hangi mm Hangi Çekim İçin İdeal?</h2>
-
-<ul>
-  <li>13 mm → manzara</li>
-  <li>24 mm → günlük kullanım</li>
-  <li>35 mm → sokak fotoğrafçılığı</li>
-  <li>50 mm → doğal görünüm</li>
-  <li>85 mm → portre</li>
-  <li>120 mm+ → uzaktaki detaylar</li>
-</ul>
-
-<h2 id="sonuç">Sonuç</h2>
-
-<p>Akıllı telefonlarda gördüğünüz mm değeri, lensin gerçek fiziksel uzunluğunu değil, <strong>35mm eşdeğer görüş açısını</strong> ifade eder. Telefonların ana kameraları genellikle <strong>24–26 mm eşdeğer</strong> aralığındadır ve bu değer insan gözünün algısal karşılığı olan <strong>43–50 mm</strong>’den daha geniştir.</p>
-
-<p>Bu yüzden telefonla çekilen fotoğraflar bazen gerçek hayata göre daha geniş ve perspektif olarak abartılı görünür. Daha doğal portreler için ise telefoto lenslerin (50–85 mm eşdeğer) kullanılması çok daha doğru sonuç verir.</p>]]></content><author><name></name></author><category term="mobil fotoğrafçılık" /><category term="lens" /><summary type="html"><![CDATA[Telefon kameralarının mm değerleri ne anlama geliyor? Bu yazıda akıllı telefon lens odak uzaklıklarını, gerçek mm ile eşdeğer farkını ve insan gözüyle detaylı karşılaştırmasını keşfedin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/telefonlarin-lensleri-kac-mmdir.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/telefonlarin-lensleri-kac-mmdir.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Onun mirası, yalnızca çektiği karelerde değil; yetiştirdiği öğrencilerde, yazdığı metinlerde ve fotoğrafa kazandırdığı etik bakışta yaşamaya devam etmektedir.</p>]]></content><author><name></name></author><category term="biyografi" /><summary type="html"><![CDATA[İbrahim Zaman’ın hayatı, fotoğraf anlayışı ve Türk belgesel fotoğrafına katkılarını keşfedin. Usta fotoğrafçının etkileyici kariyer yolculuğu bu yazıda.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/ibrahim-zaman.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/ibrahim-zaman.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
